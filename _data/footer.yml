@@ -1,0 +1,41 @@
+copyright: "[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) dHMp norge er lisensiert under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), med mindre annet er angitt."
+extra_line: "dHMp norge er en leveranse i prosjektet [Datathåndteringsplaner: støttepakke til norske UH-bibliotek](https://bibliotekutvikling.no/prosjektbank/prosjekt/datahandteringsplaner-stottepakke-for-norske-uh-bibliotek/) ledet av Universitet i Bergen. Nasjonalbiblioteket støttet prosjektet med utviklingsmidler."
+
+columns:
+  - type: links
+    width: 2
+    children:
+      - url_text: About
+        url: /about
+      - url_text: Contribute
+        url: /contribute
+  - type: image
+    image_width: 100%
+    width: 2
+    src: 'assets/img/uib-logo-inv.svg'
+    alt: logo uib
+  - type: image
+    image_width: 100%
+    width: 1
+    src: 'assets/img/uio-logo-inv.svg'
+    alt: logo uio
+  - type: image
+    image_width: 100%
+    width: 1
+    src: 'assets/img/uit-logo-inv.svg'
+    alt: logo uit
+  - type: image
+    image_width: 100%
+    width: 1
+    src: 'assets/img/ntnu-logo-inv.svg'
+    alt: logo ntnu
+  - type: image
+    image_width: 100%
+    width: 1
+    src: 'assets/img/elixir-logo.svg'
+    alt: logo elixir
+  - type: image
+    image_width: 100%
+    width: 1
+    src: 'assets/img/nb-logo-inv.svg'
+    alt: logo nb

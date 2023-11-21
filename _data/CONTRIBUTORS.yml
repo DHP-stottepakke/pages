@@ -1,0 +1,18 @@
+# List of contributors
+#
+# reference maintainers/contributors by their name used in contributors metadata section on the pages.
+# Extra metadata that is possible to add:
+# Full Name:
+#    git: github id
+#    email: email adress
+#    orcid: ocrid id
+#    role: the role of the contributor
+#    affiliation: affiliation
+#    image_url: absolute path to image (default image from github)
+
+Jenny Ostrop:
+    git: jennyostrop
+    email: jenny.ostrop@uib.no
+    orcid: 0000-0003-2752-8377
+    role: Lead
+    affiliation: University of Bergen (UiB)

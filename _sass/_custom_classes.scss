@@ -1,0 +1,74 @@
+/*-----General styling-----*/
+
+main {
+    h1 {
+        margin-bottom: 0.5em;
+        font-weight: 600;
+    }
+
+    h2 {
+        font-weight: 700;
+        background-color: $primary;
+        background-image: $primary;
+        background-size: 100%;
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        -moz-text-fill-color: transparent;
+        display: inline-block;
+        margin-top: 1rem;
+    }
+}
+
+/*-----Sidebar-----*/
+.sidebar-title {
+    border-bottom: 0.25rem solid $primary;
+    font-weight: bold;
+    font-size: 1.3rem;
+    padding-bottom: $input-btn-padding-y - 0.25rem;
+}
+
+#side-nav>ul {
+    margin-top: $spacer;
+}
+
+/*-----Selection color-----*/
+
+::-moz-selection {
+    -moz-text-fill-color: $white;
+}
+
+::selection {
+    -webkit-text-fill-color: $white;
+}
+
+/*-----Box shadows-----*/
+
+.navbar,
+#toc,
+.contributor-cards .card,
+#side-nav>ul>li>a,
+.sidebar-collapse,
+#footer {
+    box-shadow: $box-shadow;
+}
+
+/*-----Custom primary button-----*/
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active {
+    color: $white;
+}
+
+/*-----Top navigation-----*/
+
+.navbar-nav .nav-item>a.active {
+    color: $white !important;
+    background-color: $primary;
+    border-radius: $border-radius;
+}
+
+nav .navbar-brand {
+    font-size: calc(1rem + .54vw);
+}

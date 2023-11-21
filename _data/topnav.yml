@@ -1,0 +1,11 @@
+subitems:
+  - title: Main
+    url: /index
+  - title: DHP nøkkelinfo
+    url: /placeholder 
+  - title: DHP steg-for-steg
+    url: /dhp_detaljert
+  - title: Some more content
+    url: /placeholder  
+  - title: Contribute
+    url: /contribute
