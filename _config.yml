@@ -31,7 +31,11 @@ permalink: pretty
 
 exclude:
   - README.md
-  - /vendor
+  - .gitignore
+  - var/
+  - vendor
+  - Gemfile*
+  - LICENSE
 
 defaults:
 -
@@ -64,6 +68,9 @@ defaults:
 
 
 plugins:
+  - elixir-toolkit-theme-plugins
   - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-github-metadata
+  - jekyll-octicons
