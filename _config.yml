@@ -1,5 +1,7 @@
 repository: DHP-stottepakke/pages
 
+basepath: pages/blob/main/
+
 title: "DHP støttepakke demo"
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
