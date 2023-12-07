@@ -7,4 +7,4 @@ sidebar: contribute
 
 For feedback and/or any inquery, please do not hesitate to:
 * [open an issue on GitHub](https://github.com/DHP-stottepakke/pages/issues) or
-* you can also contact us by mail via [ADD EMAIL](mailto: email address )
+* you can also contact us by mail via [research-data@uib.no](mailto: research-data@uib.no)

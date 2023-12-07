@@ -1,0 +1,20 @@
+title: DMP Knowledge Base
+title_url: /dmp_knowledge_base/dmp_knowledge_base
+
+subitems:
+  - title: Administrative information
+    url: /0_admin_information
+  - title: Data description
+    url: /1_data_description
+  - title: Data documentation and quality
+    url: /2_documentation_quality
+  - title: Storage and backup
+    url: /3_storage_backup
+  - title: Legal and ethical requirements
+    url: /4_legal_ethics
+  - title: Data sharing and preservation
+    url: /5_sharing_preservation
+  - title: Responsibilities and resources
+    url: /6_responsibilities_resources
+  - title: Publish DMP
+    url: /publish_dmp

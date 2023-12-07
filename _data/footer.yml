@@ -1,12 +1,10 @@
-copyright: "[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) dHMp norge er lisensiert under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), med mindre annet er angitt."
-extra_line: "dHMp norge er en leveranse i prosjektet [Datathåndteringsplaner: støttepakke til norske UH-bibliotek](https://bibliotekutvikling.no/prosjektbank/prosjekt/datahandteringsplaner-stottepakke-for-norske-uh-bibliotek/) ledet av Universitet i Bergen. Nasjonalbiblioteket støttet prosjektet med utviklingsmidler."
+copyright: "[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) Except where otherwise noted, dHMp norge is licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)."
+extra_line: "dHMp norge is a deliverable in the project [Data Management Plans: Support package for Norwegian higher education libraries](https://www.uib.no/en/ub/166135/data-management-plans-support-package-norwegian-higher-education-libraries) led by the University of Bergen. \nThe project is supported by the National Library of Norway."
 
 columns:
   - type: links
     width: 2
     children:
-      - url_text: About
-        url: /about
       - url_text: Contribute
         url: /contribute
   - type: image

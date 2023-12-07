@@ -2,13 +2,13 @@ repository: DHP-stottepakke/pages
 
 basepath: pages/blob/main/
 
-title: "DHP støttepakke demo"
+title: "DMP support package demo"
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 topnav_title: ''
 # this appears on the top navigation bar next to the home button
 
-description: "Veiledning til datahåndteringsplanger for norske UH-institusjoner"
+description: "Data Management Planning support package for Norwegian Higher Education Libraries"
 # Metadata description of the website
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.25.0
@@ -27,7 +27,9 @@ theme_variables:
   topnav:
     theme: light
     brand_logo: assets/img/main_logo.svg
-    #brand_logo: assets/img/main_logo.png
+  toc:
+    min_headings: 1
+    headings: ['h2','h3']
 
 permalink: pretty
 
@@ -51,15 +53,6 @@ defaults:
     topnav: topnav
 -
   scope:
-    path: "pages/cheat_sheets"
-    type: "cheat_sheet"
-  values:
-    permalink: /:basename
-    layout: "page"
-    sidebar: dhp_detaljert
-    topnav: topnav
--
-  scope:
     path: "pages/contribute"
     type: "contribute"
   values:
@@ -67,7 +60,6 @@ defaults:
     layout: "page"
     sidebar: contribute
     topnav: topnav
-
 
 plugins:
   - elixir-toolkit-theme-plugins

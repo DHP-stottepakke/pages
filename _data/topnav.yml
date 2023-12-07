@@ -1,11 +1,11 @@
 subitems:
   - title: Main
     url: /index
-  - title: DHP nøkkelinfo
-    url: /placeholder 
-  - title: DHP steg-for-steg
-    url: /dhp_detaljert
-  - title: Some more content
-    url: /placeholder  
+  - title: Knowledge Base for Support Staff
+    url: /dmp_knowledge_base
+  #- title: DMP tool texts
+    #url: /dmp_texts
+  - title: DMP Supporting Information
+    url: /dmp_supporting_info
   - title: Contribute
     url: /contribute

@@ -14,7 +14,7 @@ layout: none
         <div class="card border border-primary text-primary text-center">
             <div class="card-body">
                 <h5 class="card-title fs-3">Our website is currently under construction. This is a sandbox.</h5>
-                <p class="card-text">For feedback and/or any query, please contact jenny.ostrop@uib.no</p>
+                <p class="card-text">For feedback and/or any query, please contact research-data@uib.no</p>
             </div>
         </div>
     </section>
@@ -22,7 +22,6 @@ layout: none
   	<section id="search-section" class="bg-light py-5">
             <div class="container">
                 <div class="row">
-                    <h2 class="no-anchor text-center mb-3">Hva leter du etter?</h2>
                     <div class="position-relative">
                         <div class="d-flex justify-content-center">
                             <form role="search" class="input-group">
@@ -30,7 +29,7 @@ layout: none
                                         class="fa-solid fa-magnifying-glass"></i></span>
                                 <input type="search" id="search-input"
                                     class="search-input form-control form-control-lg bg-white" tabindex="0"
-                                    placeholder="Søk med nøkkelord" aria-label="Søk med nøkkelord"
+                                    placeholder="What are you looking for?" aria-label="Søk med nøkkelord"
                                     autocomplete="off">
                             </form>
                             <div id="search-results" class="search-results"></div>
@@ -43,61 +42,43 @@ layout: none
 	<div class="landingpage">
         <section class="container mb-5">
             <div>
-                <p class="text-center lead"> Prosjektet dHMp norge er en leveranse i prosjektet <a href="https://bibliotekutvikling.no/prosjektbank/prosjekt/datahandteringsplaner-stottepakke-for-norske-uh-bibliotek/" > Datathåndteringsplaner: støttepakke til norske UH-bibliotek </a>. Prosjektet skal etablere en helhetlig datahåndteringsplan-støttepakke som kan tas i bruk ved større og mindre UH-bibliotek.
-				<br>
-				<br>Prototypen vil oversettes til engelsk etter hvert.
-				<br>(sannsynligvis som to separate repositorier som blir lenket til hverandre og siden for støttepersonell blir en tredje?)
+                <p class="text-center lead"> This webpage is a working platform for the project <a href="https://www.uib.no/en/ub/166135/data-management-plans-support-package-norwegian-higher-education-libraries" > Data Management Plans: Support package for Norwegian higher education libraries </a> led by the University of Bergen and with contributors from the Norwegian University of Science and Technology, the Univesity of Oslo, UiT The Arctic University of Norway, PhD-On-Track, and ELIXIR Norway. The project is supported by the National Library of Norway.
+				<br The resulting support package under open license will contain both a knowledge base for support personnel, short texts for use in digital DMP tools, and supplementing information resources for researchers and students both in Norwegian and English.
                 </p>
             </div>
         </section>
 		
 	<section class="bg-light pb-5">
             <div class="container">
-                <h2 class="no-anchor text-center mb-3">Snarveier </h2>
+                <h2 class="no-anchor text-center mb-3">More information </h2>
                 <!-- {%- assign sidebar = site.data.sidebars[page.sidebar] %} -->
                 <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
 				    
-					<!-- dmp nøkkelinformasjon -->
-                    <div class="col">
-                        <div class="card border bg-white h-100">
-                            <img src="assets/img/section-icons/cheat_sheets.svg" class="card-img-top h-icon-5 mx-auto"
-                                alt="cheat sheet icon">
-                            <div class="card-body text-center">
-                                <a href="cheat_sheets" class="stretched-link">
-                                    <h3 class="card-title no-anchor text-primary"> DHP nøkkelinformasjon</h3>
-                                </a>
-                                <p class="card-text"> Kom i gang! En introduksjon til datahåndteringsplaner (DHP), oversikt over DHP-krav fra finansiører og institusjoner, og støtteressurs.</p>
-                            </div>
-                        </div>
-                    </div>
+					<!-- project page -->
+					<div class="col">
+						<div class="card border bg-white h-100">
+							<img src="assets/img/uib-logo.svg" class="card-img-top h-icon-5 mx-auto"
+								alt="uib logo">
+							<div class="card-body text-center">
+								<a href="https://www.uib.no/en/ub/166135/data-management-plans-support-package-norwegian-higher-education-libraries" target="_blank" class="stretched-link">
+									<h3 class="card-title no-anchor text-primary"> Project page</h3>
+								</a>
+								<p class="card-text"> More information about the project Data Management Plans: Support package for Norwegian higher education libraries</p>
+							</div>
+						</div>
+					</div>
                     
-					<!-- dhp steg-for-steg -->
-                    <div class="col">
-                        <div class="card border bg-white h-100">
-                            <img src="assets/img/section-icons/cheat_sheets.svg" class="card-img-top h-icon-5 mx-auto"
-                                alt="cheat sheet icon">
-                            <div class="card-body text-center">
-                                <a href="cheat_sheets" class="stretched-link">
-                                    <h3 class="card-title no-anchor text-primary"> DHP steg-for-steg</h3>
-                                </a>
-                                <p class="card-text"> Detaljert informasjon om innholdet i en datahåndteringsplan (DHP) basert på anbefalinger fra Norges Forskningsråd og Horizon Europe.</p>
-                            </div>
-                        </div>
-                    </div>
-					
-					<!-- eksperthjelp -->
-                    <div class="col">
-                        <div class="card border bg-white h-100">
-                            <img src="assets/img/section-icons/cheat_sheets.svg" class="card-img-top h-icon-5 mx-auto"
-                                alt="cheat sheet icon">
-                            <div class="card-body text-center">
-                                <a href="cheat_sheets" class="stretched-link">
-                                    <h3 class="card-title no-anchor text-primary"> Eksperthjelp</h3>
-                                </a>
-                                <p class="card-text"> Lokale og fagspesifikke støttetjenester for forskningsdatahåndtering. </p>
-                            </div>
-                        </div>
-                    </div>
+					<!-- dmp tool report -->
+					<div class="col">
+						<div class="card border bg-white h-100">
+							<div class="card-body text-center">
+								<a href="https://doi.org/10.5281/zenodo.7428542" target="_blank" class="stretched-link">
+									<h3 class="card-title no-anchor text-primary"> UB-BOTT-samarbeid om datahåndteringsplaner: kartlegging og anbefalinger</h3>
+								</a>
+								<p class="card-text"> Report and recommendations from a collaborative project by the University libraries in Bergen, Oslo, Trondheim and Tromsø on evaluation different DMP tools. </p>
+							</div>
+						</div>
+					</div>
 					
                 </div>
             </div>
@@ -105,10 +86,22 @@ layout: none
         
 		<section class="bg-light pb-5">
                   <div class="container">
-                      <h2 class="no-anchor text-center mb-3"> Nyttige ressurser </h2>
+                      <h2 class="no-anchor text-center mb-3"> Useful resources </h2>
                       <!-- {%- assign sidebar = site.data.sidebars[page.sidebar] %} -->
                       <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
                         
+					<!-- local experts -->
+                    <div class="col">
+                        <div class="card border bg-white h-100">
+                            <div class="card-body text-center">
+                                <a href="support_local_disc" class="stretched-link">
+                                    <h3 class="card-title no-anchor text-primary"> Support services</h3>
+                                </a>
+                                <p class="card-text"> Find local or discipline specific Data Management experts.</p>
+                            </div>
+                        </div>
+                    </div>
+					
 					<!-- openscience.no -->
                     <div class="col">
                         <div class="card border bg-white h-100">
@@ -149,13 +142,11 @@ layout: none
                             alt="Contributors icon">
                     </div>
                     <div class="col-lg-7">
-                        <h2>Du kan bidra!</h2>
-                        <p>dHMp norge er en åpen ressurs i samarbeid mellom Universitsbibliotekene i Bergen, Oslo, Tromsø og Trondheim, ELIXIR Norway og PhD-on-Track. Alle kan bidra med vedlikehold eller sende inn forbedringsforslag!
-							
-						<p>For å sitere dHMp norge, vennligst bruk:
+                        <h2>Welcome with your contributions!</h2>
+                        <p><a href="https://www.uib.no/en/ub/166135/data-management-plans-support-package-norwegian-higher-education-libraries" > dHMp norge </a> is an open resource created by the University libraries at UiB, NTNU, UiO, UiT, ELIXIR Norway and PhD-on-Track. Everyone is welcome to contribute to this community project or suggest improvements! To cite dHMp, please use the following format:
                             <div class="card border-1 my-4">
                               <div class="card-body">
-                                <p class="card-text"><i>XXX</i></p>
+                                <p class="card-text"><i>Datahåndteringsplaner: støttepakke for norske UH-bibliotek. URL: <a href="https://github.com/DHP-stottepakke" > https://github.com/DHP-stottepakke</a></i></p>
                               </div>
                             </div>
                         </p>

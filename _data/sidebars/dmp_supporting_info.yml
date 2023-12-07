@@ -1,0 +1,22 @@
+title: DMP Supporting Information
+title_url: /dmp_supporting_info
+
+subitems:
+  - title: Get local/disciplinary support
+    url: /support_local_disc
+  - title: Administrative information
+    url: /support_admin_information
+  - title: Data description
+    url: /support_data_description
+  - title: Data documentation and quality
+    url: /support_documentation_quality
+  - title: Storage and backup
+    url: /support_storage_backup
+  - title: Legal and ethical requirements
+    url: /support_legal_ethics
+  - title: Data sharing and preservation
+    url: /support_sharing_preservation
+  - title: Responsibilities and resources
+    url: /support_responsibilities_resources
+  - title: Publish DMP
+    url: /support_publish_dmp
