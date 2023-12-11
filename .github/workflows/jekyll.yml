@@ -43,22 +43,53 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
+        
+      - name: Set Jekyll environment
+        id: name
+        run: |
+          if [ "$REPO_OWNER" == "DHP-stottepakke" ]; then
+            echo "jekyll_env=production" >> $GITHUB_OUTPUT
+          else
+            echo "jekyll_env=development" >> $GITHUB_OUTPUT
+          fi
+        env:
+          REPO_OWNER: ${{ github.repository_owner }}
+
+      - name: Install dependencies
+        run: |
+          bundle install
+        
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: |
+          bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
-          JEKYLL_ENV: production
+          PAGES_REPO_NWO: ${{ github.repository }}
+          JEKYLL_BUILD_BRANCH: ${{ github.ref_name }}
+          JEKYLL_ENV: ${{ steps.name.outputs.jekyll_env }}
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          JEKYLL_BASE_PATH: ${{ steps.pages.outputs.base_path }}
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v2
 
   # Deployment job
   deploy:
+    runs-on: ubuntu-latest
+    needs: build
+
+    if: |
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'push' && github.event.repository.default_branch == github.ref_name)
+
+    concurrency:
+      group: "pages"
+      cancel-in-progress: true
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
+    
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
