@@ -133,7 +133,8 @@ Data recovery, national and institutional policies, Information security levels
 
 <!--recycling possible?-->
 ### Existing sources that can be reused
-####[DMP Tuuli, CC BY 4.0](https://zenodo.org/records/5242629)
+
+#### [DMP Tuuli, CC BY 4.0](https://zenodo.org/records/5242629)
 What legal issues are related to your data management? (For example, GDPR and other legislation affecting data processing).
 All types of research data involve questions of rights and legal and ethical issues. Demonstrate that you are aware of the relevant legislation related to your data processing. If you are handling personal or sensitive information, describe how you will ensure privacy protection and data anonymisation or pseudonymisation.
 - Tips for best practices:

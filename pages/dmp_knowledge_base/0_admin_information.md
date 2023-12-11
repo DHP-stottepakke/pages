@@ -53,7 +53,7 @@ The data management plan should include information about the Project Owner's in
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-####[SND i Sverige (CC BY 4.0)](https://doi.org/10.5281/zenodo.6424769)
+#### [SND i Sverige, CC BY 4.0](https://doi.org/10.5281/zenodo.6424769)
 
 1.1 Project description
  
