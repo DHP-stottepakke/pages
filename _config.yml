@@ -1,13 +1,12 @@
 repository: DHP-stottepakke/pages
 
-github:
-   repository_url: https://github.com/DHP-stottepakke/pages
-   source:
-   branch: main
+github_repo: https://github.com/DHP-stottepakke/pages
 
-site.branch: main
+github_branch: main
 
-basepath: pages/blob/main/
+site_url: https://dhp-stottepakke.github.io/pages/
+
+github_edit_url: "{{ site_url }}/edit/{{ github_branch }}/"
 
 title: "DMP support package demo"
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
