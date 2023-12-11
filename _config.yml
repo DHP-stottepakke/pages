@@ -5,6 +5,8 @@ github:
    source:
    branch: main
 
+site.branch: main
+
 basepath: pages/blob/main/
 
 title: "DMP support package demo"
