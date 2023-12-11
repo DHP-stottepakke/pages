@@ -71,7 +71,7 @@ toc: true
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-####[DMP Tuuli, CC BY 4.0](https://zenodo.org/records/5242629)
+#### [DMP Tuuli, CC BY 4.0](https://zenodo.org/records/5242629)
 How will you document your data in order to make the data findable, accessible, interoperable and re-usable for you and others? What kind of metadata standards, README files or other documentation will you use to help others to understand and use your data?
 Data documentation enables data sets and files to be discovered, used and properly cited by other users (human or computer). Without sufficient documentation the data cannot be reused.
 Documentation includes essential information regarding the data, for example a) core metadata (for discovery and identification) where, when, why and how the data were collected as well as b) descriptive information how the data is interpreted correctly using metadata standards, vocabularies and e.g. readme-files. 
@@ -82,7 +82,7 @@ Tips for best practices
 - Use research instruments, which create standardised metadata formats automatically.
 - Identify the types of information that should be captured to enable other researchers to discover, access, interpret, use and cite your data. See for example Qvain requirements (https://www.fairdata.fi/en/user-guides/qvain-user-guide/#QvainDataset)
 
-####[NTNU - DMP guidance, public domain](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
+#### [NTNU - DMP guidance, public domain](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
 What information is necessary for future users (including your future self) to find and understand the data? 
 Tip: Read Making a Research Project Understandable: Guide for data documentation (Fuchs & Kuusniemi 2018).
 
@@ -94,7 +94,7 @@ A common metadata standard is Dublin Core, which is a list of 15 standardized el
  
 Also indicate how the data will be organised during the project, mentioning for example conventions, version control, and folder structures. Consistent, well-ordered research data will be easier to find, understand, and re-use.
 
-####[UiT - DMP guidance, public domain](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
+#### [UiT - DMP guidance, public domain](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 How will the data be documented so that they are comprehensible and reusable for yourself and others also in the long term?
 (According to best practice, research data should be documented in a ReadMe file which explains column headings, abbreviations etc.)
 
@@ -105,7 +105,7 @@ What standards and methods will be used for data collection/generating?
 
 What is the expected file size for the data?
 
-####[SND - Checklist DMP, CC BY 4.0](https://zenodo.org/records/6424769)
+#### [SND - Checklist DMP, CC BY 4.0](https://zenodo.org/records/6424769)
 Will the project use any established terminologies, ontologies, standards, or similar, to describe and document the material? Which ones? If you create your own terminology, will it be mapped against established terminologies?
 Why is this important? Many scientific disciplines have established terminologies, ontologies, and vocabularies (e.g. MeSH, ISCED, AAT, and ELSST) that can be used to categorize and document data materials. There are various standards that are recommended to follow (e.g. ISO 8601 for date, time, and time intervals). The use of standards and established terminologies simplifies the communication between people who belong to the same scientific field but can also make it easier to find material in, for example, journals. Sometimes, it may be necessary to create project-specific terminology lists if the existing ones aren’t sufficient or suited for the project. If you create a project-specific list, you should do a mapping, where you show which terms that mean exactly or almost the same thing as in other lists, but also which terms that are unique for your list. Mapping terms against other terminologies will improve the findability of the data material.
 
@@ -167,17 +167,17 @@ Tips for best practices
 - Use research instruments, which create standardised metadata formats automatically.
 - Identify the types of information that should be captured to enable other researchers to discover, access, interpret, use and cite your data. See for example: [Qvain requirements](https://www.fairdata.fi/en/user-guides/qvain-user-guide/#QvainDataset)
 
-####[NTNU - DMP Guidance, public domain](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
+#### [NTNU - DMP Guidance, public domain](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
 How will the consistency and quality of data collection be controlled and documented? 
  This may include processes such as calibration, repeated samples or measurements, 
  standardised data capture, data entry validation, peer review of data, or representation with controlled vocabularies.
 
-####[UiT - DMP guidance, public domain](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
+#### [UiT - DMP guidance, public domain](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 When will the data be collected/generated?
 Is there need for extra hardware or software?
 Is there need for special expertise for collecting/generating data?
 
-####[SND - Checklist DMP, CC BY 4.0](https://zenodo.org/records/6424769): 
+#### [SND - Checklist DMP, CC BY 4.0](https://zenodo.org/records/6424769): 
 [Will the project use any established terminologies, ontologies, standards, or similar, to describe and document the material? Which ones? If you create your own terminology, will it be mapped against established terminologies?]
 Why is this important? Many scientific disciplines have established terminologies, ontologies, and vocabularies (e.g. MeSH, ISCED, AAT, and ELSST) that can be used to categorize and document data materials. There are various standards that are recommended to follow (e.g. ISO 8601 for date, time, and time intervals). The use of standards and established terminologies simplifies the communication between people who belong to the same scientific field but can also make it easier to find material in, for example, journals. Sometimes, it may be necessary to create project-specific terminology lists if the existing ones aren’t sufficient or suited for the project. If you create a project-specific list, you should do a mapping, where you show which terms that mean exactly or almost the same thing as in other lists, but also which terms that are unique for your list. Mapping terms against other terminologies will improve the findability of the data material.
 
