@@ -1,5 +1,10 @@
 repository: DHP-stottepakke/pages
 
+github:
+   repository_url: https://github.com/DHP-stottepakke/pages
+   source:
+   branch: main
+
 basepath: pages/blob/main/
 
 title: "DMP support package demo"
@@ -11,7 +16,7 @@ topnav_title: ''
 description: "Data Management Planning support package for Norwegian Higher Education Libraries"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.25.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.4.0
 
 dsw_deep_link_prefix: https://elixir-no.ds-wizard.org/projects/create/from-template?selected=
 
