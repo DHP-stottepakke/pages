@@ -28,9 +28,8 @@ not covered
 - Funding: Grant ID
 
 ### Interested stakeholder
-- Funder
-- Research Administration
-- CRIStin/NVA
+- Level 1: Funder
+- Level 2: Research Administration, CRIStin/NVA
 
 ---
 <!--additional explanations-->
@@ -54,7 +53,7 @@ The data management plan should include information about the Project Owner's in
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-Gjenbruk fra [SND i Sverige (CC BY 4.0)](https://doi.org/10.5281/zenodo.6424769) kan vurderes:
+####[SND i Sverige (CC BY 4.0)](https://doi.org/10.5281/zenodo.6424769)
 
 1.1 Project description
  
