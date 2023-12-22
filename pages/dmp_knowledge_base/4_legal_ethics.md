@@ -134,10 +134,11 @@ Research material that will contain personal data has to be reported to the data
 ---
 <!--additional explanations-->
 ### Explanations for users
+*add text here*
 
 <!--additional explanations - only keywords-->
 ### Explanations for users
--personal data
+- personal data
 special categories of personal data
 - health data
 - de-identification - pseudonymisation
@@ -210,6 +211,7 @@ Clearly explains, if applicable:
 
 <!--additional explanations - only keywords-->
 ### Explanations for users
+*add text here*
 
 ---
 <!--recycling possible?-->
@@ -293,8 +295,8 @@ Add any comments on issues related to for example: research on human embryos and
 
 ---
 <!--additional explanations - only keywords-->
-
 ### Explanations for users
+*add text here*
 
 #### Requested content:
 Ethical approvals, guidelines followed. 
