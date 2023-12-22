@@ -20,3 +20,7 @@ subitems:
     url: /publish_dmp
   - title: Frequently asked difficult questions
     url: /difficult_faq
+  - title: RDM terminology
+    url: /rdm_terminology
+  - title: Inspiring DMP projects
+    url: /dmp_projects_elsewhere

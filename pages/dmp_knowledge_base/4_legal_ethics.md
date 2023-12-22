@@ -23,7 +23,7 @@ toc: true
 - Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
 - Explain whether there is a managed access procedure in place for authorised users of personal data. 
 
-- Comment: ensure that this aspect is covered under storage
+- Comment Live: ensure that this aspect is covered under storage
 
 ### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)
 - For guidance on access, see 5a.
