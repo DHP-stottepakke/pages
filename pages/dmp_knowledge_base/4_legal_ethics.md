@@ -51,34 +51,31 @@ post-award
 <!--additional explanations-->
 ### Explanations for support staff
 
-[SIKT : Legal bases for personal data processing in research]
-(https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research)
+[SIKT : Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research)
 
-[National Research Ethics Committees Q&A: Lew privacy legislation - what does this imply for research *Norwegian only*]
-(https://www.forskningsetikk.no/ressurser/gdpr/)
+[National Research Ethics Committees Q&A: Lew privacy legislation - what does this imply for research *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
 
-[Ethics and data protection decision tree] (https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html)
+[Ethics and data protection decision tree](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html)
 
 Comment to Guidance from NFR 3. below: encryption is not sustainable for long term preservation <!-- vurder om dette skal diskuteres (LK)-->
 
 #### Local storage guidelines
 - [consider list with links?]
 - RETTE - UIB
-
 - DPIA for high risk projects <!--not sure if theese needs to be included in DMP guidance (LK)-->
 - Risk assessment light: Projects with personal data must perform some kind of risk assessment before data collection begins. <!--not sure if theese needs to be included in DMP guidance (LK)-->
 
 
 #### National regulations:
- -[Personopplysningsloven] (https://lovdata.no/dokument/NL/lov/2018-06-15-38)
-- [Helseforskningsloven] (https://lovdata.no/dokument/NL/lov/2008-06-20-44)
- -[Helseregisterloven]	(https://lovdata.no/dokument/NL/lov/2014-06-20-43)
+ -[Personopplysningsloven](https://lovdata.no/dokument/NL/lov/2018-06-15-38)
+- [Helseforskningsloven](https://lovdata.no/dokument/NL/lov/2008-06-20-44)
+ -[Helseregisterloven](https://lovdata.no/dokument/NL/lov/2014-06-20-43)
 
 #### What is personal data & special category personal data, which laws & guidelines apply, responsibilities (e.g. DPO).
 - If personal data is processed, which legal bases for data processing is used?
 - If research is legal bases for data processing, then consent is is part of 4c below.
 - Use data minimisation as a strategy to avoid unwanted privacy breaches. 
-- Explain whether there is a managed access procedure in place for authorized users of personal data. - ensure that this aspect is covered under storage [3B: How will data security and protection of sensitive data be taken care of during the research?] (https://dhp-stottepakke.github.io/pages/3_storage_backup)
+- Explain whether there is a managed access procedure in place for authorized users of personal data. - ensure that this aspect is covered under storage [3B: How will data security and protection of sensitive data be taken care of during the research?](https://dhp-stottepakke.github.io/pages/3_storage_backup)
 
 ### Relevant Norwegian guidelines/policier
 
@@ -255,13 +252,13 @@ post-award
 ### Explanations for support staff
 
 #### National regulations:
-[Forskningsetikkloven] (https://lovdata.no/dokument/NL/lov/2017-04-28-23)
+[Forskningsetikkloven](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
 
 ### Relevant guidelines/policies:
 
-[NESH veileder institusjonenens ansvar forskingsetikk (2023)] (https://www.forskningsetikk.no/ressurser/veileder-om-institusjonenes-ansvar-for-forskningsetikk/)
-[Animals use for scientific purposes *Norwegian only*] (https://www.forsoksdyrkomiteen.no/ressurser/)
-[Indigenous data, consent] (https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/FreePriorandInformedConsent.pdf)
+[NESH veileder institusjonenens ansvar forskingsetikk (2023)](https://www.forskningsetikk.no/ressurser/veileder-om-institusjonenes-ansvar-for-forskningsetikk/)
+[Animals use for scientific purposes *Norwegian only*](https://www.forsoksdyrkomiteen.no/ressurser/)
+[Indigenous data, consent](https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/FreePriorandInformedConsent.pdf)
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 - What ethical issues can affect how data is stored and transferred, who has data access to view or use the data, and how long it should be kept? 
@@ -276,7 +273,7 @@ adequate measures are in place to manage ethical requirements.
 - Refers to relevant ethical guidelines and/or codes of conduct or alternatively provides a clear statement that explains why ethical issues have not been considered.
 
 #### [DMP Tuuli, CC BY 4.0](https://zenodo.org/records/5242629)
-How will you manage the rights of the data you use, produce and share? (2.2) Describe how you will agree upon the rights of use related to your research data – including the collected, produced and (re)used data of your project. Here, you can employ your categorisation in the first question. Each of these categories involves different rights and licenses. Describe the transfer of rights procedures relevant to your project. Describe confidentiality issues if applicable in your project. License your data! Tips for best practices • Agreements on rights of use should be made as early as possible in the project life cycle. • Have you gained consent for data preservation and sharing? • Follow the funder's or publisher's policies. • It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a Creative Commons (https://creativecommons.org/choose/), GNU (https://www.gnu.org/licenses/gpl-3.0.en.html) or MIT license (https://opensource.org/licenses/MIT), or under another relevant license.
+How will you manage the rights of the data you use, produce and share? (2.2) Describe how you will agree upon the rights of use related to your research data – including the collected, produced and (re)used data of your project. Here, you can employ your categorisation in the first question. Each of these categories involves different rights and licenses. Describe the transfer of rights procedures relevant to your project. Describe confidentiality issues if applicable in your project. License your data! Tips for best practices • Agreements on rights of use should be made as early as possible in the project life cycle. • Have you gained consent for data preservation and sharing? • Follow the funder's or publisher's policies. • It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a [Creative Commons](https://creativecommons.org/choose/), [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) or [MIT license](https://opensource.org/licenses/MIT), or under another relevant license.
 
 #### [SND - Checklist DMP, CC BY 4.0](https://zenodo.org/records/6424769)
 [Does the project need ethical approval or has it been approved? Enter the reference number here.] Why is this important? Research that falls under the scope of the Act (2003:460) concerning the Ethical Review of Research Involving Humans (the Ethical Review Act, updated 2020-01-01) can only be carried out after ethical approval, which is applied for by the research principal. Without ethical approval, the research is illegal and subject to legal consequences. Ethical approval is also needed for research that involves animal testing.
@@ -288,7 +285,7 @@ Is an ethical review (for example by an ethics committee/REK or approval of use 
 Are you going to collect informed consent to store and share the data? If so, how? How are you going to secure confidentiality and identity protection?
 
 #### [SIKT, equivalent CC BY](https://sikt.no/en/data-management-plan)
-Add any comments on issues related to for example: research on human embryos and fetuses, and/or human cells and tissues; collection of personal data and obtaining consent; animal research; research in non-EU countries; unintended effects on the environment, health and safety; and the potential misuse of research results. See also [EU/H2020's guidelines on How to complete your ethics self-assessment.] (https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
+Add any comments on issues related to for example: research on human embryos and fetuses, and/or human cells and tissues; collection of personal data and obtaining consent; animal research; research in non-EU countries; unintended effects on the environment, health and safety; and the potential misuse of research results. See also [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
 
 ---
 <!--additional explanations - only keywords-->
