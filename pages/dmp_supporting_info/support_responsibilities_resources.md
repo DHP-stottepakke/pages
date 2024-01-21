@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: DMP Support: Responsibilities and resources
+title: 'DMP Support: Responsibilities and resources'
 search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: support_responsibilities_resources

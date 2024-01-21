@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: DMP Support: Data sharing and preservation
+title: 'DMP Support: Data sharing and preservation'
 search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: support_sharing_preservation

@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: Get local/disciplinary support
+title: 'Get local/disciplinary support'
 search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: support_local_disc

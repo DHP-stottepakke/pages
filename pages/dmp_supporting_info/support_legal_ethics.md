@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: DMP Support: Legal and ethical requirements
+title: 'DMP Support: Legal and ethical requirements'
 search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: support_legal_ethics
