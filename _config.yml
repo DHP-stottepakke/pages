@@ -35,7 +35,11 @@ theme_variables:
     brand_logo: assets/img/main_logo.svg
   toc:
     min_headings: 1
+<<<<<<< HEAD
     headings: 'h2, h3'
+=======
+    headings: 'h2'
+>>>>>>> db5ae3284181b286d5c4e369f9da66f97f53974f
 
 permalink: pretty
 
