@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Styleguide
+title: Style Guide
 search_exclude: false
 sidebar: Styleguide
 ---
+
+The style guide is adapted from the [RDMKit knowledge base](https://rdmkit.elixir-europe.org/style_guide "RDMKit style guide") by [ELIXIR Europe](https://elixir-europe.org/ "ELIXIR Europe main page") (CC-BY 4.0)
 
 ## Language:
 
