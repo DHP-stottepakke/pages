@@ -15,19 +15,22 @@ toc: true
 ## 3a - How will data and metadata be stored and backed up during the research process?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-- Describe where the data will be stored and backed up during research activities and how often the backup will be performed. It is recommended to store data in least at two separate locations.
-- Give preference to the use of robust, managed storage with automatic backup, such as provided by IT support services of the home institution. Storing data on laptops, stand-alone hard drives, or external storage devices such as USB sticks is not recommended.
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+> 3a.1 Describe where the data will be stored and backed up during research activities and how often the backup will be performed. It is recommended to store data in least at two separate locations.
 
-### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-not covered
+> 3a.2 Give preference to the use of robust, managed storage with automatic backup, such as provided by IT support services of the home institution. Storing data on laptops, stand-alone hard drives, or external storage devices such as USB sticks is not recommended.
 
-### Relevant PID
-none?
+```
+**Relevant PID**
+- none?
 
-### Interested stakeholder
-- Level 2: ITA, Sigma2 if big data
+**Interested stakeholder**
+-  Level 2: ITA, Sigma2 if big data
 
+**Relevant project phase**
+- pre-award: outline (if budget-relevant)
+- planning post-award, active phase
+```
 
 ---
 <!--additional explanations-->
@@ -40,14 +43,16 @@ none?
 - Where will (meta)data be stored and backed up throughout the project, and how often will this be performed? Storing data on laptops, typical external hard drives, USB-sticks or similar is not recommended due to less protection and greater risk of data being lost.
 - How should data be recovered in the event of an accident?
 
-#### [FAIRsFAIR - sufficiently addressed](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+##### Guidance for researchers
+not covered
+##### Sufficiently adressed
 Clearly (even if briefly) describes:
 - The location where the data and backups will be stored during the research activities.
 - How often backups will be performed.
 - The use of robust, managed storage with automatic backup (for example storage provided by the home institution).
 or
 - Explains why institutional storage will not be used (and for what part of the data) and describes the (additional) locations, storage media, and procedures that will be used for storing and backing up data during the project.
-
 
 ---
 <!--additional explanations - only keywords-->
@@ -90,26 +95,35 @@ Losing a data material is something you want to avoid. Secure storage with regul
 ## 3b - How will data security and protection of sensitive data be taken care of during the research?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-- Explain how the data will be recovered in the event of an incident.
-- Explain who will have access to the data during the research and how access to data is controlled, especially in collaborative partnerships.
-- Consider data protection, particularly if your data is sensitive for example containing personal data, politically sensitive information, or trade secrets. Describe the main risks and how these will be managed.
-- Explain which institutional data protection policies are in place.
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+> 3b.1 Explain how the data will be recovered in the event of an incident.
 
-### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-not covered
+> 3b.2 Explain who will have access to the data during the research and how access to data is controlled, especially in collaborative partnerships.
 
-### Relevant PID
-none?
+> 3b.3 Consider data protection, particularly if your data is sensitive for example containing personal data, politically sensitive information, or trade secrets. Describe the main risks and how these will be managed.
 
-### Interested stakeholder
+> 3b.4 Explain which institutional data protection policies are in place.
+
+```
+**Relevant PID**
+- none?
+
+**Interested stakeholder**
 - Level 1: Institution (information security)
 - Level 2: DPO, REK, Sikt personverntjenester
+
+**Relevant project phase**
+- pre-award: outline
+- planning post-award, active phase
+```
 
 ---
 <!--additional explanations-->
 ### Explanations for support staff
-National policies, institutional policies and storage guides, routines for data recovery, classification of information, understanding data security measures
+- National policies
+- Classification of information: Institutional policies and storage guides
+- Routines for data recovery
+- Understanding data security measures
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Storage and data security during the project]
@@ -117,7 +131,11 @@ National policies, institutional policies and storage guides, routines for data 
 - If applicable, how should data security and risk management be handled in relation to sensitive data, such as personal data and data that underlies trade secrets?
 - What institutional data protection policies apply?
 
-#### [FAIRsFAIR - sufficiently addressed](https://doi.org/10.5281/zenodo.6088215)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+##### Guidance for Researchers:
+not covered
+
+##### Sufficiently adressed:
 Clearly explains:
 - How the data will be recovered in the event of an incident.
 - Which institutional and/or national data protection policies are in place and provides a link to where they can be accessed.
@@ -125,12 +143,12 @@ Clearly explains:
 
 Clearly describes the additional security measures (in terms of physical security, network security, and security of computer systems and files) that will be taken to ensure that stored and transferred data are safe, when sensitive data are involved (for example personal data, politically sensitive information, or trade secrets).
 
-
 ---
 <!--additional explanations - only keywords-->
 ### Explanations for users
 Data recovery, national and institutional policies, Information security levels 
 
+--
 <!--recycling possible?-->
 ### Existing sources that can be reused
 

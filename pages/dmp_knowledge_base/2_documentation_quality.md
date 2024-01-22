@@ -15,27 +15,38 @@ toc: true
 ## 2a - What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany data?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-- Indicate which metadata will be provided to help others identify and discover the data. 
-- Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will be used. 
-- Use community metadata standards where these are in place. 
-- Indicate how the data will be organised during the project, mentioning for example conventions, version control, and folder structures. Consistent, well-ordered research data will be easier to find, understand, and re-use. 
-- Consider what other documentation is needed to enable re-use. This may include information on the methodology used to collect the data, analytical and procedural information, definitions of variables, units of measurement, and so on. 
-- Consider how this information will be captured and where it will be recorded (for example in a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+> 2a.1 Indicate which metadata will be provided to help others identify and discover the data.
 
+both in the active phase and when preparing the data for archiving/publishing.
 
-### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-- With respect to the metadata standards: Find a suitable community- endorsed metadata standard in metadata registries (e.g., RDA, DCC). Preferably use domain and discipline- specific repositories to deposit your data in when using community- endorsed metadata standards (use Re3data to find a suitable repository). 
-- Confer with your local research data management specialist to determine the best metadata standard to use when no community-endorsed metadata standards are developed in your domain. 
-- Use controlled vocabularies for your metadata (and other documentation) to create unambiguous, reusable, and machine-interpretable information. Choose your vocabulary based on community standards and information you have on the use and openness. When available in your domain, choose a repository to deposit your data in based on whether they support your preferred vocabulary (find a suitable repository on FAIRsharing).
+> 2a.2 Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will be used.\\
+> 2a.3 Use community metadata standards where these are in place.
 
+when archiving/publishing the data.
 
-### Relevant PID
+> 2a.4 Indicate how the data will be organised during the project, mentioning for example conventions, version control, and folder structures. Consistent, well-ordered research data will be easier to find, understand, and re-use.
+
+in the active phase of research
+
+> 2a.5 Consider what other documentation is needed to enable re-use. This may include information on the methodology used to collect the data, analytical and procedural information, definitions of variables, units of measurement, and so on.
+
+both in the active phase of research and when preparing the data for archiving/publishing.
+
+> 2a.6 Consider how this information will be captured and where it will be recorded (for example in a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
+
+in the active phase of research.
+
+```
+**Relevant PID**
 - Metadata standard 
 
-### Interested stakeholder
+**Interested stakeholder**
 - Level 2: Possibly core facility, library staff
 
+**Relevant project phase**
+- planning post-award, active phase
+```
 
 ---
 <!--additional explanations-->
@@ -53,11 +64,16 @@ toc: true
 - What metadata standards will be used? Examples could be DDI, TEI, MARC, CMDI.
 - How will data be organized throughout the project? This can be version control, file structure, conventions for file naming, etc.
 
-#### [FAIRsFAIR - sufficiently addressed](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+##### Guidance for Researchers
+- With respect to the metadata standards: Find a suitable community- endorsed metadata standard in metadata registries (e.g., RDA, DCC). Preferably use domain and discipline- specific repositories to deposit your data in when using community- endorsed metadata standards (use Re3data to find a suitable repository). 
+- Confer with your local research data management specialist to determine the best metadata standard to use when no community-endorsed metadata standards are developed in your domain. 
+- Use controlled vocabularies for your metadata (and other documentation) to create unambiguous, reusable, and machine-interpretable information. Choose your vocabulary based on community standards and information you have on the use and openness. When available in your domain, choose a repository to deposit your data in based on whether they support your preferred vocabulary (find a suitable repository on FAIRsharing).
+
+##### Sufficiently adressed
 - Clearly outlines the metadata that will accompany the data, with reference to good practice in the scientific community (for example uses metadata standards where they exist). 
 - Clearly outlines the documentation needed to enable data re-use, stating where the information will be recorded (for example a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks). 
 - Indicates how the data will be organised during the project (for example naming conventions, version control strategy and folder structures).
-
 
 ---
 <!--additional explanations - only keywords-->
@@ -65,7 +81,6 @@ toc: true
 - Metadata standard mostly defined by archive, how to identify archive
 - Data organization in active phase
 - Data documentation
-
 
 ---
 <!--recycling possible?-->
@@ -113,26 +128,26 @@ Why is this important? Many scientific disciplines have established terminologie
 Examples of measures to control and ensure data quality may be the use of standardized methods and protocols to capture observations; checking precision and calibration of instruments; quality-check equipment to be used for audio or video recording; make multiple measurements, observations or samples; use standardized interview protocols and/or computer-assisted software when conducting interviews; and using standardized and consistent procedures when digitizing or transcribing data.
 
 
-
 -----
 -----
 <!--Science Europe question ID & title-->
 ## 2b - What data quality control measures will be used?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-- Explain how the consistency and quality of data collection will be controlled and documented. This may include processes such as calibration, repeated samples or measurements, standardised data capture, data entry validation, peer review of data, or representation with controlled vocabularies.
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+> 2b.1 Explain how the consistency and quality of data collection will be controlled and documented. This may include processes such as calibration, repeated samples or measurements, standardised data capture, data entry validation, peer review of data, or representation with controlled vocabularies.
 
-### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-not covered
-
-### Relevant PID
+```
+**Relevant PID**
 not pid, but defined persitant standards for quality control relevant?
 (established practices like calibration, signing by colleague, peer review etc.) 
 
-
-### Interested stakeholder
+**Interested stakeholder**
 (not so much info here at this point in time)
+
+**Relevant project phase**
+- planning post-award, active phase
+```
 
 ---
 <!--additional explanations-->
@@ -145,15 +160,18 @@ Researchers might need help to present this explicit (might be self-explanatory 
 - How is reliability and quality of the data controlled and documented? This can include processes such as calibration of measuring instruments, repeated measurements and samples, standardized data capture, validation of data entry, peer review of data or use of controlled vocabulary.
 
 
-#### [FAIRsFAIR - sufficiently addressed](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-- Clearly describes the approach taken to ensure and document quality control in the collection of data during the lifetime of the project.
+#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+##### Guidance for Researchers
+not covered
 
+##### Sufficiently adressed
+- Clearly describes the approach taken to ensure and document quality control in the collection of data during the lifetime of the project.
 
 ---
 <!--additional explanations - only keywords-->
 ### Explanations for users
 
-
+---
 <!--recycling possible?-->
 ### Existing sources that can be reused
 #### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
