@@ -15,32 +15,36 @@ toc: true
 ## 0 - Administrative information
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 not covered
 
-### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-not covered
-
-### Relevant PID
+```
+**Relevant PID**
 - Persons: ORCID, CRIStin ID/NVA ID, role description DataCite/CredIT
 - Institutions: ROR
 - Funder: ID Open Funder Registry, ID CrossRef Funder Registry
 - Funding: Grant ID
 
-### Interested stakeholder
+**Interested stakeholder**
 - Level 1: Funder
 - Level 2: Research Administration, CRIStin/NVA
+
+**Relevant project phase**
+- planning post-award, final reporting
+```
 
 ---
 <!--additional explanations-->
 ### Explanations for support staff
-- Which information is relevant to whom?
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Administrative information]
+[Administrative information]\\
 The data management plan should include information about the Project Owner's institution, project manager, project number, project title, funder and version.
 
-#### [FAIRsFAIR - sufficiently addressed](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+##### Guidance for Researchers
+not covered
+##### Sufficiently adressed
 - Contains the minimal information required to identify the applicant and the references of the project.
 
 
