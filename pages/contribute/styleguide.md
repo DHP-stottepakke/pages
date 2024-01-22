@@ -5,11 +5,11 @@ search_exclude: false
 sidebar: Styleguide
 ---
 
-# Language:
+## Language:
 
 While the content of this webpage is intended for Norwegian research instituions, a significant portion of members in the Norwegian community have foreign backgrounds. Therefore, for the sake of accessibility, please add any contributions in English. 
 
-# Hyperlink styleguides:
+## Hyperlink styleguides:
 Please use the following formatting style for all hypertext links when contributing to this page:
 
 ```
