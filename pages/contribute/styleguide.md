@@ -86,7 +86,7 @@ There are three ways you can annotate text from other sources, to make it clear 
 > This is my blockquote
 ```
 
-Add blockquotes for information regarding PIDs, phase of the research project and information regarding stakeholders.  
+Use blockquotes when pasting text from other reseources, such as Science Europe. Add your own content as unformatted text.   
 
 *Method 3:* Information boxes 
 
