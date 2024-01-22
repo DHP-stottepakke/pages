@@ -7,7 +7,8 @@ sidebar: Styleguide
 
 ## Language:
 
-While the content of this webpage is intended for Norwegian research instituions, a significant portion of members in the Norwegian community have foreign backgrounds. Therefore, for the sake of accessibility, please add any contributions in English. 
+While the content of this webpage is intended for Norwegian research institutions, a significant portion of members in the Norwegian community have foreign backgrounds. Therefore, for the sake of accessibility, please add any contributions in English. 
+When this page will finally be deployed, the content will be translated into Norwegian
 
 ## Hyperlink styleguides:
 Please use the following formatting style for all hypertext links when contributing to this page:
