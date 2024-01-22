@@ -15,7 +15,7 @@ toc: true
 ## 4a - If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")
 
 - Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
 - Gain informed consent for preservation and/or sharing of personal data.
@@ -26,7 +26,7 @@ toc: true
 
 <!--Comment: ensure that this aspect is covered under storage (LK)--> 
 
-### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)
+### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215 "Maaike Verburg, & Marjan Grootveld. (2022, February 22). FAIR-Aware Additional guidance to the Science Europe DMP assessment rubric. Zenodo. https://doi.org/10.5281/zenodo.6088215")
 For guidance on access, see 5a.
  
 --- 
@@ -55,7 +55,7 @@ post-award
 
 [National Research Ethics Committees Q&A: Lew privacy legislation - what does this imply for research *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
 
-[Ethics and data protection decision tree](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html)
+[Ethics and data protection decision tree](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
 
 Comment to Guidance from NFR 3. below: encryption is not sustainable for long term preservation <!-- vurder om dette skal diskuteres (LK)-->
 
