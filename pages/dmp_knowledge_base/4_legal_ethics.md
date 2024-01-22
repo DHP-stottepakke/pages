@@ -10,10 +10,43 @@ affiliations:
 sidebar: dmp_knowledge_base
 toc: true
 ---
-Science Europe guidelinces 4 Legal requirements, ethical requirements, codes of conduct consist of three sub quesitons: 
-4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
-4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
-4c How will possible ethical issues be taken into account, and codes of conduct followed?
+
+# General annotations to Science Europe guidelines
+## Science Europe guidelines 4 Legal requirements, ethical requirements, codes of conduct 
+* *
+
+### 4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
+*Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues*
+- Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
+*For research there are two options for legal bases for processing of personal data, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.*
+- Gain informed consent for preservation and/or sharing of personal data.
+*If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes* 
+- Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
+ *The relevance of anonymisation will depend on the data type and other available information*
+- Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
+  * Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation, removing or not collection more personal information than strictly necessary for the purpose*
+- Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
+* Ignore this, encryption should be addressed under 3 storage and backup *
+- Explain whether there is a managed access procedure in place for authorised users of personal data.
+* Make sure this is addressed under storage and backup, in adition consider*
+
+
+### 4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
+- Explain who will be the owner of the data, meaning who will have the rights to control access:
+- Explain what access conditions will apply to the data? Will the data be openly accessible, or will there be access restrictions? In the latter case, which? Consider the use of data access and re-use licenses.
+- Make sure to cover these matters of rights to control access to data for multi-partner projects and multiple data owners, in the consortium agreement.
+- Indicate whether intellectual property rights (for example Database Directive, sui generis rights) are affected. If so, explain which and how will they be dealt with.
+- Indicate whether there are any restrictions on the re-use of third-party data.
+
+### 4c How will possible ethical issues be taken into account, and codes of conduct followed?
+* *
+- Consider whether ethical issues can affect how data are stored and transferred, who can see or use them, and how long they are kept.
+* *
+- Demonstrate awareness of these aspects and respective planning. - Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
+
+* *
+
+# Relevant guidelines and information structured according to the guidelines 4a-c
 
 <!--Science Europe question ID & title-->
 ## 4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
@@ -218,7 +251,7 @@ Clearly explains, if applicable:
 ### Existing sources that can be reused
 
 
-## 4c- How will possible ethical issues be taken into account, and codes of conduct followed?
+## 4c How will possible ethical issues be taken into account, and codes of conduct followed?
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
