@@ -15,10 +15,10 @@ toc: true
 ## 0 - Administrative information
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 not covered
 
-### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)
+### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 not covered
 
 ### Relevant PID
@@ -40,7 +40,7 @@ not covered
 [Administrative information]
 The data management plan should include information about the Project Owner's institution, project manager, project number, project title, funder and version.
 
-#### [FAIRsFAIR - sufficiently addressed](https://doi.org/10.5281/zenodo.6088215)
+#### [FAIRsFAIR - sufficiently addressed](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 - Contains the minimal information required to identify the applicant and the references of the project.
 
 
@@ -53,7 +53,7 @@ The data management plan should include information about the Project Owner's in
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-#### [SND i Sverige, CC BY 4.0](https://doi.org/10.5281/zenodo.6424769)
+#### [SND i Sverige](https://doi.org/10.5281/zenodo.6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 1.1 Project description
  
