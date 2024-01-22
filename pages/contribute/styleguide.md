@@ -63,9 +63,27 @@ Please use the following formatting style for all hypertext links when contribut
 ```
 [display text](https://sampleurl.com "hover-over text")
 ```
-In the hover-over text, please include meaningful information about the intended link, so that the end user may easily find the content in [case of link rot.](https://en.m.wikipedia.org/wiki/Link_rot# "Wikipedia artcle on web page") 
+In the hover-over text, please include meaningful information about the intended link, so that the end user may easily find the content in [case of link rot.](https://en.m.wikipedia.org/wiki/Link_rot# "Wikipedia artcle on web page, accessed 2024-01-22"). In case you are referring to webpages which are often updated/changed, please include the date ("YYYY-MM-DD") of accession. 
 
 ## Annotating text from other sources
 
-{% include callout.html type="note" content="This is my note." %}5
+There are three ways you can annotate text from other sources, to make it clear that this is your contribution:
+
+*Method 1:* In-line commnents
+<code> Use this method to additional information regarding the bulk of the text </code>
+
+*Method 2:*  Blockquote
+
+> This is my blockquote
+> You can include multiple lines
+
+Add blockquotes for information regarding PIDs, phase of the research project and information regarding stakeholders.  
+
+*Method 3:* Information boxes 
+
+{% include callout.html type="note" content="This is my note or annotations. Please note that these boxes do not support additional formatting within them." %}
+
+```
+{% include callout.html type="note" content="This is my note or annotations. Please note that these boxes do not support additional formatting within them." %}
+```
 
