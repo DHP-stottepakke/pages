@@ -17,6 +17,7 @@ toc: true
 
 ---
 ### 4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
+hvordan adressere security
 
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues
 
@@ -209,6 +210,7 @@ special categories of personal data
 
 ## 4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
 
+**Bak inn eksportkontroll regelverket**
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
