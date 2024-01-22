@@ -16,21 +16,21 @@ toc: true
 * *
 
 ### 4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
-*Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues*
+ {% include callout.html type="note" content="Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues" %} 
 - Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
 *For research there are two options for legal bases for processing of personal data, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.*
 - Gain informed consent for preservation and/or sharing of personal data.
 *If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes* 
 - Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
- *The relevance of anonymisation will depend on the data type and other available information*
+ * The relevance of anonymisation will depend on the data type and other available information*
 - Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
-  * Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation, removing or not collection more personal information than strictly necessary for the purpose*
+  *Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation, removing or not collection more personal information than strictly necessary for the purpose*
 - Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
-* Ignore this, encryption should be addressed under 3 storage and backup *
+*Ignore this, encryption should be addressed under 3 storage and backup*
 - Explain whether there is a managed access procedure in place for authorised users of personal data.
-* Make sure this is addressed under storage and backup, in addition consider who should have and manage access at and archiving stage.*
+*Make sure this is addressed under storage and backup, in addition consider who should have and manage access at and archiving stage.*
 
- * If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over.*
+   *If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over.*
 
 
 ### 4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
