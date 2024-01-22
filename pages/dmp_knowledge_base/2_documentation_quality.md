@@ -12,7 +12,7 @@ toc: true
 ---
 
 <!--Science Europe question ID & title-->
-## 2a - What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany data?
+## 2a - What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany data? <code>(metadata in project versus when archiving</code>
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
