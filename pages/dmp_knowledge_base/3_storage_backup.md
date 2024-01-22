@@ -90,13 +90,13 @@ Losing a data material is something you want to avoid. Secure storage with regul
 ## 3b - How will data security and protection of sensitive data be taken care of during the research?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 - Explain how the data will be recovered in the event of an incident.
 - Explain who will have access to the data during the research and how access to data is controlled, especially in collaborative partnerships.
 - Consider data protection, particularly if your data is sensitive for example containing personal data, politically sensitive information, or trade secrets. Describe the main risks and how these will be managed.
 - Explain which institutional data protection policies are in place.
 
-### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)
+### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 not covered
 
 ### Relevant PID
@@ -117,7 +117,7 @@ National policies, institutional policies and storage guides, routines for data 
 - If applicable, how should data security and risk management be handled in relation to sensitive data, such as personal data and data that underlies trade secrets?
 - What institutional data protection policies apply?
 
-#### [FAIRsFAIR - sufficiently addressed](https://doi.org/10.5281/zenodo.6088215)
+#### [FAIRsFAIR - sufficiently addressed](https://doi.org/10.5281/zenodo.6088215)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Clearly explains:
 - How the data will be recovered in the event of an incident.
 - Which institutional and/or national data protection policies are in place and provides a link to where they can be accessed.
@@ -134,7 +134,7 @@ Data recovery, national and institutional policies, Information security levels
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-#### [DMP Tuuli, CC BY 4.0](https://zenodo.org/records/5242629)
+#### [DMP Tuuli](https://zenodo.org/records/5242629)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 What legal issues are related to your data management? (For example, GDPR and other legislation affecting data processing).
 All types of research data involve questions of rights and legal and ethical issues. Demonstrate that you are aware of the relevant legislation related to your data processing. If you are handling personal or sensitive information, describe how you will ensure privacy protection and data anonymisation or pseudonymisation.
 - Tips for best practices:
@@ -143,17 +143,17 @@ All types of research data involve questions of rights and legal and ethical iss
 - Will you process personal data? If you intend to do so, please detail what type of personal data you will collect.
 - All data related to an identified or identifiable person is personal data. Information such as names, telephone numbers, location data and information on the congenital diseases of the individual's grandparents is personal data.
 
-#### [NTNU - DMP Guidance, public domain](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
+#### [NTNU - DMP Guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
 Note that all data should be classified in order to choose the correct level of security and confidentiality. See Innsida for more information on how to classify research data. Also see [Sikresiden.no](https://www.sikresiden.no/en/preventive/securinginformation) for more information about information security.
 **Relevant documents:**
 [NTNU Policy for information security](https://i.ntnu.no/wiki/-/wiki/English/Policy+for+information+security) 
 [NTNU Storage Guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
 
-#### [UiT - DMP guidance, public domain](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
+#### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 Does your data include sensitive data? (If yes, also answer the questions below.) 
 Are you going to collect informed consent to store and share the data? If so, how? 
 How are you going to secure confidentiality and identity protection?
 
-#### [SND - Checklist DMP, CC BY 4.0](https://zenodo.org/records/6424769): 
+#### [SND - Checklist DMP](https://zenodo.org/records/6424769)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Refer to the information security guidelines and policies in your university/organization and define what implications they have. What information classification level does the data material have and what security measures are needed to protect the material? Who should have access to the project data during the project and how do you plan to protect the data from unauthorised access?
 **Why is this important?** Access to the data material must be restricted so that authorised people can access it, but it is protected from unauthorised access. Secure work and storage environments can include access restriction (e.g. passwords), encryption, and virus and access protection. You may need to contact your organization’s IT security office to make sure that you have addressed all questions regarding information security before the data collection begins.]
