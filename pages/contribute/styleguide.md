@@ -64,3 +64,8 @@ Please use the following formatting style for all hypertext links when contribut
 [display text](https://sampleurl.com "hover-over text")
 ```
 In the hover-over text, please include meaningful information about the intended link, so that the end user may easily find the content in [case of link rot.](https://en.m.wikipedia.org/wiki/Link_rot# "Wikipedia artcle on web page") 
+
+## Annotating text from other sources
+
+{% include callout.html type="note" content="This is my note." %}5
+
