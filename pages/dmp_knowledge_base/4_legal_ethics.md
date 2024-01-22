@@ -28,7 +28,9 @@ toc: true
 - Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
 * Ignore this, encryption should be addressed under 3 storage and backup *
 - Explain whether there is a managed access procedure in place for authorised users of personal data.
-* Make sure this is addressed under storage and backup, in adition consider*
+* Make sure this is addressed under storage and backup, in addition consider who should have and manage access at and archiving stage.*
+
+ * If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over.*
 
 
 ### 4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
