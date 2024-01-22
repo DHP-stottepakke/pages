@@ -25,6 +25,8 @@ toc: true
 
 {% include callout.html type="tip" content="(Consult SIKTs guidance for information and consent)[https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects]" %}
 
+{% include callout.html type="important" content="Consult your institutions requirements for notification forms for personal data, DPIA, risk and compliance system or similar" %}
+
 - Gain informed consent for preservation and/or sharing of personal data.
 
 {% include callout.html type="note" content="*If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes* " %} 
@@ -57,7 +59,9 @@ toc: true
 - Demonstrate awareness of these aspects and respective planning. - Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
 
 * *
-
+ ---
+ ---
+ 
 # Relevant guidelines and information structured according to the guidelines 4a-c
 
 <!--Science Europe question ID & title-->
