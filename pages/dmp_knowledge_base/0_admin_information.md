@@ -41,7 +41,7 @@ not covered
 The data management plan should include information about the Project Owner's institution, project manager, project number, project title, funder and version.
 
 #### [FAIRsFAIR - sufficiently addressed](https://doi.org/10.5281/zenodo.6088215)
-- Contains the minimal information required to identify the applicant and the references of the project.
+- Contains the minimal information required to identify the applicant and the references of the project. 
 
 
 ---
