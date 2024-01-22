@@ -10,9 +10,13 @@ affiliations:
 sidebar: dmp_knowledge_base
 toc: true
 ---
+Science Europe guidelinces 4 Legal requirements, ethical requirements, codes of conduct consist of three sub quesitons: 
+4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
+4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
+4c How will possible ethical issues be taken into account, and codes of conduct followed?
 
 <!--Science Europe question ID & title-->
-## 4a - If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
+## 4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")
