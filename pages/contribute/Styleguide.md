@@ -2,7 +2,7 @@
 layout: page
 title: Styleguide
 search_exclude: false
-sidebar: styleguide
+sidebar: Styleguide
 ---
 
 # Language:
