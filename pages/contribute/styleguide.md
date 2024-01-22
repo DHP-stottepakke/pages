@@ -69,13 +69,20 @@ In the hover-over text, please include meaningful information about the intended
 
 There are three ways you can annotate text from other sources, to make it clear that this is your contribution:
 
-*Method 1:* In-line commnents
+*Method 1:* In-line comments
+
 <code> Use this method to additional information regarding the bulk of the text </code>
+
+```
+<code> Use this method to additional information regarding the bulk of the text </code>
+```
 
 *Method 2:*  Blockquote
 
 > This is my blockquote
-> You can include multiple lines
+```
+> This is my blockquote
+```
 
 Add blockquotes for information regarding PIDs, phase of the research project and information regarding stakeholders.  
 
