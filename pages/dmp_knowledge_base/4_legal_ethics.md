@@ -23,6 +23,8 @@ toc: true
 
 {% include callout.html type="note" content="*For research there are two options for legal bases for processing of personal data, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.* " %} 
 
+{% include callout.html type="tip" content="(Consult SIKTs guidance for information and consent)[https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects]" %}
+
 - Gain informed consent for preservation and/or sharing of personal data.
 
 {% include callout.html type="note" content="*If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes* " %} 
