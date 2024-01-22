@@ -162,6 +162,6 @@ In short, you increase the FAIRness of data by
 #### [SIKT](https://sikt.no/en/data-management-plan)
 Note that costs associated with open access to research data may be a qualified part of the research grant. This applies, for example, for Horizon 2020 projects (if otherwise in accordance with the terms of the grant agreement).
 
-#### [EasyDMP](https://www.sigma2.no/data-planning)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [EasyDMP] (https://www.sigma2.no/data-planning)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Describe the resources that will be dedicated to the management of your data such that it follows the FAIR (Findable, Accessible, Interoperable, Reusable) principles**
 - You should consider the resources (time, personnel, money) necessary to preserve and share the data. You should cover where the resources will come from.
