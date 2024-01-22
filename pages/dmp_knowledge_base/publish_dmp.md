@@ -14,10 +14,10 @@ toc: true
 ## Where can you publish your DMP?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 not covered
 
-### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)
+### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 not covered
 
 ### Relevant PID
@@ -49,5 +49,5 @@ We also recommend assigning your data management plan a persistent identifier, s
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-#### [Open Science Toolbox, CC0](http://openscience.prototyp.io/node/56)
+#### [Open Science Toolbox](http://openscience.prototyp.io/node/56) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 Forskningsrådet og andre finansiører oppfordrer til åpen publisering av datahåndteringsplaner. Da planene endres underveis, kan det gjerne publiseres flere versjoner etter hvert som de oppdateres. Mange prosjekt publiserer ulike versjoner av sin datahåndteringsplan i arkiv som Zenodo.
