@@ -17,12 +17,21 @@ toc: true
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
 - Outline the roles and responsibilities for data management/stewardship activities for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. Name responsible individual(s) where possible.
+{% include callout.html type="note" content="*Comment for support staff: PI (Principal Investigator) is the one resoponsible for the project and all its activities and outputs. So naming roles and project members responsible for activities is to be understood as naming who is given the identified tasks in the project.*" %}
+{% include callout.html type="note" content="*Comment for support staff: Include an identified person/role who is responsible for controlling access to the data in the period before data is archived.*" %}
+{% include callout.html type="note" content="*Comment for support staff: 'Data quality' is a notion encompassing most attributes of data and datasets. So identifying responsible individuals needs to be broken down into activities.*" %}
+{% include callout.html type="note" content="*Comment for support staff: Also identify who is responsible for the data after the project is ended.*" %}   
 - For collaborative projects, explain the co-ordination of data management responsibilities across partners.
 - Indicate who is responsible for implementing the DMP, and for ensuring it is reviewed and, if necessary, revised.
+{% include callout.html type="note" content="*Comment: Implementing the DMP should be understood as both writing and updating the DMP, while also ensuring the project and its members to be aware of the DMP and refer to it as the project proceeds. The DMP is an active project management tool.*" %}
 - Consider regular updates of the DMP
+{% include callout.html type="note" content="*Comment for support staff: Regular updates are important. The value of a DMP is best if is up to date at all times during the project.*" %}
+{% include callout.html type="note" content="*Comment for support staff: Institutions should have their routines for approving DMPs. The institution responsible for the project should approve the plan.*" %} 
+
 
 ### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)
 - Determine the role of the data repository in your data management and stewardship. Choose an adequate repository to archive and share your data in that can meet or surpass your desires. Trustworthy Digital Repositories (TDRs) are repositories that provide support and take responsibility for data curation and digital preservation. TDRs can be officially certified (e.g., by the CoreTrustSeal, DIN31644/NESTOR, or ISO163638 standard). Use Re3data to find certified TDRs to deposit your data in.
+{% include callout.html type="note" content="*Comment for support staff: Make an effort early in the project to find a repository that is well suited, to make sure the most appropriate repository is identified.*" %} 
 
 ### Relevant PID
 - ORCID to identify individuals
@@ -38,15 +47,16 @@ toc: true
 ---
 <!--additional explanations-->
 ### Explanations for support staff
-- Assigning roles (e.g. CRediT), 
-- Understanding responsibilities (e.g. GDPR & institution)
-- Stress the importance of clear distribution of roles and responsibilities, and the importance of communicating the roles and responsibilities among project members
+- *Assigning roles (e.g. CRediT),* 
+- *Understanding responsibilities (e.g. GDPR & institution)* 
+- *Stress the importance of clear distribution of roles and responsibilities, and the importance of communicating the roles and responsibilities among project members.*
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Data management - reponsibilities and resources]
 - Which roles are assigned which responsibility for data management activities in the project? Examples of activities are data capture, metadata production, data quality, storage and backup, long-term preservation and data sharing. Responsible individuals should be disclosed, if possible.
 - For collaborative projects; How is responsibility for data management between partners coordinated?
 - Who is responsible for implementing the data management plan and for ensuring that the plan is reviewed and regularly updated? In our guidelines, it is the responsible institution that must approve the plan.
+- *Comment for support staff: Institutions should have their routines for approving DMPs.* 
 
 
 #### [FAIRsFAIR - sufficiently addressed](https://doi.org/10.5281/zenodo.6088215)
