@@ -71,7 +71,7 @@ There are three ways you can annotate text from other sources, to make it clear 
 
 *Method 1:* In-line comments
 
-<code> Use this method to additional information regarding the bulk of the text </code>
+<quote> Use this method to additional information regarding the bulk of the text </quote>
 
 ```
 <code> Use this method to additional information regarding the bulk of the text </code>
