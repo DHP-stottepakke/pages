@@ -14,12 +14,11 @@ toc: true
 # General annotations to Science Europe guidelines
 ## Science Europe guidelines 4 Legal requirements, ethical requirements, codes of conduct 
 
-
 ---
-### 4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
-hvordan adressere security
+>### 4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
 
-Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues
+Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
+Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under 3. storage and backup.
 
 > 4a.1
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
