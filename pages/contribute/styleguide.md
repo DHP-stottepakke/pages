@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Style Guide
-search_exclude: false
+search_exclude: true
 sidebar: Styleguide
 ---
 
