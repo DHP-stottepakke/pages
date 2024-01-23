@@ -22,7 +22,7 @@ toc: true
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
 Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under 3. storage and backup.
 
-If Helseforsknignsloven...
+If Helseforsknignsloven... hvor..
 
 > 4a.1
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
