@@ -21,7 +21,8 @@ hvordan adressere security
 
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues
 
-> 4a.1 Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
+> 4a.1
+> Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
 
 For research there are two options for legal bases for processing of personal data, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
 
@@ -29,33 +30,50 @@ For research there are two options for legal bases for processing of personal da
 
 Also Consult your institutions requirements for notification forms for personal data, DPIA, risk and compliance system or similar
 
-> 4a.2 Gain informed consent for preservation and/or sharing of personal data.
+> 4a.2
+> Gain informed consent for preservation and/or sharing of personal data.
 
 If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes
 
-> 4a.3 Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
+> 4a.3
+> Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
 
 The relevance of anonymisation will depend on the data type and other available information
 
 [Consult the norwegian data protections agency guidance for data anonymisation](lenke)
 
-> 4a.4 Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
-  Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation, removing or not collection more personal information than strictly necessary for the purpose 
-> 4a.5 Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
-Ignore this, encryption should be addressed under 3 storage and backup*
+> 4a.4
+> Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
 
- > 4a.6 Explain whether there is a managed access procedure in place for authorised users of personal data.
+Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation, removing or not collection more personal information than strictly necessary for the purpose
+
+> 4a.5
+> Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
+
+Ignore this, encryption should be addressed under 3 storage and backup
+
+> 4a.6
+> Explain whether there is a managed access procedure in place for authorised users of personal data.
+
 Make sure this is addressed under storage and backup, in addition consider who should have and manage access at and archiving stage.
 
-   *If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over.*
+If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over.
 
 ---
 ### 4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
-- Explain who will be the owner of the data, meaning who will have the rights to control access:
-- Explain what access conditions will apply to the data? Will the data be openly accessible, or will there be access restrictions? In the latter case, which? Consider the use of data access and re-use licenses.
-- Make sure to cover these matters of rights to control access to data for multi-partner projects and multiple data owners, in the consortium agreement.
-- Indicate whether intellectual property rights (for example Database Directive, sui generis rights) are affected. If so, explain which and how will they be dealt with.
-- Indicate whether there are any restrictions on the re-use of third-party data.
+
+> 4b.1
+> Explain who will be the owner of the data, meaning who will have the rights to control access:
+
+> 4b.2
+>  Explain what access conditions will apply to the data? Will the data be openly accessible, or will there be access restrictions? In the latter case, which? Consider the use of data access and re-use licenses.
+
+> 4.b.3
+> Make sure to cover these matters of rights to control access to data for multi-partner projects and multiple data owners, in the consortium agreement.
+
+> Indicate whether intellectual property rights (for example Database Directive, sui generis rights) are affected. If so, explain which and how will they be dealt with.
+
+> Indicate whether there are any restrictions on the re-use of third-party data.
 
 ### 4c How will possible ethical issues be taken into account, and codes of conduct followed?
 * *
