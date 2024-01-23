@@ -18,20 +18,6 @@ toc: true
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
-Bokser:
-- Outline the roles and responsibilities for data management/stewardship activities for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. Name responsible individual(s) where possible.
-{% include callout.html type="note" content="*Comment for support staff: PI (Principal Investigator) is the one resoponsible for the project and all its activities and outputs. So naming roles and project members responsible for activities is to be understood as naming who is given the identified tasks in the project.*" %}
-{% include callout.html type="note" content="*Comment for support staff: Include an identified person/role who is responsible for controlling access to the data in the period before data is archived.*" %}
-{% include callout.html type="note" content="*Comment for support staff: 'Data quality' is a notion encompassing most attributes of data and datasets. So identifying responsible individuals needs to be broken down into activities.*" %}
-{% include callout.html type="note" content="*Comment for support staff: Also identify who is responsible for the data after the project is ended.*" %}   
-- For collaborative projects, explain the co-ordination of data management responsibilities across partners.
-- Indicate who is responsible for implementing the DMP, and for ensuring it is reviewed and, if necessary, revised.
-{% include callout.html type="note" content="*Comment: Implementing the DMP should be understood as both writing and updating the DMP, while also ensuring the project and its members to be aware of the DMP and refer to it as the project proceeds. The DMP is an active project management tool.*" %}
-- Consider regular updates of the DMP
-{% include callout.html type="note" content="*Comment for support staff: Regular updates are important. The value of a DMP is best if is up to date at all times during the project.*" %}
-{% include callout.html type="note" content="*Comment for support staff: Institutions should have their routines for approving DMPs. The institution responsible for the project should approve the plan.*" %} 
-
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
 Ikke boks:
 <!--Consider also 4b1: Explain who will be the owner of the data, meaning who will have the rights to control access-->
 
