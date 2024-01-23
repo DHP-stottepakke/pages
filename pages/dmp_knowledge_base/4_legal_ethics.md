@@ -26,7 +26,7 @@ Personal privacy is here addressed purely from a legal perspective, if working w
 
 For research there are two options for legal bases for processing of personal data, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
 
-[Consult SIKTs guidance for information and consent](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects)
+[Consult SIKTs guidance for information and consent "2024-01-23"](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects)
 
 Also Consult your institutions requirements for notification forms for personal data, DPIA, risk and compliance system or similar
 
@@ -40,7 +40,7 @@ If consent is used as legal basis for processing of personal data consider askin
 
 The relevance of anonymisation will depend on the data type and other available information
 
-[Consult the norwegian data protections agency guidance for data anonymisation](lenke)
+[Consult the norwegian data protections agency guidance for data anonymisation "2024-01-23"](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
 
 > 4a.4
 > Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
