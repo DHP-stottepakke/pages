@@ -96,3 +96,5 @@ Use blockquotes when pasting text from other reseources, such as Science Europe.
 {% include callout.html type="note" content="This is my note or annotations. Please note that these boxes do not support additional formatting within them." %}
 ```
 
+Avoid overuse of these boxes - they are meant to grab attentiton and overuse diminishes their value. 
+
