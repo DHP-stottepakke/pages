@@ -22,6 +22,8 @@ toc: true
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
 Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under 3. storage and backup.
 
+If Helseforsknignsloven...
+
 > 4a.1
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
 
@@ -63,6 +65,9 @@ If the data should be available for future research contact the archive you wish
 ---
 ### 4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
 
+Allert!! Eksportkontroll, IP, 
+
+
 > 4b.1
 > Explain who will be the owner of the data, meaning who will have the rights to control access:
 
@@ -72,9 +77,10 @@ If the data should be available for future research contact the archive you wish
 > 4.b.3
 > Make sure to cover these matters of rights to control access to data for multi-partner projects and multiple data owners, in the consortium agreement.
 
+> 4.b.4
 > Indicate whether intellectual property rights (for example Database Directive, sui generis rights) are affected. If so, explain which and how will they be dealt with.
 
-> Indicate whether there are any restrictions on the re-use of third-party data.
+> 4.b.5 Indicate whether there are any restrictions on the re-use of third-party data.
 
 ### 4c How will possible ethical issues be taken into account, and codes of conduct followed?
 * *
