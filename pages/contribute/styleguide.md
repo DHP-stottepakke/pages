@@ -2,7 +2,8 @@
 layout: page
 title: Style Guide
 search_exclude: true
-sidebar: Styleguide
+sidebar: contribute
+page_id: styleguide
 ---
 
 The style guide is adapted from the [RDMKit knowledge base style guide](https://rdmkit.elixir-europe.org/style_guide "RDMKit style guide") by [ELIXIR Europe](https://elixir-europe.org/ "ELIXIR Europe main page")  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
