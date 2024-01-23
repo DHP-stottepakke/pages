@@ -33,6 +33,8 @@ Bokser:
 
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
 Ikke boks:
+<!--Consider also 4b1: Explain who will be the owner of the data, meaning who will have the rights to control access-->
+
 - Outline the roles and responsibilities for data management/stewardship activities for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. Name responsible individual(s) where possible.
 - *Comment for support staff: PI (Principal Investigator) is the one resoponsible for the project and all its activities and outputs. So naming roles and project members responsible for activities is to be understood as naming who is given the identified tasks in the project.*
 - *Comment for support staff: Include an identified person/role who is responsible for controlling access to the data in the period before data is archived.*
