@@ -12,6 +12,8 @@ toc: true
 ---
 
 <!--Science Europe question ID & title-->
+<!--Note: Rollefordeling bør inn tidlig, om Admin av prosjektet-->
+
 ## 6a - Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?
 
 <!--key information-->
@@ -37,6 +39,7 @@ Ikke boks:
 - *Comment for support staff: 'Data quality' is a notion encompassing most attributes of data and datasets. So identifying responsible individuals needs to be broken down into activities.*
 - *Comment for support staff: Also identify who is responsible for the data after the project is ended.*
 - For collaborative projects, explain the co-ordination of data management responsibilities across partners.
+- *Comment: Important if two or more legislatures are involved. Important if personal data are collected.*
 - Indicate who is responsible for implementing the DMP, and for ensuring it is reviewed and, if necessary, revised.
 - *Comment: Implementing the DMP should be understood as both writing and updating the DMP, while also ensuring the project and its members to be aware of the DMP and refer to it as the project proceeds. The DMP is an active project management tool.*
 - Consider regular updates of the DMP
