@@ -92,6 +92,7 @@ og alt annet
 > 4.b.5\
 > Indicate whether there are any restrictions on the re-use of third-party data.
 
+---
 >### 4c 
 >### How will possible ethical issues be taken into account, and codes of conduct followed?
 
