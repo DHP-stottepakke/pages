@@ -20,18 +20,20 @@ toc: true
 >### 4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
 
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
-Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under 3. storage and backup.
+Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](legg inn lenke) .
 
-If Helseforsknignsloven...
+If conducting health research, consult Helseforsknginsloven and Helseregisterloven
 
-> 4a.1
+> 4a.1\
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
 
-For research there are two options for legal bases for processing of personal data, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
+According to GDPR there are two options for legal bases for processing of personal data in research, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
 
 [Consult SIKTs guidance for information and consent "2024-01-23"](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects)
 
 Also Consult your institutions requirements for notification forms for personal data, DPIA, risk and compliance system or similar
+
+
 
 > 4a.2
 > Gain informed consent for preservation and/or sharing of personal data.
@@ -66,7 +68,8 @@ If the data should be available for future research contact the archive you wish
 ### 4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
 
 Allert!! Eksportkontroll, IP, 
-
+Kulturminneloven
+og alt annet
 
 > 4b.1
 > Explain who will be the owner of the data, meaning who will have the rights to control access:
@@ -83,12 +86,28 @@ Allert!! Eksportkontroll, IP,
 > 4.b.5 Indicate whether there are any restrictions on the re-use of third-party data.
 
 ### 4c How will possible ethical issues be taken into account, and codes of conduct followed?
-* *
-- Consider whether ethical issues can affect how data are stored and transferred, who can see or use them, and how long they are kept.
-* *
-- Demonstrate awareness of these aspects and respective planning. - Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
+
+- Nesh m venner
+- FOTS dyreforsøk
+- Forskningsetikkloven
+
+> 4c.1
+>
+> Consider whether ethical issues can affect how data are stored and transferred, who can see or use them, and how long they are kept.
+
+Make sure this is appropriately addressed under [3. storage and backup 3b.3](legg inn lenke).
+
+
+> 4c.2
+>
+> Demonstrate awareness of these aspects and respective planning. - Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
 
 * *
+- CARE - reflect on and consult communites 
+- Nangoya protocolls
+- RRI
+
+  
  ---
  ---
  
