@@ -5,7 +5,7 @@ search_exclude: false
 sidebar: Styleguide
 ---
 
-The style guide is adapted from the [RDMKit knowledge base style guide](https://rdmkit.elixir-europe.org/style_guide "RDMKit style guide") by [ELIXIR Europe](https://elixir-europe.org/ "ELIXIR Europe main page") (CC-BY 4.0)
+The style guide is adapted from the [RDMKit knowledge base style guide](https://rdmkit.elixir-europe.org/style_guide "RDMKit style guide") by [ELIXIR Europe](https://elixir-europe.org/ "ELIXIR Europe main page")  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## General style and tone
   * Keep the tone friendly rather than formal, and use "you". Imagine you were explaining something verbally to someone - how would you say it?
