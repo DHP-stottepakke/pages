@@ -116,19 +116,21 @@ Who has the right to manage the data? (Usually several members of the project gr
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
 - Explain how the necessary resources (for example time) to prepare the data for sharing/preservation (data curation) have been costed in. Carefully consider and justify any resources needed to deliver the data. These may include storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges.
-- *Comment for support staff: Include also the resources needed for collecting or generating the data. Some activities to prepare data for sharing/preservation may be done simultaneously with data collection or generation.*
+- *Comment for support staff: Include also the resources needed for collecting or generating the data: The cost of staff to collect, process, manage, and document the data during the project, as well as to prepare the data and documentation for long-term preservation and possible dissemination, which will improve the FAIRness of the data.*
 - Indicate whether additional resources will be needed to prepare data for deposit or to meet any charges from data repositories. If yes, explain how much is needed and how such costs will be covered.
-- *Comment for support staff: Include monetary costs on these activities in your project budget. Both for your project administrative needs, and to include in your funding application.*
+- *Comment for support staff: Include monetary costs on these activities in your project budget, preferrably broken down on activties and services. Both for your project administrative needs, and to include in your funding application. Revise your budget on these elements when needed.*
+- *Comment for support staff: Make an effort early in the project to identify preferred repository, so that repository charges may be included in the budget and in the funding application.*
   
 ### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)
 - Determine any costs that your chosen repository charges for depositing the data. Data repositories, especially TDRs (‘trustworthy digital repositories’) will perform (some) data curation and digital preservation. This is an active and ongoing process of data management to ensure discovery, reuse, and long-term FAIR durability. Contact the repository of your choice to learn about these costs and make them explicit in your DMP.
 
 ### Relevant PID
-none?
+- PID for chosen repository/-ies
 
 ### Interested stakeholder
 - Level 1: Funder
 - Level 2: Research Administration
+- Research community. To learn from other projects’ experiences.
 
 ---
 <!--additional explanations-->
