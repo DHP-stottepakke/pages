@@ -11,48 +11,58 @@ sidebar: dmp_knowledge_base
 toc: true
 ---
 
-# General annotations to Science Europe guidelines
-## Science Europe guidelines 4 Legal requirements, ethical requirements, codes of conduct 
+# 4 Legal requirements, ethical requirements, codes of conduct 
 
+
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 
 ---
-### 4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
-hvordan adressere security
+>### 4a
+>### If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
 
-Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues
+Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
+Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](legg inn lenke) .
 
-> 4a.1
+[Test the Ethics and data protection decision tree from European Commission](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
+
+
+If conducting health research, consult Helseforsknginsloven and Helseregisterloven
+
+> 4a.1\
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
 
-For research there are two options for legal bases for processing of personal data, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
+According to GDPR there are two options for legal bases for processing of personal data in research, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
 
-[Consult SIKTs guidance for information and consent](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects)
+- [Consult SIKTs guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
+- [Consult SIKTs guidance for information and consent "2024-01-23"](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects)
 
 Also Consult your institutions requirements for notification forms for personal data, DPIA, risk and compliance system or similar
 
-> 4a.2
+
+
+> 4a.2\
 > Gain informed consent for preservation and/or sharing of personal data.
 
 If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes
 
-> 4a.3
+> 4a.3\
 > Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
 
 The relevance of anonymisation will depend on the data type and other available information
 
-[Consult the norwegian data protections agency guidance for data anonymisation](lenke)
+[Consult the norwegian data protections agency guidance for data anonymisation "2024-01-23"](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
 
-> 4a.4
+> 4a.4\
 > Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
 
 Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation, removing or not collection more personal information than strictly necessary for the purpose
 
-> 4a.5
+> 4a.5\
 > Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
 
 Ignore this, encryption should be addressed under 3 storage and backup
 
-> 4a.6
+> 4a.6\
 > Explain whether there is a managed access procedure in place for authorised users of personal data.
 
 Make sure this is addressed under storage and backup, in addition consider who should have and manage access at and archiving stage.
@@ -60,28 +70,53 @@ Make sure this is addressed under storage and backup, in addition consider who s
 If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over.
 
 ---
-### 4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
+>### 4b
+>### How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
 
-> 4b.1
+Allert!! Eksportkontroll, IP, 
+Kulturminneloven
+og alt annet
+
+> 4b.1\
 > Explain who will be the owner of the data, meaning who will have the rights to control access:
 
-> 4b.2
+> 4b.2\
 >  Explain what access conditions will apply to the data? Will the data be openly accessible, or will there be access restrictions? In the latter case, which? Consider the use of data access and re-use licenses.
 
-> 4.b.3
+> 4.b.3\
 > Make sure to cover these matters of rights to control access to data for multi-partner projects and multiple data owners, in the consortium agreement.
 
+> 4.b.4\
 > Indicate whether intellectual property rights (for example Database Directive, sui generis rights) are affected. If so, explain which and how will they be dealt with.
 
+> 4.b.5\
 > Indicate whether there are any restrictions on the re-use of third-party data.
 
-### 4c How will possible ethical issues be taken into account, and codes of conduct followed?
-* *
-- Consider whether ethical issues can affect how data are stored and transferred, who can see or use them, and how long they are kept.
-* *
-- Demonstrate awareness of these aspects and respective planning. - Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
+---
+>### 4c 
+>### How will possible ethical issues be taken into account, and codes of conduct followed?
+
+- Nesh m venner
+- FOTS dyreforsøk
+- Forskningsetikkloven
+- [Ethics and governance of artificial intelligence for health])https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf?sequence=1)
+- [National Research Ethics Committees Q&A: Lew privacy legislation - what does this imply for research *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
+
+> 4c.1\
+> Consider whether ethical issues can affect how data are stored and transferred, who can see or use them, and how long they are kept.
+
+Make sure this is appropriately addressed under [3. storage and backup 3b.3](legg inn lenke).
+
+
+> 4c.2\
+> Demonstrate awareness of these aspects and respective planning. - Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
 
 * *
+- CARE - reflect on and consult communites 
+- Nangoya protocolls
+- RRI
+
+  
  ---
  ---
  
@@ -130,11 +165,6 @@ post-award
 <!--additional explanations-->
 ### Explanations for support staff
 
-[SIKT : Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
-
-[National Research Ethics Committees Q&A: Lew privacy legislation - what does this imply for research *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
-
-[Ethics and data protection decision tree](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
 
 Comment to Guidance from NFR 3. below: encryption is not sustainable for long term preservation <!-- vurder om dette skal diskuteres (LK)-->
 
