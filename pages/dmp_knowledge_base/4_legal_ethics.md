@@ -11,7 +11,7 @@ sidebar: dmp_knowledge_base
 toc: true
 ---
 
-# Science Europe guidelines 4 Legal requirements, ethical requirements, codes of conduct 
+# 4 Legal requirements, ethical requirements, codes of conduct 
 
 
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
