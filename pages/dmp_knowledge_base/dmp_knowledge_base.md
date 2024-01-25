@@ -12,4 +12,4 @@ sidebar: dmp_knowledge_base
 
 This section collects useful information for support personnel.
 
-Our understanding of the DMP structure is based on the Science Europe [Practical Guide to the International Alignmetn of Research Data Management](https://scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/).
+Our understanding of the DMP structure is based on the Science Europe [Practical Guide to the International Alignment of Research Data Management](https://scienceeurope.org/our-resources/practical-guide-to-the-international-alignment-of-research-data-management/).

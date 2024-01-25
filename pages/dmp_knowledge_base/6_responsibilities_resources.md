@@ -17,7 +17,8 @@ toc: true
 ## 6a - Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?
 
 <!--key information-->
-> 6a.1
+
+> 6a.1\
 > Outline the roles and responsibilities for data management/stewardship activities for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. Name responsible individual(s) where possible.
 
 PI (Principal Investigator) is the one responsible for the project and all its activities and outputs. Therefore, naming roles and project members responsible for activities is to be understood as naming individuals responsible for given tasks in the project. 'Data quality' is a notion encompassing most attributes of data and datasets. So identifying responsible individuals needs to be broken down into activities.
@@ -25,21 +26,22 @@ It is recommended to include a person/role who is responsible for controlling ac
 Make an effort early in the project to find a repository that is well suited, to make sure the most appropriate repository is identified and the repository takes responsibility for digital preservation.
 Also identify who is responsible for the data after the project is ended. This is particularly important if not all data can be made openly accessible.
 
-> 6a.2
+> 6a.2\
 > For collaborative projects, explain the co-ordination of data management responsibilities across partners.
 
 Important if two or more legislatures are involved, and/or personal data are collected, and/or IPR or commercial value need to be clariefied (see also section [4 - Legal and ethical requirements](https://dhp-stottepakke.github.io/pages/4_legal_ethics).
 
-> 6a.3
+> 6a.3\
 > Indicate who is responsible for implementing the DMP, and for ensuring it is reviewed and, if necessary, revised.
 
 Implementing the DMP should be understood as both writing and updating the DMP, while also ensuring the project and its members to be aware of the DMP and refer to it as the project proceeds. The DMP is an active project management tool.
 
-> 6a.4
+> 6a.4\
 > Consider regular updates of the DMP
 
 Regular updates are important. The value of a DMP as a project tool is best if it is up to date at all times during the project.
 Be familiar with routines at your institution for approving DMPs. It is recommended that institutions should have DMP routines and that the institution responsible for the project should approve the plan.
+
 
 ```
 **Relevant PID**
@@ -78,7 +80,6 @@ Be familiar with routines at your institution for approving DMPs. It is recommen
 - Clearly indicates who is responsible for day-to-day implementation and adjustments to the DMP.
 - Explains, for collaborative projects, the co-ordination of data management responsibilities across partners.
 
-
 ---
 <!--additional explanations - only keywords-->
 ### Explanations for users
@@ -104,7 +105,7 @@ It is essential to consider data security issues, especially if your data includ
 - Consider scheduling regular updates of the DMP.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Is personal data involved in the dataset? If so, has the personal data processing been reported to the data protection officer, in compliance with the research principal’s policies?]
+[Is personal data involved in the dataset? If so, has the personal data processing been reported to the data protection officer, in compliance with the research principal’s policies?]\\
 Why is this important? Research material that will contain personal data has to be reported to the data protection officer. The research principal is legally obligated (GDPR, Article 30) to keep a record of all projects where personal data are processed.
 
 #### [NTNU - DMP guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
@@ -125,11 +126,14 @@ Who has the right to manage the data? (Usually several members of the project gr
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
-> 6b.1 Explain how the necessary resources (for example time) to prepare the data for sharing/preservation (data curation) have been costed in. Carefully consider and justify any resources needed to deliver the data. These may include storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges.
+> 6b.1\
+> Explain how the necessary resources (for example time) to prepare the data for sharing/preservation (data curation) have been costed in. Carefully consider and justify any resources needed to deliver the data. These may include storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges.
+
 
 Include also the resources needed for collecting or generating the data: The cost of staff to collect, process, manage, and document the data during the project, as well as to prepare the data and documentation for long-term preservation and possible dissemination, which will improve the FAIRness of the data.
 
-> 6b.1 Indicate whether additional resources will be needed to prepare data for deposit or to meet any charges from data repositories. If yes, explain how much is needed and how such costs will be covered.
+> 6b.1\
+> Indicate whether additional resources will be needed to prepare data for deposit or to meet any charges from data repositories. If yes, explain how much is needed and how such costs will be covered.
 
 Include monetary costs on these activities in your project budget, preferrably broken down on activties and services. Both for your project administrative needs, and to include in your funding application. Make an effort early in the project to identify preferred repository, so that repository charges may be included in the budget and in the funding application. Revise your budget on these elements when needed.
 
@@ -146,11 +150,11 @@ Include monetary costs on these activities in your project budget, preferrably b
 - planning post-award
 ```
 
-
 ---
 <!--additional explanations-->
 ### Explanations for support staff
-Costing RDM
+- Costing RDM, funder guidelines on what costs are eligible
+- Resources e.g. [OpenAire section costs of RDM](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm), [OpenAire RDM cost estimation](https://www.openaire.eu/estimating-costs-rdm-tool)
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Storage and data security during the project]
@@ -167,7 +171,8 @@ Costing RDM
 ---
 <!--additional explanations - only keywords-->
 ### Explanations for users
-Costing RDM
+- Costing RDM
+- Resources e.g. [OpenAire section costs of RDM](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm), [OpenAire RDM cost estimation](https://www.openaire.eu/estimating-costs-rdm-tool)
 
 <!--recycling possible?-->
 ### Existing sources that can be reused
@@ -182,7 +187,7 @@ Costing RDM
 - Remember to specify your data management costs in the budget, according to funder requirements.
 
 #### [SND - Checklist for DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Estimate what resources you will need to collect and document the data material during the project. This includes the cost of staff to collect, process, manage, and document the data during the project, as well as to prepare the data and documentation for long-term preservation and possible dissemination, which will improve the FAIRness of the data.]
+[Estimate what resources you will need to collect and document the data material during the project. This includes the cost of staff to collect, process, manage, and document the data during the project, as well as to prepare the data and documentation for long-term preservation and possible dissemination, which will improve the FAIRness of the data.]\\
 **Why is this important?**
 Handling and documenting data tends to require more resources than planned. By planning for and documenting staff costs for documentation and data management during the project, as well as for the work needed to archive and make the data accessible after the project, you are more likely to have sufficient resources.
 
@@ -200,6 +205,6 @@ In short, you increase the FAIRness of data by
 #### [SIKT](https://sikt.no/en/data-management-plan)
 Note that costs associated with open access to research data may be a qualified part of the research grant. This applies, for example, for Horizon 2020 projects (if otherwise in accordance with the terms of the grant agreement).
 
-#### [EasyDMP] (https://www.sigma2.no/data-planning)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [EasyDMP](https://www.sigma2.no/data-planning)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Describe the resources that will be dedicated to the management of your data such that it follows the FAIR (Findable, Accessible, Interoperable, Reusable) principles**
 - You should consider the resources (time, personnel, money) necessary to preserve and share the data. You should cover where the resources will come from.
