@@ -18,12 +18,11 @@ toc: true
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
-Ikke boks:
 <!--Consider also 4b1: Explain who will be the owner of the data, meaning who will have the rights to control access-->
 
 - Outline the roles and responsibilities for data management/stewardship activities for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. Name responsible individual(s) where possible.
 - *Comment for support staff: PI (Principal Investigator) is the one resoponsible for the project and all its activities and outputs. So naming roles and project members responsible for activities is to be understood as naming who is given the identified tasks in the project.*
-- *Comment for support staff: Include an identified person/role who is responsible for controlling access to the data in the period before data is archived.*
+- *Comment for support staff: Include an identified person/role who is responsible for controlling access to the data, including who has the right to view and who has the right to edit the data, in the period before data is archived.*
 - *Comment for support staff: 'Data quality' is a notion encompassing most attributes of data and datasets. So identifying responsible individuals needs to be broken down into activities.*
 - *Comment for support staff: Also identify who is responsible for the data after the project is ended.*
 - For collaborative projects, explain the co-ordination of data management responsibilities across partners.
@@ -31,7 +30,7 @@ Ikke boks:
 - Indicate who is responsible for implementing the DMP, and for ensuring it is reviewed and, if necessary, revised.
 - *Comment: Implementing the DMP should be understood as both writing and updating the DMP, while also ensuring the project and its members to be aware of the DMP and refer to it as the project proceeds. The DMP is an active project management tool.*
 - Consider regular updates of the DMP
-- *Comment for support staff: Regular updates are important. The value of a DMP is best if is up to date at all times during the project.*
+- *Comment for support staff: Regular updates are important. The value of a DMP as a project tool is best if it is up to date at all times during the project.*
 - *Comment for support staff: Institutions should have their routines for approving DMPs. The institution responsible for the project should approve the plan.*
 
 ### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)
@@ -117,8 +116,10 @@ Who has the right to manage the data? (Usually several members of the project gr
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)
 - Explain how the necessary resources (for example time) to prepare the data for sharing/preservation (data curation) have been costed in. Carefully consider and justify any resources needed to deliver the data. These may include storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges.
+- *Comment for support staff: Include also the resources needed for collecting or generating the data. Some activities to prepare data for sharing/preservation may be done simultaneously with data collection or generation.*
 - Indicate whether additional resources will be needed to prepare data for deposit or to meet any charges from data repositories. If yes, explain how much is needed and how such costs will be covered.
-
+- *Comment for support staff: Include monetary costs on these activities in your project budget. Both for your project administrative needs, and to include in your funding application.*
+  
 ### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)
 - Determine any costs that your chosen repository charges for depositing the data. Data repositories, especially TDRs (‘trustworthy digital repositories’) will perform (some) data curation and digital preservation. This is an active and ongoing process of data management to ensure discovery, reuse, and long-term FAIR durability. Contact the repository of your choice to learn about these costs and make them explicit in your DMP.
 
