@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Documentation and data quality
 search_exclude: false
-contributors: [Svein Høier, Lisbeth Jahren]
+contributors: [Svein Høier, Lisbeth Jahren, Illimar Rekand]
 page_id: 2_documentation_quality
 description: Data documentation, metadata, data quality
 affiliations: 
@@ -49,6 +49,13 @@ in the active phase of research.
 ```
 
 ---
+
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+
+> Will data be identified by a persistent identifier?
+
+> Will rich metadata be provided to allow discovery? What metadata will be created? What disciplinary or general standards will be followed? In case metadata standards do not exist in your discipline, please outline what type of metadata will be created and how
+
 <!--additional explanations-->
 ### Explanations for support staff
 - Identifying domain-specific archives. Generic archive properties.
@@ -150,6 +157,13 @@ not pid, but defined persitant standards for quality control relevant?
 ```
 
 ---
+
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+
+> Will search keywords be provided in the metadata to optimize the possibility for discovery and then potential re-use?
+
+> Will metadata be offered in such a way that it can be harvested and indexed? 
+
 <!--additional explanations-->
 ### Explanations for support staff
 Researchers might need help to present this explicit (might be self-explanatory to a researcher that one always calibrate an instrument for instance)?
