@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Data sharing and long-term preservation
 search_exclude: false
-contributors: [Svein Høier]
+contributors: [Svein Høier, Illimar Rekand]
 page_id: 5_sharing_preservation
 description: Data sharing, archiving, long-term preservation
 affiliations: 
@@ -37,6 +37,18 @@ toc: true
 ```
 
 ---
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+
+> Have you explored appropriate arrangements with the identified repository where your data will be deposited
+
+> Will all data be made openly available? If certain datasets cannot be shared (or need to be shared under restricted access conditions), explain why, clearly separating legal and contractual reasons from intentional restrictions. Note that in multi-beneficiary projects it is also possible for specific beneficiaries to keep their data closed if opening their data goes against their legitimate interests or other constraints as per the Grant Agreement.
+
+> If an embargo is applied to give time to publish or seek protection of the intellectual property (e.g. patents), specify why and how long this will apply, bearing in mind that research data should be made available as soon as possible.
+
+> If there are restrictions on use, how will access be provided to the data, both during and after the end of the project?
+
+> Will the data be accessible through a free and standardized access protocol?
+
 <!--additional explanations-->
 ### Explanations for support staff
 - Embargo policies and funder guidelines
@@ -130,6 +142,12 @@ Indicate where the data will be deposited. If no established repository is propo
 ```
 
 ---
+
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+
+> Will the data be deposited in a trusted repository?
+
+
 <!--additional explanations-->
 ### Explanations for support staff
 - Preservation selection best practice.
@@ -213,6 +231,8 @@ Use data repositories with a commitment to long-term curation, e.g. Fairdata Dig
 ```
 
 ---
+
+
 <!--additional explanations-->
 ### Explanations for support staff
 - Data provenance
@@ -276,6 +296,10 @@ To make it possible to continue using the data material, it’s important to ent
 ```
 
 ---
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+
+> Does the repository ensure that the data is assigned an identifier? Will the repository resolve the identifier to a digital object
+
 <!--additional explanations-->
 ### Explanations for support staff
 - Types of PIDs
@@ -289,7 +313,7 @@ Will a persistent identifier (DOI) for the datasets be used? Persistent identifi
 ##### Guidance for Researchers
 Choose a data repository to deposit your data in that assigns your desired persistent identifiers (e.g., a DOI, Handle, or ARK for the data, or an ORCID for the researchers). Use Re3data or FAIRsharing to find a suitable repository.
 
-##### Sufficiently adressed
+##### Sufficiently addressed
 - Specifies how the data can be re-used in other contexts.
 - Clearly indicates if and which PIDs are provided for all datasets, individual datasets, data collections, or subsets. If PIDs will not be used, it explains why.
 - Clearly presents the approach, and the choice of identifiers is justified and refers to international standards.
