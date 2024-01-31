@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Legal and ethical requirements, codes of conduct
 search_exclude: false
-contributors: [Live Kvale, Jenny Ostrop]
+contributors: [Live Kvale, Jenny Ostrop, Illimar Rekand]
 page_id: 4_legal_ethics
 description: Legal requirements, ethical requirements, codes of conduct
 affiliations: 
@@ -186,7 +186,7 @@ Comment to Guidance from NFR 3. below: encryption is not sustainable for long te
 - Use data minimisation as a strategy to avoid unwanted privacy breaches. 
 - Explain whether there is a managed access procedure in place for authorized users of personal data. - ensure that this aspect is covered under storage [3B: How will data security and protection of sensitive data be taken care of during the research?](https://dhp-stottepakke.github.io/pages/3_storage_backup)
 
-### Relevant Norwegian guidelines/policier
+### Relevant Norwegian guidelines/policies
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 1. How are GDPR and the Personal Data Act complied with when handling/ processing personal data?

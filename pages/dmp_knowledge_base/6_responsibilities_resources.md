@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Data management responsibilities and resources
 search_exclude: false
-contributors: [Leif Longva]
+contributors: [Leif Longva, Illimar Rekand]
 page_id: 6_responsibilities_resources
 description: Data management responsibilities, Resources for research data management, costing data management
 affiliations: 
@@ -59,6 +59,13 @@ Be familiar with routines at your institution for approving DMPs. It is recommen
 ```
 
 ---
+
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+
+> Who will be responsible for data management in your project?
+> 
+> 
+
 <!--additional explanations-->
 ### Explanations for support staff
 - Assigning roles (e.g. CRediT)
@@ -151,6 +158,13 @@ Include monetary costs on these activities in your project budget, preferrably b
 ```
 
 ---
+
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+
+> What will the costs be for making data or other research outputs FAIR in your project (e.g. direct and indirect costs related to storage, archiving, re-use, security, etc.) 
+
+> 
+
 <!--additional explanations-->
 ### Explanations for support staff
 - Costing RDM, funder guidelines on what costs are eligible

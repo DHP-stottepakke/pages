@@ -56,6 +56,14 @@ in the active phase of research.
 
 > Will rich metadata be provided to allow discovery? What metadata will be created? What disciplinary or general standards will be followed? In case metadata standards do not exist in your discipline, please outline what type of metadata will be created and how
 
+> Will documentation or reference about any software be needed to access or read the data be included? Will it be possible to include the relevant software (e.g. in open source code)?
+
+> What data and metadata vocabularies, standards, formats or methodologies will you follow to make your data interoperable to allow data exchange and re-use within and across disciplines? Will you follow community-endorsed interoperability best practices? Which ones? 
+
+> In case it is unavoidable that you use uncommon or generate project specific ontologies or vocabularies, will you provide mappings to more commonly used ontologies? Will you openly publish the generated ontologies or vocabularies to allow reusing, refining or extending them? 
+
+> How will you provide documentation needed to validate data analysis and facilitate data re-use (e.g. readme files with information on methodology, codebooks, data cleaning, analyses, variable definitions, units of measurement, etc.)?
+
 <!--additional explanations-->
 ### Explanations for support staff
 - Identifying domain-specific archives. Generic archive properties.
@@ -163,6 +171,10 @@ not pid, but defined persitant standards for quality control relevant?
 > Will search keywords be provided in the metadata to optimize the possibility for discovery and then potential re-use?
 
 > Will metadata be offered in such a way that it can be harvested and indexed? 
+
+> Will metadata be made openly available and licenced under a public domain dedication CC0, as per the Grant Agreement? If not, please clarify why. Will metadata contain information to enable the user to access the data?
+
+> Describe all relevant data quality assurance processes
 
 <!--additional explanations-->
 ### Explanations for support staff

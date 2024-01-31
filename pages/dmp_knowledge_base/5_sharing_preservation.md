@@ -43,6 +43,12 @@ toc: true
 
 > Will all data be made openly available? If certain datasets cannot be shared (or need to be shared under restricted access conditions), explain why, clearly separating legal and contractual reasons from intentional restrictions. Note that in multi-beneficiary projects it is also possible for specific beneficiaries to keep their data closed if opening their data goes against their legitimate interests or other constraints as per the Grant Agreement.
 
+> Will your data be made freely available in the public domain to permit the widest re-use possible? Will your data be licensed using standard reuse licenses, in line with the obligations set out in the Grant Agreement?
+
+> Will the data produced in the project be useable by third parties, in particular after the end of the project?
+
+> Will the provenance of the data be thoroughly documented using the appropriate standards?
+
 > If an embargo is applied to give time to publish or seek protection of the intellectual property (e.g. patents), specify why and how long this will apply, bearing in mind that research data should be made available as soon as possible.
 
 > If there are restrictions on use, how will access be provided to the data, both during and after the end of the project?
@@ -146,6 +152,8 @@ Indicate where the data will be deposited. If no established repository is propo
 ### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
 
 > Will the data be deposited in a trusted repository?
+
+> How long will the data remain available and findable? Will metadata be guaranteed to remain available after data is no longer available?
 
 
 <!--additional explanations-->
