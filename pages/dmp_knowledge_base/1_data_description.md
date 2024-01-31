@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Data description
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Jenny Ostrop, Illimar Rekand]
 page_id: 1_data_description
 description: Data description, Data types, Data reuse
 affiliations: 
@@ -38,6 +38,17 @@ Stakeholders interested in receiving data and later governance of data within th
 ```
 
 ---
+
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+
+> Will you re-use any existing data and what will you re-use it for? State the reasons if re-use of any existing data has been considered but discarded.
+
+> What is the purpose of the data generation or re-use and its relation to the objectives of the project?
+
+> To whom might your data be useful ('data utility'), outside your project?
+
+> What is the origin/provenance of the data, either generated or re-used?
+
 <!--additional explanations-->
 ### Explanations for support staff
 - Licensing conditions
@@ -101,6 +112,11 @@ none?
 - pre-award: outline
 - planning post-award, active phase
 ```
+
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+> What types and formats of data will the project generate or re-use?
+
+> What is the expected size of the data that you intend to generate or re-use?
 
 ---
 <!--additional explanations-->
