@@ -18,6 +18,7 @@ toc: true
 - The project will likely have working documents. How are they organized, named, stored, backed-up and exchanged between collaboration partners?
 - Is there ethical questions or Intellectual Property Rights (IPR) to be considered and documented?
 - Text is data, images are data… Specific for the humanities: [10.7486/DRI.tq582c863](https://doi.org/10.7486/DRI.tq582c863)
+- Text
 
 ## Level of the DMP
 
