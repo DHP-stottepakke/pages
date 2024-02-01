@@ -218,6 +218,19 @@ Does the material contain confidential information (e.g. personal data and data 
 - Clearly indicates if personal data will be collected/used as part of the project, and, if applicable, how compliance with applicable legislation will be ensured (for example by gaining informed consent, considering encryption, anonymisation, or pseudonymisation). 
 - Describes the procedure to manage access to only authorised users.
 
+### [10 steps towards privacy compliance in research](https://zenodo.org/records/10417514) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+1. Keep the GDPR in mind when designing your research: Do you need to collect personal data, why, and how much?
+2. Make sure you have a legal basis to use personal data, e.g., public interest or consent
+3. Document privacy risks and privacy-related decisions, e.g., in a Data Management Plan, privacy scan, or Data Protection Impact Assessment
+4. Arrange ethics review. Ethics review makes sure that you have also taken ethical implications into account
+5. Inform participants properly, e.g., in an information letter, oral script, privacy statement
+6. Protect your data with organisational measures, e.g., access control, agreements with external parties, data protection policies, researcher training
+7. Protect your data with technical measures, e.g., anonymise, pseudonymise, encrypt your data, use safe storage
+8. Enable participants to exercise their rights, e.g., right to data access, correction, objection, erasure
+9. FAIR data: balance risks and Open Science principles, e.g., share under restricted access, or only share metadata and materials
+10. Ask for help when you need it! Contact your privacy officer or data steward for support
+
 ### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 **Does the material contain confidential information (e.g. personal data and data with security classification) that requires special treatment and/or limits the access to the material during/after the project?**
