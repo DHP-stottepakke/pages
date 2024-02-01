@@ -220,6 +220,8 @@ Does the material contain confidential information (e.g. personal data and data 
 
 ### [10 steps towards privacy compliance in research](https://zenodo.org/records/10417514) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+**Research Data Management Support. (2023). 10 steps towards privacy compliance in research (v2023.12.21). Utrecht University. https://doi.org/10.5281/zenodo.10417514**
+
 1. Keep the GDPR in mind when designing your research: Do you need to collect personal data, why, and how much?
 2. Make sure you have a legal basis to use personal data, e.g., public interest or consent
 3. Document privacy risks and privacy-related decisions, e.g., in a Data Management Plan, privacy scan, or Data Protection Impact Assessment
