@@ -34,6 +34,11 @@ not covered
 ```
 
 ---
+
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+Do you, or will you, make use of other national/funder/sectorial/departmental procedures for data management? If yes, which ones (please list and briefly describe them)?
+
+
 <!--additional explanations-->
 ### Explanations for support staff
 

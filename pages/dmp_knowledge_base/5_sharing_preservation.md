@@ -155,6 +155,10 @@ Indicate where the data will be deposited. If no established repository is propo
 
 > How long will the data remain available and findable? Will metadata be guaranteed to remain available after data is no longer available?
 
+> How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)?
+
+> Will the data be safely stored in trusted repositories for long term preservation and curation?
+
 
 <!--additional explanations-->
 ### Explanations for support staff

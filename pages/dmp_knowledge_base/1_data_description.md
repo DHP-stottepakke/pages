@@ -118,6 +118,13 @@ none?
 
 > What is the expected size of the data that you intend to generate or re-use?
 
+> Will your data include qualified references  to other data (e.g. other data from your project, or datasets from previous research)?
+
+> In addition to the management of data, beneficiaries should also consider and plan for the management of other research outputs that may be generated or re-used throughout their projects. Such outputs can be either digital (e.g. software, workflows, protocols, models, etc.) or physical (e.g. new materials, antibodies, reagents, samples, etc.).
+
+> Beneficiaries should consider which of the questions pertaining to FAIR data above, can apply to the management of other research outputs, and should strive to provide sufficient detail on how their research outputs will be managed and shared, or made available for re-use, in line with the FAIR principles.
+
+
 ---
 <!--additional explanations-->
 ### Explanations for support staff

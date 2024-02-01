@@ -118,6 +118,12 @@ Losing a data material is something you want to avoid. Secure storage with regul
 ```
 
 ---
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+
+> What provisions are or will be in place for data security (including data recovery as well as secure storage/archiving and transfer of sensitive data)?
+
+> Will the data be safely stored in trusted repositories for long term preservation and curation?
+
 <!--additional explanations-->
 ### Explanations for support staff
 - National policies

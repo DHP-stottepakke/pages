@@ -163,7 +163,9 @@ Include monetary costs on these activities in your project budget, preferrably b
 
 > What will the costs be for making data or other research outputs FAIR in your project (e.g. direct and indirect costs related to storage, archiving, re-use, security, etc.) 
 
-> 
+> How will these be covered? Note that costs related to research data/output management are eligible as part of the Horizon Europe grant (if compliant with the Grant Agreement conditions)
+
+> How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)?
 
 <!--additional explanations-->
 ### Explanations for support staff

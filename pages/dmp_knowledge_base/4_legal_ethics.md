@@ -11,7 +11,7 @@ sidebar: dmp_knowledge_base
 toc: true
 ---
 
-# 4 Legal requirements, ethical requirements, codes of conduct 
+# 4 Legal requirements, ethical requirements, codes of conduct
 
 
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
@@ -50,7 +50,7 @@ If consent is used as legal basis for processing of personal data consider askin
 
 The relevance of anonymisation will depend on the data type and other available information
 
-[Consult the norwegian data protections agency guidance for data anonymisation "2024-01-23"](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
+[Consult the Norwegian data protections agency guidance for data anonymisation "2024-01-23"](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
 
 > 4a.4\
 > Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
@@ -70,6 +70,22 @@ Make sure this is addressed under storage and backup, in addition consider who s
 If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over.
 
 ---
+
+### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
+
+> Are there, or could there be, any ethics or legal issues that can have an impact on data sharing? These can also be discussed in the context of the ethics review. If relevant, include references to ethics deliverables and ethics chapter in the Description of the Action (DoA).
+
+> Will informed consent for data sharing and long term preservation be included in questionnaires dealing with personal data?
+
+
+<!--additional explanations-->
+
+
+### Explanations for support staff
+- Where to find information about local & national computing infrastructure, when to use what.
+- Technical knowledge of backup approaches.
+
+What provisions are or will be in place for data security (including data recovery as well as secure storage/archiving and transfer of sensitive data)?
 >### 4b
 >### How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
 
@@ -93,7 +109,7 @@ og alt annet
 > Indicate whether there are any restrictions on the re-use of third-party data.
 
 ---
->### 4c 
+>### 4c
 >### How will possible ethical issues be taken into account, and codes of conduct followed?
 
 - Nesh m venner
@@ -287,7 +303,7 @@ post-award
 ### Relevant PID
 - Country codes?
 
-### Interested stakeholder	
+### Interested stakeholder
 - Research administration (compliance)
 
 ---
@@ -353,7 +369,7 @@ post-award
 - FOTS ID
 - REK ID
 
-### Interested stakeholder	
+### Interested stakeholder
 - Ethics boards
 - Research administration (compliance)
 
