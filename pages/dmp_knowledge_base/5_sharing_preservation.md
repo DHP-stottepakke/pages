@@ -16,13 +16,17 @@ toc: true
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
-> 5a.1 Explain how the data will be discoverable and shared (for example by deposit in a trustworthy data repository, indexed in a catalogue, use of a secure data service, direct handling of data requests, or use of another mechanism)
+> 5a.1\
+Explain how the data will be discoverable and shared (for example by deposit in a trustworthy data repository, indexed in a catalogue, use of a secure data service, direct handling of data requests, or use of another mechanism)
 
-> 5a.2 Outline the plan for data preservation and give information on how long the data will be retained.
+> 5a.2\
+Outline the plan for data preservation and give information on how long the data will be retained.
 
-> 5a.3 Explain when the data will be made available. Indicate the expected timely release. Explain whether exclusive use of the data will be claimed and if so, why and for how long. Indicate whether data sharing will be postponed or restricted for example to publish, protect intellectual property, or seek patents.
+> 5a.3\
+Explain when the data will be made available. Indicate the expected timely release. Explain whether exclusive use of the data will be claimed and if so, why and for how long. Indicate whether data sharing will be postponed or restricted for example to publish, protect intellectual property, or seek patents.
 
-> 5a.4 Indicate who will be able to use the data. If it is necessary to restrict access to certain communities or to apply a data sharing agreement, explain how and why. Explain what action will be taken to overcome or to minimise restrictions.
+> 5a.4\
+Indicate who will be able to use the data. If it is necessary to restrict access to certain communities or to apply a data sharing agreement, explain how and why. Explain what action will be taken to overcome or to minimise restrictions.
 
 ```
 **Relevant PID**
@@ -47,9 +51,21 @@ toc: true
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Data sharing and reuse]\\
-How should the data be findable and how should it be shared? Examples may be that they are made available in a certified data repository, are indexed in a catalogue, that you use a secure data service, direct handling of data requests, etc.
+- How should the data be findable and how should it be shared? Examples may be that they are made available in a certified data repository, are indexed in a catalogue, that you use a secure data service, direct handling of data requests, etc.
+- When should the data be shared? If, for example, an exclusive right of control granted by legal law is made that affects the time of sharing and, why and for how long? Examples may be that you wait until a scientific publication is available or that you want to protect intellectual property rights, such as patent law, until you have applied for a patent.
 
-When should the data be shared? If, for example, an exclusive right of control granted by legal law is made that affects the time of sharing and, why and for how long? Examples may be that you wait until a scientific publication is available or that you want to protect intellectual property rights, such as patent law, until you have applied for a patent.
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+[2.2 Making data accssible - Repository]\\
+- Have you explored appropriate arrangements with the identified repository where your data will be deposited
+[2.2 Making data accssible - Data]\\
+- Will all data be made openly available? If certain datasets cannot be shared (or need to be shared under restricted access conditions), explain why, clearly separating legal and contractual reasons from intentional restrictions. Note that in multi-beneficiary projects it is also possible for specific beneficiaries to keep their data closed if opening their data goes against their legitimate interests or other constraints as per the Grant Agreement.
+- If an embargo is applied to give time to publish or seek protection of the intellectual property (e.g. patents), specify why and how long this will apply, bearing in mind that research data should be made available as soon as possible.
+- Will the data be accessible through a free and standardized access protocol?
+- If there are restrictions on use, how will access be provided to the data, both during and after the end of the project?
+[2.4 Increase data re-use]\\
+- Will your data be made freely available in the public domain to permit the widest re-use possible? Will your data be licensed using standard reuse licenses, in line with the obligations set out in the Grant Agreement?
+- Will the data produced in the project be useable by third parties, in particular after the end of the project?
+- Will the provenance of the data be thoroughly documented using the appropriate standards?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ##### Guidance for researchers
@@ -111,11 +127,14 @@ Why is this important? Digital data materials need to be actively administered o
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
-> 5b.1 Indicate what data must be retained nor destroyed for contractual, legal, or regulatory purposes.
+> 5b.1\
+Indicate what data must be retained nor destroyed for contractual, legal, or regulatory purposes.
 
-> 5b.2 Indicate how it will be decided what data to keep. Describe the data to be preserved long-term.
+> 5b.2\
+Indicate how it will be decided what data to keep. Describe the data to be preserved long-term.
 
-> 5b.3 Explain the foreseeable research uses (and/or users) for the data.
+> 5b.3\
+Explain the foreseeable research uses (and/or users) for the data.
 Indicate where the data will be deposited. If no established repository is proposed, demonstrate in the DMP that the data can be curated effectively beyond the lifetime of the grant. It is recommended to demonstrate that the repositories policies and procedures (including any metadata standards, and costs involved) have been checked.
 
 ```
@@ -140,6 +159,16 @@ Indicate where the data will be deposited. If no established repository is propo
 [Data sharing and reuse]\\
 - How should the data be findable and how should it be shared? Examples may be that they are made available in a certified data repository, are indexed in a catalogue, that you use a secure data service, direct handling of data requests, etc.
 - When should the data be shared? If, for example, an exclusive right of control granted by legal law is made that affects the time of sharing and, why and for how long? Examples may be that you wait until a scientific publication is available or that you want to protect intellectual property rights, such as patent law, until you have applied for a patent.
+
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+[2.2 Making data accssible - Repository]\\
+- Will the data be deposited in a trusted repository?
+[2.2 Making data accssible - Metadata]\\
+- How long will the data remain available and findable? Will metadata be guaranteed to remain available after data is no longer available?
+[4. Allocation of resources]\\
+- How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)? (see also section 6_responsibilities_resources)
+[5. Data security]\\
+- Will the data be safely stored in trusted repositories for long term preservation and curation? (see also section 3_storage_backup)
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ##### Guidance for Researchers
@@ -197,9 +226,11 @@ Use data repositories with a commitment to long-term curation, e.g. Fairdata Dig
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
-> 5c.1 Indicate whether potential users need specific tools to access and (re-)use the data. Consider the sustainability of software needed for accessing the data.
+> 5c.1\
+Indicate whether potential users need specific tools to access and (re-)use the data. Consider the sustainability of software needed for accessing the data.
 
-> 5c.2 Indicate whether data will be shared via a repository, requests handled directly, or whether another mechanism will be used?
+> 5c.2\
+Indicate whether data will be shared via a repository, requests handled directly, or whether another mechanism will be used?
 
 ```
 **Relevant PID**
@@ -213,6 +244,8 @@ Use data repositories with a commitment to long-term curation, e.g. Fairdata Dig
 ```
 
 ---
+
+
 <!--additional explanations-->
 ### Explanations for support staff
 - Data provenance
@@ -222,7 +255,7 @@ Use data repositories with a commitment to long-term curation, e.g. Fairdata Dig
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Data sharing and reuse]\\
-Do potential users need specific tools, such as software, to access and (re)use the data? The sustainability of the software for future access to the data should be considered.
+- Do potential users need specific tools, such as software, to access and (re)use the data? The sustainability of the software for future access to the data should be considered.
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ##### Guidance for Researchers
@@ -260,9 +293,11 @@ To make it possible to continue using the data material, it’s important to ent
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
-> 5d.1 Explain how the data might be re-used in other contexts. Persistent identifiers (PIDs) should be applied so that data can be reliably and efficiently located and referred to. PIDs also help to track citations and re-use.
+> 5d.1\
+Explain how the data might be re-used in other contexts. Persistent identifiers (PIDs) should be applied so that data can be reliably and efficiently located and referred to. PIDs also help to track citations and re-use.
 
-> 5d.2 Indicate whether a PID for the data will be pursued. Typically, a trustworthy, long-term repository will provide a persistent identifier.
+> 5d.2\
+Indicate whether a PID for the data will be pursued. Typically, a trustworthy, long-term repository will provide a persistent identifier.
 
 ```
 **Relevant PID**
@@ -285,11 +320,15 @@ To make it possible to continue using the data material, it’s important to ent
 [Data sharing and reuse]\\
 Will a persistent identifier (DOI) for the datasets be used? Persistent identifiers should be applied to metadata and datasets so that they can be findable and referenced in a reliable and efficient manner. Using DOI also ensures that citations and reuse can be tracked. A certified data repository will often provide this to (meta)data deposited there.
 
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+[2.2 Making data accessible - Repository]
+- Does the repository ensure that the data is assigned an identifier? Will the repository resolve the identifier to a digital object
+
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ##### Guidance for Researchers
 Choose a data repository to deposit your data in that assigns your desired persistent identifiers (e.g., a DOI, Handle, or ARK for the data, or an ORCID for the researchers). Use Re3data or FAIRsharing to find a suitable repository.
 
-##### Sufficiently adressed
+##### Sufficiently addressed
 - Specifies how the data can be re-used in other contexts.
 - Clearly indicates if and which PIDs are provided for all datasets, individual datasets, data collections, or subsets. If PIDs will not be used, it explains why.
 - Clearly presents the approach, and the choice of identifiers is justified and refers to international standards.

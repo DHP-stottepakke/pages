@@ -16,24 +16,30 @@ toc: true
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
-> 2a.1 Indicate which metadata will be provided to help others identify and discover the data.
+> 2a.1\
+Indicate which metadata will be provided to help others identify and discover the data.
 
 both in the active phase and when preparing the data for archiving/publishing.
 
-> 2a.2 Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will be used.\\
-> 2a.3 Use community metadata standards where these are in place.
+> 2a.2\
+Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will be used.\\
+> 2a.3\
+Use community metadata standards where these are in place.
 
 when archiving/publishing the data.
 
-> 2a.4 Indicate how the data will be organised during the project, mentioning for example conventions, version control, and folder structures. Consistent, well-ordered research data will be easier to find, understand, and re-use.
+> 2a.4\
+Indicate how the data will be organised during the project, mentioning for example conventions, version control, and folder structures. Consistent, well-ordered research data will be easier to find, understand, and re-use.
 
 in the active phase of research
 
-> 2a.5 Consider what other documentation is needed to enable re-use. This may include information on the methodology used to collect the data, analytical and procedural information, definitions of variables, units of measurement, and so on.
+> 2a.5\
+Consider what other documentation is needed to enable re-use. This may include information on the methodology used to collect the data, analytical and procedural information, definitions of variables, units of measurement, and so on.
 
 both in the active phase of research and when preparing the data for archiving/publishing.
 
-> 2a.6 Consider how this information will be captured and where it will be recorded (for example in a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
+> 2a.6\
+Consider how this information will be captured and where it will be recorded (for example in a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
 
 in the active phase of research.
 
@@ -63,6 +69,18 @@ in the active phase of research.
 - What metadata will be used to help others identify and discover the data?
 - What metadata standards will be used? Examples could be DDI, TEI, MARC, CMDI.
 - How will data be organized throughout the project? This can be version control, file structure, conventions for file naming, etc.
+
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+[2.1 Making data findable, including provisions for metadata]
+- Will data be identified by a persistent identifier?
+- Will rich metadata be provided to allow discovery? What metadata will be created? What disciplinary or general standards will be followed? In case metadata standards do not exist in your discipline, please outline what type of metadata will be created and how
+[2.2 Making data accessible - Metadata]
+- Will documentation or reference about any software be needed to access or read the data be included? Will it be possible to include the relevant software (e.g. in open source code)?
+[2.3 Making data interoperable]
+- What data and metadata vocabularies, standards, formats or methodologies will you follow to make your data interoperable to allow data exchange and re-use within and across disciplines? Will you follow community-endorsed interoperability best practices? Which ones? 
+- In case it is unavoidable that you use uncommon or generate project specific ontologies or vocabularies, will you provide mappings to more commonly used ontologies? Will you openly publish the generated ontologies or vocabularies to allow reusing, refining or extending them? 
+[2.4 Increase data re-use]
+- How will you provide documentation needed to validate data analysis and facilitate data re-use (e.g. readme files with information on methodology, codebooks, data cleaning, analyses, variable definitions, units of measurement, etc.)?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ##### Guidance for Researchers
@@ -135,7 +153,8 @@ Examples of measures to control and ensure data quality may be the use of standa
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
-> 2b.1 Explain how the consistency and quality of data collection will be controlled and documented. This may include processes such as calibration, repeated samples or measurements, standardised data capture, data entry validation, peer review of data, or representation with controlled vocabularies.
+> 2b.1\
+Explain how the consistency and quality of data collection will be controlled and documented. This may include processes such as calibration, repeated samples or measurements, standardised data capture, data entry validation, peer review of data, or representation with controlled vocabularies.
 
 ```
 **Relevant PID**
@@ -159,6 +178,14 @@ Researchers might need help to present this explicit (might be self-explanatory 
 - Is there other documentation necessary to facilitate reuse? It can be description of methodology, information about analysis and protocols, definitions of variables, electronic lab books, code books, readme.txt files, etc.
 - How is reliability and quality of the data controlled and documented? This can include processes such as calibration of measuring instruments, repeated measurements and samples, standardized data capture, validation of data entry, peer review of data or use of controlled vocabulary.
 
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+[2.1 Making data findable, including provisions for metadata]
+- Will search keywords be provided in the metadata to optimize the possibility for discovery and then potential re-use?
+- Will metadata be offered in such a way that it can be harvested and indexed? 
+[2.2. Making data accessible - Metadata]
+- Will metadata be made openly available and licenced under a public domain dedication CC0, as per the Grant Agreement? If not, please clarify why. Will metadata contain information to enable the user to access the data?
+[2.4 Increase data-reuse]
+- Describe all relevant data quality assurance processes
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ##### Guidance for Researchers
@@ -195,7 +222,7 @@ When will the data be collected/generated?
 Is there need for extra hardware or software?
 Is there need for special expertise for collecting/generating data?
 
-#### [SND - Checklist DMP](https://zenodo.org/records/6424769)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) : 
+#### [SND - Checklist DMP](https://zenodo.org/records/6424769)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) :
 [Will the project use any established terminologies, ontologies, standards, or similar, to describe and document the material? Which ones? If you create your own terminology, will it be mapped against established terminologies?]
 Why is this important? Many scientific disciplines have established terminologies, ontologies, and vocabularies (e.g. MeSH, ISCED, AAT, and ELSST) that can be used to categorize and document data materials. There are various standards that are recommended to follow (e.g. ISO 8601 for date, time, and time intervals). The use of standards and established terminologies simplifies the communication between people who belong to the same scientific field but can also make it easier to find material in, for example, journals. Sometimes, it may be necessary to create project-specific terminology lists if the existing ones aren’t sufficient or suited for the project. If you create a project-specific list, you should do a mapping, where you show which terms that mean exactly or almost the same thing as in other lists, but also which terms that are unique for your list. Mapping terms against other terminologies will improve the findability of the data material.
 
