@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Data description
 search_exclude: false
-contributors: [Jenny Ostrop, Illimar Rekand]
+contributors: [Jenny Ostrop]
 page_id: 1_data_description
 description: Data description, Data types, Data reuse
 affiliations: 
@@ -16,13 +16,17 @@ toc: true
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
-> 1a.1 Explain which methodologies or software will be used if new data are collected or produced.
+> 1a.1\
+Explain which methodologies or software will be used if new data are collected or produced.
 
-> 1a.2 State any constraints on re-use of existing data if there are any.
+> 1a.2\
+State any constraints on re-use of existing data if there are any.
 
-> 1a.3 Explain how data provenance will be documented.
+> 1a.3\
+Explain how data provenance will be documented.
 
-> 1a.4 Briefly state the reasons if the re-use of any existing data sources has been considered but discarded.
+> 1a.4\
+Briefly state the reasons if the re-use of any existing data sources has been considered but discarded.
 
 ```
 **Relevant PID**
@@ -38,17 +42,6 @@ Stakeholders interested in receiving data and later governance of data within th
 ```
 
 ---
-
-### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
-
-> Will you re-use any existing data and what will you re-use it for? State the reasons if re-use of any existing data has been considered but discarded.
-
-> What is the purpose of the data generation or re-use and its relation to the objectives of the project?
-
-> To whom might your data be useful ('data utility'), outside your project?
-
-> What is the origin/provenance of the data, either generated or re-used?
-
 <!--additional explanations-->
 ### Explanations for support staff
 - Licensing conditions
@@ -60,6 +53,13 @@ Stakeholders interested in receiving data and later governance of data within th
 - How should data provenance be documented? 
 - Are there any limitations related to file format, licensed software or similar for (re)use of existing data?
 - Are there any reasons why existing data sources are not reused?
+
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+[1. Data Summary]
+- Will you re-use any existing data and what will you re-use it for? State the reasons if re-use of any existing data has been considered but discarded.
+- What is the purpose of the data generation or re-use and its relation to the objectives of the project?
+- To whom might your data be useful ('data utility'), outside your project?
+- What is the origin/provenance of the data, either generated or re-used?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ##### Guidance for Researchers
@@ -91,15 +91,20 @@ Stakeholders interested in receiving data and later governance of data within th
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
-> 1b.1 Give details on the kind of data: for example numeric (databases, spreadsheets), textual (documents), image, audio, video, and/or mixed media.
+> 1b.1\
+Give details on the kind of data: for example numeric (databases, spreadsheets), textual (documents), image, audio, video, and/or mixed media.
 
-> 1b.2 Give details on the data format: the way in which the data is encoded for storage, often reflected by the filename extension (for example pdf, xls, doc, txt, or rdf).
+> 1b.2\
+Give details on the data format: the way in which the data is encoded for storage, often reflected by the filename extension (for example pdf, xls, doc, txt, or rdf).
 
-> 1b.3 Justify the use of certain formats. For example, decisions may be based on staff expertise within the host organisation, a preference for open formats, standards accepted by data repositories, widespread usage within the research community, or on the software or equipment that will be used.
+> 1b.3\
+Justify the use of certain formats. For example, decisions may be based on staff expertise within the host organisation, a preference for open formats, standards accepted by data repositories, widespread usage within the research community, or on the software or equipment that will be used.
 
-> 1b.4 Give preference to open and standard formats as they facilitate sharing and long-term re-use of data (several repositories provide lists of such ‘preferred formats’).
+> 1b.4\
+Give preference to open and standard formats as they facilitate sharing and long-term re-use of data (several repositories provide lists of such ‘preferred formats’).
 
-> 1b.5 Give details on the volumes (they can be expressed in storage space required (bytes), and/or in numbers of objects, files, rows, and columns).
+> 1b.5\
+Give details on the volumes (they can be expressed in storage space required (bytes), and/or in numbers of objects, files, rows, and columns).
 
 ```
 **Relevant PID**
@@ -112,18 +117,6 @@ none?
 - pre-award: outline
 - planning post-award, active phase
 ```
-
-### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
-> What types and formats of data will the project generate or re-use?
-
-> What is the expected size of the data that you intend to generate or re-use?
-
-> Will your data include qualified references  to other data (e.g. other data from your project, or datasets from previous research)?
-
-> In addition to the management of data, beneficiaries should also consider and plan for the management of other research outputs that may be generated or re-used throughout their projects. Such outputs can be either digital (e.g. software, workflows, protocols, models, etc.) or physical (e.g. new materials, antibodies, reagents, samples, etc.).
-
-> Beneficiaries should consider which of the questions pertaining to FAIR data above, can apply to the management of other research outputs, and should strive to provide sufficient detail on how their research outputs will be managed and shared, or made available for re-use, in line with the FAIR principles.
-
 
 ---
 <!--additional explanations-->
@@ -139,6 +132,16 @@ none?
 - What format data is data stored in when collecting and analyzing, such as .pdf, .xls(x), .doc(x), .txt, .rdf.
 - On what basis are certain data formats chosen? For example, this may depend on expertise in specific formats, preference for open file formats is, standard formats accepted at data repositories, extensive use of specific formats in research communities or format given by equipment or software used.
 - What is the (estimated) volume of data to be stored during collection and analysis, archived and possibly long-term preserved? This can be stated as storage space (bytes), number of objects, files, rows and columns.
+
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+[1. Data Summary]
+- What types and formats of data will the project generate or re-use?
+- What is the expected size of the data that you intend to generate or re-use?
+[2.3 Making data interoperable]
+- Will your data include qualified references  to other data (e.g. other data from your project, or datasets from previous research)?
+[3. Other research outputs]
+- In addition to the management of data, beneficiaries should also consider and plan for the management of other research outputs that may be generated or re-used throughout their projects. Such outputs can be either digital (e.g. software, workflows, protocols, models, etc.) or physical (e.g. new materials, antibodies, reagents, samples, etc.).
+- Beneficiaries should consider which of the questions pertaining to FAIR data above, can apply to the management of other research outputs, and should strive to provide sufficient detail on how their research outputs will be managed and shared, or made available for re-use, in line with the FAIR principles.
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ##### Guidance for Researchers

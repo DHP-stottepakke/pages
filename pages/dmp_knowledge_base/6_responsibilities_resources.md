@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Data management responsibilities and resources
 search_exclude: false
-contributors: [Leif Longva, Illimar Rekand]
+contributors: [Leif Longva]
 page_id: 6_responsibilities_resources
 description: Data management responsibilities, Resources for research data management, costing data management
 affiliations: 
@@ -59,13 +59,6 @@ Be familiar with routines at your institution for approving DMPs. It is recommen
 ```
 
 ---
-
-### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
-
-> Who will be responsible for data management in your project?
-> 
-> 
-
 <!--additional explanations-->
 ### Explanations for support staff
 - Assigning roles (e.g. CRediT)
@@ -77,6 +70,10 @@ Be familiar with routines at your institution for approving DMPs. It is recommen
 - Which roles are assigned which responsibility for data management activities in the project? Examples of activities are data capture, metadata production, data quality, storage and backup, long-term preservation and data sharing. Responsible individuals should be disclosed, if possible.
 - For collaborative projects; How is responsibility for data management between partners coordinated?
 - Who is responsible for implementing the data management plan and for ensuring that the plan is reviewed and regularly updated? In our guidelines, it is the responsible institution that must approve the plan.
+
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+[4. Allocation of resources]
+- Who will be responsible for data management in your project?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ##### Guidance for Researchers
@@ -136,7 +133,6 @@ Who has the right to manage the data? (Usually several members of the project gr
 > 6b.1\
 > Explain how the necessary resources (for example time) to prepare the data for sharing/preservation (data curation) have been costed in. Carefully consider and justify any resources needed to deliver the data. These may include storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges.
 
-
 Include also the resources needed for collecting or generating the data: The cost of staff to collect, process, manage, and document the data during the project, as well as to prepare the data and documentation for long-term preservation and possible dissemination, which will improve the FAIRness of the data.
 
 > 6b.1\
@@ -158,15 +154,6 @@ Include monetary costs on these activities in your project budget, preferrably b
 ```
 
 ---
-
-### [Horizon Europe](https://ec.europa.eu/research/participants/docs/h2020-funding-guide/cross-cutting-issues/open-access-data-management/data-management_en.htm)
-
-> What will the costs be for making data or other research outputs FAIR in your project (e.g. direct and indirect costs related to storage, archiving, re-use, security, etc.) 
-
-> How will these be covered? Note that costs related to research data/output management are eligible as part of the Horizon Europe grant (if compliant with the Grant Agreement conditions)
-
-> How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)?
-
 <!--additional explanations-->
 ### Explanations for support staff
 - Costing RDM, funder guidelines on what costs are eligible
@@ -175,6 +162,12 @@ Include monetary costs on these activities in your project budget, preferrably b
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Storage and data security during the project]
 - How are the necessary resources budgeted and covered in the project to prepare data for sharing and long-term preservation (curating)? These can be costs related to storage, hardware, staff time, costs associated with preparing data for disposal and costs related to preservation at a data repository.
+
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+[4. Allocation of resources]
+- What will the costs be for making data or other research outputs FAIR in your project (e.g. direct and indirect costs related to storage, archiving, re-use, security, etc.) 
+- How will these be covered? Note that costs related to research data/output management are eligible as part of the Horizon Europe grant (if compliant with the Grant Agreement conditions)
+- How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ##### Guidance for Researchers
