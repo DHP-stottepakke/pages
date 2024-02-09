@@ -75,12 +75,12 @@ If the data should be available for future research contact the archive you wish
 ```
 
 #### [Covered in RDA maDMP common std](http://doi.org/10.15497/rda00039)
-[Properties in dmp]
+[Properties in dmp]\
 - [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree)
 - [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree)
 - [#ethical_issues_report_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_report_tree)
 
-[Properties in dataset]
+[Properties in dataset]\
 - [#dataset_personal_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_personal_data_tree)
 
 
@@ -107,7 +107,7 @@ If the data should be available for future research contact the archive you wish
 (Rights and legal requirements and codes of conduct)
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[6. Ethics]
+[6. Ethics]\
 - Are there, or could there be, any ethics or legal issues that can have an impact on data sharing? These can also be discussed in the context of the ethics review. If relevant, include references to ethics deliverables and ethics chapter in the Description of the Action (DoA).
 - Will informed consent for data sharing and long term preservation be included in questionnaires dealing with personal data?
 
@@ -180,7 +180,7 @@ Research material that will contain personal data has to be reported to the data
 ## 4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 If relevant also export control, protection of cultural heritage (Kulturminneloven), commercial interests. etc. should be discussed here.
 
 > 4b.1\
@@ -277,7 +277,7 @@ Clearly explains, if applicable:
 ### Existing sources that can be reused
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Does the project need ethical approval or has it been approved? Enter the reference number here.]
+[Does the project need ethical approval or has it been approved? Enter the reference number here.]\
  Why is this important?
  Research that falls under the scope of the Act (2003:460) concerning the Ethical Review of Research Involving Humans (the Ethical Review Act, updated 2020-01-01) can only be carried out after ethical approval, which is applied for by the research principal. Without ethical approval, the research is illegal and subject to legal consequences. Ethical approval is also needed for research that involves animal testing.
  
@@ -298,7 +298,7 @@ Clearly explains, if applicable:
 ## 4c How will possible ethical issues be taken into account, and codes of conduct followed?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 4c.1\
 > Consider whether ethical issues can affect how data are stored and transferred, who can see or use them, and how long they are kept.
 
@@ -313,6 +313,9 @@ Does your institution have ethics committees?
 
 Be aware of e.g. CARE principles - reflect on and consult communites, Nagoya protocol, RRI
 Consider to list relevant agreements that will be followed e.g. Helsinki declaration on health data
+
+[EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
+
 
 ```
 **Relevant PID**
@@ -329,12 +332,12 @@ Consider to list relevant agreements that will be followed e.g. Helsinki declara
 ```
 
 #### [Covered in RDA maDMP common std](http://doi.org/10.15497/rda00039)
-[Properties in dmp]
+[Properties in dmp]\
 - [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree)
 - [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree)
 - [#ethical_issues_report_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_report_tree)
 
-[Properties in dataset]
+[Properties in dataset]\
 - [#dataset_personal_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_personal_data_tree)
 
 
@@ -345,7 +348,7 @@ Consider to list relevant agreements that will be followed e.g. Helsinki declara
 - [Forskningsetikkloven](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
 - [Veileder institusjonenens ansvar forskingsetikk](https://www.forskningsetikk.no/ressurser/veileder-om-institusjonenes-ansvar-for-forskningsetikk/)
 - Nesh m venner
-- FOTS dyreforsøk, 3R principles
+- Animal experiments: FOTS, 3R principles
 - [Ethics and governance of artificial intelligence for health])https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf?sequence=1)
 - [National Research Ethics Committees Q&A: Lew privacy legislation - what does this imply for research *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
 - CARE - reflect on and consult communites 
@@ -384,7 +387,8 @@ Local ethical resources and boards
 How will you manage the rights of the data you use, produce and share? (2.2) Describe how you will agree upon the rights of use related to your research data – including the collected, produced and (re)used data of your project. Here, you can employ your categorisation in the first question. Each of these categories involves different rights and licenses. Describe the transfer of rights procedures relevant to your project. Describe confidentiality issues if applicable in your project. License your data! Tips for best practices • Agreements on rights of use should be made as early as possible in the project life cycle. • Have you gained consent for data preservation and sharing? • Follow the funder's or publisher's policies. • It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a [Creative Commons](https://creativecommons.org/choose/), [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) or [MIT license](https://opensource.org/licenses/MIT), or under another relevant license.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Does the project need ethical approval or has it been approved? Enter the reference number here.] Why is this important? Research that falls under the scope of the Act (2003:460) concerning the Ethical Review of Research Involving Humans (the Ethical Review Act, updated 2020-01-01) can only be carried out after ethical approval, which is applied for by the research principal. Without ethical approval, the research is illegal and subject to legal consequences. Ethical approval is also needed for research that involves animal testing.
+[Does the project need ethical approval or has it been approved? Enter the reference number here.]\
+Why is this important? Research that falls under the scope of the Act (2003:460) concerning the Ethical Review of Research Involving Humans (the Ethical Review Act, updated 2020-01-01) can only be carried out after ethical approval, which is applied for by the research principal. Without ethical approval, the research is illegal and subject to legal consequences. Ethical approval is also needed for research that involves animal testing.
 
 #### [NTNU - DMP Guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
 Is an ethical review (for example by an ethics committee/REK or approval of use of experimental animals) required for data collection in the research project?

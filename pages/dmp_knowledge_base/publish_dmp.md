@@ -14,19 +14,20 @@ toc: true
 ## Where can you publish your DMP?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 not covered
 
-### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-not covered
-
-### Relevant PID
+```
+**Relevant PID**
 - PID of DMP
 
-### Interested stakeholder
+**Interested stakeholder**
 - Level 1: Funder
 - Level 2: Research Administration, CRIStin/NVA
-- Level 3: Research community
+
+**Relevant project phase**
+- planning post-award, active phase
+```
 
 
 ---
@@ -35,9 +36,13 @@ not covered
 - How to publish a DMP (with different tools, recommended platforms, versions)
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[What a data management plan should include]
+[What a data management plan should include]\
 We also recommend assigning your data management plan a persistent identifier, such as a DOI. Several services for data management plans offer this.
 
+#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+##### Guidance for researchers
+not covered
 
 ---
 <!--additional explanations - only keywords-->
