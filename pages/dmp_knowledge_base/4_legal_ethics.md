@@ -17,7 +17,7 @@ toc: true
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
-Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](legg inn lenke) .
+Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](https://dhp-stottepakke.github.io/pages/3_storage_backup#3b---how-will-data-security-and-protection-of-sensitive-data-be-taken-care-of-during-the-research).
 
 [Test the Ethics and data protection decision tree from European Commission](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
 
@@ -74,15 +74,18 @@ If the data should be available for future research contact the archive you wish
 
 ```
 
-#### [Covered in RDA maDMP common std](http://doi.org/10.15497/rda00039)
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
 [Properties in dmp]\
-- [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree)
-- [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree)
-- [#ethical_issues_report_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_report_tree)
+- [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree): "To describe ethical issues directly in a DMP" [string, free text]
+- [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree): yes/no/unknown
+- [#ethical_issues_report_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_report_tree): "To indicate where a protocol from a meeting with an ethical commitee can be found"
 
 [Properties in dataset]\
 - [#dataset_personal_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_personal_data_tree)
 
+Missing:
+- Description of ethical issues
+- 
 
 ---
 <!--additional explanations-->
@@ -223,7 +226,7 @@ Is there restrictionst to re-use in the active phase of the project? Is there re
 - planning post-award, active phase
 ```
 
-#### [Covered in RDA maDMP common std](http://doi.org/10.15497/rda00039)
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
 not covered?
 
 
@@ -331,7 +334,7 @@ Consider to list relevant agreements that will be followed e.g. Helsinki declara
 - planning post-award, active phase
 ```
 
-#### [Covered in RDA maDMP common std](http://doi.org/10.15497/rda00039)
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
 [Properties in dmp]\
 - [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree)
 - [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree)

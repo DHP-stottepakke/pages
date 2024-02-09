@@ -54,6 +54,17 @@ in the active phase of research.
 - planning post-award, active phase
 ```
 
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dataset]\
+- [#metadata_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#metadata_tree): nested, see below
+
+[Properties in metadata]\
+- [#properties-in-metadata](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-metadata): description, language, metadata_standard_id (identifier, type)
+- [#metadata_standard_id_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#metadata_standard_id_tree): nested, see below
+
+[Properties in metadata_standard_id]\
+- [#properties-in-metadata_standard_id](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-metadata_standard_id): identifer, type
+
 ---
 <!--additional explanations-->
 ### Explanations for support staff
@@ -168,6 +179,10 @@ not pid, but defined persitant standards for quality control relevant?
 **Relevant project phase**
 - planning post-award, active phase
 ```
+
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dataset]\
+- [#dataset_quality_assurance_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_quality_assurance_tree): "Data Quality Assurance" [string, free text]
 
 ---
 <!--additional explanations-->

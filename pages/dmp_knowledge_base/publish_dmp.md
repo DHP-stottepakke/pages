@@ -15,7 +15,9 @@ toc: true
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
-not covered
+> not covered
+
+Best practice is to publish the DMP with a PID. Ideally, all versions should be published, but at minimum the final version (when reporting the project).
 
 ```
 **Relevant PID**
@@ -28,6 +30,20 @@ not covered
 **Relevant project phase**
 - planning post-award, active phase
 ```
+
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dmp]\
+- [#dmp_id_tree]https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_id_tree): nested, see below
+- [#dmp_title_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_title_tree): dmp title
+- [#dmp_created_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_created_tree): first version (date + time)
+- [#dmp_modified_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_modified_tree): each modified version (date + time)
+- [#dmp_language_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_language_tree): dmp language
+
+[Properties in dmp id]\
+- [#properties-in-dmp_id](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#properties-in-dmp_id): identifier, type
+
+Missing:
+- version id (human readable)
 
 
 ---

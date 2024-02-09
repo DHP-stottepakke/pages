@@ -41,6 +41,20 @@ Stakeholders interested in receiving data and later governance of data within th
 - planning post-award, active phase
 ```
 
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dataset]\
+- [#dataset_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_description_tree): "Description is a property in both Dataset and Distribution, in compliance with W3C DCAT. In some cases these might be identical, but in most cases the Dataset represents a more abstract concept, while the distribution can point to a specific file."
+- [#metadata_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#metadata_tree): if covered in metadata, see [2_documentation_quality](https://dhp-stottepakke.github.io/pages/2_documentation_quality#2a---what-metadata-and-documentation-for-example-the-methodology-of-data-collection-and-way-of-organising-data-will-accompany-data)
+- [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): nested, see below. 
+
+[Properties in distribution] could be used to describe re-used datasets?\
+[#distribution_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_table): e.g. title, access_url, download_url, description, format, license
+
+Missing:
+- Dataset/distribution are most suited to published datasets
+- Methodology of data creation/collection
+- Data re-use constraints
+
 ---
 <!--additional explanations-->
 ### Explanations for support staff
@@ -118,6 +132,21 @@ none?
 - pre-award: outline
 - planning post-award, active phase
 ```
+
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dataset]\
+- [#dataset_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_description_tree): "Description is a property in both Dataset and Distribution, in compliance with W3C DCAT. In some cases these might be identical, but in most cases the Dataset represents a more abstract concept, while the distribution can point to a specific file." [string]
+- [#dataset_type_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_type_tree): "If appropriate, type according to: DataCite and/or COAR dictionary. Otherwise use the common name for the type, e.g. raw data, software, survey, etc." [string]
+- [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): nested, see below
+
+[Properties in distribution]\
+- [#distribution_byte_size_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_byte_size_tree): byte size [number]
+- [#distribution_format_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_format_tree): IANA media types recommended [string, free text]
+
+Missing:
+- Dataset/distribution are most suited to published datasets
+- Justification of formats
+- Is a given format considered open?
 
 ---
 <!--additional explanations-->
