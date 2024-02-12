@@ -32,14 +32,14 @@ Best practice is to publish the DMP with a PID. Ideally, all versions should be 
 ```
 
 #### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[Properties in dmp]\
+[Properties in dmp]
 - [#dmp_id_tree]https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_id_tree): nested, see below
 - [#dmp_title_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_title_tree): dmp title
 - [#dmp_created_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_created_tree): first version (date + time)
 - [#dmp_modified_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_modified_tree): each modified version (date + time)
 - [#dmp_language_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_language_tree): dmp language
 
-[Properties in dmp id]\
+[Properties in dmp id]
 - [#properties-in-dmp_id](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#properties-in-dmp_id): identifier, type
 
 Missing:

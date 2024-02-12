@@ -42,13 +42,13 @@ Stakeholders interested in receiving data and later governance of data within th
 ```
 
 #### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[Properties in dataset]\
+[Properties in dataset]
 - [#dataset_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_description_tree): "Description is a property in both Dataset and Distribution, in compliance with W3C DCAT. In some cases these might be identical, but in most cases the Dataset represents a more abstract concept, while the distribution can point to a specific file."
 - [#metadata_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#metadata_tree): if covered in metadata, see [2_documentation_quality](https://dhp-stottepakke.github.io/pages/2_documentation_quality#2a---what-metadata-and-documentation-for-example-the-methodology-of-data-collection-and-way-of-organising-data-will-accompany-data)
 - [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): nested, see below. 
 
-[Properties in distribution] could be used to describe re-used datasets?\
-[#distribution_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_table): e.g. title, access_url, download_url, description, format, license
+[Properties in distribution] could be used to describe re-used datasets?
+- [#distribution_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_table): e.g. title, access_url, download_url, description, format, license
 
 Missing:
 - Dataset/distribution are most suited to published datasets
@@ -62,14 +62,14 @@ Missing:
 - Referencing to datasets at dataset/file level (different frameworks)
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Collection and/or use of existing data]\
+[Collection and/or use of existing data]
 - What methods or software are used if new data is collected or produced?
 - How should data provenance be documented? 
 - Are there any limitations related to file format, licensed software or similar for (re)use of existing data?
 - Are there any reasons why existing data sources are not reused?
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[1. Data Summary]\
+[1. Data Summary]
 - Will you re-use any existing data and what will you re-use it for? State the reasons if re-use of any existing data has been considered but discarded.
 - What is the purpose of the data generation or re-use and its relation to the objectives of the project?
 - To whom might your data be useful ('data utility'), outside your project?
@@ -109,17 +109,22 @@ Missing:
 > 1b.1\
 Give details on the kind of data: for example numeric (databases, spreadsheets), textual (documents), image, audio, video, and/or mixed media.
 
+Encourage use of broad categories, researchers are often over-specific.
+
 > 1b.2\
 Give details on the data format: the way in which the data is encoded for storage, often reflected by the filename extension (for example pdf, xls, doc, txt, or rdf).
-
 > 1b.3\
 Justify the use of certain formats. For example, decisions may be based on staff expertise within the host organisation, a preference for open formats, standards accepted by data repositories, widespread usage within the research community, or on the software or equipment that will be used.
-
 > 1b.4\
 Give preference to open and standard formats as they facilitate sharing and long-term re-use of data (several repositories provide lists of such ‘preferred formats’).
 
+Be aware of use of given file formats in the active phase (both open and proprietary formats can be appropriate), medium-term storage (open formats to be preferred - e.g. danger of license loss for proprietary software), and long-term preservation (strictly open formats).
+
 > 1b.5\
 Give details on the volumes (they can be expressed in storage space required (bytes), and/or in numbers of objects, files, rows, and columns).
+
+Rough estimation sufficient for planning purposes.
+More precise numbers can be needed if shared with stakeholder, e.g. to apply for/purchase storage quotas.
 
 ```
 **Relevant PID**
@@ -134,12 +139,12 @@ none?
 ```
 
 #### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[Properties in dataset]\
+[Properties in dataset]
 - [#dataset_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_description_tree): "Description is a property in both Dataset and Distribution, in compliance with W3C DCAT. In some cases these might be identical, but in most cases the Dataset represents a more abstract concept, while the distribution can point to a specific file." [string]
 - [#dataset_type_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_type_tree): "If appropriate, type according to: DataCite and/or COAR dictionary. Otherwise use the common name for the type, e.g. raw data, software, survey, etc." [string]
 - [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): nested, see below
 
-[Properties in distribution]\
+[Properties in distribution]
 - [#distribution_byte_size_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_byte_size_tree): byte size [number]
 - [#distribution_format_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_format_tree): IANA media types recommended [string, free text]
 
@@ -157,19 +162,21 @@ Missing:
 - Calculating data volumes
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[File types and format]\
+[File types and format]
 - What types of data will the project collect, produce and/or reuse? Examples of type of data can be numerical, text, image, audio, video, etc.
 - What format data is data stored in when collecting and analyzing, such as .pdf, .xls(x), .doc(x), .txt, .rdf.
 - On what basis are certain data formats chosen? For example, this may depend on expertise in specific formats, preference for open file formats is, standard formats accepted at data repositories, extensive use of specific formats in research communities or format given by equipment or software used.
 - What is the (estimated) volume of data to be stored during collection and analysis, archived and possibly long-term preserved? This can be stated as storage space (bytes), number of objects, files, rows and columns.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[1. Data Summary]\
+[1. Data Summary]
 - What types and formats of data will the project generate or re-use?
 - What is the expected size of the data that you intend to generate or re-use?
-[2.3 Making data interoperable]\
+
+[2.3 Making data interoperable]
 - Will your data include qualified references  to other data (e.g. other data from your project, or datasets from previous research)?
-[3. Other research outputs]\
+
+[3. Other research outputs]
 - In addition to the management of data, beneficiaries should also consider and plan for the management of other research outputs that may be generated or re-used throughout their projects. Such outputs can be either digital (e.g. software, workflows, protocols, models, etc.) or physical (e.g. new materials, antibodies, reagents, samples, etc.).
 - Beneficiaries should consider which of the questions pertaining to FAIR data above, can apply to the management of other research outputs, and should strive to provide sufficient detail on how their research outputs will be managed and shared, or made available for re-use, in line with the FAIR principles.
 

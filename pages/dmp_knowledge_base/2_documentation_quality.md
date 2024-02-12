@@ -22,7 +22,8 @@ Indicate which metadata will be provided to help others identify and discover th
 both in the active phase and when preparing the data for archiving/publishing.
 
 > 2a.2\
-Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will be used.\\
+Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will be used.
+
 > 2a.3\
 Use community metadata standards where these are in place.
 
@@ -55,14 +56,14 @@ in the active phase of research.
 ```
 
 #### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[Properties in dataset]\
+[Properties in dataset]
 - [#metadata_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#metadata_tree): nested, see below
 
-[Properties in metadata]\
+[Properties in metadata]
 - [#properties-in-metadata](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-metadata): description, language, metadata_standard_id (identifier, type)
 - [#metadata_standard_id_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#metadata_standard_id_tree): nested, see below
 
-[Properties in metadata_standard_id]\
+[Properties in metadata_standard_id]
 - [#properties-in-metadata_standard_id](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-metadata_standard_id): identifer, type
 
 ---
@@ -76,21 +77,24 @@ in the active phase of research.
 - Useful resources, generic and domain-specific.
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Documentation, metadata, and data quality]\
+[Documentation, metadata, and data quality]
 - What metadata will be used to help others identify and discover the data?
 - What metadata standards will be used? Examples could be DDI, TEI, MARC, CMDI.
 - How will data be organized throughout the project? This can be version control, file structure, conventions for file naming, etc.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[2.1 Making data findable, including provisions for metadata]\
+[2.1 Making data findable, including provisions for metadata]
 - Will data be identified by a persistent identifier?
 - Will rich metadata be provided to allow discovery? What metadata will be created? What disciplinary or general standards will be followed? In case metadata standards do not exist in your discipline, please outline what type of metadata will be created and how
-[2.2 Making data accessible - Metadata]\
+
+[2.2 Making data accessible - Metadata]
 - Will documentation or reference about any software be needed to access or read the data be included? Will it be possible to include the relevant software (e.g. in open source code)?
-[2.3 Making data interoperable]\
+
+[2.3 Making data interoperable]
 - What data and metadata vocabularies, standards, formats or methodologies will you follow to make your data interoperable to allow data exchange and re-use within and across disciplines? Will you follow community-endorsed interoperability best practices? Which ones? 
-- In case it is unavoidable that you use uncommon or generate project specific ontologies or vocabularies, will you provide mappings to more commonly used ontologies? Will you openly publish the generated ontologies or vocabularies to allow reusing, refining or extending them? 
-[2.4 Increase data re-use]\
+- In case it is unavoidable that you use uncommon or generate project specific ontologies or vocabularies, will you provide mappings to more commonly used ontologies? Will you openly publish the generated ontologies or vocabularies to allow reusing, refining or extending them?
+
+[2.4 Increase data re-use]
 - How will you provide documentation needed to validate data analysis and facilitate data re-use (e.g. readme files with information on methodology, codebooks, data cleaning, analyses, variable definitions, units of measurement, etc.)?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -181,7 +185,7 @@ not pid, but defined persitant standards for quality control relevant?
 ```
 
 #### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[Properties in dataset]\
+[Properties in dataset]
 - [#dataset_quality_assurance_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_quality_assurance_tree): "Data Quality Assurance" [string, free text]
 
 ---
@@ -190,17 +194,19 @@ not pid, but defined persitant standards for quality control relevant?
 Researchers might need help to present this explicit (might be self-explanatory to a researcher that one always calibrate an instrument for instance)?
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Documentation, metadata, and data quality]\
+[Documentation, metadata, and data quality]
 - Is there other documentation necessary to facilitate reuse? It can be description of methodology, information about analysis and protocols, definitions of variables, electronic lab books, code books, readme.txt files, etc.
 - How is reliability and quality of the data controlled and documented? This can include processes such as calibration of measuring instruments, repeated measurements and samples, standardized data capture, validation of data entry, peer review of data or use of controlled vocabulary.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[2.1 Making data findable, including provisions for metadata]\
+[2.1 Making data findable, including provisions for metadata]
 - Will search keywords be provided in the metadata to optimize the possibility for discovery and then potential re-use?
 - Will metadata be offered in such a way that it can be harvested and indexed?
-[2.2. Making data accessible - Metadata]\
+
+[2.2. Making data accessible - Metadata]
 - Will metadata be made openly available and licenced under a public domain dedication CC0, as per the Grant Agreement? If not, please clarify why. Will metadata contain information to enable the user to access the data?
-[2.4 Increase data-reuse]\
+
+[2.4 Increase data-reuse]
 - Describe all relevant data quality assurance processes
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -214,6 +220,7 @@ not covered
 ---
 <!--additional explanations - only keywords-->
 ### Explanations for users
+- Data quality measure examples
 
 ---
 <!--recycling possible?-->

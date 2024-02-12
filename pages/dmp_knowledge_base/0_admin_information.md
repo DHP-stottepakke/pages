@@ -39,7 +39,7 @@ The DMP should be versionized (see also [Publishing the DMP](https://dhp-stottep
 ```
 
 #### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[Properties in dmp]\
+[Properties in dmp]
 - [#dmp_contact_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contact_table): contact_id (identifier, type), mbox, name
 - [#dmp_contributor_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contributor_table): contributor_id (identifier, type), mbox, name, role [string, not controlled])
 - [#project_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#project_table): start, end, title, description [string, free text], funding (funder_id [CrossRef funder registry recommended], funding_status, grant_id)
@@ -55,11 +55,11 @@ Missing:
 ### Explanations for support staff
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Administrative information]\
+[Administrative information]
 - The data management plan should include information about the Project Owner's institution, project manager, project number, project title, funder and version.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[1. Data Summary]\
+[1. Data Summary]
 - Do you, or will you, make use of other national/funder/sectorial/departmental procedures for data management? If yes, which ones (please list and briefly describe them)?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
