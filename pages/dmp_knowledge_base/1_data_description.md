@@ -19,11 +19,16 @@ toc: true
 > 1a.1\
 Explain which methodologies or software will be used if new data are collected or produced.
 
+If data is re-used, the rationale how data was chosen should be explained.
+If data is produced, the methodology should briefly be explained.
+
 > 1a.2\
 State any constraints on re-use of existing data if there are any.
 
 > 1a.3\
 Explain how data provenance will be documented.
+
+This is important both for produced and re-used data and relevant at all stages.
 
 > 1a.4\
 Briefly state the reasons if the re-use of any existing data sources has been considered but discarded.
@@ -113,8 +118,10 @@ Encourage use of broad categories, researchers are often over-specific.
 
 > 1b.2\
 Give details on the data format: the way in which the data is encoded for storage, often reflected by the filename extension (for example pdf, xls, doc, txt, or rdf).
+
 > 1b.3\
 Justify the use of certain formats. For example, decisions may be based on staff expertise within the host organisation, a preference for open formats, standards accepted by data repositories, widespread usage within the research community, or on the software or equipment that will be used.
+
 > 1b.4\
 Give preference to open and standard formats as they facilitate sharing and long-term re-use of data (several repositories provide lists of such ‘preferred formats’).
 
