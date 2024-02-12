@@ -29,7 +29,7 @@ Also identify who is responsible for the data after the project is ended. This i
 > 6a.2\
 > For collaborative projects, explain the co-ordination of data management responsibilities across partners.
 
-Important if two or more legislatures are involved, and/or personal data are collected, and/or IPR or commercial value need to be clariefied (see also section [4 - Legal and ethical requirements](https://dhp-stottepakke.github.io/pages/4_legal_ethics).
+Important if two or more legislatures are involved, and/or personal data are collected, and/or IPR or commercial value need to be clariefied (see also section [4 - Legal and ethical requirements](4_legal_ethics).
 
 > 6a.3\
 > Indicate who is responsible for implementing the DMP, and for ensuring it is reviewed and, if necessary, revised.

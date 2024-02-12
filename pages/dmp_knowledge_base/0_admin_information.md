@@ -21,7 +21,7 @@ toc: true
 This section should identify the project with title, acronym and funding (if relevant) and contain information about the host institution, participants, and collaborators.
 It is important to include references to central documents (e.g. collaborative agreements).
 Adding brief information about the purpose/aim of the project (abstract) is helpful for evaluators.
-The DMP should be versionized (see also [Publishing the DMP](https://dhp-stottepakke.github.io/pages/publish_dmp)).
+The DMP should be versionized (see also [Publishing the DMP](publish_dmp)).
 
 ```
 **Relevant PID**

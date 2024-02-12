@@ -17,7 +17,7 @@ toc: true
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
-Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](https://dhp-stottepakke.github.io/pages/3_storage_backup#3b---how-will-data-security-and-protection-of-sensitive-data-be-taken-care-of-during-the-research).
+Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](3_storage_backup#3b---how-will-data-security-and-protection-of-sensitive-data-be-taken-care-of-during-the-research).
 
 [Test the Ethics and data protection decision tree from European Commission](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
 
@@ -105,7 +105,7 @@ Missing:
 - If personal data is processed, which legal bases for data processing is used?
 - If research is legal basis for data processing, then consent is is part of 4c below.
 - Use data minimisation as a strategy to avoid unwanted privacy breaches. 
-- Explain whether there is a managed access procedure in place for authorized users of personal data. - ensure that this aspect is covered under storage [3B: How will data security and protection of sensitive data be taken care of during the research?](https://dhp-stottepakke.github.io/pages/3_storage_backup)
+- Explain whether there is a managed access procedure in place for authorized users of personal data. - ensure that this aspect is covered under storage [3B: How will data security and protection of sensitive data be taken care of during the research?](3_storage_backup)
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 - How are GDPR and the Personal Data Act complied with when handling/ processing personal data?
@@ -310,7 +310,7 @@ Clearly explains, if applicable:
 > 4c.1\
 > Consider whether ethical issues can affect how data are stored and transferred, who can see or use them, and how long they are kept.
 
-Make sure this is appropriately addressed under [3. storage and backup 3b.3](https://dhp-stottepakke.github.io/pages/3_storage_backup)
+Make sure this is appropriately addressed under [3. storage and backup 3b.3](3_storage_backup)
 
 > 4c.2\
 > Demonstrate awareness of these aspects and respective planning. - Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
