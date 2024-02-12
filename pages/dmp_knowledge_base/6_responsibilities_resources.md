@@ -17,7 +17,7 @@ toc: true
 ## 6a - Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?
 
 <!--key information-->
-
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 6a.1\
 > Outline the roles and responsibilities for data management/stewardship activities for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. Name responsible individual(s) where possible.
 
@@ -66,16 +66,17 @@ Be familiar with routines at your institution for approving DMPs. It is recommen
 - Stress the importance of clear distribution of roles and responsibilities, and the importance of communicating the roles and responsibilities among project members.
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Data management - reponsibilities and resources]
+[Data management - reponsibilities and resources]\
 - Which roles are assigned which responsibility for data management activities in the project? Examples of activities are data capture, metadata production, data quality, storage and backup, long-term preservation and data sharing. Responsible individuals should be disclosed, if possible.
 - For collaborative projects; How is responsibility for data management between partners coordinated?
 - Who is responsible for implementing the data management plan and for ensuring that the plan is reviewed and regularly updated? In our guidelines, it is the responsible institution that must approve the plan.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[4. Allocation of resources]
+[4. Allocation of resources]\
 - Who will be responsible for data management in your project?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ##### Guidance for Researchers
 - Determine the role of the data repository in your data management and stewardship. Choose an adequate repository to archive and share your data in that can meet or surpass your desires. Trustworthy Digital Repositories (TDRs) are repositories that provide support and take responsibility for data curation and digital preservation. TDRs can be officially certified (e.g., by the CoreTrustSeal, DIN31644/NESTOR, or ISO163638 standard). Use Re3data to find certified TDRs to deposit your data in.
 
@@ -109,7 +110,7 @@ It is essential to consider data security issues, especially if your data includ
 - Consider scheduling regular updates of the DMP.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Is personal data involved in the dataset? If so, has the personal data processing been reported to the data protection officer, in compliance with the research principal’s policies?]\\
+[Is personal data involved in the dataset? If so, has the personal data processing been reported to the data protection officer, in compliance with the research principal’s policies?]\
 Why is this important? Research material that will contain personal data has to be reported to the data protection officer. The research principal is legally obligated (GDPR, Article 30) to keep a record of all projects where personal data are processed.
 
 #### [NTNU - DMP guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
@@ -129,7 +130,7 @@ Who has the right to manage the data? (Usually several members of the project gr
 ## 6b - What resources (for example financial and time) will be dedicated to data management and ensuring that data will be FAIR (Findable, Accessible, Interoperable, Re-usable)?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 6b.1\
 > Explain how the necessary resources (for example time) to prepare the data for sharing/preservation (data curation) have been costed in. Carefully consider and justify any resources needed to deliver the data. These may include storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges.
 
@@ -164,12 +165,13 @@ Include monetary costs on these activities in your project budget, preferrably b
 - How are the necessary resources budgeted and covered in the project to prepare data for sharing and long-term preservation (curating)? These can be costs related to storage, hardware, staff time, costs associated with preparing data for disposal and costs related to preservation at a data repository.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[4. Allocation of resources]
+[4. Allocation of resources]\
 - What will the costs be for making data or other research outputs FAIR in your project (e.g. direct and indirect costs related to storage, archiving, re-use, security, etc.) 
 - How will these be covered? Note that costs related to research data/output management are eligible as part of the Horizon Europe grant (if compliant with the Grant Agreement conditions)
 - How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ##### Guidance for Researchers
 - Determine any costs that your chosen repository charges for depositing the data. Data repositories, especially TDRs (‘trustworthy digital repositories’) will perform (some) data curation and digital preservation. This is an active and ongoing process of data management to ensure discovery, reuse, and long-term FAIR durability. Contact the repository of your choice to learn about these costs and make them explicit in your DMP.
 
@@ -196,7 +198,7 @@ Include monetary costs on these activities in your project budget, preferrably b
 - Remember to specify your data management costs in the budget, according to funder requirements.
 
 #### [SND - Checklist for DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Estimate what resources you will need to collect and document the data material during the project. This includes the cost of staff to collect, process, manage, and document the data during the project, as well as to prepare the data and documentation for long-term preservation and possible dissemination, which will improve the FAIRness of the data.]\\
+[Estimate what resources you will need to collect and document the data material during the project. This includes the cost of staff to collect, process, manage, and document the data during the project, as well as to prepare the data and documentation for long-term preservation and possible dissemination, which will improve the FAIRness of the data.]\
 **Why is this important?**
 Handling and documenting data tends to require more resources than planned. By planning for and documenting staff costs for documentation and data management during the project, as well as for the work needed to archive and make the data accessible after the project, you are more likely to have sufficient resources.
 
@@ -214,6 +216,6 @@ In short, you increase the FAIRness of data by
 #### [SIKT](https://sikt.no/en/data-management-plan)
 Note that costs associated with open access to research data may be a qualified part of the research grant. This applies, for example, for Horizon 2020 projects (if otherwise in accordance with the terms of the grant agreement).
 
-#### [EasyDMP](https://www.sigma2.no/data-planning)[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Describe the resources that will be dedicated to the management of your data such that it follows the FAIR (Findable, Accessible, Interoperable, Reusable) principles**
 - You should consider the resources (time, personnel, money) necessary to preserve and share the data. You should cover where the resources will come from.

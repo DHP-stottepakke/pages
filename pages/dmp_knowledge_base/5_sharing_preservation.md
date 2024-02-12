@@ -15,7 +15,7 @@ toc: true
 ## 5a - How and when will data be shared? Are there possible restrictions to data sharing or embargo reasons?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 5a.1\
 Explain how the data will be discoverable and shared (for example by deposit in a trustworthy data repository, indexed in a catalogue, use of a secure data service, direct handling of data requests, or use of another mechanism)
 
@@ -50,24 +50,25 @@ Indicate who will be able to use the data. If it is necessary to restrict access
 - Certification schemes: CoreTrustSeal, DIN31644, ISO163638
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Data sharing and reuse]\\
+[Data sharing and reuse]\
 - How should the data be findable and how should it be shared? Examples may be that they are made available in a certified data repository, are indexed in a catalogue, that you use a secure data service, direct handling of data requests, etc.
 - When should the data be shared? If, for example, an exclusive right of control granted by legal law is made that affects the time of sharing and, why and for how long? Examples may be that you wait until a scientific publication is available or that you want to protect intellectual property rights, such as patent law, until you have applied for a patent.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[2.2 Making data accssible - Repository]\\
+[2.2 Making data accssible - Repository]\
 - Have you explored appropriate arrangements with the identified repository where your data will be deposited
-[2.2 Making data accssible - Data]\\
+[2.2 Making data accssible - Data]\
 - Will all data be made openly available? If certain datasets cannot be shared (or need to be shared under restricted access conditions), explain why, clearly separating legal and contractual reasons from intentional restrictions. Note that in multi-beneficiary projects it is also possible for specific beneficiaries to keep their data closed if opening their data goes against their legitimate interests or other constraints as per the Grant Agreement.
 - If an embargo is applied to give time to publish or seek protection of the intellectual property (e.g. patents), specify why and how long this will apply, bearing in mind that research data should be made available as soon as possible.
 - Will the data be accessible through a free and standardized access protocol?
 - If there are restrictions on use, how will access be provided to the data, both during and after the end of the project?
-[2.4 Increase data re-use]\\
+[2.4 Increase data re-use]\
 - Will your data be made freely available in the public domain to permit the widest re-use possible? Will your data be licensed using standard reuse licenses, in line with the obligations set out in the Grant Agreement?
 - Will the data produced in the project be useable by third parties, in particular after the end of the project?
 - Will the provenance of the data be thoroughly documented using the appropriate standards?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ##### Guidance for researchers
 With respect to licensing: Clearly and explicitly license your data, no matter which access level the data has. Find a suitable license (either standard such as CreativeCommons, or bespoke) and find a repository that supports it on Re3data. Preferably use a standard, machine-readable licence. Include the license information in the metadata.
 
@@ -126,7 +127,7 @@ Why is this important? Digital data materials need to be actively administered o
 ## 5b - How will data for preservation be selected, and where will data be preserved long-term (for example a data repository or archive)?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 5b.1\
 Indicate what data must be retained nor destroyed for contractual, legal, or regulatory purposes.
 
@@ -156,21 +157,25 @@ Indicate where the data will be deposited. If no established repository is propo
 - Selecting repositories, archive catalogues, definition trusted repositories
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Data sharing and reuse]\\
+[Data sharing and reuse]\
 - How should the data be findable and how should it be shared? Examples may be that they are made available in a certified data repository, are indexed in a catalogue, that you use a secure data service, direct handling of data requests, etc.
 - When should the data be shared? If, for example, an exclusive right of control granted by legal law is made that affects the time of sharing and, why and for how long? Examples may be that you wait until a scientific publication is available or that you want to protect intellectual property rights, such as patent law, until you have applied for a patent.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[2.2 Making data accssible - Repository]\\
+[2.2 Making data accssible - Repository]\
 - Will the data be deposited in a trusted repository?
-[2.2 Making data accssible - Metadata]\\
+
+[2.2 Making data accssible - Metadata]\
 - How long will the data remain available and findable? Will metadata be guaranteed to remain available after data is no longer available?
-[4. Allocation of resources]\\
+
+[4. Allocation of resources]\
 - How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)? (see also section 6_responsibilities_resources)
-[5. Data security]\\
+
+[5. Data security]\
 - Will the data be safely stored in trusted repositories for long term preservation and curation? (see also section 3_storage_backup)
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ##### Guidance for Researchers
 With respect to data destruction:
 Figure out early on by conferring with research data management and ethics specialists if (parts of) your data need to be destroyed (e.g., after a certain amount of time). If this is the case, include general statements about data destruction in the consent forms you use during your study. Make sure that the repository you deposit your data in can handle such destruction and will continue to maintain your metadata
@@ -199,7 +204,7 @@ Tuuli guides: "Decisions about preserving data should begin during the data mana
 ### Existing sources that can be reused
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Before you preserve the data material and make it accessible, you may want to prepare the material. What file formats are suitable for long-term preservation? What documentation should be included with the data material after the project has ended? Are there any ethical and legal restrictions on the material, which mean that the data need to be processed (e.g. de-identified) before they can be made accessible? Where do you plan to archive and/or make the data accessible? Contact them in good time for assistance in how to prepare the material.]\\
+[Before you preserve the data material and make it accessible, you may want to prepare the material. What file formats are suitable for long-term preservation? What documentation should be included with the data material after the project has ended? Are there any ethical and legal restrictions on the material, which mean that the data need to be processed (e.g. de-identified) before they can be made accessible? Where do you plan to archive and/or make the data accessible? Contact them in good time for assistance in how to prepare the material.]\
  Why is this important? Digital file formats run the risk of becoming obsolete. If this should happen, future software may not be able to read and present the information in the files correctly, and valuable research data could be lost. Therefore, you should choose file formats that are more likely to remain usable in the future, i.e. formats that are commonly used, non-proprietary, and have an open technical specification. Another benefit of choosing those formats is that you won’t have to convert the file formats at the end of the project. It isn’t always possible to choose a format that meets all criteria, as specific instruments, analysis tools, or developed software can affect the choice of data formats. If that’s the case, it’s important to plan for how to guarantee that the data material can be preserved.
  When the project is finished and the data material shall be made accessible, it may, due to ethical and legal restrictions, be important to guarantee that the individuals in the study cannot be re-identified (i.e. identified through indirect identifiers in the data material).
 
@@ -225,7 +230,7 @@ Use data repositories with a commitment to long-term curation, e.g. Fairdata Dig
 ## 5c - What methods or software tools will be needed to access and use the data?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 5c.1\
 Indicate whether potential users need specific tools to access and (re-)use the data. Consider the sustainability of software needed for accessing the data.
 
@@ -254,10 +259,11 @@ Indicate whether data will be shared via a repository, requests handled directly
 - Controlled access systems, some technical understanding of authentification methods.
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Data sharing and reuse]\\
+[Data sharing and reuse]\
 - Do potential users need specific tools, such as software, to access and (re)use the data? The sustainability of the software for future access to the data should be considered.
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ##### Guidance for Researchers
 Include the tools and/or code needed to reuse your data in the metadata of your dataset, as well as meaningful and explicit links to other kinds of research output (e.g., previous versions, other relevant datasets, related publications, data sources, data creators, data collectors, funding organizations, host institutions) to increase potential for reuse.
 
@@ -317,14 +323,15 @@ Indicate whether a PID for the data will be pursued. Typically, a trustworthy, l
 - Research catalogues
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Data sharing and reuse]\\
+[Data sharing and reuse]\
 Will a persistent identifier (DOI) for the datasets be used? Persistent identifiers should be applied to metadata and datasets so that they can be findable and referenced in a reliable and efficient manner. Using DOI also ensures that citations and reuse can be tracked. A certified data repository will often provide this to (meta)data deposited there.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[2.2 Making data accessible - Repository]
+[2.2 Making data accessible - Repository]\
 - Does the repository ensure that the data is assigned an identifier? Will the repository resolve the identifier to a digital object
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ##### Guidance for Researchers
 Choose a data repository to deposit your data in that assigns your desired persistent identifiers (e.g., a DOI, Handle, or ARK for the data, or an ORCID for the researchers). Use Re3data or FAIRsharing to find a suitable repository.
 

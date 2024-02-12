@@ -15,14 +15,15 @@ toc: true
 ## 2a - What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany data?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 2a.1\
 Indicate which metadata will be provided to help others identify and discover the data.
 
 both in the active phase and when preparing the data for archiving/publishing.
 
 > 2a.2\
-Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will be used.\\
+Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will be used.
+
 > 2a.3\
 Use community metadata standards where these are in place.
 
@@ -54,6 +55,17 @@ in the active phase of research.
 - planning post-award, active phase
 ```
 
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dataset]
+- [#metadata_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#metadata_tree): nested, see below
+
+[Properties in metadata]
+- [#properties-in-metadata](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-metadata): description, language, metadata_standard_id (identifier, type)
+- [#metadata_standard_id_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#metadata_standard_id_tree): nested, see below
+
+[Properties in metadata_standard_id]
+- [#properties-in-metadata_standard_id](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-metadata_standard_id): identifer, type
+
 ---
 <!--additional explanations-->
 ### Explanations for support staff
@@ -74,15 +86,19 @@ in the active phase of research.
 [2.1 Making data findable, including provisions for metadata]
 - Will data be identified by a persistent identifier?
 - Will rich metadata be provided to allow discovery? What metadata will be created? What disciplinary or general standards will be followed? In case metadata standards do not exist in your discipline, please outline what type of metadata will be created and how
+
 [2.2 Making data accessible - Metadata]
 - Will documentation or reference about any software be needed to access or read the data be included? Will it be possible to include the relevant software (e.g. in open source code)?
+
 [2.3 Making data interoperable]
 - What data and metadata vocabularies, standards, formats or methodologies will you follow to make your data interoperable to allow data exchange and re-use within and across disciplines? Will you follow community-endorsed interoperability best practices? Which ones? 
-- In case it is unavoidable that you use uncommon or generate project specific ontologies or vocabularies, will you provide mappings to more commonly used ontologies? Will you openly publish the generated ontologies or vocabularies to allow reusing, refining or extending them? 
+- In case it is unavoidable that you use uncommon or generate project specific ontologies or vocabularies, will you provide mappings to more commonly used ontologies? Will you openly publish the generated ontologies or vocabularies to allow reusing, refining or extending them?
+
 [2.4 Increase data re-use]
 - How will you provide documentation needed to validate data analysis and facilitate data re-use (e.g. readme files with information on methodology, codebooks, data cleaning, analyses, variable definitions, units of measurement, etc.)?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ##### Guidance for Researchers
 - With respect to the metadata standards: Find a suitable community- endorsed metadata standard in metadata registries (e.g., RDA, DCC). Preferably use domain and discipline- specific repositories to deposit your data in when using community- endorsed metadata standards (use Re3data to find a suitable repository). 
 - Confer with your local research data management specialist to determine the best metadata standard to use when no community-endorsed metadata standards are developed in your domain. 
@@ -152,7 +168,7 @@ Examples of measures to control and ensure data quality may be the use of standa
 ## 2b - What data quality control measures will be used?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 2b.1\
 Explain how the consistency and quality of data collection will be controlled and documented. This may include processes such as calibration, repeated samples or measurements, standardised data capture, data entry validation, peer review of data, or representation with controlled vocabularies.
 
@@ -168,6 +184,10 @@ not pid, but defined persitant standards for quality control relevant?
 - planning post-award, active phase
 ```
 
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dataset]
+- [#dataset_quality_assurance_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_quality_assurance_tree): "Data Quality Assurance" [string, free text]
+
 ---
 <!--additional explanations-->
 ### Explanations for support staff
@@ -181,13 +201,16 @@ Researchers might need help to present this explicit (might be self-explanatory 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
 [2.1 Making data findable, including provisions for metadata]
 - Will search keywords be provided in the metadata to optimize the possibility for discovery and then potential re-use?
-- Will metadata be offered in such a way that it can be harvested and indexed? 
+- Will metadata be offered in such a way that it can be harvested and indexed?
+
 [2.2. Making data accessible - Metadata]
 - Will metadata be made openly available and licenced under a public domain dedication CC0, as per the Grant Agreement? If not, please clarify why. Will metadata contain information to enable the user to access the data?
+
 [2.4 Increase data-reuse]
 - Describe all relevant data quality assurance processes
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ##### Guidance for Researchers
 not covered
 
@@ -197,6 +220,7 @@ not covered
 ---
 <!--additional explanations - only keywords-->
 ### Explanations for users
+- Data quality measure examples
 
 ---
 <!--recycling possible?-->
@@ -223,7 +247,7 @@ Is there need for extra hardware or software?
 Is there need for special expertise for collecting/generating data?
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) :
-[Will the project use any established terminologies, ontologies, standards, or similar, to describe and document the material? Which ones? If you create your own terminology, will it be mapped against established terminologies?]
+[Will the project use any established terminologies, ontologies, standards, or similar, to describe and document the material? Which ones? If you create your own terminology, will it be mapped against established terminologies?]\
 Why is this important? Many scientific disciplines have established terminologies, ontologies, and vocabularies (e.g. MeSH, ISCED, AAT, and ELSST) that can be used to categorize and document data materials. There are various standards that are recommended to follow (e.g. ISO 8601 for date, time, and time intervals). The use of standards and established terminologies simplifies the communication between people who belong to the same scientific field but can also make it easier to find material in, for example, journals. Sometimes, it may be necessary to create project-specific terminology lists if the existing ones aren’t sufficient or suited for the project. If you create a project-specific list, you should do a mapping, where you show which terms that mean exactly or almost the same thing as in other lists, but also which terms that are unique for your list. Mapping terms against other terminologies will improve the findability of the data material.
 
 #### [SIKT](https://sikt.no/en/data-management-plan)

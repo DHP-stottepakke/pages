@@ -22,5 +22,7 @@ subitems:
     url: /difficult_faq
   - title: RDM terminology
     url: /rdm_terminology
+  - title: DMP training
+    url: /dmp_training  
   - title: Inspiring DMP projects
     url: /dmp_projects_elsewhere

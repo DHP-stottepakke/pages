@@ -17,7 +17,7 @@ toc: true
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
-Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](legg inn lenke) .
+Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](https://dhp-stottepakke.github.io/pages/3_storage_backup#3b---how-will-data-security-and-protection-of-sensitive-data-be-taken-care-of-during-the-research).
 
 [Test the Ethics and data protection decision tree from European Commission](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
 
@@ -74,15 +74,23 @@ If the data should be available for future research contact the archive you wish
 
 ```
 
-#### [Covered in RDA maDMP common std](http://doi.org/10.15497/rda00039)
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
 [Properties in dmp]
-- [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree)
-- [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree)
-- [#ethical_issues_report_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_report_tree)
+- [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree): "To describe ethical issues directly in a DMP" [string, free text]
+- [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree): yes/no/unknown
+- [#ethical_issues_report_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_report_tree): "To indicate where a protocol from a meeting with an ethical commitee can be found"
 
 [Properties in dataset]
-- [#dataset_personal_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_personal_data_tree)
+- [#dataset_personal_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_personal_data_tree): yes/no/unknown
+- [#dataset_sensitive_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_sensitive_data_tree): yes/no/unknown
+- [#security_privacy_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#security_privacy_table): nested, see below
 
+[Properties in security and privacy]
+- https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-security_and_privacy: description [string, free text], name [string, free text]
+
+Missing:
+- Description of legal issues
+- Identification of ethical/legal issues at dmp level
 
 ---
 <!--additional explanations-->
@@ -180,7 +188,7 @@ Research material that will contain personal data has to be reported to the data
 ## 4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 If relevant also export control, protection of cultural heritage (Kulturminneloven), commercial interests. etc. should be discussed here.
 
 > 4b.1\
@@ -223,7 +231,7 @@ Is there restrictionst to re-use in the active phase of the project? Is there re
 - planning post-award, active phase
 ```
 
-#### [Covered in RDA maDMP common std](http://doi.org/10.15497/rda00039)
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
 not covered?
 
 
@@ -298,7 +306,7 @@ Clearly explains, if applicable:
 ## 4c How will possible ethical issues be taken into account, and codes of conduct followed?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 4c.1\
 > Consider whether ethical issues can affect how data are stored and transferred, who can see or use them, and how long they are kept.
 
@@ -314,6 +322,8 @@ Does your institution have ethics committees?
 Be aware of e.g. CARE principles - reflect on and consult communites, Nagoya protocol, RRI
 Consider to list relevant agreements that will be followed e.g. Helsinki declaration on health data
 
+[EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
+
 ```
 **Relevant PID**
 - country codes, laws, document ids of contracts/collaborative agreements, licenses of re-used data
@@ -328,7 +338,7 @@ Consider to list relevant agreements that will be followed e.g. Helsinki declara
 - planning post-award, active phase
 ```
 
-#### [Covered in RDA maDMP common std](http://doi.org/10.15497/rda00039)
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
 [Properties in dmp]
 - [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree)
 - [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree)
@@ -345,7 +355,7 @@ Consider to list relevant agreements that will be followed e.g. Helsinki declara
 - [Forskningsetikkloven](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
 - [Veileder institusjonenens ansvar forskingsetikk](https://www.forskningsetikk.no/ressurser/veileder-om-institusjonenes-ansvar-for-forskningsetikk/)
 - Nesh m venner
-- FOTS dyreforsøk, 3R principles
+- Animal experiments: FOTS, 3R principles
 - [Ethics and governance of artificial intelligence for health])https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf?sequence=1)
 - [National Research Ethics Committees Q&A: Lew privacy legislation - what does this imply for research *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
 - CARE - reflect on and consult communites 
@@ -384,7 +394,8 @@ Local ethical resources and boards
 How will you manage the rights of the data you use, produce and share? (2.2) Describe how you will agree upon the rights of use related to your research data – including the collected, produced and (re)used data of your project. Here, you can employ your categorisation in the first question. Each of these categories involves different rights and licenses. Describe the transfer of rights procedures relevant to your project. Describe confidentiality issues if applicable in your project. License your data! Tips for best practices • Agreements on rights of use should be made as early as possible in the project life cycle. • Have you gained consent for data preservation and sharing? • Follow the funder's or publisher's policies. • It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a [Creative Commons](https://creativecommons.org/choose/), [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) or [MIT license](https://opensource.org/licenses/MIT), or under another relevant license.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Does the project need ethical approval or has it been approved? Enter the reference number here.] Why is this important? Research that falls under the scope of the Act (2003:460) concerning the Ethical Review of Research Involving Humans (the Ethical Review Act, updated 2020-01-01) can only be carried out after ethical approval, which is applied for by the research principal. Without ethical approval, the research is illegal and subject to legal consequences. Ethical approval is also needed for research that involves animal testing.
+[Does the project need ethical approval or has it been approved? Enter the reference number here.]
+Why is this important? Research that falls under the scope of the Act (2003:460) concerning the Ethical Review of Research Involving Humans (the Ethical Review Act, updated 2020-01-01) can only be carried out after ethical approval, which is applied for by the research principal. Without ethical approval, the research is illegal and subject to legal consequences. Ethical approval is also needed for research that involves animal testing.
 
 #### [NTNU - DMP Guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
 Is an ethical review (for example by an ethics committee/REK or approval of use of experimental animals) required for data collection in the research project?

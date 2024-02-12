@@ -15,7 +15,7 @@ toc: true
 ## 3a - How will data and metadata be stored and backed up during the research process?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 3a.1\
 Describe where the data will be stored and backed up during research activities and how often the backup will be performed. It is recommended to store data in least at two separate locations.
 
@@ -41,13 +41,15 @@ Give preference to the use of robust, managed storage with automatic backup, suc
 - Technical knowledge of backup approaches.
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Storage and data security during the project]
+[Storage and data security during the project]\
 - Where will (meta)data be stored and backed up throughout the project, and how often will this be performed? Storing data on laptops, typical external hard drives, USB-sticks or similar is not recommended due to less protection and greater risk of data being lost.
 - How should data be recovered in the event of an accident?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ##### Guidance for researchers
 not covered
+
 ##### Sufficiently adressed
 Clearly (even if briefly) describes:
 - The location where the data and backups will be stored during the research activities.
@@ -132,17 +134,18 @@ Explain which institutional data protection policies are in place.
 - Understanding data security measures
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Storage and data security during the project]
+[Storage and data security during the project]\
 - Who will have access to the data during the project and how is access controlled? This is particularly important where the project is a collaboration with several research communities/institutions.
 - If applicable, how should data security and risk management be handled in relation to sensitive data, such as personal data and data that underlies trade secrets?
 - What institutional data protection policies apply?
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[5. Data Security]
+[5. Data Security]\
 - What provisions are or will be in place for data security (including data recovery as well as secure storage/archiving and transfer of sensitive data)?
 - Will the data be safely stored in trusted repositories for long term preservation and curation? (see also 5_sharing_preservation)
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 ##### Guidance for Researchers:
 not covered
 
@@ -159,7 +162,7 @@ Clearly describes the additional security measures (in terms of physical securit
 ### Explanations for users
 Data recovery, national and institutional policies, Information security levels 
 
---
+---
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
