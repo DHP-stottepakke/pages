@@ -15,11 +15,12 @@ toc: true
 ## 2a - What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany data?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+
 > 2a.1\
 Indicate which metadata will be provided to help others identify and discover the data.
 
-both in the active phase and when preparing the data for archiving/publishing.
+Both in the active phase and when preparing the data for archiving/publishing.
 
 > 2a.2\
 Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will be used.
@@ -27,22 +28,29 @@ Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will b
 > 2a.3\
 Use community metadata standards where these are in place.
 
-when archiving/publishing the data.
+When archiving/publishing the data.
 
 > 2a.4\
 Indicate how the data will be organised during the project, mentioning for example conventions, version control, and folder structures. Consistent, well-ordered research data will be easier to find, understand, and re-use.
 
-in the active phase of research
+Important in the active phase of research.
+File organisation and naming conventions may be part of the dataset description when archiving/publishing.
 
 > 2a.5\
 Consider what other documentation is needed to enable re-use. This may include information on the methodology used to collect the data, analytical and procedural information, definitions of variables, units of measurement, and so on.
 
-both in the active phase of research and when preparing the data for archiving/publishing.
+Both in the active phase of research and when preparing the data for archiving/publishing.
 
 > 2a.6\
 Consider how this information will be captured and where it will be recorded (for example in a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
 
-in the active phase of research.
+In the active phase of research.
+If data documentation is recorded in a non-digital format (e.g. during laboratory or field work), explain how (parts of) the information will be digitalized.
+
+#### Sufficiently adressed (DMP Evaluation Rubric)
+- Clearly outlines the metadata that will accompany the data, with reference to good practice in the scientific community (for example uses metadata standards where they exist).
+- Clearly outlines the documentation needed to enable data re-use, stating where the information will be recorded (for example a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
+- Indicates how the data will be organised during the project (for example naming conventions, version control strategy and folder structures).
 
 ```
 **Relevant PID**
@@ -99,15 +107,10 @@ in the active phase of research.
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-##### Guidance for Researchers
 - With respect to the metadata standards: Find a suitable community- endorsed metadata standard in metadata registries (e.g., RDA, DCC). Preferably use domain and discipline- specific repositories to deposit your data in when using community- endorsed metadata standards (use Re3data to find a suitable repository). 
 - Confer with your local research data management specialist to determine the best metadata standard to use when no community-endorsed metadata standards are developed in your domain. 
 - Use controlled vocabularies for your metadata (and other documentation) to create unambiguous, reusable, and machine-interpretable information. Choose your vocabulary based on community standards and information you have on the use and openness. When available in your domain, choose a repository to deposit your data in based on whether they support your preferred vocabulary (find a suitable repository on FAIRsharing).
 
-##### Sufficiently adressed
-- Clearly outlines the metadata that will accompany the data, with reference to good practice in the scientific community (for example uses metadata standards where they exist). 
-- Clearly outlines the documentation needed to enable data re-use, stating where the information will be recorded (for example a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks). 
-- Indicates how the data will be organised during the project (for example naming conventions, version control strategy and folder structures).
 
 ---
 <!--additional explanations - only keywords-->
@@ -168,9 +171,13 @@ Examples of measures to control and ensure data quality may be the use of standa
 ## 2b - What data quality control measures will be used?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+
 > 2b.1\
 Explain how the consistency and quality of data collection will be controlled and documented. This may include processes such as calibration, repeated samples or measurements, standardised data capture, data entry validation, peer review of data, or representation with controlled vocabularies.
+
+#### Sufficiently adressed (DMP Evaluation Rubric)
+- Clearly describes the approach taken to ensure and document quality control in the collection of data during the lifetime of the project.
 
 ```
 **Relevant PID**
@@ -211,11 +218,8 @@ Researchers might need help to present this explicit (might be self-explanatory 
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-##### Guidance for Researchers
-not covered
+- not covered
 
-##### Sufficiently adressed
-- Clearly describes the approach taken to ensure and document quality control in the collection of data during the lifetime of the project.
 
 ---
 <!--additional explanations - only keywords-->

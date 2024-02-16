@@ -15,12 +15,23 @@ toc: true
 ## 3a - How will data and metadata be stored and backed up during the research process?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+
 > 3a.1\
 Describe where the data will be stored and backed up during research activities and how often the backup will be performed. It is recommended to store data in least at two separate locations.
 
 > 3a.2\
 Give preference to the use of robust, managed storage with automatic backup, such as provided by IT support services of the home institution. Storing data on laptops, stand-alone hard drives, or external storage devices such as USB sticks is not recommended.
+
+Information about backup routines for all chosen storage solutions should be provided by the IT department. In cases were institutionally managed storage cannot be used (e.g. field trips), the 3-2-1 rule should be followed (at least 3 copies of the data, 2 different media, 1 off-site copy).
+
+#### Sufficiently adressed (DMP Evaluation Rubric)
+Clearly (even if briefly) describes:
+- The location where the data and backups will be stored during the research activities.
+- How often backups will be performed.
+- The use of robust, managed storage with automatic backup (for example storage provided by the home institution).
+or
+- Explains why institutional storage will not be used (and for what part of the data) and describes the (additional) locations, storage media, and procedures that will be used for storing and backing up data during the project.
 
 ```
 **Relevant PID**
@@ -47,16 +58,8 @@ Give preference to the use of robust, managed storage with automatic backup, suc
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-##### Guidance for researchers
-not covered
+- not covered
 
-##### Sufficiently adressed
-Clearly (even if briefly) describes:
-- The location where the data and backups will be stored during the research activities.
-- How often backups will be performed.
-- The use of robust, managed storage with automatic backup (for example storage provided by the home institution).
-or
-- Explains why institutional storage will not be used (and for what part of the data) and describes the (additional) locations, storage media, and procedures that will be used for storing and backing up data during the project.
 
 ---
 <!--additional explanations - only keywords-->
@@ -99,7 +102,7 @@ Losing a data material is something you want to avoid. Secure storage with regul
 ## 3b - How will data security and protection of sensitive data be taken care of during the research?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 3b.1\
 Explain how the data will be recovered in the event of an incident.
 
@@ -111,6 +114,13 @@ Consider data protection, particularly if your data is sensitive for example con
 
 > 3b.4\
 Explain which institutional data protection policies are in place.
+
+#### Sufficiently adressed (DMP Evaluation Rubric)
+Clearly explains:
+- How the data will be recovered in the event of an incident.
+- Which institutional and/or national data protection policies are in place and provides a link to where they can be accessed.
+- Who will have access to the data duringthe research.
+- Clearly describes the additional security measures (in terms of physical security, network security, and security of computer systems and files) that will be taken to ensure that stored and transferred data are safe, when sensitive data are involved (for example personal data, politically sensitive information, or trade secrets).
 
 ```
 **Relevant PID**
@@ -146,16 +156,8 @@ Explain which institutional data protection policies are in place.
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-##### Guidance for Researchers:
 - not covered
 
-##### Sufficiently adressed:
-Clearly explains:
-- How the data will be recovered in the event of an incident.
-- Which institutional and/or national data protection policies are in place and provides a link to where they can be accessed.
-- Who will have access to the data duringthe research.
-
-Clearly describes the additional security measures (in terms of physical security, network security, and security of computer systems and files) that will be taken to ensure that stored and transferred data are safe, when sensitive data are involved (for example personal data, politically sensitive information, or trade secrets).
 
 ---
 <!--additional explanations - only keywords-->
