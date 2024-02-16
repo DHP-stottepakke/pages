@@ -147,7 +147,7 @@ Explain which institutional data protection policies are in place.
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ##### Guidance for Researchers:
-not covered
+- not covered
 
 ##### Sufficiently adressed:
 Clearly explains:
@@ -160,7 +160,9 @@ Clearly describes the additional security measures (in terms of physical securit
 ---
 <!--additional explanations - only keywords-->
 ### Explanations for users
-Data recovery, national and institutional policies, Information security levels 
+- Data recovery
+- National and institutional policies
+- Information security levels 
 
 ---
 <!--recycling possible?-->

@@ -15,7 +15,16 @@ toc: true
 ## 1a - Data description and collection or re-use of existing data
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe Core Requirements](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+> a (1)\
+> How will new data be collected or produced and/or how will existing data be re-used?
+
+> b (2)\
+> What data (for example the kinds, formats, and volumes) will be collected or produced?
+
+#### [Science Europe DMP Template](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862")[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+
 > 1a.1\
 Explain which methodologies or software will be used if new data are collected or produced.
 
@@ -25,13 +34,20 @@ If data is produced, the methodology should briefly be explained.
 > 1a.2\
 State any constraints on re-use of existing data if there are any.
 
+Is there limitations to re-use of existing data? (Examples: limiting license conditions, insufficient metadata)
+
 > 1a.3\
 Explain how data provenance will be documented.
 
-This is important both for produced and re-used data and relevant at all stages.
+Is this only meant in the context of data re-use? Documenting data provencance (data lineage) is important both for produced and re-used data and relevant at all stages.
 
 > 1a.4\
 Briefly state the reasons if the re-use of any existing data sources has been considered but discarded.
+
+##### Sufficiently adressed
+- Gives clear details of where the existing data come from and how new data will be collected or produced. It clearly explains methods and software used.
+- Explains, if existing data are re-used, how these data will be accessed and any constraints on their re-use.
+- Explains clearly, if applicable, why new data must be collected, instead of re-using existing data.
 
 ```
 **Relevant PID**
