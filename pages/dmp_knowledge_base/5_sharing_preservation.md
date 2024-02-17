@@ -15,7 +15,7 @@ toc: true
 ## 5a - How and when will data be shared? Are there possible restrictions to data sharing or embargo reasons?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 5a.1\
 Explain how the data will be discoverable and shared (for example by deposit in a trustworthy data repository, indexed in a catalogue, use of a secure data service, direct handling of data requests, or use of another mechanism)
 
@@ -32,8 +32,7 @@ Indicate who will be able to use the data. If it is necessary to restrict access
 - Clearly describes how the data and/or metadata will be made discoverable and shared.
 - Specifies when data will be shared and under which licence.
 - Includes the name of the repository, data catalogue, or registry where data will or could be shared.
-- Includes information on how long the data will be retained and gives precision on its
-timely release.
+- Includes information on how long the data will be retained and gives precision on its timely release.
 - Clearly explains, if applicable, why data sharing is limited or not possible, and who can access the data under which conditions (for example, only members of certain communities or via a sharing agreement).
 - Explains, where possible, what actions will be taken to overcome or to minimise data sharing restrictions.
 
@@ -48,6 +47,23 @@ timely release.
 - pre-award:outline
 - planning post-award, active phase, final reporting
 ```
+
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dmp]
+- [#dataset_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_table): nested, see below
+
+[Properties in dataset]
+- [#dataset_id_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_id_tree): identifier, type
+- [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): Nested, see below e.g. access_url, available_until, byte_size, data_access, description, download_url, format, host, license, title
+- [#dataset_sensitive_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_sensitive_data_tree): yes/no/unknown
+
+[Properties in distribution]
+- [#distribution_access_url](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_access_url): A URL of the resource that gives access to a distribution of the dataset. e.g. landing page.
+- [#license_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#license_table): license_ref [uri], start_date
+
+Missing:
+- measures to overcome sharing restrictions
+- detailed information on restricted access
 
 ---
 <!--additional explanations-->
@@ -122,7 +138,7 @@ Why is this important? Digital data materials need to be actively administered o
 ## 5b - How will data for preservation be selected, and where will data be preserved long-term (for example a data repository or archive)?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 5b.1\
 Indicate what data must be retained nor destroyed for contractual, legal, or regulatory purposes.
 
@@ -195,12 +211,12 @@ Tuuli guides: "Decisions about preserving data should begin during the data mana
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-#### [SND - Checklist DMP](https://zenodo.org/records/6424769)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Before you preserve the data material and make it accessible, you may want to prepare the material. What file formats are suitable for long-term preservation? What documentation should be included with the data material after the project has ended? Are there any ethical and legal restrictions on the material, which mean that the data need to be processed (e.g. de-identified) before they can be made accessible? Where do you plan to archive and/or make the data accessible? Contact them in good time for assistance in how to prepare the material.]\
+#### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[Before you preserve the data material and make it accessible, you may want to prepare the material. What file formats are suitable for long-term preservation? What documentation should be included with the data material after the project has ended? Are there any ethical and legal restrictions on the material, which mean that the data need to be processed (e.g. de-identified) before they can be made accessible? Where do you plan to archive and/or make the data accessible? Contact them in good time for assistance in how to prepare the material.]
  Why is this important? Digital file formats run the risk of becoming obsolete. If this should happen, future software may not be able to read and present the information in the files correctly, and valuable research data could be lost. Therefore, you should choose file formats that are more likely to remain usable in the future, i.e. formats that are commonly used, non-proprietary, and have an open technical specification. Another benefit of choosing those formats is that you won’t have to convert the file formats at the end of the project. It isn’t always possible to choose a format that meets all criteria, as specific instruments, analysis tools, or developed software can affect the choice of data formats. If that’s the case, it’s important to plan for how to guarantee that the data material can be preserved.
  When the project is finished and the data material shall be made accessible, it may, due to ethical and legal restrictions, be important to guarantee that the individuals in the study cannot be re-identified (i.e. identified through indirect identifiers in the data material).
 
-#### [DMP Tuuli](https://zenodo.org/records/5242629)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 **Where will data with long-term value be archived, and for how long? (5.2)**
  Briefly describe what part of your data you will preserve, where it is preserved, and for how long. Long term preservation means that data is preserved for as long as necessary, for several decades or even centuries.
  You can categorise your data sets according to the anticipated preservation period:
@@ -222,7 +238,7 @@ Use data repositories with a commitment to long-term curation, e.g. Fairdata Dig
 ## 5c - What methods or software tools will be needed to access and use the data?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 5c.1\
 Indicate whether potential users need specific tools to access and (re-)use the data. Consider the sustainability of software needed for accessing the data.
 
@@ -286,7 +302,7 @@ To make it possible to continue using the data material, it’s important to ent
 ## 5d - How will the application of a unique and persistent identifier (such as a Digital Object Identifier (DOI)) to each data set be ensured?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 5d.1\
 Explain how the data might be re-used in other contexts. Persistent identifiers (PIDs) should be applied so that data can be reliably and efficiently located and referred to. PIDs also help to track citations and re-use.
 

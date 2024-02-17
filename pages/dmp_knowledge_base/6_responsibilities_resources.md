@@ -62,6 +62,10 @@ Be familiar with routines at your institution for approving DMPs. It is recommen
 - planning post-award, active phase, final reporting
 ```
 
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dmp]
+- [#dmp_contributor_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contributor_table): contributor_id (identifier, type), mbox, name, role [string, not controlled])
+
 ---
 <!--additional explanations-->
 ### Explanations for support staff
@@ -128,7 +132,7 @@ Who has the right to manage the data? (Usually several members of the project gr
 ## 6b - What resources (for example financial and time) will be dedicated to data management and ensuring that data will be FAIR (Findable, Accessible, Interoperable, Re-usable)?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 6b.1\
 > Explain how the necessary resources (for example time) to prepare the data for sharing/preservation (data curation) have been costed in. Carefully consider and justify any resources needed to deliver the data. These may include storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges.
 
@@ -155,6 +159,10 @@ Include monetary costs on these activities in your project budget, preferrably b
 - planning post-award
 ```
 
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dmp]
+- [#cost_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#cost_table): currency_code, description, title, value
+
 ---
 <!--additional explanations-->
 ### Explanations for support staff
@@ -166,7 +174,7 @@ Include monetary costs on these activities in your project budget, preferrably b
 - How are the necessary resources budgeted and covered in the project to prepare data for sharing and long-term preservation (curating)? These can be costs related to storage, hardware, staff time, costs associated with preparing data for disposal and costs related to preservation at a data repository.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[4. Allocation of resources]\
+[4. Allocation of resources]
 - What will the costs be for making data or other research outputs FAIR in your project (e.g. direct and indirect costs related to storage, archiving, re-use, security, etc.) 
 - How will these be covered? Note that costs related to research data/output management are eligible as part of the Horizon Europe grant (if compliant with the Grant Agreement conditions)
 - How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)?

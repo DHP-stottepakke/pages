@@ -90,7 +90,8 @@ If the data should be available for future research contact the archive you wish
 - [#security_privacy_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#security_privacy_table): nested, see below
 
 [Properties in security and privacy]
-- https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-security_and_privacy: description [string, free text], name [string, free text]
+- [#properties-in-security_and_privacy](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-security_and_privacy: description [string, free text], name [string, free text]
+- [#dataset_sensitive_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_sensitive_data_tree): yes/no/unknown
 
 Missing:
 - Description of legal issues
@@ -241,7 +242,11 @@ Clearly explains, if applicable:
 ```
 
 #### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
-not covered?
+[Properties in dataset]
+- [#dataset_sensitive_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_sensitive_data_tree): yes/no/unknown
+
+Missing:
+- legal issues such as IPR are hardly covered?
 
 
 ---
@@ -314,7 +319,7 @@ not covered?
 Make sure this is appropriately addressed under [3. storage and backup 3b.3](3_storage_backup)
 
 > 4c.2\
-> Demonstrate awareness of these aspects and respective planning. - Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
+> Demonstrate awareness of these aspects and respective planning. Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
 
 Does your institution have ethics committees?
 
@@ -346,13 +351,16 @@ Consider to list relevant agreements that will be followed e.g. Helsinki declara
 
 #### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
 [Properties in dmp]
-- [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree)
-- [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree)
-- [#ethical_issues_report_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_report_tree)
+- [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree): "To describe ethical issues directly in a DMP" [string, free text]
+- [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree): yes/no/unknown
+- [#ethical_issues_report_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_report_tree): "To indicate where a protocol from a meeting with an ethical commitee can be found"
 
 [Properties in dataset]
-- [#dataset_personal_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_personal_data_tree)
+- [#dataset_personal_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_personal_data_tree): yes/no/unknown
 
+Missing:
+- ethical approvals
+- references to ethical guidelines
 
 ---
 <!--additional explanations-->
