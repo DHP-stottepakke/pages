@@ -217,6 +217,6 @@ Does your data include sensitive data? (If yes, also answer the questions below.
 Are you going to collect informed consent to store and share the data? If so, how? 
 How are you going to secure confidentiality and identity protection?
 
-#### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SND - Checklist DMP](https://doi.org/10.5281/zenodo.6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Refer to the information security guidelines and policies in your university/organization and define what implications they have. What information classification level does the data material have and what security measures are needed to protect the material? Who should have access to the project data during the project and how do you plan to protect the data from unauthorised access?
 **Why is this important?** Access to the data material must be restricted so that authorised people can access it, but it is protected from unauthorised access. Secure work and storage environments can include access restriction (e.g. passwords), encryption, and virus and access protection. You may need to contact your organization’s IT security office to make sure that you have addressed all questions regarding information security before the data collection begins.]
