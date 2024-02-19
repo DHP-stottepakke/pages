@@ -4,19 +4,23 @@ title_url: /dmp_supporting_info
 subitems:
   - title: Get local/disciplinary support
     url: /support_local_disc
-  - title: Administrative information
-    url: /support_admin_information
-  - title: Data description
-    url: /support_data_description
-  - title: Data documentation and quality
-    url: /support_documentation_quality
+  - title: 1 - Planning considerations
+    url: /support_01_planning considerations
+  - title: 2 - Administrative information
+    url: /support_02_admin_information
+  - title: Legal and ethical aspects
+    url: /support_03_legal_ethics
   - title: Storage and backup
-    url: /support_storage_backup
+    url: /support_04_storage_backup
+  - title: Data reuse
+    url: /support_05_data_reuse
   - title: Legal and ethical requirements
-    url: /support_legal_ethics
-  - title: Data sharing and preservation
-    url: /support_sharing_preservation
+    url: /support_06_collect_create
+  - title: Collect and create data
+    url: /support_07_process_analyse
+  - title: Process and analyse data
+    url: /support_08_preserve_publish
   - title: Responsibilities and resources
-    url: /support_responsibilities_resources
-  - title: Publish DMP
-    url: /support_publish_dmp
+    url: /support_09_responsibilities_resources
+  - title: Manage DMP
+    url: /support_10_manage_dmp
