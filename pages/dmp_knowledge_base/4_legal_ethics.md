@@ -15,7 +15,7 @@ toc: true
 ## 4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
 Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](3_storage_backup#3b---how-will-data-security-and-protection-of-sensitive-data-be-taken-care-of-during-the-research).
 
@@ -60,6 +60,10 @@ Make sure this is addressed under storage and backup, in addition consider who s
 
 If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over.
 
+#### Sufficiently adressed (DMP Evaluation Rubric)
+- Clearly indicates if personal data will be collected/used as part of the project, and, if applicable, how compliance with applicable legislation will be ensured (for example by gaining informed consent, considering encryption, anonymisation, or pseudonymisation). 
+- Describes the procedure to manage access to only authorised users.
+
 ```
 **Relevant PID**
 - REK ID, ID SIKT personverntjenester
@@ -86,7 +90,8 @@ If the data should be available for future research contact the archive you wish
 - [#security_privacy_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#security_privacy_table): nested, see below
 
 [Properties in security and privacy]
-- https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-security_and_privacy: description [string, free text], name [string, free text]
+- [#properties-in-security_and_privacy](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-security_and_privacy: description [string, free text], name [string, free text]
+- [#dataset_sensitive_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_sensitive_data_tree): yes/no/unknown
 
 Missing:
 - Description of legal issues
@@ -121,12 +126,8 @@ Missing:
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-##### Guidance for Researchers
 - For guidance on access, see 5a.
 
-##### Sufficiently adressed:
-- Clearly indicates if personal data will be collected/used as part of the project, and, if applicable, how compliance with applicable legislation will be ensured (for example by gaining informed consent, considering encryption, anonymisation, or pseudonymisation). 
-- Describes the procedure to manage access to only authorised users.
 
 ---
 <!--additional explanations - only keywords-->
@@ -218,6 +219,15 @@ Also relevant for artistic research.
 
 Is there restrictionst to re-use in the active phase of the project? Is there restrictions to sharing project results?
 
+#### Sufficiently adressed (DMP Evaluation Rubric)
+Clearly explains, if applicable:
+- Who will have the rights to control access to which part of the data.
+- What access conditions and re-use licenses will apply to the data.
+- Clearly explains, if applicable, how intellectual property rights will be managed.
+- Explains for multi-partner projects and multiple data owners how these matters are addressed in the consortium agreement.
+- Alternatively, there is a clear statement that there are no such restrictions on the data.
+- Indicates, if applicable, whether there are any restrictions on the re-use of thirdparty data.
+
 ```
 **Relevant PID**
 - country codes, laws, document ids of contracts/collaborative agreements, licenses of re-used data
@@ -232,7 +242,11 @@ Is there restrictionst to re-use in the active phase of the project? Is there re
 ```
 
 #### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
-not covered?
+[Properties in dataset]
+- [#dataset_sensitive_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_sensitive_data_tree): yes/no/unknown
+
+Missing:
+- legal issues such as IPR are hardly covered?
 
 
 ---
@@ -247,7 +261,6 @@ not covered?
 - Åndsverkloven, arkivloven
 - Report How should we share research data
 
-
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 - Which legal entities have rights to and/or rights to determine the use of the research data? 
 - Will the data be openly accessible or with access restrictions, if so, what access restrictions? One example is that access to data is only granted via an authentication service. 
@@ -256,19 +269,12 @@ not covered?
 - Where the project involves several partners and/or several legal or natural persons with rights to research data; How should rights to control data access be managed in the project? 
 - Where the research data falls under copyright or database protection under the Copyright Act; What rights apply and how will this be managed in the project? When using data from a third party; What access and purpose restrictions, if any, apply to this data? (Rights and legal requirements and codes of conduct)
 
-#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+- not covered
 
-##### Guidance for Researchers
+#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 - For guidance on access, see 5a.
 
-##### Sufficiently adressed:
-Clearly explains, if applicable:
-- Who will have the rights to control access to which part of the data.
-- What access conditions and re-use licenses will apply to the data.
-- Clearly explains, if applicable, how intellectual property rights will be managed.
-- Explains for multi-partner projects and multiple data owners how these matters are addressed in the consortium agreement.
-- Alternatively, there is a clear statement that there are no such restrictions on the data.
-- Indicates, if applicable, whether there are any restrictions on the re-use of thirdparty data.
 
 ---
 <!--additional explanations - only keywords-->
@@ -313,7 +319,7 @@ Clearly explains, if applicable:
 Make sure this is appropriately addressed under [3. storage and backup 3b.3](3_storage_backup)
 
 > 4c.2\
-> Demonstrate awareness of these aspects and respective planning. - Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
+> Demonstrate awareness of these aspects and respective planning. Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
 
 Does your institution have ethics committees?
 
@@ -323,6 +329,11 @@ Be aware of e.g. CARE principles - reflect on and consult communites, Nagoya pro
 Consider to list relevant agreements that will be followed e.g. Helsinki declaration on health data
 
 [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
+
+#### Sufficiently adressed (DMP Evaluation rubric)
+- Provides details of what ethical issues have been considered that may affect data storage, transfer, use, sharing and/ or preservation, and demonstrates that adequate measures are in place to manage ethical requirements.
+- Mentions, if applicable, whether ethical review is being pursued. If ethical approval has been obtained, refers to the relevant committee and documents.
+- Refers to relevant ethical guidelines and/or codes of conduct or alternatively provides a clear statement that explains why ethical issues have not been considered.
 
 ```
 **Relevant PID**
@@ -340,13 +351,16 @@ Consider to list relevant agreements that will be followed e.g. Helsinki declara
 
 #### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
 [Properties in dmp]
-- [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree)
-- [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree)
-- [#ethical_issues_report_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_report_tree)
+- [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree): "To describe ethical issues directly in a DMP" [string, free text]
+- [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree): yes/no/unknown
+- [#ethical_issues_report_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_report_tree): "To indicate where a protocol from a meeting with an ethical commitee can be found"
 
 [Properties in dataset]
-- [#dataset_personal_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_personal_data_tree)
+- [#dataset_personal_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#dataset_personal_data_tree): yes/no/unknown
 
+Missing:
+- ethical approvals
+- references to ethical guidelines
 
 ---
 <!--additional explanations-->
@@ -368,17 +382,14 @@ Consider to list relevant agreements that will be followed e.g. Helsinki declara
 - What ethical issues can affect how data is stored and transferred, who has data access to view or use the data, and how long it should be kept?
 - Which institutional, national and/or international guidelines for research ethics apply to the project? Examples may be approval from regional committees for medical and health research ethics (REK) or the Norwegian Food Safety Authority.
 
-#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+- not covered
 
-##### Guidance for Researchers
+#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 - Explicitly state in your metadata when access to the data needs to be limited due to ethical reasons. Include information on how to request access when this is possible an mention the contact details of the rights holder.
 - In case data cannot be publicly shared due to ethical reasons, make sure you do still publish the accompanying metadata.
 - For more guidance on licensing and access, see 5a.
 
-##### Sufficiently adressed:
-- Provides details of what ethical issues have been considered that may affect data storage, transfer, use, sharing and/ or preservation, and demonstrates that adequate measures are in place to manage ethical requirements.
-- Mentions, if applicable, whether ethical review is being pursued. If ethical approval has been obtained, refers to the relevant committee and documents.
-- Refers to relevant ethical guidelines and/or codes of conduct or alternatively provides a clear statement that explains why ethical issues have not been considered.
 
 ---
 <!--additional explanations - only keywords-->

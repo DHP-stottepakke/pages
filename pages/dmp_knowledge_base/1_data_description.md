@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: Data description
+title: Data description and collection or re-use of existing data
 search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: 1_data_description
@@ -12,26 +12,34 @@ toc: true
 ---
 
 <!--Science Europe question ID & title-->
-## 1a - Data description and collection or re-use of existing data
+## 1a - How will new data be collected or produced and/or how will existing data be re-used?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+
 > 1a.1\
 Explain which methodologies or software will be used if new data are collected or produced.
 
-If data is re-used, the rationale how data was chosen should be explained.
+If data is re-used, the rationale how data was chosen should be outlined.
 If data is produced, the methodology should briefly be explained.
 
 > 1a.2\
 State any constraints on re-use of existing data if there are any.
 
+Is there limitations to re-use of existing data? (Examples: limiting license conditions, insufficient metadata)
+
 > 1a.3\
 Explain how data provenance will be documented.
 
-This is important both for produced and re-used data and relevant at all stages.
+Is this only meant in the context of data re-use? Documenting data provencance (data lineage) is important both for produced and re-used data. Often, both information about origin of the data (methodology, instrument, date) and data processing steps are required to understand and interpret the data.
 
 > 1a.4\
 Briefly state the reasons if the re-use of any existing data sources has been considered but discarded.
+
+#### Sufficiently adressed (DMP Evaluation Rubric)
+- Gives clear details of where the existing data come from and how new data will be collected or produced. It clearly explains methods and software used.
+- Explains, if existing data are re-used, how these data will be accessed and any constraints on their re-use.
+- Explains clearly, if applicable, why new data must be collected, instead of re-using existing data.
 
 ```
 **Relevant PID**
@@ -82,15 +90,12 @@ Missing:
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-##### Guidance for Researchers
-- With respect to data formats or file formats: Make data available in a file format that is accepted by your research community to enable data sharing, interoperability, and reuse, and by the repository to enable long- term preservation. When in doubt, check a couple of potentially relevant data repositories to find out what they expect, and include your findings in the DMP.
-- For guidance about how to search for repositories, see 6a
-
-##### Sufficiently adressed
-- Clearly describes or lists what data types will be generated (for example numeric, textual, audio, or video) and their associated data formats, including, if needed, data conversion strategies.
-- Explains why certain formats have been chosen and indicates if they are in open and standard format. If a proprietary format is used, it explains why.
-- Provides information about the estimated data volume.
-
+- With respect to data provenance: Document the provenance for example by including it in the metadata record (e.g., using persistent identifiers), or via a linked provenance record (e.g., when you are familiar with using PROV-O, PAV, or VoID).
+- Supply at least the following information:
+- Sources of data generation or collection (e.g., model, instrument, methodology)
+- The date of data creation or collection
+- The contributor(s) involved
+- Data versioning information (indicate relations to other versions and describe changes)
 
 ---
 <!--additional explanations - only keywords-->
@@ -110,7 +115,8 @@ Missing:
 ## 1b - What data (for example the kind, formats, and volumes) will be collected or produced?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+
 > 1b.1\
 Give details on the kind of data: for example numeric (databases, spreadsheets), textual (documents), image, audio, video, and/or mixed media.
 
@@ -125,13 +131,20 @@ Justify the use of certain formats. For example, decisions may be based on staff
 > 1b.4\
 Give preference to open and standard formats as they facilitate sharing and long-term re-use of data (several repositories provide lists of such ‘preferred formats’).
 
-Be aware of use of given file formats in the active phase (both open and proprietary formats can be appropriate), medium-term storage (open formats to be preferred - e.g. danger of license loss for proprietary software), and long-term preservation (strictly open formats).
+Be aware of use of given file formats in the active phase (both open and proprietary formats can be appropriate), medium-term storage (open formats to be preferred - e.g. danger of license loss for proprietary software), and long-term preservation (strictly open formats). Conversion strategies should be described.
 
 > 1b.5\
 Give details on the volumes (they can be expressed in storage space required (bytes), and/or in numbers of objects, files, rows, and columns).
 
 Rough estimation sufficient for planning purposes.
 More precise numbers can be needed if shared with stakeholder, e.g. to apply for/purchase storage quotas.
+
+#### Sufficiently adressed (DMP Evaluation Rubric)
+- Clearly describes or lists what data types will be generated (for example numeric, textual, audio, or video) and their associated data formats, including, if needed, data conversion strategies.
+- Explains why certain formats have been chosen and indicates if they are in open and standard format. If a proprietary format is used, it explains why.
+- Provides information about the estimated data volume.
+- Clearly states, if applicable, that no new data will be produced or generated by the project.
+- NB. Information derived from previously existing data sources (namely output, processed, and analysed data) are to be considered new data under this question.
 
 ```
 **Relevant PID**
@@ -189,15 +202,8 @@ Missing:
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-##### Guidance for Researchers
-- With respect to data formats or file formats: Make data available in a file format that is accepted by your research community to enable data sharing, interoperability, and reuse, and by the repository to enable long- term preservation. When in doubt, check a couple of potentially relevant data repositories to find out what they expect, and include your findings in the DMP
+- With respect to data formats or file formats: Make data available in a file format that is accepted by your research community to enable data sharing, interoperability, and reuse, and by the repository to enable long- term preservation. When in doubt, check a couple of potentially relevant data repositories to find out what they expect, and include your findings in the DMP.
 - For guidance about how to search for repositories, see 6a
-
-##### Sufficiently adressed
-- Gives clear details of where the existing data come from and how new data will be collected or produced. It clearly explains methods and software used.
-- Explains, if existing data are re-used, how these data will be accessed and any constraints on their re-use.
-- Explains clearly, if applicable, why new data must be collected, instead of re-using existing data.
-- Clearly states, if applicable, that no new data will be produced or generated by the project.
 
 ---
 <!--additional explanations - only keywords-->

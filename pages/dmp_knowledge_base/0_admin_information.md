@@ -12,16 +12,21 @@ toc: true
 ---
 
 <!--Science Europe question ID & title-->
-## 0 - Administrative information
+## 0 - Administrative Information
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
-> not covered
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 
-This section should identify the project with title, acronym and funding (if relevant) and contain information about the host institution, participants, and collaborators.
-It is important to include references to central documents (e.g. collaborative agreements).
+> 0.1\
+>Provide information such as name of applicant, project number, funding programme, version of DMP.
+
+This section should identify the project with title, acronym and funding (if relevant) and contain information about the host institution, participants, and collaborators. Persistent identifiers should be used wherever possible.
+It is beneficial to include references to relevant documents/agreements/contracts (e.g. collaborative agreements), particularly in multi-stakeholder projects.
 Adding brief information about the purpose/aim of the project (abstract) is helpful for evaluators.
 The DMP should be versionized (see also [Publishing the DMP](publish_dmp)).
+
+#### Sufficiently adressed (DMP Evaluation Rubric)
+- Contains the minimal information required to identify the applicant and the references of the project.
 
 ```
 **Relevant PID**
@@ -64,11 +69,7 @@ Missing:
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-##### Guidance for Researchers
-not covered
-##### Sufficiently adressed
-- Contains the minimal information required to identify the applicant and the references of the project.
-
+- not covered
 
 ---
 <!--additional explanations - only keywords-->
@@ -79,7 +80,7 @@ not covered
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-#### [SND i Sverige](https://doi.org/10.5281/zenodo.6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SND - Checklist DMP](https://doi.org/10.5281/zenodo.6424769)  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 1.1 Project description
  

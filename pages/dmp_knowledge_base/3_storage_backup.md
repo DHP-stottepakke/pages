@@ -15,12 +15,23 @@ toc: true
 ## 3a - How will data and metadata be stored and backed up during the research process?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+
 > 3a.1\
 Describe where the data will be stored and backed up during research activities and how often the backup will be performed. It is recommended to store data in least at two separate locations.
 
 > 3a.2\
 Give preference to the use of robust, managed storage with automatic backup, such as provided by IT support services of the home institution. Storing data on laptops, stand-alone hard drives, or external storage devices such as USB sticks is not recommended.
+
+Information about backup routines for all chosen storage solutions should be provided by the IT department. In cases were institutionally managed storage cannot be used (e.g. field trips), the 3-2-1 rule should be followed (at least 3 copies of the data, 2 different media, 1 off-site copy).
+
+#### Sufficiently adressed (DMP Evaluation Rubric)
+Clearly (even if briefly) describes:
+- The location where the data and backups will be stored during the research activities.
+- How often backups will be performed.
+- The use of robust, managed storage with automatic backup (for example storage provided by the home institution).
+or
+- Explains why institutional storage will not be used (and for what part of the data) and describes the (additional) locations, storage media, and procedures that will be used for storing and backing up data during the project.
 
 ```
 **Relevant PID**
@@ -33,6 +44,21 @@ Give preference to the use of robust, managed storage with automatic backup, suc
 - pre-award: outline (if budget-relevant)
 - planning post-award, active phase
 ```
+
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in distribution]
+- [#host_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_table): nested, see below
+
+[Properties in host] may also be used to describe unpublished datasets?
+- [#host_geo_location_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_geo_location_tree) [country code, controlled vocabulary]
+- [#host_storage_type_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_storage_type_tree) [string, free text]
+- [#host_backup_frequency](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_backup_frequency) [string, free text]
+- [#host_backup_type_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_backup_type_tree) [string, free text]
+- [#host_certified_with_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_certified_with_tree) [controlled vocabulary]
+- [#host_supports_versioning_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_supports_versioning_tree): yes/no/unknown
+
+Missing:
+- most suited to published data
 
 ---
 <!--additional explanations-->
@@ -47,16 +73,8 @@ Give preference to the use of robust, managed storage with automatic backup, suc
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-##### Guidance for researchers
-not covered
+- not covered
 
-##### Sufficiently adressed
-Clearly (even if briefly) describes:
-- The location where the data and backups will be stored during the research activities.
-- How often backups will be performed.
-- The use of robust, managed storage with automatic backup (for example storage provided by the home institution).
-or
-- Explains why institutional storage will not be used (and for what part of the data) and describes the (additional) locations, storage media, and procedures that will be used for storing and backing up data during the project.
 
 ---
 <!--additional explanations - only keywords-->
@@ -99,7 +117,7 @@ Losing a data material is something you want to avoid. Secure storage with regul
 ## 3b - How will data security and protection of sensitive data be taken care of during the research?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 3b.1\
 Explain how the data will be recovered in the event of an incident.
 
@@ -111,6 +129,13 @@ Consider data protection, particularly if your data is sensitive for example con
 
 > 3b.4\
 Explain which institutional data protection policies are in place.
+
+#### Sufficiently adressed (DMP Evaluation Rubric)
+Clearly explains:
+- How the data will be recovered in the event of an incident.
+- Which institutional and/or national data protection policies are in place and provides a link to where they can be accessed.
+- Who will have access to the data during the research.
+- Clearly describes the additional security measures (in terms of physical security, network security, and security of computer systems and files) that will be taken to ensure that stored and transferred data are safe, when sensitive data are involved (for example personal data, politically sensitive information, or trade secrets).
 
 ```
 **Relevant PID**
@@ -124,6 +149,18 @@ Explain which institutional data protection policies are in place.
 - pre-award: outline
 - planning post-award, active phase
 ```
+
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in security and privacy]
+- https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-security_and_privacy: description [string, free text], name [string, free text]
+
+[Properties in distribution]
+- [#distribution_data_access_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_data_access_tree): open/shared/closed
+
+Missing:
+- data recovery
+- institutional/national data protection policies
+- differential access rights, particularly in the active phase
 
 ---
 <!--additional explanations-->
@@ -144,29 +181,23 @@ Explain which institutional data protection policies are in place.
 - What provisions are or will be in place for data security (including data recovery as well as secure storage/archiving and transfer of sensitive data)?
 - Will the data be safely stored in trusted repositories for long term preservation and curation? (see also 5_sharing_preservation)
 
-#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-##### Guidance for Researchers:
-not covered
+- not covered
 
-##### Sufficiently adressed:
-Clearly explains:
-- How the data will be recovered in the event of an incident.
-- Which institutional and/or national data protection policies are in place and provides a link to where they can be accessed.
-- Who will have access to the data duringthe research.
-
-Clearly describes the additional security measures (in terms of physical security, network security, and security of computer systems and files) that will be taken to ensure that stored and transferred data are safe, when sensitive data are involved (for example personal data, politically sensitive information, or trade secrets).
 
 ---
 <!--additional explanations - only keywords-->
 ### Explanations for users
-Data recovery, national and institutional policies, Information security levels 
+- Data recovery
+- National and institutional policies
+- Information security levels 
 
 ---
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-#### [DMP Tuuli](https://zenodo.org/records/5242629)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [DMP Tuuli](https://zenodo.org/doi/10.5281/zenodo.3629371) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 What legal issues are related to your data management? (For example, GDPR and other legislation affecting data processing).
 All types of research data involve questions of rights and legal and ethical issues. Demonstrate that you are aware of the relevant legislation related to your data processing. If you are handling personal or sensitive information, describe how you will ensure privacy protection and data anonymisation or pseudonymisation.
 - Tips for best practices:
@@ -186,6 +217,6 @@ Does your data include sensitive data? (If yes, also answer the questions below.
 Are you going to collect informed consent to store and share the data? If so, how? 
 How are you going to secure confidentiality and identity protection?
 
-#### [SND - Checklist DMP](https://zenodo.org/records/6424769)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SND - Checklist DMP](https://doi.org/10.5281/zenodo.6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Refer to the information security guidelines and policies in your university/organization and define what implications they have. What information classification level does the data material have and what security measures are needed to protect the material? Who should have access to the project data during the project and how do you plan to protect the data from unauthorised access?
 **Why is this important?** Access to the data material must be restricted so that authorised people can access it, but it is protected from unauthorised access. Secure work and storage environments can include access restriction (e.g. passwords), encryption, and virus and access protection. You may need to contact your organization’s IT security office to make sure that you have addressed all questions regarding information security before the data collection begins.]

@@ -17,7 +17,7 @@ toc: true
 ## 6a - Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 6a.1\
 > Outline the roles and responsibilities for data management/stewardship activities for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. Name responsible individual(s) where possible.
 
@@ -42,6 +42,10 @@ Implementing the DMP should be understood as both writing and updating the DMP, 
 Regular updates are important. The value of a DMP as a project tool is best if it is up to date at all times during the project.
 Be familiar with routines at your institution for approving DMPs. It is recommended that institutions should have DMP routines and that the institution responsible for the project should approve the plan.
 
+#### Sufficiently addressed (DMP Evaluation Rubric)
+- Clearly outlines the roles and responsibilities for data management/stewardship (for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing), naming responsible individual(s) where possible.
+- Clearly indicates who is responsible for day-to-day implementation and adjustments to the DMP.
+- Explains, for collaborative projects, the co-ordination of data management responsibilities across partners.
 
 ```
 **Relevant PID**
@@ -57,6 +61,10 @@ Be familiar with routines at your institution for approving DMPs. It is recommen
 **Relevant project phase**
 - planning post-award, active phase, final reporting
 ```
+
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dmp]
+- [#dmp_contributor_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contributor_table): contributor_id (identifier, type), mbox, name, role [string, not controlled])
 
 ---
 <!--additional explanations-->
@@ -76,14 +84,8 @@ Be familiar with routines at your institution for approving DMPs. It is recommen
 - Who will be responsible for data management in your project?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-##### Guidance for Researchers
 - Determine the role of the data repository in your data management and stewardship. Choose an adequate repository to archive and share your data in that can meet or surpass your desires. Trustworthy Digital Repositories (TDRs) are repositories that provide support and take responsibility for data curation and digital preservation. TDRs can be officially certified (e.g., by the CoreTrustSeal, DIN31644/NESTOR, or ISO163638 standard). Use Re3data to find certified TDRs to deposit your data in.
 
-##### Sufficiently addressed
-- Clearly outlines the roles and responsibilities for data management/stewardship (for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing), naming responsible individual(s) where possible.
-- Clearly indicates who is responsible for day-to-day implementation and adjustments to the DMP.
-- Explains, for collaborative projects, the co-ordination of data management responsibilities across partners.
 
 ---
 <!--additional explanations - only keywords-->
@@ -130,7 +132,7 @@ Who has the right to manage the data? (Usually several members of the project gr
 ## 6b - What resources (for example financial and time) will be dedicated to data management and ensuring that data will be FAIR (Findable, Accessible, Interoperable, Re-usable)?
 
 <!--key information-->
-### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
+### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > 6b.1\
 > Explain how the necessary resources (for example time) to prepare the data for sharing/preservation (data curation) have been costed in. Carefully consider and justify any resources needed to deliver the data. These may include storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges.
 
@@ -140,6 +142,9 @@ Include also the resources needed for collecting or generating the data: The cos
 > Indicate whether additional resources will be needed to prepare data for deposit or to meet any charges from data repositories. If yes, explain how much is needed and how such costs will be covered.
 
 Include monetary costs on these activities in your project budget, preferrably broken down on activties and services. Both for your project administrative needs, and to include in your funding application. Make an effort early in the project to identify preferred repository, so that repository charges may be included in the budget and in the funding application. Revise your budget on these elements when needed.
+
+#### Sufficiently adressed (DMP Evaluation Rubric)
+- Provides clear estimates of the resources and costs (for example storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges) that will be dedicated to data management and ensuring that data will be FAIR and describes how these costs will be covered. Alternatively, there is a statement that no additional resources are needed.
 
 ```
 **Relevant PID**
@@ -154,6 +159,10 @@ Include monetary costs on these activities in your project budget, preferrably b
 - planning post-award
 ```
 
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dmp]
+- [#cost_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#cost_table): currency_code, description, title, value
+
 ---
 <!--additional explanations-->
 ### Explanations for support staff
@@ -165,18 +174,13 @@ Include monetary costs on these activities in your project budget, preferrably b
 - How are the necessary resources budgeted and covered in the project to prepare data for sharing and long-term preservation (curating)? These can be costs related to storage, hardware, staff time, costs associated with preparing data for disposal and costs related to preservation at a data repository.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[4. Allocation of resources]\
+[4. Allocation of resources]
 - What will the costs be for making data or other research outputs FAIR in your project (e.g. direct and indirect costs related to storage, archiving, re-use, security, etc.) 
 - How will these be covered? Note that costs related to research data/output management are eligible as part of the Horizon Europe grant (if compliant with the Grant Agreement conditions)
 - How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
-##### Guidance for Researchers
 - Determine any costs that your chosen repository charges for depositing the data. Data repositories, especially TDRs (‘trustworthy digital repositories’) will perform (some) data curation and digital preservation. This is an active and ongoing process of data management to ensure discovery, reuse, and long-term FAIR durability. Contact the repository of your choice to learn about these costs and make them explicit in your DMP.
-
-##### Sufficiently adressed
-- Provides clear estimates of the resources and costs (for example storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges) that will be dedicated to data management and ensuring that data will be FAIR and describes how these costs will be covered. Alternatively, there is a statement that no additional resources are needed.
 
 
 ---
