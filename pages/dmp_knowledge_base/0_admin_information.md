@@ -80,7 +80,7 @@ Missing:
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-#### [SND - Checklist DMP](https://zenodo.org/records/6424769)[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SND - Checklist DMP](https://doi.org/10.5281/zenodo.6424769)  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 1.1 Project description
  
