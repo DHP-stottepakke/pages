@@ -197,7 +197,7 @@ Missing:
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-#### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [DMP Tuuli](https://zenodo.org/doi/10.5281/zenodo.3629371) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 What legal issues are related to your data management? (For example, GDPR and other legislation affecting data processing).
 All types of research data involve questions of rights and legal and ethical issues. Demonstrate that you are aware of the relevant legislation related to your data processing. If you are handling personal or sensitive information, describe how you will ensure privacy protection and data anonymisation or pseudonymisation.
 - Tips for best practices:
