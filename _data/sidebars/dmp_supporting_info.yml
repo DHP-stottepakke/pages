@@ -8,19 +8,19 @@ subitems:
     url: /support_01_planning considerations
   - title: 2 - Administrative information
     url: /support_02_admin_information
-  - title: Legal and ethical aspects
+  - title: 3 - Legal and ethical aspects
     url: /support_03_legal_ethics
-  - title: Storage and backup
+  - title: 4 - Storage and backup
     url: /support_04_storage_backup
-  - title: Data reuse
+  - title: 5 - Data reuse
     url: /support_05_data_reuse
-  - title: Legal and ethical requirements
+  - title: 6 - Legal and ethical requirements
     url: /support_06_collect_create
-  - title: Collect and create data
+  - title: 7 - Collect and create data
     url: /support_07_process_analyse
-  - title: Process and analyse data
+  - title: 8 - Process and analyse data
     url: /support_08_preserve_publish
-  - title: Responsibilities and resources
+  - title: 9 - Responsibilities and resources
     url: /support_09_responsibilities_resources
-  - title: Manage DMP
+  - title: 10 - Manage DMP
     url: /support_10_manage_dmp
