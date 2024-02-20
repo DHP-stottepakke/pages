@@ -21,7 +21,7 @@ Processing of personal data and or health data affects the need for data securit
 
 [Test the Ethics and data protection decision tree from European Commission](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
 
-If conducting health research, consult Helseforsknginsloven and Helseregisterloven
+If conducting health research, consult the [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44) and the [Health Registry Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43).
 
 > 4a.1\
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
