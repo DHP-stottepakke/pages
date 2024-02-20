@@ -13,7 +13,7 @@ sidebar: dmp_knowledge_base
 
 This section collects useful information about data management plans (DMP) for support personnel.
 
-As part of the working process, each section also contains guidance texts for researchers from speciefied sources, and an overview over aspects that will require further explanations for DMP users.
+As part of the working process, each section also contains guidance texts for researchers from specified sources, and an overview over aspects that will require further explanations for DMP users.
 
 - [0 - Administrative Information](0_admin_information)
 - [1 - Data description and collection or re-use of existing data](1_data_description)
@@ -32,7 +32,7 @@ The page structure is based on the [Science Europe Core Requirements](https://do
 - [Inspiring DMP projects](dmp_projects_elsewhere)
 
 ---
-### Who is a DMP for?
+## Who is a DMP for?
 A DMP is a structured document that gathers information on the handling of research data throughout the entire lifecycle of a research project. A data management plan is a living document that should be updated as the project develops.\
 Researchers meet requirements from institutions on research funders that projects must have a DMP . While funders are interested in maximising the impact of a research project, a DMP is also a useful tool for researchers.\
 Importantly, the information in a data management plan can also be valuable for third-party actors at different stages of a research project. Automatic exchange of information through machine-actionable data management plans (maDMP) is increasingly gaining attention (see e.g. [Miksa, T, Simms, S, Mietchen, D and Jones, S. 2019. Ten Príncipes for Machine-Actionable Data Management Plans. PLoS Comput Biol, 15(3): e1006750](https://doi.org/10.1371/journal.pcbi.1006750)).
