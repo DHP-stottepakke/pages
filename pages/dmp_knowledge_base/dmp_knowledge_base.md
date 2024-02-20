@@ -13,6 +13,14 @@ sidebar: dmp_knowledge_base
 
 This section collects useful information about data management plans (DMP) for support personnel.
 
+The page structure is based on the [Science Europe Core Requirements](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862"). Each section is annotated and mapped to relevant persistent identifiers, interested stakeholders, project phase, and the [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039).\
+Annotations are indicated as follows:
+> 1a.1
+> Guidance text
+
+Annotation by project group
+
+Furthermore, each section is complemented by more extensive explanations and the [DMP guidance from the Research Council of Norway](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/), the [DMP template provided by Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON), the[FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215). Provided information and annotations are specific to jurisdiction, stakeholders, and guidance documents in Norway. Policies highlight partners in the 'DHP støttepakke' project at the current stage.\
 As part of the working process, each section also contains guidance texts for researchers from specified sources, and an overview over aspects that will require further explanations for DMP users.
 
 - [0 - Administrative Information](0_admin_information)
@@ -26,15 +34,14 @@ As part of the working process, each section also contains guidance texts for re
 The knowledge base is complemented by the following topics:
 - [Publishing the DMP](publish_dmp)
 - [Frequently asked difficult questions](difficult_faq)
-The page structure is based on the [Science Europe Core Requirements](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862"). Each section is annotated and mapped to relevant persistent identifiers, interested stakeholders, project phase, and the [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039). Furthermore, each section is complemented by more extensive explanations and the [DMP guidance from the Research Council of Norway](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/), the [DMP template provided by Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON), the[FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215). Provided information and annotations are specific to jurisdiction, stakeholders, and guidance documents in Norway. Policies highlight partners in the 'DHP støttepakke' project at the current stage.
 - [Research Data Management terminology (NO-EN)](rdm_terminology)
 - [DMP training plans](dmp_training)
 - [Inspiring DMP projects](dmp_projects_elsewhere)
 
 ---
-## Who is a DMP for?
-A DMP is a structured document that gathers information on the handling of research data throughout the entire lifecycle of a research project. A data management plan is a living document that should be updated as the project develops.\
-Researchers meet requirements from institutions on research funders that projects must have a DMP . While funders are interested in maximising the impact of a research project, a DMP is also a useful tool for researchers.\
+## DMP stakeholders
+A data management plan (DMP) is a structured document that gathers information on the handling of research data throughout the entire lifecycle of a research project. A data management plan is a living document that should be updated as the project develops.\
+Researchers meet requirements from institutions on research funders that projects must have a DMP. While funders are interested in ensuring that research data in a project contribute to its impact, writing a DMP is also a useful process for researchers and a DMP can function as a hub that connects data-related aspects in a project.\
 Importantly, the information in a data management plan can also be valuable for third-party actors at different stages of a research project. Automatic exchange of information through machine-actionable data management plans (maDMP) is increasingly gaining attention (see e.g. [Miksa, T, Simms, S, Mietchen, D and Jones, S. 2019. Ten Príncipes for Machine-Actionable Data Management Plans. PLoS Comput Biol, 15(3): e1006750](https://doi.org/10.1371/journal.pcbi.1006750)).
 
 In this project, we have categorised stakeholders into 3 levels (illustrated below as stakeholder pyramid):
