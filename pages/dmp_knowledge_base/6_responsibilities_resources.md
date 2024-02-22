@@ -21,13 +21,40 @@ toc: true
 - Indicate who is responsible for implementing the DMP, and for ensuring it is reviewed and, if necessary, revised.
 - Consider regular updates of the DMP
 
+<<<<<<< Updated upstream
 ### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)
 - Determine the role of the data repository in your data management and stewardship. Choose an adequate repository to archive and share your data in that can meet or surpass your desires. Trustworthy Digital Repositories (TDRs) are repositories that provide support and take responsibility for data curation and digital preservation. TDRs can be officially certified (e.g., by the CoreTrustSeal, DIN31644/NESTOR, or ISO163638 standard). Use Re3data to find certified TDRs to deposit your data in.
 
 ### Relevant PID
+=======
+In general, the PI (Principal Investigator) has the overall responsibility for the project and all its activities and outputs, including data management. It is useful to early in the project name roles and project members responsible for the various activities related to data management as exemplified above. The relevant aspects that are adressed in the prior parts of the plan, should all be assigned a responsible individual. 
+In addition to the activities mentioned in 6a.1, it can be beneficial to have a person who is responsible for controlling access to the data in the project period, as well as someone responsible for the data after the project is ended. This is particularly important if not all data can be made openly accessible.
+
+> 6a.2\
+> For collaborative projects, explain the co-ordination of data management responsibilities across partners.
+
+Important if two or more project partners or legislatures are involved, and/or personal data are collected, and/or IPR or commercial value need to be clarified (see also section [4 - Legal and ethical requirements](4_legal_ethics).
+
+> 6a.3\
+> Indicate who is responsible for implementing the DMP, and for ensuring it is reviewed and, if necessary, revised.
+
+Implementing the DMP should be understood as both writing and updating the DMP, while also ensuring the project and its members are aware of the DMP and refer to it as the project proceeds. 
+
+> 6a.4\
+> Consider regular updates of the DMP
+
+The DMP should be used as an active project management tool, and the value of a DMP is best if it is up to date and available to all project members during the project. Make sure you are familiar with routines at your institution for developing, implementing and/or approving DMPs.
+
+#### Sufficiently addressed (DMP Evaluation Rubric)
+- Clearly outlines the roles and responsibilities for data management/stewardship (for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing), naming responsible individual(s) where possible.
+- Clearly indicates who is responsible for day-to-day implementation and adjustments to the DMP.
+- Explains, for collaborative projects, the co-ordination of data management responsibilities across partners.
+
+```
+**Relevant PID**
+>>>>>>> Stashed changes
 - ORCID to identify individuals
 - CRediT for contributors roles
-- PID for chosen repository/-ies
 - ROR for institution (? - for responsible institution. And to map individual ORCIDs with institution?)
 
 ### Interested stakeholder
@@ -37,8 +64,13 @@ toc: true
 
 ---
 <!--additional explanations-->
+<<<<<<< Updated upstream
 ### Explanations for support staff
 - Assigning roles (e.g. CRediT), 
+=======
+### Explanations for support staff 
+- Assigning roles (e.g. CRediT)
+>>>>>>> Stashed changes
 - Understanding responsibilities (e.g. GDPR & institution)
 - Stress the importance of clear distribution of roles and responsibilities, and the importance of communicating the roles and responsibilities among project members
 
@@ -104,6 +136,7 @@ Who has the right to manage the data? (Usually several members of the project gr
 - Explain how the necessary resources (for example time) to prepare the data for sharing/preservation (data curation) have been costed in. Carefully consider and justify any resources needed to deliver the data. These may include storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges.
 - Indicate whether additional resources will be needed to prepare data for deposit or to meet any charges from data repositories. If yes, explain how much is needed and how such costs will be covered.
 
+<<<<<<< Updated upstream
 ### [FAIRsFAIR Additional Guidance](https://doi.org/10.5281/zenodo.6088215)
 - Determine any costs that your chosen repository charges for depositing the data. Data repositories, especially TDRs (‘trustworthy digital repositories’) will perform (some) data curation and digital preservation. This is an active and ongoing process of data management to ensure discovery, reuse, and long-term FAIR durability. Contact the repository of your choice to learn about these costs and make them explicit in your DMP.
 
@@ -111,6 +144,23 @@ Who has the right to manage the data? (Usually several members of the project gr
 none?
 
 ### Interested stakeholder
+=======
+Include also the resources needed for collecting or generating the data, like the cost of staff to collect, process, manage, and document the data during the project, as well as to prepare the data and documentation for long-term preservation and possible dissemination, which will improve the FAIRness of the data. Other possible costs might be related to software, lisences or use of e-infrastructure.
+
+> 6b.2\
+> Indicate whether additional resources will be needed to prepare data for deposit or to meet any charges from data repositories. If yes, explain how much is needed and how such costs will be covered.
+
+Include monetary costs in your project budget, preferrably broken down on activities and services. Make an effort early in the project to identify suitable repositories, so that repository charges may be included in the budget and in the funding application. Revise your budget on these elements when needed.
+
+#### Sufficiently adressed (DMP Evaluation Rubric)
+- Provides clear estimates of the resources and costs (for example storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges) that will be dedicated to data management and ensuring that data will be FAIR and describes how these costs will be covered. Alternatively, there is a statement that no additional resources are needed.
+
+```
+**Relevant PID**
+- none?
+
+**Interested stakeholder**
+>>>>>>> Stashed changes
 - Level 1: Funder
 - Level 2: Research Administration
 
