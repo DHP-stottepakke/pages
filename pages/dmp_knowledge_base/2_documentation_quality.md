@@ -12,7 +12,8 @@ toc: true
 ---
 
 <!--Science Europe question ID & title-->
-## 2a - What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany data?
+## 2a - What metadata and documentation (for example the methodology of data collection and way of organising data) will accompany data? 
+<code>(metadata in project versus when archiving)</code>
 
 <!--key information-->
 ### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
@@ -256,3 +257,4 @@ Why is this important? Many scientific disciplines have established terminologie
 
 #### [SIKT](https://sikt.no/en/data-management-plan)
 Examples of measures to control and ensure data quality may be the use of standardized methods and protocols to capture observations; checking precision and calibration of instruments; quality-check equipment to be used for audio or video recording; make multiple measurements, observations or samples; use standardized interview protocols and/or computer-assisted software when conducting interviews; and using standardized and consistent procedures when digitizing or transcribing data.
+
