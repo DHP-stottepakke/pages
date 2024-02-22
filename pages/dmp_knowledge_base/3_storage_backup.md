@@ -23,8 +23,8 @@ Describe where the data will be stored and backed up during research activities 
 > 3a.2\
 Give preference to the use of robust, managed storage with automatic backup, such as provided by IT support services of the home institution. Storing data on laptops, stand-alone hard drives, or external storage devices such as USB sticks is not recommended.
 
-Information about backup routines for all chosen storage solutions should be provided by the IT department. In cases were institutionally managed storage cannot be used (e.g. field trips), the 3-2-1 rule should be followed (at least 3 copies of the data, 2 different media, 1 off-site copy).
-
+As a default, choose storage solutions delivered by the IT department at your institution. These services will in general will include backup, make sure you familiarise yourself with the backup routines at your institution (e.g. frequency and retention period). In cases where institutionally managed storage cannot be used (e.g. field trips), the 3-2-1 rule should be followed (at least 3 copies of the data, 2 different media, 1 off-site copy). Be especially aware of cost and capacity issues if you have large amounts of data (in the order of terrabytes).  
+ 
 #### Sufficiently adressed (DMP Evaluation Rubric)
 Clearly (even if briefly) describes:
 - The location where the data and backups will be stored during the research activities.
