@@ -1,11 +1,11 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: 'DMP Support: Data storage and backup'
+title: Administrative information
 search_exclude: false
 contributors: [Jenny Ostrop]
-page_id: support_storage_backup
-description: Supporting DMP Information, data storage, data backup
+page_id: support_02_admin_information
+description: Supporting DMP Information, administrative information
 affiliations:
 sidebar: dmp_supporting_info
 ---
