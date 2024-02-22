@@ -12,7 +12,7 @@ toc: true
 ---
 
 <!--Science Europe question ID & title-->
-## 4a If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
+## 4a - If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
 
 <!--key information-->
 ### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
@@ -198,7 +198,7 @@ Research material that will contain personal data has to be reported to the data
 -----
 -----
 <!--Science Europe question ID & title-->
-## 4b How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
+## 4b - How will other legal issues, such as intellectual property rights and ownership, be managed? What legislation is applicable?
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
@@ -328,7 +328,7 @@ Why is this important? Copyright is protected in the Swedish constitution (Chapt
 -----
 -----
 <!--Science Europe question ID & title-->
-## 4c How will possible ethical issues be taken into account, and codes of conduct followed?
+## 4c - How will possible ethical issues be taken into account, and codes of conduct followed?
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
