@@ -1,20 +1,20 @@
 title: DMP Knowledge Base
-title_url: /dmp_knowledge_base/dmp_knowledge_base
+title_url: /dmp_knowledge_base
 
 subitems:
-  - title: Administrative information
+  - title: 0 - Administrative information
     url: /0_admin_information
-  - title: Data description
+  - title: 1 - Data description
     url: /1_data_description
-  - title: Data documentation and quality
+  - title: 2 - Data documentation and quality
     url: /2_documentation_quality
-  - title: Storage and backup
+  - title: 3 - Storage and backup
     url: /3_storage_backup
-  - title: Legal and ethical requirements
+  - title: 4 - Legal and ethical requirements
     url: /4_legal_ethics
-  - title: Data sharing and preservation
+  - title: 5 - Data sharing and preservation
     url: /5_sharing_preservation
-  - title: Responsibilities and resources
+  - title: 6 - Responsibilities and resources
     url: /6_responsibilities_resources
   - title: Publish DMP
     url: /publish_dmp
@@ -22,5 +22,7 @@ subitems:
     url: /difficult_faq
   - title: RDM terminology
     url: /rdm_terminology
+  - title: DMP training
+    url: /dmp_training  
   - title: Inspiring DMP projects
     url: /dmp_projects_elsewhere
