@@ -290,20 +290,27 @@ Missing:
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
+#### [NTNU - DMP guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
+Consider who will have ownership and/or rights to the data (including copyright), meaning who will have the rights or responsibility to control access, and later decide publishing. In general, if the research project is conducted by NTNU employees, NTNU will have ownership to results and IPR (see the IPR policy, part 4.3), The Policy for Open Science at NTNU states that results from research at NTNU should made publicly available if possible (for Licensing principles see part 3.1 in Guidelines for Open Science). Therefore, consider what data (and other results, like code, models, simulations etc) be openly accessible after the project is finalized, or will there be access restrictions? In the latter case, what restrictions and why?
+ 
+If there are external partners, how will this affect ownership and sharing of data and other intellectual property rights (IPR)? Make sure to cover these matters of rights to control access to data for multi-partner projects and multiple data owners, in the consortium agreement. See wiki for more information on templates and agreements.
+ 
+Note that in some cases, export control regulations will apply to the project results. See Control of knowledge transfer at Innsida for more information.
+
+#### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
+Who has ownership of the data? (Normally UiT, unless ownership has been agreed on differently e.g. with external collaborators.)
+
+How will the data be licensed for reuse? (According to section 4.5 in the UiT guidelines, research data shall be equipped with licenses for access, reuse, and dissemination. These licenses should be internationally recognised and set as few limitations on the data as possible. The researcher must ensure that licenses and applicable conditions for the use or sharing of third party data are complied with.)
+
+#### [SIKT](https://sikt.no/en/data-management-plan)
+Generally, the rights to project results should be transferred from the researchers (and possibly others who have helped create such results) to the institution(s) where the researchers are employed. This is in accordance with the Employees’ Inventions Act, and in accordance with the objectives of the Act relating to universities and university colleges (see in particular §1-5, Academic freedom and responsibility). See also the Norwegian Research Council’s Policy on Intellectual Property Rights.
+
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Does the project need ethical approval or has it been approved? Enter the reference number here.]
- Why is this important?
- Research that falls under the scope of the Act (2003:460) concerning the Ethical Review of Research Involving Humans (the Ethical Review Act, updated 2020-01-01) can only be carried out after ethical approval, which is applied for by the research principal. Without ethical approval, the research is illegal and subject to legal consequences. Ethical approval is also needed for research that involves animal testing.
+[Refer to the information security guidelines and policies in your university/organization and define what implications they have. What information classification level does the data material have and what security measures are needed to protect the material? Who should have access to the project data during the project and how do you plan to protect the data from unauthorised access?]
+Why is this important? Access to the data material must be restricted so that authorised people can access it, but it is protected from unauthorised access. Secure work and storage environments can include access restriction (e.g. passwords), encryption, and virus and access protection. You may need to contact your organization’s IT security office to make sure that you have addressed all questions regarding information security before the data collection begins.
  
- [Refer to the information security guidelines and policies in
- your university/organization and define what implications
- they have. What information classification level does the data material have and what security measures are
- needed to protect the material? Who should have access to the project data during the project and how do you plan to protect the data from unauthorised access?]
- Why is this important? Access to the data material must be restricted so that authorised people can access it, but it is protected from unauthorised access. Secure work and storage environments can include access restriction (e.g. passwords), encryption, and virus and access protection. You may need to contact your organization’s IT security office to make sure that you have addressed all questions regarding information security before the data collection begins.
- 
- [Are there any copyright and/or intellectual property rights
- to consider? Do you need permission to collect the material that is going to be used?]
- Why is this important? Copyright is protected in the Swedish constitution (Chapter 2, Article 19) and regulated in the Act (SFS 1960:729) on Copyright in Literary and Artistic Works. Copyright sets out a number of rights for the creator (author) of a work, and a number of limitations for the user. The Swedish Copyright Act regulates when and how the author’s work can be used. Permission to use copyright-protected material includes consent, agreements, licenses, and the permission to use material after the duration of copyright has passed (>70 years).
+[Are there any copyright and/or intellectual property rights to consider? Do you need permission to collect the material that is going to be used?]
+Why is this important? Copyright is protected in the Swedish constitution (Chapter 2, Article 19) and regulated in the Act (SFS 1960:729) on Copyright in Literary and Artistic Works. Copyright sets out a number of rights for the creator (author) of a work, and a number of limitations for the user. The Swedish Copyright Act regulates when and how the author’s work can be used. Permission to use copyright-protected material includes consent, agreements, licenses, and the permission to use material after the duration of copyright has passed (>70 years).
 
 
 -----
@@ -421,3 +428,18 @@ Are you going to collect informed consent to store and share the data? If so, ho
 
 #### [SIKT](https://sikt.no/en/data-management-plan)
 Add any comments on issues related to for example: research on human embryos and fetuses, and/or human cells and tissues; collection of personal data and obtaining consent; animal research; research in non-EU countries; unintended effects on the environment, health and safety; and the potential misuse of research results. See also [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
+
+#### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+How will you manage the rights of the data you use, produce and share? (2.2)
+ Describe how you will agree upon the rights of use related to your research data – including the collected, produced and (re)used data of your project. Here, you can employ your categorisation in the first question. Each of these categories involves different rights and licenses. Describe the transfer of rights procedures relevant to your project. Describe confidentiality issues if applicable in your project.
+ License your data!
+ Tips for best practices
+ • Agreements on rights of use should be made as early as possible in the project life cycle.
+ • Have you gained consent for data preservation and sharing?
+ • Follow the funder's or publisher's policies.
+ • It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a Creative Commons (https://creativecommons.org/choose/), GNU (https://www.gnu.org/licenses/gpl-3.0.en.html) or MIT license (https://opensource.org/licenses/MIT), or under another relevant license.
+
+#### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[Does the project need ethical approval or has it been approved? Enter the reference number here.]
+ Why is this important?
+ Research that falls under the scope of the Act (2003:460) concerning the Ethical Review of Research Involving Humans (the Ethical Review Act, updated 2020-01-01) can only be carried out after ethical approval, which is applied for by the research principal. Without ethical approval, the research is illegal and subject to legal consequences. Ethical approval is also needed for research that involves animal testing.

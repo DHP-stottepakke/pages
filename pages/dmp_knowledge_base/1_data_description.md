@@ -108,6 +108,26 @@ Missing:
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
+#### [NTNU - DMP guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
+Are there any existing datasets you could reuse? 
+Visit the research data topic page at NTNU Innsida to see a list of places to search for data. (link)
+
+#### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
+What standards and methods will be used for data collection/generating?
+Are there any existing data (internal or external) on the topic? If yes, how can they be integrated and reused in the project?
+
+#### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+What kinds of data is your research based on? What data will be collected, produced or reused? What file formats will the data be in? Additionally, give a rough estimate of the size of the data produced/collected. (1.1)
+Briefly describe what types of data you are collecting or producing. In addition, explain what kinds of already existing data you will (re)use. List, for example, the types of texts, images, photographs, measurements, statistics, physical samples or codes.
+
+#### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[If you are going to collect new data, how will they be collected (questionnaires, interviews, observations, measurements, recordings, etc.), where, and during what period? Who will be responsible for the data collection? What resources will be needed during the collection process, in terms of staff, instruments, and software?]
+ Why is this important? Data collection is a central, and often resource-heavy, part of the research process. By planning for how to collect the data, when they will be collected, and the scope of the data collection, you can assess and budget for various resources. If you pay consideration to this in good time, a reviewer can more easily understand what type of data that will be collected.
+ 
+ (excisting data/ resuing)
+ [Give a brief description of existing data in the field, i.e. data collected in previous research (including data from other researchers and research groups). If there are existing data, can they be reused in the project? How will you document the origin of existing data? If you cannot use existing data, enter the reason why.]
+ Why is this important? You should include an overview of existing data in the DMP, as there could already be material that can be used to answer the research questions, or some of them, but also to make sure that you don’t duplicate a data collection. For a research funder, it may be relevant to know whether it’s possible to use existing data material. If there aren’t any existing data, it’s vital to explain the value of collecting a new data material. If you will be using both existing and new data, describe how you will combine them.
+ 
 
 -----
 -----
@@ -216,3 +236,34 @@ Missing:
 ---
 <!--recycling possible?-->
 ### Existing sources that can be reused
+
+#### [NTNU - DMP guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
+Keep in mind whether the scale of the data will pose challenges when 
+ sharing or transferring data between sites; do you need to include 
+ additional costs? How will you address these challenges? If you 
+ have large volumes of data that need storage, please contact the IT department at NTNU. (link)
+ 
+#### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
+What kind of data will be collected/generated (e.g. observations, simulations, interviews)? What are the sources (e.g. corpora or other raw data)?
+What type of data will be collected/generated (e.g. text, image, numerical data, sound)? 
+What file format(s) will be used?
+
+#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+Describe how much data and the type of data you plan to collect or produce – this should include the type (e.g. databases, spreadsheets), the volume and formats you intend to use. You should justify your choice if the formats you intend to use are proprietary. The quantity of data should be in the amount of space required (e.g. in GigaBytes) or the number of files.
+
+#### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+Categorise your data in a table or with a clear list, for example:
+ A) previously collected existing data which is being reused in this project,
+ B) data collected for this project,
+ C) data produced as an outcome of the research process.
+ The categorisation can form a general structure for the rest of the DMP.
+ List the file formats for each data set. In some cases, the file formats used during the research project may differ from those used in archiving the data after the project. List both. The file format is a primary factor in the accessibility and reusability of your data in the future.
+ In the DMP, what is important is to describe the required disk space, not how many informants participated in the project. A rough estimation of the size of the data is sufficient, for example, less than 100 GB, approx. 1 TB or several petabytes.
+ Tips for best practices
+ • Use a table or bullet points for a concise way to present data types, file formats, the software used and the size of the data.
+ • Examples of file formats are .csv, .txt, .docx, .xslx and .tif.
+ • Make sure to describe any special or uncommon software necessary to view or use the data, especially if the software is coded in your project.
+ • You can also estimate the increase in data production or collection during the project for a specific time period: "The project is producing/collecting approximately 100 GB of data per week."
+ 
+ #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[Describe which type(s) of data that will be used in the project, and whether they will be generated, collected, or reused data. Also describe the scope, quantity and, if possible, the file format of the material.]
