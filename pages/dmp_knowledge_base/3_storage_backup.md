@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Storage and backup during the research process
 search_exclude: false
-contributors: [Lisbeth Jahren] [Ingrid Heggland] [Svein Høier]
+contributors: [Lisbeth Jahren, Ingrid Heggland, Svein Høier]
 page_id: 3_storage_backup
 description: Data storage, backup
 affiliations: 
