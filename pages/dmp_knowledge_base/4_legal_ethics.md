@@ -285,12 +285,19 @@ Legal requirements for data processor and joint data controller agreements.
 > 4.b.4\
 > Indicate whether intellectual property rights (for example Database Directive, sui generis rights) are affected. If so, explain which and how will they be dealt with.
 
-Also relevant for artistic research.
+Much research data can be protected as databases. Inform yourself about to what extent copyright applies to the data you create or collect, agreements you have with your employer regarding ownership. Intellectual property might affect how open the data can be shared with others.
+
+Consult:
+-	Funders requirements regarding licencing.
+- National recommendations for licencing of research data; [How should we share research data?](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf)
+- Institutional policies for intellectual property (IPR).
+-	Institutional recommendations for licensing.
+
 
 > 4.b.5\
 > Indicate whether there are any restrictions on the re-use of third-party data?
 
-Is there restrictionst to re-use in the active phase of the project? Is there restrictions to sharing project results?
+Is there restrictionst to re-use in the active phase of the project? Is there restrictions to sharing project results? Data from external parties, can have restrictions on sharing. Some research data will be covered by copyright, this is relevant for reuse of copyrighted material for research purposes. 
 
 #### Sufficiently adressed (DMP Evaluation Rubric)
 Clearly explains, if applicable:
