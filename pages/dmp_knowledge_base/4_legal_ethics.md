@@ -22,24 +22,24 @@ Processing of personal data and or health data affects the need for data securit
 [Test the Ethics and data protection decision tree from European Commission](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
 
 For the legal details in Norway, please consult:
-* [Personal Data Act](https://lovdata.no/dokument/RFA/lov/2000-04-14-31)
-* Regulations on the processing of personal data [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
-* Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
-* [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
-* [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
+- [Personal Data Act](https://lovdata.no/dokument/RFA/lov/2000-04-14-31)
+- Regulations on the processing of personal data [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
+- Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
+- [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
+- [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
 
 If conducting health research, consult the [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44) and the [Health Registry Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43).
 
 In this context also the following laws and regulations might be relevant:
-* [Regulations on the organisation of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
-* [Comments to health research legislative work by the Norwegian government](http://www.regjeringen.no/nb/dep/hod/dok/lover_regler/forskrifter/2009/helseforskningsloven.html?id=570542)
-* [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
-* [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
-* [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
-* [Medicines Act](http://www.lovdata.no/all/nl-19921204-132.html)
-* [Regulations on clinical trials of medical products for human use](http://www.lovdata.no/for/sf/ho/ho-20091030-1321.html)
-* [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
-* [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
+- [Regulations on the organisation of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
+- [Comments to health research legislative work by the Norwegian government](http://www.regjeringen.no/nb/dep/hod/dok/lover_regler/forskrifter/2009/helseforskningsloven.html?id=570542)
+- [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
+- [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
+- [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
+- [Medicines Act](http://www.lovdata.no/all/nl-19921204-132.html)
+- [Regulations on clinical trials of medical products for human use](http://www.lovdata.no/for/sf/ho/ho-20091030-1321.html)
+- [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
+- [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
 
 
 > 4a.1\
@@ -131,34 +131,34 @@ Missing:
 
 - National regulations of potential relevance:
 ### Data privacy
-* [Personal Data Act](https://lovdata.no/dokument/RFA/lov/2000-04-14-31)
-* Regulations on the processing of personal data [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
-* Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
-* [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
-* [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
+- [Personal Data Act](https://lovdata.no/dokument/RFA/lov/2000-04-14-31)
+- Regulations on the processing of personal data [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
+- Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
+- [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
+- [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
 
 ### Health research data
 
-* [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44)
-* [Regulations on the organization of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
-* [Comments to health research legislative work by the Norwegian government](http://www.regjeringen.no/nb/dep/hod/dok/lover_regler/forskrifter/2009/helseforskningsloven.html?id=570542)
-* [Health Register Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43)
-* [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
-* [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
-* [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
-* [Medicines Act](http://www.lovdata.no/all/nl-19921204-132.html)
-* [Regulations on clinical trials of medical products for human use](http://www.lovdata.no/for/sf/ho/ho-20091030-1321.html)
-* [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
-* [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
+- [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44)
+- [Regulations on the organization of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
+- [Comments to health research legislative work by the Norwegian government](http://www.regjeringen.no/nb/dep/hod/dok/lover_regler/forskrifter/2009/helseforskningsloven.html?id=570542)
+- [Health Register Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43)
+- [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
+- [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
+- [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
+- [Medicines Act](http://www.lovdata.no/all/nl-19921204-132.html)
+- [Regulations on clinical trials of medical products for human use](http://www.lovdata.no/for/sf/ho/ho-20091030-1321.html)
+- [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
+- [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
 
 ### Other laws of potential relevance to life sciences research data
 
-* [Archive Act](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
-* [Research Ethics Act](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
-* [Patent Act](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
-* [Copyright Act](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
-* [Act on Universities and Colleges Act](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
-* [National Security Act](https://lovdata.no/dokument/NL/lov/2018-06-01-24)
+- [Archive Act](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
+- [Research Ethics Act](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
+- [Patent Act](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
+- [Copyright Act](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
+- [Act on Universities and Colleges Act](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
+- [National Security Act](https://lovdata.no/dokument/NL/lov/2018-06-01-24)
 
 - What is personal data & special category personal data, which laws & guidelines apply, responsibilities (e.g. DPO)
 - If personal data is processed, which legal bases for data processing is used (usually relevant: public intrest or consent)?
