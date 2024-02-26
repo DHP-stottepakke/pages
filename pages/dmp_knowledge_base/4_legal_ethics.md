@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Legal and ethical requirements, codes of conduct
 search_exclude: false
-contributors: [Live Kvale, Jenny Ostrop]
+contributors: [Live Kvale, Jenny Ostrop, Korbinian Bösl]
 page_id: 4_legal_ethics
 description: Legal requirements, ethical requirements, codes of conduct
 affiliations: 
@@ -31,7 +31,7 @@ For the legal details in Norway, please consult:
 If conducting health research, consult the [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44) and the [Health Registry Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43).
 
 In this context also the following laws and regulations might be relevant:
-* [Regulations on the organization of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
+* [Regulations on the organisation of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
 * [Comments to health research legislative work by the Norwegian government](http://www.regjeringen.no/nb/dep/hod/dok/lover_regler/forskrifter/2009/helseforskningsloven.html?id=570542)
 * [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
 * [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
@@ -45,8 +45,8 @@ In this context also the following laws and regulations might be relevant:
 > 4a.1\
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
 
-According to GDPR there are two options for legal bases for processing of personal data in research, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
-[Consult SIKTs guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
+According to GDPR there are two options for legal bases for processing of personal data in research, consent and general interest in research purposes, if the latter is used consent is collected for compliance with ethical guidelines.
+[Consult SIKTs guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research)
 [Consult SIKTs guidance for information and consent](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 Also Consult your institutions requirements for notification forms for personal data, DData Protection Impact Assessments (DPIAs) risk and compliance system or similar
 
@@ -58,7 +58,7 @@ Also Consult your institutions requirements for notification forms for personal 
 
 Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://edpb.europa.eu/our-work-tools/our-documents/opinion-art-70/opinion-32019-concerning-questions-and-answers_en) of the European data protection board.
 
-If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes as part of both the informed and specific consent. It is advisable to use standard consent clauses, which can be reflected with maschine readable metadata (See e.g. the [GA4GH ethical toolkit](https://www.ga4gh.org/our-products/#{%22product%22:{%22related_work_streams%22:%22Regulatory%20&%20Ethics%20Work%20Stream%20(REWS)%22}}) as an example for human genetic data)
+If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes as part of both the informed and specific consent. It is advisable to use standard consent clauses, which can be reflected with machine readable metadata (See e.g. the [GA4GH ethical toolkit](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/) as an example for human genetic data)
 
 
 > 4a.3\
@@ -225,7 +225,7 @@ Does the material contain confidential information (e.g. personal data and data 
 
 **Does the material contain confidential information (e.g. personal data and data with security classification) that requires special treatment and/or limits the access to the material during/after the project?**
 *Why is this important?* 
-If the material contains confidential information, you must guarantee that it’s protected from unauthorised access. Contact your organization’s IT security office to make sure that data are handled correctly for their information classification level (see the paragraph above).
+If the material contains confidential information, you must guarantee that it’s protected from unauthorised access. Contact your organisation's IT security office to make sure that data are handled correctly for their information classification level (see the paragraph above).
  
 **If the research project will include processing of personal data, the research subjects need to receive thorough and transparent information about the data processing. The legal basis for processing personal data for research purposes is, for the most part, public interest. This means that the researcher can process personal data, but that a data controller is required to supply thorough information about how the data are processed.**
 *Why is this important?* 
