@@ -186,12 +186,11 @@ In the planning phase, describe all steps and routines to be applied that ensure
 
 ```
 **Relevant PID**
-not pid, but defined persitant standards for quality control relevant?
+not pid, but defined persitant standards for quality control relevant? - *[Are there _standards_ for 'quality control'? Or should it be 'best practice'?]*
 (established practices like calibration, signing by colleague, peer review etc.) 
 
 **Interested stakeholder**
-(not so much info here at this point in time)
-Research community - caring about the trustworthyness of the research\
+Research community - caring about the trustworthyness of the research
 Publishing venue
 
 **Relevant project phase**
