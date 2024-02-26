@@ -19,7 +19,7 @@ toc: true
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
 Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](3_storage_backup#3b---how-will-data-security-and-protection-of-sensitive-data-be-taken-care-of-during-the-research).
 
-[Test the Ethics and data protection decision tree from European Commission](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
+- [Test the Ethics and data protection decision tree from European Commission.](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
 
 If conducting health research, consult the [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44) and the [Health Registry Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43).
 
@@ -27,9 +27,9 @@ If conducting health research, consult the [Health Research Act](https://lovdata
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
 
 According to GDPR there are two options for legal bases for processing of personal data in research, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
-[Consult SIKTs guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
-[Consult SIKTs guidance for information and consent](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
-Also Consult your institutions requirements for notification forms for personal data, DPIA, risk and compliance system or similar
+- [Consult SIKTs guidance for Legal bases for personal data processing in research.](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
+- [Consult SIKTs guidance for information and consent.](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
+- Consult your institutions requirements for notification forms for personal data, DPIA, risk and compliance system or similar.
 
 > 4a.2\
 > Gain informed consent for preservation and/or sharing of personal data.
@@ -39,19 +39,19 @@ If consent is used as legal basis for processing of personal data consider askin
 > 4a.3\
 > Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
 
-The relevance of anonymisation will depend on the data type and other available information
+The relevance of anonymisation will depend on the data type and other available information. 
 
-[Consult the Norwegian data protections agency guidance for data anonymisation "2024-01-23"](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
+- [Consult the Norwegian data protections agency guidance for data anonymisation "2024-01-23".](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
 
 > 4a.4\
 > Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
 
-Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation, removing or not collection more personal information than strictly necessary for the purpose
+Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation which is removing or not collecting more personal information than strictly necessary for the purpose.
 
 > 4a.5\
 > Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
 
-Ignore this, encryption should be addressed under 3 storage and backup
+Ignore this, encryption should be addressed under 3 storage and backup.
 
 > 4a.6\
 > Explain whether there is a managed access procedure in place for authorised users of personal data.
@@ -207,7 +207,7 @@ If relevant also export control, protection of cultural heritage (Kulturminnelov
 > 4b.1\
 > Explain who will be the owner of the data, meaning who will have the rights to control access:
 
-If personal data involved: owner of the data is "data controller" as defined in GDPR.
+The data owner will differe depending on how the data are assembled. For data generated or collected as part of the reseach, the data owner is ususally the researcher(s). For data from different sources the data owner with be the custodian holding the rights to and providing you with access to the data. If personal data involved: owner of the data is "data controller" as defined in GDPR. Awareness of who have the rights to controll access is essential to plan for futhre sharing of data.
 
 > 4b.2\
 > Explain what access conditions will apply to the data? Will the data be openly accessible, or will there be access restrictions? In the latter case, which? Consider the use of data access and re-use licenses.
