@@ -75,7 +75,7 @@ Pseudonymisation is removal of names and other directly identifiable information
 This includes the storage of information for re-identifaction in a separate system, which is not accessible for the researchers.
 
 > 4a.5\
-> Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
+> * Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
 
 Ignore this, encryption should be addressed under 3 storage and backup.
 
