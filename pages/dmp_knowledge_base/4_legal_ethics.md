@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Legal and ethical requirements, codes of conduct
 search_exclude: false
-contributors: [Live Kvale, Jenny Ostrop]
+contributors: [Live Kvale, Jenny Ostrop, Korbinian Bösl]
 page_id: 4_legal_ethics
 description: Legal requirements, ethical requirements, codes of conduct
 affiliations: 
@@ -19,46 +19,72 @@ toc: true
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
 Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](3_storage_backup#3b---how-will-data-security-and-protection-of-sensitive-data-be-taken-care-of-during-the-research).
 
-[Test the Ethics and data protection decision tree from European Commission](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
+- [Test the Ethics and data protection decision tree from European Commission.](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
+
+For the legal details in Norway, please consult:
+- [Personal Data Act](https://lovdata.no/dokument/RFA/lov/2000-04-14-31)
+- Regulations on the processing of personal data [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
+- Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
+- [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
+- [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
 
 If conducting health research, consult the [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44) and the [Health Registry Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43).
+
+In this context also the following laws and regulations might be relevant:
+- [Regulations on the organisation of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
+- [Comments to health research legislative work by the Norwegian government](http://www.regjeringen.no/nb/dep/hod/dok/lover_regler/forskrifter/2009/helseforskningsloven.html?id=570542)
+- [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
+- [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
+- [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
+- [Medicines Act](http://www.lovdata.no/all/nl-19921204-132.html)
+- [Regulations on clinical trials of medical products for human use](http://www.lovdata.no/for/sf/ho/ho-20091030-1321.html)
+- [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
+- [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
+
 
 > 4a.1\
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
 
+
 According to GDPR there are two options for legal bases for processing of personal data in research, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
-[Consult SIKTs guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
-[Consult SIKTs guidance for information and consent](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
-Also Consult your institutions requirements for notification forms for personal data, DPIA, risk and compliance system or similar
+- [Consult SIKTs guidance for Legal bases for personal data processing in research.](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
+- [Consult SIKTs guidance for information and consent.](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
+- Consult your institutions requirements for notification forms for personal data, Data Protection Impact Assessments (DPIAs), risk and compliance system or similar.
+
 
 > 4a.2\
-> Gain informed consent for preservation and/or sharing of personal data.
+> * Gain informed consent for preservation and/or sharing of personal data.
 
-If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes
+Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://edpb.europa.eu/our-work-tools/our-documents/opinion-art-70/opinion-32019-concerning-questions-and-answers_en) of the European data protection board.
+
+If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes as part of both the informed and specific consent. It is advisable to use standard consent clauses, which can be reflected with machine readable metadata (See e.g. the [GA4GH ethical toolkit](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/) as an example for human genetic data)
+
 
 > 4a.3\
-> Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
+> * Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
 
-The relevance of anonymisation will depend on the data type and other available information
+The relevance of anonymisation will depend on the data type and other available information. 
 
-[Consult the Norwegian data protections agency guidance for data anonymisation "2024-01-23"](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
+- [Consult the Norwegian data protections agency guidance for data anonymisation "2024-01-23".](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
 
 > 4a.4\
-> Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
+> * Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
 
-Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation, removing or not collection more personal information than strictly necessary for the purpose
+
+Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation which is removing or not collecting more personal information than strictly necessary for the purpose.
+This includes the storage of information for re-identifaction in a separate system, which is not accessible for the researchers.
 
 > 4a.5\
-> Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
+> * Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
 
-Ignore this, encryption should be addressed under 3 storage and backup
+Ignore this, encryption should be addressed under 3 storage and backup.
 
 > 4a.6\
-> Explain whether there is a managed access procedure in place for authorised users of personal data.
+> * Explain whether there is a managed access procedure in place for authorised users of personal data.
 
 Make sure this is addressed under storage and backup, in addition consider who should have and manage access at and archiving stage.
 
-If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over.
+If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over. If data should be archived later under controlled access, the data access committee should be defined as early as possible and should be independent from the researcher. 
 
 #### Sufficiently adressed (DMP Evaluation Rubric)
 - Clearly indicates if personal data will be collected/used as part of the project, and, if applicable, how compliance with applicable legislation will be ensured (for example by gaining informed consent, considering encryption, anonymisation, or pseudonymisation). 
@@ -67,6 +93,7 @@ If the data should be available for future research contact the archive you wish
 ```
 **Relevant PID**
 - REK ID, ID SIKT personverntjenester
+- Ontology terms reflecting data protection (e.g. [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico), [Data Use Ontology](Data Use Ontology), [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)
 
 **Interested stakeholder**
 - Level 1: Host institution/data owner (information security, risk reduction)
@@ -103,14 +130,42 @@ Missing:
 - local storage guidelines (consider list with links?)
 - NB! encryption is problematic for long-term preservation (e.g. NFR guidance)
 
-- National regulations:
-[Personopplysningsloven](https://lovdata.no/dokument/NL/lov/2018-06-15-38), [Helseforskningsloven](https://lovdata.no/dokument/NL/lov/2008-06-20-44), [Helseregisterloven](https://lovdata.no/dokument/NL/lov/2014-06-20-43)
+- National regulations of potential relevance:
+### Data privacy
+- [Personal Data Act](https://lovdata.no/dokument/RFA/lov/2000-04-14-31)
+- Regulations on the processing of personal data [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
+- Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
+- [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
+- [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
+
+### Health research data
+
+- [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44)
+- [Regulations on the organization of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
+- [Comments to health research legislative work by the Norwegian government](http://www.regjeringen.no/nb/dep/hod/dok/lover_regler/forskrifter/2009/helseforskningsloven.html?id=570542)
+- [Health Register Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43)
+- [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
+- [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
+- [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
+- [Medicines Act](http://www.lovdata.no/all/nl-19921204-132.html)
+- [Regulations on clinical trials of medical products for human use](http://www.lovdata.no/for/sf/ho/ho-20091030-1321.html)
+- [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
+- [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
+
+### Other laws of potential relevance to life sciences research data
+
+- [Archive Act](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
+- [Research Ethics Act](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
+- [Patent Act](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
+- [Copyright Act](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
+- [Act on Universities and Colleges Act](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
+- [National Security Act](https://lovdata.no/dokument/NL/lov/2018-06-01-24)
 
 - What is personal data & special category personal data, which laws & guidelines apply, responsibilities (e.g. DPO)
-- If personal data is processed, which legal bases for data processing is used?
+- If personal data is processed, which legal bases for data processing is used (usually relevant: public intrest or consent)?
 - If research is legal basis for data processing, then consent is is part of 4c below.
 - Use data minimisation as a strategy to avoid unwanted privacy breaches. 
-- Explain whether there is a managed access procedure in place for authorized users of personal data. - ensure that this aspect is covered under storage [3B: How will data security and protection of sensitive data be taken care of during the research?](3_storage_backup)
+- Explain whether there is a managed access procedure in place for authorised users of personal data. - ensure that this aspect is covered under storage [3B: How will data security and protection of sensitive data be taken care of during the research?](3_storage_backup)
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 - How are GDPR and the Personal Data Act complied with when handling/ processing personal data?
@@ -163,11 +218,15 @@ Will the data be made openly available? If only a selection of the data will be 
 Does the material contain confidential information (e.g. personal data and data with security classification) that requires special treatment and/or limits the access to the material during/after the project?]
  Why is this important? If the material contains confidential information, you must guarantee that it’s protected from unauthorised access. Contact your organization’s IT security office to make sure that data are handled correctly for their information classification level (see the paragraph above).
 
+### [University of Bergen (UiB)](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen), also available [in Norwegian](https://www.uib.no/personvern)
+
+### [University of Oslo (UiO)](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html)
+
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 **Does the material contain confidential information (e.g. personal data and data with security classification) that requires special treatment and/or limits the access to the material during/after the project?**
 *Why is this important?* 
-If the material contains confidential information, you must guarantee that it’s protected from unauthorised access. Contact your organization’s IT security office to make sure that data are handled correctly for their information classification level (see the paragraph above).
+If the material contains confidential information, you must guarantee that it’s protected from unauthorised access. Contact your organisation's IT security office to make sure that data are handled correctly for their information classification level (see the paragraph above).
  
 **If the research project will include processing of personal data, the research subjects need to receive thorough and transparent information about the data processing. The legal basis for processing personal data for research purposes is, for the most part, public interest. This means that the researcher can process personal data, but that a data controller is required to supply thorough information about how the data are processed.**
 *Why is this important?* 
@@ -207,19 +266,21 @@ If relevant also export control, protection of cultural heritage (Kulturminnelov
 > 4b.1\
 > Explain who will be the owner of the data, meaning who will have the rights to control access:
 
-If personal data involved: owner of the data is "data controller" as defined in GDPR.
+
+The data owner will differe depending on how the data are assembled. For data generated or collected as part of the reseach, the data owner is ususally the researcher(s). For data from different sources the data owner with be the custodian holding the rights to and providing you with access to the data. If personal data involved: owner of the data is "data controller" as defined in GDPR. Awareness of who have the rights to controll access is essential to plan for futhre sharing of data.
+
 
 > 4b.2\
-> Explain what access conditions will apply to the data? Will the data be openly accessible, or will there be access restrictions? In the latter case, which? Consider the use of data access and re-use licenses.
+> * Explain what access conditions will apply to the data? Will the data be openly accessible, or will there be access restrictions? In the latter case, which? Consider the use of data access and re-use licenses.
 
 Applies to both access control in the active phase and restricted access after data publication.
 Re-use can be limited by licenses or other reuse terms (e.g. data use ontology, informed consent ontology, data privacy vocabulary, Data Tags Suite)
 
 > 4.b.3\
-> Make sure to cover these matters of rights to control access to data for multi-partner projects and multiple data owners, in the consortium agreement.
+> * Make sure to cover these matters of rights to control access to data for multi-partner projects and multiple data owners, in the consortium agreement.
 
 Important to cover this in collaborative agreements.
-Legal requirements for data processor agreements.
+Legal requirements for data processor and joint data controller agreements.
 
 > 4.b.4\
 > Indicate whether intellectual property rights (for example Database Directive, sui generis rights) are affected. If so, explain which and how will they be dealt with.
@@ -345,7 +406,7 @@ Does your institution have ethics committees?
 [Veileder institusjonenens ansvar forskingsetikk](https://www.forskningsetikk.no/ressurser/veileder-om-institusjonenes-ansvar-for-forskningsetikk/)
 
 Be aware of e.g. CARE principles - reflect on and consult communites, Nagoya protocol, RRI
-Consider to list relevant agreements that will be followed e.g. Helsinki declaration on health data
+Consider to list relevant agreements that will be followed e.g. Helsinki declaration on health data, 
 
 [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
 
