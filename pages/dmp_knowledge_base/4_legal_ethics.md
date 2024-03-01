@@ -53,7 +53,7 @@ According to GDPR there are two options for legal bases for processing of person
 
 
 > 4a.2\
-> Gain informed consent for preservation and/or sharing of personal data.
+> * Gain informed consent for preservation and/or sharing of personal data.
 
 Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://edpb.europa.eu/our-work-tools/our-documents/opinion-art-70/opinion-32019-concerning-questions-and-answers_en) of the European data protection board.
 
