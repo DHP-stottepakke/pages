@@ -68,7 +68,7 @@ The relevance of anonymisation will depend on the data type and other available 
 - [Consult the Norwegian data protections agency guidance for data anonymisation "2024-01-23".](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
 
 > 4a.4\
-> Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
+> * Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
 
 
 Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation which is removing or not collecting more personal information than strictly necessary for the purpose.
