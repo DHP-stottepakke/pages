@@ -271,7 +271,7 @@ The data owner will differe depending on how the data are assembled. For data ge
 
 
 > 4b.2\
-> Explain what access conditions will apply to the data? Will the data be openly accessible, or will there be access restrictions? In the latter case, which? Consider the use of data access and re-use licenses.
+> * Explain what access conditions will apply to the data? Will the data be openly accessible, or will there be access restrictions? In the latter case, which? Consider the use of data access and re-use licenses.
 
 Applies to both access control in the active phase and restricted access after data publication.
 Re-use can be limited by licenses or other reuse terms (e.g. data use ontology, informed consent ontology, data privacy vocabulary, Data Tags Suite)
