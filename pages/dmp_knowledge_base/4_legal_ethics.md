@@ -80,7 +80,7 @@ This includes the storage of information for re-identifaction in a separate syst
 Ignore this, encryption should be addressed under 3 storage and backup.
 
 > 4a.6\
-> Explain whether there is a managed access procedure in place for authorised users of personal data.
+> * Explain whether there is a managed access procedure in place for authorised users of personal data.
 
 Make sure this is addressed under storage and backup, in addition consider who should have and manage access at and archiving stage.
 
