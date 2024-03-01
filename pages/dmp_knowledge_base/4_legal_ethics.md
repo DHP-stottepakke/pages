@@ -61,7 +61,7 @@ If consent is used as legal basis for processing of personal data consider askin
 
 
 > 4a.3\
-> Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
+> * Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
 
 The relevance of anonymisation will depend on the data type and other available information. 
 
