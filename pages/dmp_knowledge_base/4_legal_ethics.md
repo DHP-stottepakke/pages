@@ -277,7 +277,7 @@ Applies to both access control in the active phase and restricted access after d
 Re-use can be limited by licenses or other reuse terms (e.g. data use ontology, informed consent ontology, data privacy vocabulary, Data Tags Suite)
 
 > 4.b.3\
-> Make sure to cover these matters of rights to control access to data for multi-partner projects and multiple data owners, in the consortium agreement.
+> * Make sure to cover these matters of rights to control access to data for multi-partner projects and multiple data owners, in the consortium agreement.
 
 Important to cover this in collaborative agreements.
 Legal requirements for data processor and joint data controller agreements.
