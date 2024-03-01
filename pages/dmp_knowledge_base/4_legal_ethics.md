@@ -408,14 +408,26 @@ Make sure this is appropriately addressed under [3. storage and backup 3b.3](3_s
 > 4c.2\
 > Demonstrate awareness of these aspects and respective planning. Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
 
-Does your institution have ethics committees?
+In Norway there are different ethical committees and codes of conduct adapted to the different areas of research:
+- [National Committee for Medical and Health Research Ethics, NEM.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nem/)
+- [National Committee for Research Ethics in Science and Technology, NENT.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nent/)
+- [National Committee for Research Ethics in the Social Sciences and the Humanities, NESH.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/)
+- [National Commission for the Investigation of Research Misconduct, NREC.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/granskingsutvalget/)
+- [National Committee for Research Ethics on Human Remains, skjelettutvalget.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/skjelettutvalget/)
 
-[Veileder institusjonenens ansvar forskingsetikk](https://www.forskningsetikk.no/ressurser/veileder-om-institusjonenes-ansvar-for-forskningsetikk/)
+Ethical review is requered for medical and health research and conducted by the different [Regional Committees for Medical and Health Research Ethics, REC.]
+(https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/rek/)
 
-Be aware of e.g. CARE principles - reflect on and consult communites, Nagoya protocol, RRI
-Consider to list relevant agreements that will be followed e.g. Helsinki declaration on health data, 
+-It is less common that the institution have ethics committees. 
+- [The guide to institutions responsibility for research ethics, in Norwegian only,  Veileder institusjonenens ansvar forskingsetikk](https://www.forskningsetikk.no/ressurser/veileder-om-institusjonenes-ansvar-for-forskningsetikk/)
 
 [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
+
+Be aware of international codes of cunduct including but not limited to:
+- [CARE principles from GIDA](https://www.gida-global.org/care) - 
+- [Nagoya protocol](https://www.cbd.int/abs),
+- Helsinki declaration on health data, 
+Also reflect on and consult communites and general Responsible Research and Innovation -RRI guidelines.
 
 #### Sufficiently adressed (DMP Evaluation rubric)
 - Provides details of what ethical issues have been considered that may affect data storage, transfer, use, sharing and/ or preservation, and demonstrates that adequate measures are in place to manage ethical requirements.
