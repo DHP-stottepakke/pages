@@ -17,14 +17,14 @@ toc: true
 <!--key information-->
 ### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
-Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3. storage and backup 3b.3](3_storage_backup#3b---how-will-data-security-and-protection-of-sensitive-data-be-taken-care-of-during-the-research).
+Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3b - How will data security and protection of sensitive data be taken care of during the research?]](3_storage_backup).
 
 - [Test the Ethics and data protection decision tree from European Commission.](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
 
 For the legal details in Norway, please consult:
-- [Personal Data Act](https://lovdata.no/dokument/RFA/lov/2000-04-14-31)
-- Regulations on the processing of personal data [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
-- Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
+- Personal Data Act ([Personopplysningsloven](https://lovdata.no/dokument/RFA/lov/2000-04-14-31))
+- Regulations on the processing of personal data ([Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876))
+- Transitional rules on the processing of personal data ([Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877))
 - [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
 - [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
 
@@ -41,52 +41,47 @@ In this context also the following laws and regulations might be relevant:
 - [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
 - [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
 
-
 > 4a.1\
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
-
 
 According to GDPR there are two options for legal bases for processing of personal data in research, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
 - [Consult SIKTs guidance for Legal bases for personal data processing in research.](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
 - [Consult SIKTs guidance for information and consent.](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 - Consult your institutions requirements for notification forms for personal data, Data Protection Impact Assessments (DPIAs), risk and compliance system or similar.
 
-
-> 4a.2\
+> 4a.2
 > * Gain informed consent for preservation and/or sharing of personal data.
 
 Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://edpb.europa.eu/our-work-tools/our-documents/opinion-art-70/opinion-32019-concerning-questions-and-answers_en) of the European data protection board.
 
 If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes as part of both the informed and specific consent. It is advisable to use standard consent clauses, which can be reflected with machine readable metadata (See e.g. the [GA4GH ethical toolkit](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/) as an example for human genetic data)
 
-
-> 4a.3\
+> 4a.3
 > * Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
 
 The relevance of anonymisation will depend on the data type and other available information. 
 
 - [Consult the Norwegian data protections agency guidance for data anonymisation "2024-01-23".](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
 
-> 4a.4\
+> 4a.4
 > * Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
-
 
 Pseudonymisation is removal of names and other directly identifiable information, and follows the principle of data minimisation which is removing or not collecting more personal information than strictly necessary for the purpose.
 This includes the storage of information for re-identifaction in a separate system, which is not accessible for the researchers.
 
-> 4a.5\
+> 4a.5
 > * Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
 
-Ignore this, encryption should be addressed under 3 storage and backup.
+Ignore this, encryption should be addressed under [3 - storage and backup](3_storage_backup).
 
-> 4a.6\
+> 4a.6
 > * Explain whether there is a managed access procedure in place for authorised users of personal data.
 
-Make sure this is addressed under storage and backup, in addition consider who should have and manage access at and archiving stage.
+Make sure this is addressed under [3 - storage and backup](3_storage_backup), in addition consider who should have and manage access at and archiving stage.
 
 If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over. If data should be archived later under controlled access, the data access committee should be defined as early as possible and should be independent from the researcher. 
 
-#### Sufficiently adressed (DMP Evaluation Rubric)
+#### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Clearly indicates if personal data will be collected/used as part of the project, and, if applicable, how compliance with applicable legislation will be ensured (for example by gaining informed consent, considering encryption, anonymisation, or pseudonymisation). 
 - Describes the procedure to manage access to only authorised users.
 
@@ -105,7 +100,7 @@ If the data should be available for future research contact the archive you wish
 
 ```
 
-#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
 - [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree): "To describe ethical issues directly in a DMP" [string, free text]
 - [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree): yes/no/unknown
@@ -125,47 +120,8 @@ Missing:
 - Identification of ethical/legal issues at dmp level
 
 ---
-<!--additional explanations-->
-### Explanations for support staff
-- local storage guidelines (consider list with links?)
-- NB! encryption is problematic for long-term preservation (e.g. NFR guidance)
-
-- National regulations of potential relevance:
-### Data privacy
-- [Personal Data Act](https://lovdata.no/dokument/RFA/lov/2000-04-14-31)
-- Regulations on the processing of personal data [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
-- Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
-- [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
-- [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
-
-### Health research data
-
-- [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44)
-- [Regulations on the organization of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
-- [Comments to health research legislative work by the Norwegian government](http://www.regjeringen.no/nb/dep/hod/dok/lover_regler/forskrifter/2009/helseforskningsloven.html?id=570542)
-- [Health Register Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43)
-- [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
-- [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
-- [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
-- [Medicines Act](http://www.lovdata.no/all/nl-19921204-132.html)
-- [Regulations on clinical trials of medical products for human use](http://www.lovdata.no/for/sf/ho/ho-20091030-1321.html)
-- [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
-- [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
-
-### Other laws of potential relevance to life sciences research data
-
-- [Archive Act](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
-- [Research Ethics Act](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
-- [Patent Act](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
-- [Copyright Act](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
-- [Act on Universities and Colleges Act](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
-- [National Security Act](https://lovdata.no/dokument/NL/lov/2018-06-01-24)
-
-- What is personal data & special category personal data, which laws & guidelines apply, responsibilities (e.g. DPO)
-- If personal data is processed, which legal bases for data processing is used (usually relevant: public intrest or consent)?
-- If research is legal basis for data processing, then consent is is part of 4c below.
-- Use data minimisation as a strategy to avoid unwanted privacy breaches. 
-- Explain whether there is a managed access procedure in place for authorised users of personal data. - ensure that this aspect is covered under storage [3B: How will data security and protection of sensitive data be taken care of during the research?](3_storage_backup)
+<!--additional guidance from funders-->
+### Other DMP guidance
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 - How are GDPR and the Personal Data Act complied with when handling/ processing personal data?
@@ -180,8 +136,53 @@ Missing:
 - Will informed consent for data sharing and long term preservation be included in questionnaires dealing with personal data?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+- For guidance on access, see [5a - How and when will data be shared? Are there possible restrictions to data sharing or embargo reasons?](5_sharing_preservation).
 
-- For guidance on access, see 5a.
+---
+<!--additional explanations-->
+### Explanations for support staff
+- NB! encryption is problematic for long-term preservation (e.g. NFR guidance)
+
+#### Institutional privacy policies
+- [University of Bergen (UiB)](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen), also available [in Norwegian](https://www.uib.no/personvern)
+- [University of Oslo (UiO)](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html)
+- [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy)
+- [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_742141)
+
+#### National regulations of potential relevance
+##### Data privacy
+- [Personal Data Act ([Personopplysningsloven](https://lovdata.no/dokument/RFA/lov/2000-04-14-31))
+- Regulations on the processing of personal data [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
+- Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
+- [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
+- [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
+
+##### Health research data
+- [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44)
+- [Regulations on the organization of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
+- [Comments to health research legislative work by the Norwegian government](http://www.regjeringen.no/nb/dep/hod/dok/lover_regler/forskrifter/2009/helseforskningsloven.html?id=570542)
+- [Health Register Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43)
+- [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
+- [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
+- [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
+- [Medicines Act](http://www.lovdata.no/all/nl-19921204-132.html)
+- [Regulations on clinical trials of medical products for human use](http://www.lovdata.no/for/sf/ho/ho-20091030-1321.html)
+- [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
+- [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
+
+##### Other laws of potential relevance to life sciences research data
+- [Archive Act](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
+- [Research Ethics Act](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
+- [Patent Act](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
+- [Copyright Act](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
+- [Act on Universities and Colleges Act](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
+- [National Security Act](https://lovdata.no/dokument/NL/lov/2018-06-01-24)
+
+- What is personal data & special category personal data, which laws & guidelines apply, responsibilities (e.g. DPO)
+- If personal data is processed, which legal bases for data processing is used (usually relevant: public intrest or consent)?
+- If research is legal basis for data processing, then consent is is part of 4c below.
+- Use data minimisation as a strategy to avoid unwanted privacy breaches. 
+- Explain whether there is a managed access procedure in place for authorised users of personal data. - ensure that this aspect is covered under storage [3b - How will data security and protection of sensitive data be taken care of during the research?](3_storage_backup)
 
 ---
 <!--additional explanations - only keywords-->
@@ -195,8 +196,7 @@ Missing:
 - de-identification - pseudonymisation
 - anonymization
 
-
---
+---
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
@@ -217,10 +217,6 @@ Will the data be made openly available? If only a selection of the data will be 
 
 Does the material contain confidential information (e.g. personal data and data with security classification) that requires special treatment and/or limits the access to the material during/after the project?]
  Why is this important? If the material contains confidential information, you must guarantee that it’s protected from unauthorised access. Contact your organization’s IT security office to make sure that data are handled correctly for their information classification level (see the paragraph above).
-
-### [University of Bergen (UiB)](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen), also available [in Norwegian](https://www.uib.no/personvern)
-
-### [University of Oslo (UiO)](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html)
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -266,23 +262,21 @@ If relevant also export control, protection of cultural heritage (Kulturminnelov
 > 4b.1\
 > Explain who will be the owner of the data, meaning who will have the rights to control access:
 
-
 The data owner will differe depending on how the data are assembled. For data generated or collected as part of the reseach, the data owner is ususally the researcher(s). For data from different sources the data owner with be the custodian holding the rights to and providing you with access to the data. If personal data involved: owner of the data is "data controller" as defined in GDPR. Awareness of who have the rights to controll access is essential to plan for futhre sharing of data.
 
-
-> 4b.2\
+> 4b.2
 > * Explain what access conditions will apply to the data? Will the data be openly accessible, or will there be access restrictions? In the latter case, which? Consider the use of data access and re-use licenses.
 
 Applies to both access control in the active phase and restricted access after data publication.
 Re-use can be limited by licenses or other reuse terms (e.g. data use ontology, informed consent ontology, data privacy vocabulary, Data Tags Suite)
 
-> 4.b.3\
+> 4b.3
 > * Make sure to cover these matters of rights to control access to data for multi-partner projects and multiple data owners, in the consortium agreement.
 
 Important to cover this in collaborative agreements.
 Legal requirements for data processor and joint data controller agreements.
 
-> 4.b.4\
+> 4b.4\
 > Indicate whether intellectual property rights (for example Database Directive, sui generis rights) are affected. If so, explain which and how will they be dealt with.
 
 Much research data can be protected as databases. Inform yourself about to what extent copyright applies to the data you create or collect, agreements you have with your employer regarding ownership. Intellectual property might affect how open the data can be shared with others.
@@ -293,13 +287,12 @@ Consult:
 - Institutional policies for intellectual property (IPR).
 -	Institutional recommendations for licensing.
 
-
-> 4.b.5\
+> 4b.5\
 > Indicate whether there are any restrictions on the re-use of third-party data?
 
 Is there restrictionst to re-use in the active phase of the project? Is there restrictions to sharing project results? Data from external parties, can have restrictions on sharing. Some research data will be covered by copyright, this is relevant for reuse of copyrighted material for research purposes. 
 
-#### Sufficiently adressed (DMP Evaluation Rubric)
+#### #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 Clearly explains, if applicable:
 - Who will have the rights to control access to which part of the data.
 - What access conditions and re-use licenses will apply to the data.
@@ -321,25 +314,16 @@ Clearly explains, if applicable:
 - planning post-award, active phase
 ```
 
-#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
+#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dataset]
 - [#dataset_sensitive_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_sensitive_data_tree): yes/no/unknown
 
 Missing:
 - legal issues such as IPR are hardly covered?
 
-
 ---
-<!--additional explanations-->
-### Explanations for support staff
-- legislation, legal challenges (e.g. different legislations and GDPR)
-- Export control, eksportkontrollloven
-- IPR
-- Cultural heritage, kulturminneloven
-- commercial interests, patents, contact to local TTO
-- collaborative agreement best practice, how are they referred to
-- Åndsverkloven, arkivloven
-- Report How should we share research data
+<!--additional guidance from funders-->
+### Other DMP guidance
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 - Which legal entities have rights to and/or rights to determine the use of the research data? 
@@ -353,8 +337,19 @@ Missing:
 - not covered
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-- For guidance on access, see 5a.
+- For guidance on access, see [5a - How and when will data be shared? Are there possible restrictions to data sharing or embargo reasons?](5_sharing_preservation).
 
+---
+<!--additional explanations-->
+### Explanations for support staff
+- legislation, legal challenges (e.g. different legislations and GDPR)
+- Export control, eksportkontrollloven
+- IPR
+- Cultural heritage, kulturminneloven
+- commercial interests, patents, contact to local TTO
+- collaborative agreement best practice, how are they referred to
+- Åndsverkloven, arkivloven
+- Report How should we share research data
 
 ---
 <!--additional explanations - only keywords-->
@@ -408,28 +403,32 @@ Make sure this is appropriately addressed under [3. storage and backup 3b.3](3_s
 > 4c.2\
 > Demonstrate awareness of these aspects and respective planning. Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
 
-In Norway there are different ethical committees and codes of conduct adapted to the different areas of research:
+[Ministry of Education and Research - Research Ethics "2024-03-01"](https://www.regjeringen.no/en/topics/research/innsiktsartikler/research-ethics/id2000710/) provides and overview on relevant comittees and commissions.
+
+The National Research Ethics Committees ([De nasjonale forskningsetiske komiteene, FEK](https://www.forskningsetikk.no/)) are the most important professional bodies for research ethics in Norway. They are adapted to the different areas of research and academically independent:
 - [National Committee for Medical and Health Research Ethics, NEM.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nem/)
 - [National Committee for Research Ethics in Science and Technology, NENT.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nent/)
 - [National Committee for Research Ethics in the Social Sciences and the Humanities, NESH.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/)
 - [National Commission for the Investigation of Research Misconduct, NREC.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/granskingsutvalget/)
 - [National Committee for Research Ethics on Human Remains, skjelettutvalget.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/skjelettutvalget/)
 
-Ethical review is requered for medical and health research and conducted by the different [Regional Committees for Medical and Health Research Ethics, REC.]
-(https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/rek/)
+Ethical review is required for medical and health research and conducted by the different Regional Committees for Medical and Health Research Ethics ([Regionale komiteer for medisinsk og helsefaglig forskningsetikk, REK](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/rek/)).
 
--It is less common that the institution have ethics committees. 
-- [The guide to institutions responsibility for research ethics, in Norwegian only,  Veileder institusjonenens ansvar forskingsetikk](https://www.forskningsetikk.no/ressurser/veileder-om-institusjonenes-ansvar-for-forskningsetikk/)
+It is less common that the institutions have ethics committees.
+
+[The guide to institutions responsibility for research ethics, in Norwegian only, Veileder institusjonenens ansvar forskingsetikk](https://www.forskningsetikk.no/ressurser/veileder-om-institusjonenes-ansvar-for-forskningsetikk/)
 
 [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
 
-Be aware of international codes of cunduct including but not limited to:
-- [CARE principles from GIDA](https://www.gida-global.org/care) - 
-- [Nagoya protocol](https://www.cbd.int/abs),
-- Helsinki declaration on health data, 
-Also reflect on and consult communites and general Responsible Research and Innovation -RRI guidelines.
+Be aware of international codes of conduct including but not limited to:
+- [CARE principles from GIDA](https://www.gida-global.org/care) for Indigenous Data Governance
+- [Nagoya protocol](https://www.cbd.int/abs) on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization to the Convention on Biological Diversity
+- [WMA Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/) on Ethical Principles for Medical Research Involving Human Subjects
+- [Ethical Guidelines for the Use of Animals in Research](https://www.forskningsetikk.no/en/guidelines/science-and-technology/ethical-guidelines-for-the-use-of-animals-in-research/)
 
-#### Sufficiently adressed (DMP Evaluation rubric)
+Also reflect on and consult communites and general Responsible Research and Innovation (RRI) guidelines.
+
+#### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Provides details of what ethical issues have been considered that may affect data storage, transfer, use, sharing and/ or preservation, and demonstrates that adequate measures are in place to manage ethical requirements.
 - Mentions, if applicable, whether ethical review is being pursued. If ethical approval has been obtained, refers to the relevant committee and documents.
 - Refers to relevant ethical guidelines and/or codes of conduct or alternatively provides a clear statement that explains why ethical issues have not been considered.
@@ -462,6 +461,23 @@ Missing:
 - references to ethical guidelines
 
 ---
+<!--additional guidance from funders-->
+### Other DMP guidance
+
+#### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
+[Rights and legal requirements and codes of conduct]
+- What ethical issues can affect how data is stored and transferred, who has data access to view or use the data, and how long it should be kept?
+- Which institutional, national and/or international guidelines for research ethics apply to the project? Examples may be approval from regional committees for medical and health research ethics (REK) or the Norwegian Food Safety Authority.
+
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+- not covered
+
+#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+- Explicitly state in your metadata when access to the data needs to be limited due to ethical reasons. Include information on how to request access when this is possible an mention the contact details of the rights holder.
+- In case data cannot be publicly shared due to ethical reasons, make sure you do still publish the accompanying metadata.
+- For more guidance on licensing and access, see [5a - How and when will data be shared? Are there possible restrictions to data sharing or embargo reasons?](5_sharing_preservation).
+
+---
 <!--additional explanations-->
 ### Explanations for support staff
 - RRI
@@ -476,25 +492,11 @@ Missing:
 - [Animals use for scientific purposes *Norwegian only*](https://www.forsoksdyrkomiteen.no/ressurser/)
 - [Indigenous data, consent](https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/FreePriorandInformedConsent.pdf)
 
-#### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Rights and legal requirements and codes of conduct]
-- What ethical issues can affect how data is stored and transferred, who has data access to view or use the data, and how long it should be kept?
-- Which institutional, national and/or international guidelines for research ethics apply to the project? Examples may be approval from regional committees for medical and health research ethics (REK) or the Norwegian Food Safety Authority.
-
-#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-- not covered
-
-#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-- Explicitly state in your metadata when access to the data needs to be limited due to ethical reasons. Include information on how to request access when this is possible an mention the contact details of the rights holder.
-- In case data cannot be publicly shared due to ethical reasons, make sure you do still publish the accompanying metadata.
-- For more guidance on licensing and access, see 5a.
-
-
 ---
 <!--additional explanations - only keywords-->
 ### Explanations for users
-Awareness of ethical issues and implications, relevant documents
-Local ethical resources and boards
+- Awareness of ethical issues and implications, relevant documents
+- Local ethical resources and boards
 
 ---
 <!--recycling possible?-->
