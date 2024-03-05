@@ -42,7 +42,7 @@ File organisation and naming conventions should be part of the dataset descripti
 > 2a.5\
 Consider what other documentation is needed to enable re-use. This may include information on the methodology used to collect the data, analytical and procedural information, definitions of variables, units of measurement, and so on.
 
-These considerations needs to be done prior to the active phase of the research, to prepare for the information to be collected simultaneously with data collection. And the information needs to be made available as part of the archived dataset (e.g. in the 'readme'-file).
+These considerations needs to be done prior to the active phase of the research, to prepare for the information to be collected simultaneously with data collection. In addition the information needs to be made available as part of the archived dataset (e.g. embedded in the metadata or in a ReadMe-file) .
 
 > 2a.6\
 Consider how this information will be captured and where it will be recorded (for example in a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
