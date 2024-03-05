@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Storage and backup during the research process
 search_exclude: false
-contributors: [Lisbeth Jahren]
+contributors: [Lisbeth Jahren, Ingrid Heggland, Svein Høier]
 page_id: 3_storage_backup
 description: Data storage, backup
 affiliations: 
@@ -23,7 +23,7 @@ Describe where the data will be stored and backed up during research activities 
 > 3a.2\
 Give preference to the use of robust, managed storage with automatic backup, such as provided by IT support services of the home institution. Storing data on laptops, stand-alone hard drives, or external storage devices such as USB sticks is not recommended.
 
-As a default, choose storage solutions delivered by the IT department at your institution. These services will in general will include backup, make sure you familiarise yourself with the backup routines at your institution (e.g. frequency and retention period). In cases where institutionally managed storage cannot be used (e.g. field trips), the 3-2-1 rule should be followed (at least 3 copies of the data, 2 different media, 1 off-site copy). Be especially aware of cost and capacity issues if you have large amounts of data (in the order of terrabytes).  
+As a default, choose storage solutions delivered by the IT department at your institution. These services will in general will include backup, make sure you familiarise yourself with the backup routines at your institution (e.g. frequency and retention period). Important aspects when choosing a suitable storage solution for your projecrt includes confidentiality, collaboration with external partners and amount of data. In cases where institutionally managed storage cannot be used (e.g. field trips), the 3-2-1 rule should be followed (at least 3 copies of the data, 2 different media, 1 off-site copy). Be especially aware of cost and capacity issues if you have large amounts of data (in the order of terrabytes).  
  
 #### Sufficiently adressed (DMP Evaluation Rubric)
 Clearly (even if briefly) describes:
@@ -121,11 +121,17 @@ Losing a data material is something you want to avoid. Secure storage with regul
 > 3b.1\
 Explain how the data will be recovered in the event of an incident.
 
+When using storage solutions and infrastructure at your institution or IT department, routines for backup and recovery should be in place. Check what is relevant for the specific solution used in your project.
+
 > 3b.2\
 Explain who will have access to the data during the research and how access to data is controlled, especially in collaborative partnerships.
 
+When choosing storage solutions and infrastructure, consider whether partners or collaborators outside your institution need access, as this might limit your options.
+
 > 3b.3\
 Consider data protection, particularly if your data is sensitive for example containing personal data, politically sensitive information, or trade secrets. Describe the main risks and how these will be managed.
+
+As in 3b.2, choosing a suitable storage and infrastructure is essential, in this case to be able to ensure data protection. In addition, a risk assessment should be performed to reduce and manage risks.
 
 > 3b.4\
 Explain which institutional data protection policies are in place.
