@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: Collect and create data
+title: Creating and collecting data
 search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: support_06_collect_create
