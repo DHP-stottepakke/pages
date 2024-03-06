@@ -20,7 +20,12 @@ toc: true
 > 0.1\
 >Provide information such as name of applicant, project number, funding programme, version of DMP.
 
-This section should identify the project with title, acronym and funding (if relevant) and contain information about the host institution, participants, and collaborators. Persistent identifiers should be used wherever possible.
+This section should identify the project with title, acronym and funding (if relevant) and contain information about the host institution, participants, and collaborators. Persistent identifiers should be used wherever possible (e.g ROR for institutions, ORCID for participants).
+
+Listing participants may include role definitions, preferably using controlled vocabularies (DataCite contributor types, CredIT). See also [6 - Data management responsibilities and resources](6_responsibilities_resources).\
+If participants contribute to the project as part of their education and have a supervisor, resulting responsibilities should be specified in the DMP.
+Some institutions have formalised this in their PhD guidelines (e.g. [UiT "2024-03-05"](https://uit.no/Content/741988/cache=1629791319000/Retningslinjer%2Boppfolging%2BDMP_publisert.PDF)).
+
 It is beneficial to include references to relevant documents/agreements/contracts (e.g. collaborative agreements), particularly in multi-stakeholder projects.
 Adding brief information about the purpose/aim of the project (abstract) is helpful for evaluators.
 The DMP should be versionized (see also [Publishing the DMP](publish_dmp)).
@@ -54,6 +59,7 @@ Missing:
 - ID in institutional project management tool (if relevant)
 - coupling of contact and contributors with CRIS
 - controlled values for roles
+- relations between contributors (example: contributor A - PhD candidate supervised by contributor B - PI)
 
 ---
 <!--additional explanations-->
