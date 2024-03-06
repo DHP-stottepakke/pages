@@ -21,32 +21,36 @@ toc: true
 > 2a.1\
 Indicate which metadata will be provided to help others identify and discover the data.
 
-Both in the active phase and when preparing the data for archiving/publishing.
+Identification and discovery of the data is an issue both in the active phase (internal in the project) and when data are archived and published. This will be useful to keep in mind when planning which metadata to provide.
 
 > 2a.2\
 Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will be used.
 
+Many researchers will not be familiar with the notion of metadata standards. Thus, encouraging an examination and comparison of possible archives for the data may be the best advice, and then to look for the metadata standard used in the archive that is preferred.
+
 > 2a.3\
 Use community metadata standards where these are in place.
 
-When archiving/publishing the data.
+If unfamiliar with the notion of metadata standards, an approach could be to look for an archive much used in the community when planning where to archive/publish the data, and see what metadata standard is applied.
 
 > 2a.4\
 Indicate how the data will be organised during the project, mentioning for example conventions, version control, and folder structures. Consistent, well-ordered research data will be easier to find, understand, and re-use.
 
-Important in the active phase of research.
-File organisation and naming conventions may be part of the dataset description when archiving/publishing.
+This is important to decide and apply before entering the active phase of the project, and the same organisation may or should be maintained when the data is archived.\
+File organisation and naming conventions should be part of the dataset description (in the ReadMe-file) and present both in the active phase and when archiving/publishing the data.
 
 > 2a.5\
 Consider what other documentation is needed to enable re-use. This may include information on the methodology used to collect the data, analytical and procedural information, definitions of variables, units of measurement, and so on.
 
-Both in the active phase of research and when preparing the data for archiving/publishing.
+These considerations needs to be done prior to the active phase of the research, to prepare for the information to be collected simultaneously with data collection. In addition the information needs to be made available as part of the archived dataset (e.g. embedded in the metadata or in a ReadMe-file) .
 
 > 2a.6\
 Consider how this information will be captured and where it will be recorded (for example in a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
 
-In the active phase of research.
-If data documentation is recorded in a non-digital format (e.g. during laboratory or field work), explain how (parts of) the information will be digitalized.
+If data documentation is recorded in a non-digital format (e.g. during laboratory or field work), explain how (parts of) the information will be digitalized, e.g. in ReadMe-files.
+Information on data processing and analysis steps should be included in the data documentation and kept up-to-date. This may include software versions, dependencies and workflows. In addition to parameters and settings, it is advisable to document approaches and decisions taken in the analysis process.
+
+For more advanced use, use of workflow systems, reproducible deployment and build environments should be considered.
 
 #### Sufficiently adressed (DMP Evaluation Rubric)
 - Clearly outlines the metadata that will accompany the data, with reference to good practice in the scientific community (for example uses metadata standards where they exist).
@@ -55,13 +59,13 @@ If data documentation is recorded in a non-digital format (e.g. during laborator
 
 ```
 **Relevant PID**
-- Metadata standard 
+- Metadata standard (DOI / URI)
 
 **Interested stakeholder**
 - Level 2: Possibly core facility, library staff
 
 **Relevant project phase**
-- planning post-award, active phase
+- planning post-award, active phase, archiving/publishing phase
 ```
 
 #### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -177,16 +181,19 @@ Examples of measures to control and ensure data quality may be the use of standa
 > 2b.1\
 Explain how the consistency and quality of data collection will be controlled and documented. This may include processes such as calibration, repeated samples or measurements, standardised data capture, data entry validation, peer review of data, or representation with controlled vocabularies.
 
+In the planning phase, describe all steps and routines to be applied that ensures the consistency and quality of the data, e.g. to avoid errors in the data collection and in the capturing and recording of the data. In the active phase, adjust routines if this is considered necessary or beneficial to this end.
+
 #### Sufficiently adressed (DMP Evaluation Rubric)
 - Clearly describes the approach taken to ensure and document quality control in the collection of data during the lifetime of the project.
 
 ```
 **Relevant PID**
-not pid, but defined persitant standards for quality control relevant?
+not pid, but defined persitant standards for quality control relevant? - *[Are there _standards_ for 'quality control'? Or should it be 'best practice'?]*
 (established practices like calibration, signing by colleague, peer review etc.) 
 
 **Interested stakeholder**
-(not so much info here at this point in time)
+Research community - caring about the trustworthyness of the research
+Publishing venue
 
 **Relevant project phase**
 - planning post-award, active phase
