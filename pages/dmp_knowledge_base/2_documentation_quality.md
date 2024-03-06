@@ -47,7 +47,7 @@ These considerations needs to be done prior to the active phase of the research,
 > 2a.6\
 Consider how this information will be captured and where it will be recorded (for example in a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
 
-If data documentation is recorded in a non-digital format (e.g. during laboratory or field work), explain how (parts of) the information will be digitalized, e.g. in ReadMe-files.\
+If data documentation is recorded in a non-digital format (e.g. during laboratory or field work), explain how (parts of) the information will be digitalized, e.g. in ReadMe-files.
 The information should then be documented (e.g. in the dataset's 'readme'-file) when preparing the data for archiving/publishing.
 
 #### Sufficiently adressed (DMP Evaluation Rubric)
