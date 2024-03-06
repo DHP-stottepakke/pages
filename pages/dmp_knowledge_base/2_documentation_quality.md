@@ -48,7 +48,9 @@ These considerations needs to be done prior to the active phase of the research,
 Consider how this information will be captured and where it will be recorded (for example in a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
 
 If data documentation is recorded in a non-digital format (e.g. during laboratory or field work), explain how (parts of) the information will be digitalized, e.g. in ReadMe-files.
-The information should then be documented (e.g. in the dataset's 'readme'-file) when preparing the data for archiving/publishing.
+Information on data processing and analysis steps should be included in the data documentation and kept up-to-date. This may include software versions, dependencies and workflows. In addition to parameters and settings, it is advisable to document approaches and decisions taken in the analysis process.
+
+For more advanced use, use of workflow systems, reproducible deployment and build environments should be considered.
 
 #### Sufficiently adressed (DMP Evaluation Rubric)
 - Clearly outlines the metadata that will accompany the data, with reference to good practice in the scientific community (for example uses metadata standards where they exist).
