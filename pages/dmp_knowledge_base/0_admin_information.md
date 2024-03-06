@@ -30,7 +30,7 @@ It is beneficial to include references to relevant documents/agreements/contract
 Adding brief information about the purpose/aim of the project (abstract) is helpful for evaluators.
 The DMP should be versionized (see also [Publishing the DMP](publish_dmp)).
 
-#### Sufficiently adressed (DMP Evaluation Rubric)
+#### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Contains the minimal information required to identify the applicant and the references of the project.
 
 ```
@@ -48,7 +48,7 @@ The DMP should be versionized (see also [Publishing the DMP](publish_dmp)).
 - planning post-award, final reporting
 ```
 
-#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
 - [#dmp_contact_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contact_table): contact_id (identifier, type), mbox, name
 - [#dmp_contributor_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contributor_table): contributor_id (identifier, type), mbox, name, role [string, not controlled])
@@ -62,8 +62,8 @@ Missing:
 - relations between contributors (example: contributor A - PhD candidate supervised by contributor B - PI)
 
 ---
-<!--additional explanations-->
-### Explanations for support staff
+<!--additional guidance from funders-->
+### Other DMP guidance
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Administrative information]
@@ -74,8 +74,13 @@ Missing:
 - Do you, or will you, make use of other national/funder/sectorial/departmental procedures for data management? If yes, which ones (please list and briefly describe them)?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 - not covered
+
+---
+<!--additional explanations-->
+### Explanations for support staff
+- Advantages/disadvantages of different PID systems. Which information is needed at institution/funder.
+- Being aware how contracts and collaborative agreements are handled at institution (e.g. ePhorte)
 
 ---
 <!--additional explanations - only keywords-->

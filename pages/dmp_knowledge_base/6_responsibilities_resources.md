@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Data management responsibilities and resources
 search_exclude: false
-contributors: [Leif Longva]
+contributors: [Leif Longva, Svein Høier, Ingrid Heggland]
 page_id: 6_responsibilities_resources
 description: Data management responsibilities, Resources for research data management, costing data management
 affiliations: 
@@ -43,7 +43,7 @@ Implementing the DMP should be understood as both writing and updating the DMP, 
 
 The DMP should be used as an active project management tool, and the value of a DMP is best if it is up to date and available to all project members during the project. Make sure you are familiar with routines at your institution for developing, implementing and/or approving DMPs.
 
-#### Sufficiently addressed (DMP Evaluation Rubric)
+#### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Clearly outlines the roles and responsibilities for data management/stewardship (for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing), naming responsible individual(s) where possible.
 - Clearly indicates who is responsible for day-to-day implementation and adjustments to the DMP.
 - Explains, for collaborative projects, the co-ordination of data management responsibilities across partners.
@@ -62,17 +62,13 @@ The DMP should be used as an active project management tool, and the value of a 
 - planning post-award, active phase, final reporting
 ```
 
-#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
 - [#dmp_contributor_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contributor_table): contributor_id (identifier, type), mbox, name, role [string, not controlled])
 
 ---
-<!--additional explanations-->
-### Explanations for support staff
-- Assigning roles (e.g. CRediT)
-- Understanding responsibilities (e.g. GDPR & institution)
-- Stress the importance of clear distribution of roles and responsibilities, and the importance of communicating the roles and responsibilities among project members.
-
+<!--additional guidance from funders-->
+### Other DMP guidance
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Data management - reponsibilities and resources]\
 - Which roles are assigned which responsibility for data management activities in the project? Examples of activities are data capture, metadata production, data quality, storage and backup, long-term preservation and data sharing. Responsible individuals should be disclosed, if possible.
@@ -86,6 +82,12 @@ The DMP should be used as an active project management tool, and the value of a 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 - Determine the role of the data repository in your data management and stewardship. Choose an adequate repository to archive and share your data in that can meet or surpass your desires. Trustworthy Digital Repositories (TDRs) are repositories that provide support and take responsibility for data curation and digital preservation. TDRs can be officially certified (e.g., by the CoreTrustSeal, DIN31644/NESTOR, or ISO163638 standard). Use Re3data to find certified TDRs to deposit your data in.
 
+---
+<!--additional explanations-->
+### Explanations for support staff
+- Assigning roles (e.g. CRediT)
+- Understanding responsibilities (e.g. GDPR & institution)
+- Stress the importance of clear distribution of roles and responsibilities, and the importance of communicating the roles and responsibilities among project members.
 
 ---
 <!--additional explanations - only keywords-->
@@ -143,7 +145,7 @@ Include also the resources needed for collecting or generating the data, like th
 
 Include monetary costs in your project budget, preferrably broken down on activities and services. Make an effort early in the project to identify suitable repositories, so that repository charges may be included in the budget and in the funding application. Revise your budget on these elements when needed.
 
-#### Sufficiently adressed (DMP Evaluation Rubric)
+#### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Provides clear estimates of the resources and costs (for example storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges) that will be dedicated to data management and ensuring that data will be FAIR and describes how these costs will be covered. Alternatively, there is a statement that no additional resources are needed.
 
 ```
@@ -159,15 +161,13 @@ Include monetary costs in your project budget, preferrably broken down on activi
 - planning post-award
 ```
 
-#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
 - [#cost_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#cost_table): currency_code, description, title, value
 
 ---
-<!--additional explanations-->
-### Explanations for support staff
-- Costing RDM, funder guidelines on what costs are eligible
-- Resources e.g. [OpenAire section costs of RDM](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm), [OpenAire RDM cost estimation](https://www.openaire.eu/estimating-costs-rdm-tool)
+<!--additional guidance from funders-->
+### Other DMP guidance
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Storage and data security during the project]
@@ -182,6 +182,11 @@ Include monetary costs in your project budget, preferrably broken down on activi
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 - Determine any costs that your chosen repository charges for depositing the data. Data repositories, especially TDRs (‘trustworthy digital repositories’) will perform (some) data curation and digital preservation. This is an active and ongoing process of data management to ensure discovery, reuse, and long-term FAIR durability. Contact the repository of your choice to learn about these costs and make them explicit in your DMP.
 
+---
+<!--additional explanations-->
+### Explanations for support staff
+- Costing RDM, funder guidelines on what costs are eligible
+- Resources e.g. [OpenAire section costs of RDM](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm), [OpenAire RDM cost estimation](https://www.openaire.eu/estimating-costs-rdm-tool)
 
 ---
 <!--additional explanations - only keywords-->

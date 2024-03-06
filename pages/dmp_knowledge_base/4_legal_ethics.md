@@ -11,15 +11,17 @@ sidebar: dmp_knowledge_base
 toc: true
 ---
 
+<code>(Make sure this is sufficiently addressed under 3 - Storage and backup)</code>
+
 <!--Science Europe question ID & title-->
 ## 4a - If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
 
 <!--key information-->
 ### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 Personal privacy is here addressed purely from a legal perspective, if working with personal data this should also be addressed under 4c ethical issues. 
-Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3b - How will data security and protection of sensitive data be taken care of during the research?]](3_storage_backup).
+Processing of personal data and or health data affects the need for data security in the project, make sure this is appropriately addressed under [3b - How will data security and protection of sensitive data be taken care of during the research?](3_storage_backup).
 
-- [Test the Ethics and data protection decision tree from European Commission.](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
+- [Test the Ethics and data protection decision tree from European Commission](https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html "2024-01-22")
 
 For the legal details in Norway, please consult:
 - Personal Data Act ([Personopplysningsloven](https://lovdata.no/dokument/RFA/lov/2000-04-14-31))
@@ -61,7 +63,7 @@ If consent is used as legal basis for processing of personal data consider askin
 
 The relevance of anonymisation will depend on the data type and other available information. 
 
-- [Consult the Norwegian data protections agency guidance for data anonymisation "2024-01-23".](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
+- [Consult the Norwegian data protections agency guidance for data anonymisation.](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/ "2024-01-23")
 
 > 4a.4
 > * Consider pseudonymisation of personal data (the main difference with anonymisation is that pseudonymisation is reversible).
@@ -72,12 +74,12 @@ This includes the storage of information for re-identifaction in a separate syst
 > 4a.5
 > * Consider encryption which is seen as a special case of pseudonymisation (the encryption key must be stored separately from the data, for instance by a trusted third party).
 
-Ignore this, encryption should be addressed under [3 - storage and backup](3_storage_backup).
+Ignore this, encryption should be addressed under [3 - Storage and backup](3_storage_backup).
 
 > 4a.6
 > * Explain whether there is a managed access procedure in place for authorised users of personal data.
 
-Make sure this is addressed under [3 - storage and backup](3_storage_backup), in addition consider who should have and manage access at and archiving stage.
+Make sure this is addressed under [3 - Storage and backup](3_storage_backup), in addition consider who should have and manage access at and archiving stage.
 
 If the data should be available for future research contact the archive you wish to deposit the data in and make sure that you collect the correct consents at data collection, so that the data can be archived and used for future research when the project period is over. If data should be archived later under controlled access, the data access committee should be defined as early as possible and should be independent from the researcher. 
 
@@ -182,7 +184,7 @@ Missing:
 - If personal data is processed, which legal bases for data processing is used (usually relevant: public intrest or consent)?
 - If research is legal basis for data processing, then consent is is part of 4c below.
 - Use data minimisation as a strategy to avoid unwanted privacy breaches. 
-- Explain whether there is a managed access procedure in place for authorised users of personal data. - ensure that this aspect is covered under storage [3b - How will data security and protection of sensitive data be taken care of during the research?](3_storage_backup)
+- Explain whether there is a managed access procedure in place for authorised users of personal data. Ensure that this aspect is covered under storage [3b - How will data security and protection of sensitive data be taken care of during the research?](3_storage_backup).
 
 ---
 <!--additional explanations - only keywords-->
@@ -292,7 +294,7 @@ Consult:
 
 Is there restrictionst to re-use in the active phase of the project? Is there restrictions to sharing project results? Data from external parties, can have restrictions on sharing. Some research data will be covered by copyright, this is relevant for reuse of copyrighted material for research purposes. 
 
-#### #### Science Europe DMP Evaluation Rubric: sufficiently addressed
+#### Science Europe DMP Evaluation Rubric: sufficiently addressed
 Clearly explains, if applicable:
 - Who will have the rights to control access to which part of the data.
 - What access conditions and re-use licenses will apply to the data.
@@ -398,12 +400,12 @@ Why is this important? Copyright is protected in the Swedish constitution (Chapt
 > 4c.1\
 > Consider whether ethical issues can affect how data are stored and transferred, who can see or use them, and how long they are kept.
 
-Make sure this is appropriately addressed under [3. storage and backup 3b.3](3_storage_backup)
+Make sure this is appropriately addressed under [3b - How will data security and protection of sensitive data be taken care of during the research?](3_storage_backup).
 
 > 4c.2\
 > Demonstrate awareness of these aspects and respective planning. Follow the national and international codes of conducts and institutional ethical guidelines, and check if ethical review (for example by an ethics committee) is required for data collection in the research project.
 
-[Ministry of Education and Research - Research Ethics "2024-03-01"](https://www.regjeringen.no/en/topics/research/innsiktsartikler/research-ethics/id2000710/) provides and overview on relevant comittees and commissions.
+[Ministry of Education and Research - Research Ethics](https://www.regjeringen.no/en/topics/research/innsiktsartikler/research-ethics/id2000710/ "2024-03-01") provides and overview on relevant comittees and commissions.
 
 The National Research Ethics Committees ([De nasjonale forskningsetiske komiteene, FEK](https://www.forskningsetikk.no/)) are the most important professional bodies for research ethics in Norway. They are adapted to the different areas of research and academically independent:
 - [National Committee for Medical and Health Research Ethics, NEM.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nem/)
@@ -447,7 +449,7 @@ Also reflect on and consult communites and general Responsible Research and Inno
 - planning post-award, active phase
 ```
 
-#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039)
+#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
 - [#ethical_issues_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_description_tree): "To describe ethical issues directly in a DMP" [string, free text]
 - [#ethical_issues_exist_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#ethical_issues_exist_tree): yes/no/unknown
