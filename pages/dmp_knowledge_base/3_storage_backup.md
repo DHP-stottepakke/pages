@@ -25,7 +25,7 @@ Give preference to the use of robust, managed storage with automatic backup, suc
 
 As a default, choose storage solutions delivered by the IT department at your institution. These services will in general will include backup, make sure you familiarise yourself with the backup routines at your institution (e.g. frequency and retention period). Important aspects when choosing a suitable storage solution for your projecrt includes confidentiality, collaboration with external partners and amount of data. In cases where institutionally managed storage cannot be used (e.g. field trips), the 3-2-1 rule should be followed (at least 3 copies of the data, 2 different media, 1 off-site copy). Be especially aware of cost and capacity issues if you have large amounts of data (in the order of terrabytes).  
  
-#### Science Europe DMP Evaluation Rubric: sufficiently addressed
+#### Sufficiently adressed (DMP Evaluation Rubric)
 Clearly (even if briefly) describes:
 - The location where the data and backups will be stored during the research activities.
 - How often backups will be performed.
@@ -45,7 +45,7 @@ or
 - planning post-award, active phase
 ```
 
-#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in distribution]
 - [#host_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_table): nested, see below
 
@@ -58,11 +58,13 @@ or
 - [#host_supports_versioning_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_supports_versioning_tree): yes/no/unknown
 
 Missing:
-- Most suited to published data
+- most suited to published data
 
 ---
-<!--additional guidance from funders-->
-### Other DMP guidance
+<!--additional explanations-->
+### Explanations for support staff
+- Where to find information about local & national computing infrastructure, when to use what.
+- Technical knowledge of backup approaches.
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Storage and data security during the project]\
@@ -70,13 +72,9 @@ Missing:
 - How should data be recovered in the event of an accident?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 - not covered
 
----
-<!--additional explanations-->
-### Explanations for support staff
-- Where to find information about local & national computing infrastructure. When to use what.
-- Technical knowledge of backup approaches
 
 ---
 <!--additional explanations - only keywords-->
@@ -138,12 +136,7 @@ As in 3b.2, choosing a suitable storage and infrastructure is essential, in this
 > 3b.4\
 Explain which institutional data protection policies are in place.
 
-[UiB Storage guide](https://www.uib.no/en/foremployees/153608/storage-guide "2024-03-05")
-[UiO Data storage guide](https://www.uio.no/english/services/it/security/lsis/storage-guide.html "2024-03-05")
-[NTNU Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide  "2024-03-05")
-[UiT Processing and storage](https://en.uit.no/research/research-dataportal/art?p_document_id=729174 "2024-03-05")
-
-#### Science Europe DMP Evaluation Rubric: sufficiently addressed
+#### Sufficiently adressed (DMP Evaluation Rubric)
 Clearly explains:
 - How the data will be recovered in the event of an incident.
 - Which institutional and/or national data protection policies are in place and provides a link to where they can be accessed.
@@ -163,7 +156,7 @@ Clearly explains:
 - planning post-award, active phase
 ```
 
-#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in security and privacy]
 - https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-security_and_privacy: description [string, free text], name [string, free text]
 
@@ -171,27 +164,9 @@ Clearly explains:
 - [#distribution_data_access_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_data_access_tree): open/shared/closed
 
 Missing:
-- Data recovery
-- Institutional/national data protection policies
-- Differential access rights, particularly in the active phase
-
----
-<!--additional guidance from funders-->
-### Other DMP guidance
-
-#### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Storage and data security during the project]
-- Who will have access to the data during the project and how is access controlled? This is particularly important where the project is a collaboration with several research communities/institutions.
-- If applicable, how should data security and risk management be handled in relation to sensitive data, such as personal data and data that underlies trade secrets?
-- What institutional data protection policies apply?
-
-#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
-[5. Data Security]
-- What provisions are or will be in place for data security (including data recovery as well as secure storage/archiving and transfer of sensitive data)?
-- Will the data be safely stored in trusted repositories for long term preservation and curation? (see also 5_sharing_preservation)
-
-#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-- not covered
+- data recovery
+- institutional/national data protection policies
+- differential access rights, particularly in the active phase
 
 ---
 <!--additional explanations-->
@@ -200,6 +175,22 @@ Missing:
 - Classification of information: Institutional policies and storage guides
 - Routines for data recovery
 - Understanding data security measures
+
+#### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
+[Storage and data security during the project]\
+- Who will have access to the data during the project and how is access controlled? This is particularly important where the project is a collaboration with several research communities/institutions.
+- If applicable, how should data security and risk management be handled in relation to sensitive data, such as personal data and data that underlies trade secrets?
+- What institutional data protection policies apply?
+
+#### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
+[5. Data Security]\
+- What provisions are or will be in place for data security (including data recovery as well as secure storage/archiving and transfer of sensitive data)?
+- Will the data be safely stored in trusted repositories for long term preservation and curation? (see also 5_sharing_preservation)
+
+#### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+- not covered
+
 
 ---
 <!--additional explanations - only keywords-->

@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: Preserving and publishing data
+title: Preserve and publish data
 search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: support_08_preserve_publish

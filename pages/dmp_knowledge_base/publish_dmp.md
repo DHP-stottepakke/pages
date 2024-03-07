@@ -31,7 +31,8 @@ Best practice is to publish the DMP with a PID. Ideally, all versions should be 
 - planning post-award, active phase
 ```
 
-#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)[Properties in dmp]
+#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dmp]
 - [#dmp_id_tree]https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_id_tree): nested, see below
 - [#dmp_title_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_title_tree): dmp title
 - [#dmp_created_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_created_tree): first version (date + time)
@@ -44,21 +45,20 @@ Best practice is to publish the DMP with a PID. Ideally, all versions should be 
 Missing:
 - version id (human readable)
 
+
 ---
-<!--additional guidance from funders-->
-### Other DMP guidance
+<!--additional explanations-->
+### Explanations for support staff
+- How to publish a DMP (with different tools, recommended platforms, versions)
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [What a data management plan should include]\
 We also recommend assigning your data management plan a persistent identifier, such as a DOI. Several services for data management plans offer this.
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-- not covered
 
----
-<!--additional explanations-->
-### Explanations for support staff
-- How to publish a DMP (with different tools, recommended platforms, versions)
+##### Guidance for researchers
+not covered
 
 ---
 <!--additional explanations - only keywords-->
