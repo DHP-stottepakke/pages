@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Data description and collection or re-use of existing data
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Jenny Ostrop, Leif Longva]
 page_id: 1_data_description
 description: Data description, Data types, Data reuse
 affiliations: 
@@ -38,7 +38,7 @@ Briefly state the reasons if the re-use of any existing data sources has been co
 
 Some existing data may be thought of as natural to re-use. If such data are decided not to be re-used, explaining why it is not re-used will be important information.
 
-#### Sufficiently adressed (DMP Evaluation Rubric)
+#### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Gives clear details of where the existing data come from and how new data will be collected or produced. It clearly explains methods and software used.
 - Explains, if existing data are re-used, how these data will be accessed and any constraints on their re-use.
 - Explains clearly, if applicable, why new data must be collected, instead of re-using existing data.
@@ -56,7 +56,7 @@ Some existing data may be thought of as natural to re-use. If such data are deci
 - planning post-award, active phase
 ```
 
-#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dataset]
 - [#dataset_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_description_tree): "Description is a property in both Dataset and Distribution, in compliance with W3C DCAT. In some cases these might be identical, but in most cases the Dataset represents a more abstract concept, while the distribution can point to a specific file."
 - [#metadata_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#metadata_tree): if covered in metadata, see [2_documentation_quality](2_documentation_quality#2a---what-metadata-and-documentation-for-example-the-methodology-of-data-collection-and-way-of-organising-data-will-accompany-data)
@@ -71,10 +71,8 @@ Missing:
 - Data re-use constraints
 
 ---
-<!--additional explanations-->
-### Explanations for support staff
-- Licensing conditions
-- Referencing to datasets at dataset/file level (different frameworks)
+<!--additional guidance from funders-->
+### Other DMP guidance
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Collection and/or use of existing data]
@@ -91,13 +89,18 @@ Missing:
 - What is the origin/provenance of the data, either generated or re-used?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 - With respect to data provenance: Document the provenance for example by including it in the metadata record (e.g., using persistent identifiers), or via a linked provenance record (e.g., when you are familiar with using PROV-O, PAV, or VoID).
 - Supply at least the following information:
 - Sources of data generation or collection (e.g., model, instrument, methodology)
 - The date of data creation or collection
 - The contributor(s) involved
 - Data versioning information (indicate relations to other versions and describe changes)
+
+---
+<!--additional explanations-->
+### Explanations for support staff
+- Licensing conditions
+- Referencing to datasets at dataset/file level (different frameworks)
 
 ---
 <!--additional explanations - only keywords-->
@@ -164,7 +167,7 @@ Give details on the volumes (they can be expressed in storage space required (by
 Rough estimations are sufficient for planning purposes.
 More precise numbers can be needed if shared with stakeholder, e.g. to apply for/purchase storage quotas.
 
-#### Sufficiently adressed (DMP Evaluation Rubric)
+#### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Clearly describes or lists what data types will be generated (for example numeric, textual, audio, or video) and their associated data formats, including, if needed, data conversion strategies.
 - Explains why certain formats have been chosen and indicates if they are in open and standard format. If a proprietary format is used, it explains why.
 - Provides information about the estimated data volume.
@@ -184,7 +187,7 @@ none?
 - planning post-award, active phase
 ```
 
-#### [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dataset]
 - [#dataset_description_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_description_tree): "Description is a property in both Dataset and Distribution, in compliance with W3C DCAT. In some cases these might be identical, but in most cases the Dataset represents a more abstract concept, while the distribution can point to a specific file." [string]
 - [#dataset_type_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_type_tree): "If appropriate, type according to: DataCite and/or COAR dictionary. Otherwise use the common name for the type, e.g. raw data, software, survey, etc." [string]
@@ -200,12 +203,8 @@ Missing:
 - Is a given format considered open?
 
 ---
-<!--additional explanations-->
-### Explanations for support staff
-- Domain conventions
-- Data formats in active phase vs. long-term preservation
-- Persistent file formats, lossy file formats, conversion techniques
-- Calculating data volumes
+<!--additional guidance from funders-->
+### Other DMP guidance
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [File types and format]
@@ -227,9 +226,16 @@ Missing:
 - Beneficiaries should consider which of the questions pertaining to FAIR data above, can apply to the management of other research outputs, and should strive to provide sufficient detail on how their research outputs will be managed and shared, or made available for re-use, in line with the FAIR principles.
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 - With respect to data formats or file formats: Make data available in a file format that is accepted by your research community to enable data sharing, interoperability, and reuse, and by the repository to enable long- term preservation. When in doubt, check a couple of potentially relevant data repositories to find out what they expect, and include your findings in the DMP.
-- For guidance about how to search for repositories, see 6a
+- For guidance about how to search for repositories, see [6a - Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?](6_responsibilities_resources)
+
+---
+<!--additional explanations-->
+### Explanations for support staff
+- Domain conventions
+- Data formats in active phase vs. long-term preservation
+- Persistent file formats, lossy file formats, conversion techniques
+- Calculating data volumes
 
 ---
 <!--additional explanations - only keywords-->
