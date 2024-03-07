@@ -50,7 +50,7 @@ If you choose to share your data in a long term archive, it is highly likely thi
 
 ### How much of the DMP should I fill out at this stage?
 
-Ideally, a DMP should be as filled out as much as possible before a grant application is written. Mapping out aspects of the research life cycle as early as possible will make it easier for you to have an idea of which data should be gathered while conducting the research project. For example; deciding early on which data repository you will submit the data to for long storage will give you an idea of which metadata will be necessary to gather in order to submit to the relevant archive.
+Ideally, a DMP should be as filled out as much as possible before the active phase of the project starts and some aspects should alreday be in place at the proposal stage. Mapping out aspects of the research life cycle as early as possible will make it easier for you to have an idea of which data should be gathered while conducting the research project. For example; deciding early on which data repository you will submit the data to for long storage will give you an idea of which metadata will be necessary to gather in order to submit to the relevant archive.
 
 ## Level of the DMP
 
