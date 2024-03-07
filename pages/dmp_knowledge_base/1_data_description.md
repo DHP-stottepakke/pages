@@ -20,21 +20,23 @@ toc: true
 > 1a.1\
 Explain which methodologies or software will be used if new data are collected or produced.
 
-If data is re-used, the rationale how data was chosen should be outlined.
-If data is produced, the methodology should briefly be explained.
+If data is or will be produced, the methodology should briefly be explained.
 
 > 1a.2\
 State any constraints on re-use of existing data if there are any.
 
-Is there limitations to re-use of existing data? (Examples: limiting license conditions, insufficient metadata)
+If data is re-used, outline how data was chosen.\
+Are there limitations to the re-use of existing data? (Examples: limiting license conditions, insufficient metadata)
 
 > 1a.3\
 Explain how data provenance will be documented.
 
-Is this only meant in the context of data re-use? Documenting data provencance (data lineage) is important both for produced and re-used data. Often, both information about origin of the data (methodology, instrument, date) and data processing steps are required to understand and interpret the data.
+Documenting data provencance (data lineage) is important both for produced and re-used data. Often, both information about origin of the data (methodology, instrument, date) and data processing steps are required to understand and interpret the data.
 
 > 1a.4\
 Briefly state the reasons if the re-use of any existing data sources has been considered but discarded.
+
+Some existing data may be thought of as natural to re-use. If such data are decided not to be re-used, explaining why it is not re-used will be important information.
 
 #### Sufficiently adressed (DMP Evaluation Rubric)
 - Gives clear details of where the existing data come from and how new data will be collected or produced. It clearly explains methods and software used.
@@ -46,8 +48,8 @@ Briefly state the reasons if the re-use of any existing data sources has been co
 - PID of reused datasets
 
 **Interested stakeholder**
-- Level 3: Stakeholders interested in reuse of their research data,
-Stakeholders interested in receiving data and later governance of data within their contexts (statistics database etc.)
+- Level 3: Stakeholders interested in reuse of their research data
+- Stakeholders interested in receiving data and later governance of data within their contexts (statistics database etc.)
 
 **Relevant project phase**
 - pre-award: outline
@@ -140,7 +142,8 @@ Briefly describe what types of data you are collecting or producing. In addition
 > 1b.1\
 Give details on the kind of data: for example numeric (databases, spreadsheets), textual (documents), image, audio, video, and/or mixed media.
 
-Encourage use of broad categories, researchers are often over-specific.
+Encourage use of broad categories, researchers are often over-specific.\
+Use controlled vocabulary if available.
 
 > 1b.2\
 Give details on the data format: the way in which the data is encoded for storage, often reflected by the filename extension (for example pdf, xls, doc, txt, or rdf).
@@ -151,12 +154,14 @@ Justify the use of certain formats. For example, decisions may be based on staff
 > 1b.4\
 Give preference to open and standard formats as they facilitate sharing and long-term re-use of data (several repositories provide lists of such ‘preferred formats’).
 
-Be aware of use of given file formats in the active phase (both open and proprietary formats can be appropriate), medium-term storage (open formats to be preferred - e.g. danger of license loss for proprietary software), and long-term preservation (strictly open formats). Conversion strategies should be described.
+A list of preferred file formats for common data types are given by Data Archiving and Networked Services (DANS) at https://dans.knaw.nl/en/file-formats/
+
+Be aware that what is appropriate file formats may depend on the phase of the project. In the active phase both open and proprietary formats can be appropriate. In the medium-term storage open formats are to be preferred - beware e.g. the danger of license loss for proprietary software. And for long-term preservation choose strictly open formats. Conversion strategies should be described.
 
 > 1b.5\
 Give details on the volumes (they can be expressed in storage space required (bytes), and/or in numbers of objects, files, rows, and columns).
 
-Rough estimation sufficient for planning purposes.
+Rough estimations are sufficient for planning purposes.
 More precise numbers can be needed if shared with stakeholder, e.g. to apply for/purchase storage quotas.
 
 #### Sufficiently adressed (DMP Evaluation Rubric)
@@ -172,6 +177,7 @@ none?
 
 **Interested stakeholder**
 - Possibly core facility?
+- Research community: The reusability of the data may depend on e.g. a good description of collection method and on the use of preferred file formats.
 
 **Relevant project phase**
 - pre-award: outline
