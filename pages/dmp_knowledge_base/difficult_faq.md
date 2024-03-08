@@ -62,7 +62,7 @@ The DMP should be updated as the project develops and decisions taken, it should
 
 ## Level of the DMP
 
-I need a 1-page DMP for a Horizon Europe application.<br/>
+### I need a 1-page DMP for a Horizon Europe application
 
 - From the HE Programme Guide (v4.0):  
 	-	p. 42: Under the ‘Excellence’ part of their proposals, in the section on methodology, proposers should describe how open science practices (mandatory and recommended, as appropriate) are implemented as an integral part of the methodology and show how their implementation is adapted to the nature of their work, therefore increasing the chances of the project delivering on its objectives. Information relevant to the specific area of the proposal should be provided in no more than one page. If open science practices are not applicable to the proposal, justifications should be provided so that, if evaluators agree, open science will not be taken into consideration in the evaluation. Additionally, proposers generating or reusing data should outline in a maximum of one (additional) page their plans for data management.
