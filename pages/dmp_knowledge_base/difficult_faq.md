@@ -31,7 +31,7 @@ In the Horizon Europe funding scheme, a brief outline of data management (1-page
 ### Where can a DMP be published?
 - [Zenodo](https://zenodo.org/) is an agnostic research archive (operated by CERN) which allows you to share all sorts of research outputs including data managment plans. Zenodo also allows versioning and will create a DOI for your files.
 
-### I feel it is too much work to prepare my data for archiving in a domain specific archive
+### I feel it is too much work to prepare my data for archiving in a domain-specific archive
 
 Subject specific repositories such as [Metabolights](https://www.ebi.ac.uk/metabolights/editor/guides/Quick_start_Guide/Quick_start_overview), [PDB](https://www.wwpdb.org/deposition/tutorial) and [Sikt](https://sikt.no/tjenester/arkivere-data/klargjore-forskningsdata-arkivering) have guides/help-pages which makes it easier for you to prepare your data before submitting them to the repository. See if the repository you are submitting to has such a guide. Familiarizing yourself with such a guide early on, such as when drafting up a DMP, makes it easier for you to plan which metadata needs to be gathered in order for you to be able to submit to your repository of choice. <!--- Apart from Sikt, these are very geared towards life sciences. If anyone has better examples, please feel free to remove/replace/add  -->
 
