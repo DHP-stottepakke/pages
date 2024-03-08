@@ -69,6 +69,7 @@ The DMP should be used as an active project management tool, and the value of a 
 ---
 <!--additional guidance from funders-->
 ### Other DMP guidance
+
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
 [Data management - reponsibilities and resources]
 - Which roles are assigned which responsibility for data management activities in the project? Examples of activities are data capture, metadata production, data quality, storage and backup, long-term preservation and data sharing. Responsible individuals should be disclosed, if possible.
@@ -107,20 +108,24 @@ Who has the right to manage the data? (Usually several members of the project gr
 
 #### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Describe who will be responsible for the management of your data**
+
 You should consider the roles and responsibilities (naming individuals if possible) for data management/ stewardship actvities for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. For collaborative projects, explain the coordination of data management responsibilities across partners. Indicate who is responsible for implementing the DMP, and for ensuring it is reviewed and, if necessary, revised. You should consider regular updates of the DMP.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Is personal data involved in the dataset? If so, has the personal data processing been reported to the data protection officer, in compliance with the research principal’s policies?]\
+[Is personal data involved in the dataset? If so, has the personal data processing been reported to the data protection officer, in compliance with the research principal’s policies?]
 Why is this important? Research material that will contain personal data has to be reported to the data protection officer. The research principal is legally obligated (GDPR, Article 30) to keep a record of all projects where personal data are processed.
 
 #### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 **Who (for example role, position, and institution) will be responsible for data management? (6.1)**
 Summarise here all the roles and responsibilities described in the previous answers. Also, consider who will be responsible for the data resulting from your project after your project has ended.
+
 **Tips for best practices**
 - Outline the roles and responsibilities for data management/stewardship activities, for example, data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. Name the responsible individual(s) where possible. 
 
 **Who will be responsible for controlling access to your data, and how will secured access be controlled? (4.2)**
+
 It is essential to consider data security issues, especially if your data include sensitive data, personal data, politically sensitive information or trade secrets. Describe who has access to your data, what they are authorised to do with the data, or how you will ensure the safe transfer of data to your collaborators.
+
 **Tips for best practices**
 - Access controls should always be in line with the level of confidentiality involved
 - For collaborative projects, explain the co-ordination of data management responsibilities across partners.
@@ -214,16 +219,18 @@ Note that costs associated with open access to research data may be a qualified 
 
 #### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Describe the resources that will be dedicated to the management of your data such that it follows the FAIR (Findable, Accessible, Interoperable, Reusable) principles**
+
 You should consider the resources (time, personnel, money) necessary to preserve and share the data. You should cover where the resources will come from.
 
 #### [SND - Checklist for DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[Estimate what resources you will need to collect and document the data material during the project. This includes the cost of staff to collect, process, manage, and document the data during the project, as well as to prepare the data and documentation for long-term preservation and possible dissemination, which will improve the FAIRness of the data.]\
+[Estimate what resources you will need to collect and document the data material during the project. This includes the cost of staff to collect, process, manage, and document the data during the project, as well as to prepare the data and documentation for long-term preservation and possible dissemination, which will improve the FAIRness of the data.]
 **Why is this important?**
+
 Handling and documenting data tends to require more resources than planned. By planning for and documenting staff costs for documentation and data management during the project, as well as for the work needed to archive and make the data accessible after the project, you are more likely to have sufficient resources.
 
 #### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-**What resources will be required for your data management procedures to ensure that the data can be opened and preserved according to FAIR principles (Findable, Accessible, Interoperable, Re-usable)? (6.2)**
-- Estimate the resources, such as time and financial costs, needed to manage, share and preserve the data. These may include storage costs, hardware, staff time, the costs of preparing data for deposit and repository charges.
+**What resources will be required for your data management procedures to ensure that the data can be opened and preserved according to FAIR principles (Findable, Accessible, Interoperable, Re-usable)?**
+Estimate the resources, such as time and financial costs, needed to manage, share and preserve the data. These may include storage costs, hardware, staff time, the costs of preparing data for deposit and repository charges.
 
 **Tips for best practices**
 - Consider, if there will be additional costs from computational facilities or resources that need to be accessed.

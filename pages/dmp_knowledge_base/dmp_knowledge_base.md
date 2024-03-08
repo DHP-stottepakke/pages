@@ -21,20 +21,20 @@ Annotations by the project group are indicated as follows:
 Furthermore, each section is complemented by more extensive explanations and the [DMP guidance from the Research Council of Norway](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/), the [DMP template provided by Horizon Europe](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON), the[FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215). Provided information and annotations are specific to jurisdiction, stakeholders, and guidance documents in Norway. Policies highlight partners in the 'DHP støttepakke' project at the current stage.\
 As part of the working process, each section also contains guidance texts for researchers from specified sources, and an overview over aspects that will require further explanations for DMP users.
 
-- [0 - Administrative Information](0_admin_information)
-- [1 - Data description and collection or re-use of existing data](1_data_description)
-- [2 - Documentation and data quality](2_documentation_quality)
-- [3 - Storage and backup during the research process](3_storage_backup)
-- [4 - Legal and ethical requirements, codes of conduct](4_legal_ethics)
-- [5 - Data sharing and long-term preservation](5_sharing_preservation)
-- [6 - Data management responsibilities and resources](6_responsibilities_resources) 
+- [0 - Administrative Information](/pages/0_admin_information)
+- [1 - Data description and collection or re-use of existing data](/pages/1_data_description)
+- [2 - Documentation and data quality](/pages/2_documentation_quality)
+- [3 - Storage and backup during the research process](/pages/3_storage_backup)
+- [4 - Legal and ethical requirements, codes of conduct](/pages/4_legal_ethics)
+- [5 - Data sharing and long-term preservation](/pages/5_sharing_preservation)
+- [6 - Data management responsibilities and resources](/pages/6_responsibilities_resources) 
 
 The knowledge base is complemented by the following topics:
-- [Publishing the DMP](publish_dmp)
-- [Frequently asked difficult questions](difficult_faq)
-- [Research Data Management terminology (NO-EN)](rdm_terminology)
-- [DMP training plans](dmp_training)
-- [Inspiring DMP projects](dmp_projects_elsewhere)
+- [Publishing the DMP](/pages/publish_dmp)
+- [Frequently asked difficult questions](/pages/difficult_faq)
+- [Research Data Management terminology (NO-EN)](/pages/rdm_terminology)
+- [DMP training plans](/pages/dmp_training)
+- [Inspiring DMP projects](/pages/dmp_projects_elsewhere)
 
 ---
 ## DMP stakeholders
@@ -74,3 +74,9 @@ In this project, we have categorised stakeholders into 3 levels (illustrated bel
 - Society: transparent and cost-effective research
 
 {% include image.html file="stakeholder_pyramid.png" caption="Stakeholder pyramid: DMP stakeholders in Norway." alt="DMP stakeholders depicted as pyramid with Level 1 (Stakeholders who set requirements) at the top, surrounded by the words Risk reduction, Compliance, User-friendliness & Relevance. Level 2 (Stakeholders who can offer/use information in DMP) in the middle. Level 3 (Stakeholders without immediate involvement) at the bottom" %}
+
+---
+## DMP needs
+Depending on the field of research and the needs of the project, the DMP may take different forms. A DMP for a straightforward project with few participants will look different than a DMP for a complex international consortium project. A DMP for at project that analyses literature sources will look different from a project that creates many different types of data from patient samples. Some of these 'cornerstones' are illustrated below.
+
+{% include image.html file="dmp_cornerstones.png" caption="Cornerstones illustrating the different needs a DMP may need to meet." alt="Hexagon illustrating different DMP needs with characteristics written at each corner and arrows pointing to writing 'DMP needs' in the middle." %}
