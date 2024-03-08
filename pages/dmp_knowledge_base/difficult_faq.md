@@ -58,6 +58,8 @@ Reading through different DMPs can be an useful exercise. Keep in mind that not 
 
 Ideally, a DMP should be as filled out as much as possible before the active phase of the project starts and some aspects should alreday be in place at the proposal stage. Mapping out aspects of the research life cycle as early as possible will make it easier for you to have an idea of which data should be gathered while conducting the research project. For example; deciding early on which data repository you will submit the data to for long storage will give you an idea of which metadata will be necessary to gather in order to submit to the relevant archive.
 
+The DMP should be updated as the project develops and decisions taken, it should be considered 'a living document'. Scheduling regular updates is recommended, either at given timepoints or in connections with milestones in the project.
+
 ## Level of the DMP
 
 I need a 1-page DMP for a Horizon Europe application.<br/>
