@@ -11,7 +11,7 @@ sidebar: dmp_knowledge_base
 toc: true
 ---
 
-<code>(Make sure this is sufficiently addressed under 3 - Storage and backup)</code>
+<code>(If legal/ethical aspects are relevant, make sure data security is sufficiently addressed under 3 - Storage and backup)</code>
 
 <!--Science Europe question ID & title-->
 ## 4a - If personal data are processed, how will compliance with legislation on personal data and on data security be ensured?
@@ -140,6 +140,7 @@ Missing:
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 - For guidance on access, see [5a - How and when will data be shared? Are there possible restrictions to data sharing or embargo reasons?](5_sharing_preservation).
 
+
 ---
 <!--additional explanations-->
 ### Explanations for support staff
@@ -219,6 +220,13 @@ Will the data be made openly available? If only a selection of the data will be 
 
 Does the material contain confidential information (e.g. personal data and data with security classification) that requires special treatment and/or limits the access to the material during/after the project?]
  Why is this important? If the material contains confidential information, you must guarantee that it’s protected from unauthorised access. Contact your organization’s IT security office to make sure that data are handled correctly for their information classification level (see the paragraph above).
+
+#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+Each research institution must ensure that research at their institution is in accordance with recognised research ethical norms. It is therefore important that researchers are familiar with, and comply with, relevant and recognised research ethical guidelines. Note that in interdisciplinary projects it may be relevant to refer to guidelines for several subject areas. For more information about the ethical responsibilities of research and research institutions, see the Research Ethics Act.
+
+#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+**Legal and ethical requirements, codes of conduct – covers the steps that you will take to ensure the legal and ethical requirements for your data are followed.**
+If your project uses personal data, describe how you will ensure compliance with legislation on personal data and security - you should include how you plan to obtain consent, how you will manage the data (e.g. anonymisation of the data, access, transfer - if applicable, and destruction). You should include documentation on approved procedures that you plan to adopt.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -379,8 +387,11 @@ Who has ownership of the data? (Normally UiT, unless ownership has been agreed o
 
 How will the data be licensed for reuse? (According to section 4.5 in the UiT guidelines, research data shall be equipped with licenses for access, reuse, and dissemination. These licenses should be internationally recognised and set as few limitations on the data as possible. The researcher must ensure that licenses and applicable conditions for the use or sharing of third party data are complied with.)
 
-#### [SIKT](https://sikt.no/en/data-management-plan)
+#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Generally, the rights to project results should be transferred from the researchers (and possibly others who have helped create such results) to the institution(s) where the researchers are employed. This is in accordance with the Employees’ Inventions Act, and in accordance with the objectives of the Act relating to universities and university colleges (see in particular §1-5, Academic freedom and responsibility). See also the Norwegian Research Council’s Policy on Intellectual Property Rights.
+
+#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+Describe how you plan to address other legal issues such as intellectual property rights and ownership - you should describe who will own the data (who has access rights) and intellectual property rights and what license you will apply to the data. You should consider an internationally recognised license to maximise data reuse. If you are reusing data, you should describe any restrictions imposed by this data.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Refer to the information security guidelines and policies in your university/organization and define what implications they have. What information classification level does the data material have and what security measures are needed to protect the material? Who should have access to the project data during the project and how do you plan to protect the data from unauthorised access?]
@@ -510,17 +521,17 @@ Is an ethical review (for example by an ethics committee/REK or approval of use 
 #### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 Are you going to collect informed consent to store and share the data? If so, how? How are you going to secure confidentiality and identity protection?
 
-#### [SIKT](https://sikt.no/en/data-management-plan)
+#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Add any comments on issues related to for example: research on human embryos and fetuses, and/or human cells and tissues; collection of personal data and obtaining consent; animal research; research in non-EU countries; unintended effects on the environment, health and safety; and the potential misuse of research results. See also [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
-
-#### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-How will you manage the rights of the data you use, produce and share? (2.2) Describe how you will agree upon the rights of use related to your research data – including the collected, produced and (re)used data of your project. Here, you can employ your categorisation in the first question. Each of these categories involves different rights and licenses. Describe the transfer of rights procedures relevant to your project. Describe confidentiality issues if applicable in your project. License your data! Tips for best practices:
-
-* Agreements on rights of use should be made as early as possible in the project life cycle.
-* Have you gained consent for data preservation and sharing? • Follow the funder's or publisher's policies.
-* It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a [Creative Commons](https://creativecommons.org/choose/), [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) or [MIT license](https://opensource.org/licenses/MIT), or under another relevant license.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Does the project need ethical approval or has it been approved? Enter the reference number here.]
  Why is this important?
  Research that falls under the scope of the Act (2003:460) concerning the Ethical Review of Research Involving Humans (the Ethical Review Act, updated 2020-01-01) can only be carried out after ethical approval, which is applied for by the research principal. Without ethical approval, the research is illegal and subject to legal consequences. Ethical approval is also needed for research that involves animal testing.
+ 
+ #### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+How will you manage the rights of the data you use, produce and share? (2.2) Describe how you will agree upon the rights of use related to your research data – including the collected, produced and (re)used data of your project. Here, you can employ your categorisation in the first question. Each of these categories involves different rights and licenses. Describe the transfer of rights procedures relevant to your project. Describe confidentiality issues if applicable in your project. License your data! Tips for best practices:
+
+* Agreements on rights of use should be made as early as possible in the project life cycle.
+* Have you gained consent for data preservation and sharing? • Follow the funder's or publisher's policies.
+* It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a [Creative Commons](https://creativecommons.org/choose/), [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) or [MIT license](https://opensource.org/licenses/MIT), or under another relevant license.

@@ -132,6 +132,33 @@ Missing:
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
+#### [NTNU - DMP Guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
+NTNU encourages Open Science and open data (see Policy for Open Science at NTNU), but this does not mean that all data should be shared openly. Datasets containing personal information are examples of data that should not be shared without careful considerations. Still, in many cases, it is possible to publish selections of data or to anonymise the data. Another option is to obtain consent for archiving personal data with access restrictions. Note that NSD Data Archive provides options for archiving data with access restrictions. They do not, however, accept anonymised qualitative data due to the efforts required to verify anonymity. Qualitative data with indirect personal identifiers can only be archived with consent from informants.
+ 
+ For more NTNU-relevant information regarding data sharing, see next question.
+
+#### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
+What kind of methods or software are needed to get access to the data? Are the methods/software openly available?
+
+When will the data be made available, and how long will they be stored? (According to section 4.5 in the UiT guidelines, research data shall be made openly accessible as early as possible. For data that form the basis of scientific publications, this means no later than the date of publication. For other data that may be of interest for other research, this will normally be at the end of the project and no later than three years after the project has ended.)
+
+Are there other conditions, restrictions or embargo on the use of the data?
+
+#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+According to the National strategy on access to and sharing of research data and the Research Council's Policy for Open Access to Research Data, all research data must be made available to all relevant users under equal conditions, so long as there are no legal, ethical or security reasons not to do so. Research data can be made available in secure archives for research data, either centrally at your own institution, in national archives, or in subject-specific archives.
+
+Research data should be shared as open as possible and closed as necessary. See National Strategy for Accessing and Sharing Research Data.
+
+#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+**Data sharing and long-term preservation – covers what steps you will take to ensure your data are accessible and reusable by interested groups.**
+Describe how and when you will share your data including data you intend to preserve - you should describe how you plan to make the data discoverable (e.g. by depositing the data into a trustworthy data repository).
+You should describe when the data will be made available and any access restrictions. You should cover the criteria you will use to identify preservable data. You should also describe how you will ensure the data remain usable during the data's lifetime (e.g. by providing access to supported tools, documentation on data use and support resources).
+
+#### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[How do you plan to preserve the research material? Find out what rules your university/organization has for preservation and destruction of research records and decide who in the research team is responsible for making sure that the official records from the project are archived.
+ What data will be preserved and/or made accessible, and how do you make that selection? Are there any local regulations? If it is possible to make the data accessible: when, where, and to whom? Will the data be made accessible in a data repository, a subject-specific database, at the university, or by the research group?]
+Why is this important? Digital data materials need to be actively administered over time, to make sure that they remain accessible and usable. Research materials that are created at a university/public agency must be archived there, in accordance with the Swedish Archives Act (SFS 1990:782). As a rule, official documents at universities and other higher education institutions shall be archived and it is, in principle, unlawful to destroy official documents unless specifically allowed by law, i.e. if there is a right to dispose of records. Raw data files, ethical approvals, research data documentation, and published results must be archived. If you have questions regarding archiving or destruction of documents, please consult with your organization’s archive.
+
 #### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 What part of the data can be made openly available or published? Where and when will the data, or its metadata, be made available? (5.1) 
  Describe how you will make data available and findable for reuse. If your data or parts of the data cannot be opened, explain why you publish only metadata.
@@ -144,12 +171,6 @@ Check re3data.org (https://www.re3data.org/) to find a repository for your data.
 Prefer repositories or publishers, which provide persistent identifiers (PID) to enable access and citation to the data via a persistent link (e.g. DOI, URN).
 Remember to check the funder, institutional, disciplinary or national recommendations for data repositories.
 It is recommended to make all of the research data, code and software created within a research project available for reuse, for example, under a Creative Commons (https://creativecommons.org/choose/), GNU (https://www.gnu.org/licenses/gpl-3.0.en.html) or MIT license (https://opensource.org/licenses/MIT), or under another relevant license.
-
-#### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[How do you plan to preserve the research material? Find out what rules your university/organization has for preservation and destruction of research records and decide who in the research team is responsible for making sure that the official records from the project are archived.
- What data will be preserved and/or made accessible, and how do you make that selection? Are there any local regulations? If it is possible to make the data accessible: when, where, and to whom? Will the data be made accessible in a data repository, a subject-specific database, at the university, or by the research group?]
-Why is this important? Digital data materials need to be actively administered over time, to make sure that they remain accessible and usable. Research materials that are created at a university/public agency must be archived there, in accordance with the Swedish Archives Act (SFS 1990:782). As a rule, official documents at universities and other higher education institutions shall be archived and it is, in principle, unlawful to destroy official documents unless specifically allowed by law, i.e. if there is a right to dispose of records. Raw data files, ethical approvals, research data documentation, and published results must be archived. If you have questions regarding archiving or destruction of documents, please consult with your organization’s archive.
-
 
 -----
 -----
@@ -264,6 +285,21 @@ Missing:
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
+#### [NTNU - DMP Guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
+Are there any relevant community specific repositories/archives for your type of data? You can search for data repositories/archives at www.re3data.org. Data can also be published through generic repositories like Zenodo, or NTNU’s institutional archive NTNU Open Research Data. This archive is part of DataverseNO, a Core Trust-certified data archive which provides access to the data for at least 10 years after deposition. Archiving data through NTNU Open Research Data/DataverseNO facilitates FAIR data by providing a DOI, following the Dublin Core metadata standard and by providing a license for reuse of data (CC0 is the standard). For more information about specific details regarding the archive, see DataverseNO: About DataverseNO. See also the wiki Research Data Repository.
+ 
+ For principles when choosing licenses for data and other research results, see part 3.1 of the Guidelines for Open Science.
+
+#### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
+Which data will be preserved, and which will be destroyed at the end of the project?
+
+Will (a selection of) the data be long-term preserved, and how is this decided? (According to section 4.2 in the UiT guidelines, researchers have to assess the long-term value of their data, and describe how they will be managed.)
+
+Where will data, metadata, documentation and code associated with the data be archived? (UiT’s archive for open research data, UiT Open Research Data, provides researchers with a safe service for archiving, sharing and publishing open research data.)
+
+#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+Data that forms the basis of scientific articles should be deposited at a relevant archive and made available as early as possible, and usually never later than at the time of publication. Other data that may be of interest to other researchers should also be made available within a reasonable time, and usually never later than three years after the completion of a project, cf. the Research Council's Policy on Open Access to Research Data (PDF in Norwegian).
+
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Before you preserve the data material and make it accessible, you may want to prepare the material. What file formats are suitable for long-term preservation? What documentation should be included with the data material after the project has ended? Are there any ethical and legal restrictions on the material, which mean that the data need to be processed (e.g. de-identified) before they can be made accessible? Where do you plan to archive and/or make the data accessible? Contact them in good time for assistance in how to prepare the material.]
  Why is this important? Digital file formats run the risk of becoming obsolete. If this should happen, future software may not be able to read and present the information in the files correctly, and valuable research data could be lost. Therefore, you should choose file formats that are more likely to remain usable in the future, i.e. formats that are commonly used, non-proprietary, and have an open technical specification. Another benefit of choosing those formats is that you won’t have to convert the file formats at the end of the project. It isn’t always possible to choose a format that meets all criteria, as specific instruments, analysis tools, or developed software can affect the choice of data formats. If that’s the case, it’s important to plan for how to guarantee that the data material can be preserved.
@@ -366,6 +402,14 @@ Missing:
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
+#### [NTNU - DMP Guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
+NTNU recommends the use of open source and open formats where possible. If the data is only available in proprietary formats requiring specific software or tools, consider the possibility of providing an additional copy in an open format even if that entails data loss. If specific code, scripts or algorithms are developed during the project, they can be published using the GitHub/Zenodo-integration. See also the wiki Open source. For principles when choosing licenses, see part 3.1 of the Guidelines for Open Science.
+
+#### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
+What kind of methods or software are needed to get access to the data? Are the methods/software openly available?
+
+Is special software for reading/interpreting the data necessary?
+
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Will a specific software or tool be required to use the data material? If it is: is it possible to add the software or tool to the data material, and if so, what documentation is required for someone to be able to use it? If it isn’t possible to add the software/tool, what is required to be able to use the data material?]
 
@@ -450,11 +494,20 @@ Will a persistent identifier (DOI) for the datasets be used? Persistent identifi
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
+#### [NTNU - DMP Guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
+Persistent identifiers like DOIs are usually issued by data repositories (e.g., Zenodo, NTNU Open Research Data etc.). In most cases, your choice of repository will therefore determine the use of persistent identifiers.
+
+#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+Research data that are going to be shared and published should be equipped with international standard licenses that have as few restrictions as possible on access and reuse purpose.
+The licenses that are marked with "Open Definition Recommended" are licenses that are conformant with the principles of open knowledge, as defined by the Open Knowledge Foundation.
+
+#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+**Describe how you will assign persistent identifiers to your data**
+You should describe who will provide persistent identifiers. In many cases, the long-term repository will provide the identifiers. If you plan to provide the identifiers yourself, you should choose a service that is mandated to maintain the identifiers for the long-term (such as DOI issued by Bibsys).
+
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Will the material receive a persistent identifier (PID), and what type of PID? Enter the PID here if you have one, or when you get one.]
 **Why is this important?**
 A persistent identifier is a unique digital ID that refers to one or more objects, digital or physical. In research, it’s common practise to issue a PID to publications or research data that are preserved for a long time and made accessible through digital resources.
 It’s important to enter this information to show funders that you have thought about essential factors around the access to data. As there are different types of PID, depending on e.g. field of research or where the data material is preserved, you may want to explore which PID is most suited for your material. Data that are made accessible through SND receive a persistent identifier called a DOI (Digital Object Identifier).
 
-#### [NTNU - DMP Guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
-Persistent identifiers like DOIs are usually issued by data repositories (e.g., Zenodo, NTNU Open Research Data etc.). In most cases, your choice of repository will therefore determine the use of persistent identifiers.

@@ -130,17 +130,6 @@ For more advanced use, use of workflow systems, reproducible deployment and buil
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-#### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-How will you document your data in order to make the data findable, accessible, interoperable and re-usable for you and others? What kind of metadata standards, README files or other documentation will you use to help others to understand and use your data?
-Data documentation enables data sets and files to be discovered, used and properly cited by other users (human or computer). Without sufficient documentation the data cannot be reused.
-Documentation includes essential information regarding the data, for example a) core metadata (for discovery and identification) where, when, why and how the data were collected as well as b) descriptive information how the data is interpreted correctly using metadata standards, vocabularies and e.g. readme-files. 
-
-Tips for best practices
-- Describe all the types of documentation (README files, metadata standards, vocabularies etc.) you will provide to help secondary users to understand and reuse your data. Repositories often require the use of a specific metadata standard. Check whether a discipline-specific metadata schema or standard exists that can be adopted.
-- Consider how the data will be organised during the project. Describe, for example, your file-naming conventions, version control and folder structure.
-- Use research instruments, which create standardised metadata formats automatically.
-- Identify the types of information that should be captured to enable other researchers to discover, access, interpret, use and cite your data. See for example Qvain requirements (https://www.fairdata.fi/en/user-guides/qvain-user-guide/#QvainDataset)
-
 #### [NTNU - DMP guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
 What information is necessary for future users (including your future self) to find and understand the data? 
 Tip: Read Making a Research Project Understandable: Guide for data documentation (Fuchs & Kuusniemi 2018).
@@ -164,12 +153,32 @@ What standards and methods will be used for data collection/generating?
 
 What is the expected file size for the data?
 
+#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+Metadata is data about data, i.e. information that describes other information through a set of attributes. Note that using a standard structures information in machine-readable form, which increases the visibility and retrievability of your data in the future. The RDA (Research Data Alliance) has an overview of both general and subject-specific metadata standards that can be applied to research data
+
+It can be helpful to be consistent in naming files and folders during the project, e.g. by using file and folder names that clearly describes the content, what version they are, and when they were created. This makes it easier to identify the file(s) containing the information you are looking for. It also helps you keep control over different versions of files, and it makes it easier for others to understand and navigate through your work files.
+You can find examples of guidelines and procedures for naming conventions at Cambridge.
+
+Describe other measures and processes that are implemented to document collection methods and processes during the project. If you do not intend to use a metadata standard, or there are no relevant metadata standards tailored to your research, describe what other strategies (e.g. whether you will use free-text documents, code syntaxes, etc.) will be applied to document the data.
+
+#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+**Documentation and data quality – covers how the data will be described (ie what metadata standards are used to describe the data) and how you will measure and record the quality of your data.**
+Describe how you will organise and document your data – this should include what metadata standards you plan to use, what data will be covered and how the arrangement of your data will help others to find and use your data. You should also describe any addiDonal documentation (such as electronic logbooks and user-guides or examples of how to use the data), how it will be captured and where it will be stored.
+
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Will the project use any established terminologies, ontologies, standards, or similar, to describe and document the material? Which ones? If you create your own terminology, will it be mapped against established terminologies?
 Why is this important? Many scientific disciplines have established terminologies, ontologies, and vocabularies (e.g. MeSH, ISCED, AAT, and ELSST) that can be used to categorize and document data materials. There are various standards that are recommended to follow (e.g. ISO 8601 for date, time, and time intervals). The use of standards and established terminologies simplifies the communication between people who belong to the same scientific field but can also make it easier to find material in, for example, journals. Sometimes, it may be necessary to create project-specific terminology lists if the existing ones aren’t sufficient or suited for the project. If you create a project-specific list, you should do a mapping, where you show which terms that mean exactly or almost the same thing as in other lists, but also which terms that are unique for your list. Mapping terms against other terminologies will improve the findability of the data material.
 
-#### [SIKT](https://sikt.no/en/data-management-plan)
-Examples of measures to control and ensure data quality may be the use of standardized methods and protocols to capture observations; checking precision and calibration of instruments; quality-check equipment to be used for audio or video recording; make multiple measurements, observations or samples; use standardized interview protocols and/or computer-assisted software when conducting interviews; and using standardized and consistent procedures when digitizing or transcribing data.
+#### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+How will you document your data in order to make the data findable, accessible, interoperable and re-usable for you and others? What kind of metadata standards, README files or other documentation will you use to help others to understand and use your data?
+Data documentation enables data sets and files to be discovered, used and properly cited by other users (human or computer). Without sufficient documentation the data cannot be reused.
+Documentation includes essential information regarding the data, for example a) core metadata (for discovery and identification) where, when, why and how the data were collected as well as b) descriptive information how the data is interpreted correctly using metadata standards, vocabularies and e.g. readme-files. 
+
+Tips for best practices
+- Describe all the types of documentation (README files, metadata standards, vocabularies etc.) you will provide to help secondary users to understand and reuse your data. Repositories often require the use of a specific metadata standard. Check whether a discipline-specific metadata schema or standard exists that can be adopted.
+- Consider how the data will be organised during the project. Describe, for example, your file-naming conventions, version control and folder structure.
+- Use research instruments, which create standardised metadata formats automatically.
+- Identify the types of information that should be captured to enable other researchers to discover, access, interpret, use and cite your data. See for example Qvain requirements (https://www.fairdata.fi/en/user-guides/qvain-user-guide/#QvainDataset)
 
 
 -----
@@ -184,6 +193,8 @@ Examples of measures to control and ensure data quality may be the use of standa
 Explain how the consistency and quality of data collection will be controlled and documented. This may include processes such as calibration, repeated samples or measurements, standardised data capture, data entry validation, peer review of data, or representation with controlled vocabularies.
 
 In the planning phase, describe all steps and routines to be applied that ensures the consistency and quality of the data, e.g. to avoid errors in the data collection and in the capturing and recording of the data. In the active phase, adjust routines if this is considered necessary or beneficial to this end.
+
+At a conceptual level, data quality approaches and standards are described in the report [Towards a data quality framework for EOSC](https://doi.org/10.5281/zenodo.7515816) by the [EOSC Task Force 'FAIR metrics and Data Quality'](https://eosc.eu/advisory-groups/fair-metrics-and-data-quality/ "2024-03-08").
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Clearly describes the approach taken to ensure and document quality control in the collection of data during the lifetime of the project.
@@ -241,16 +252,6 @@ Publishing venue
 ---
 <!--recycling possible?-->
 ### Existing sources that can be reused
-#### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-How will you document your data in order to make the data findable, accessible, interoperable and re-usable for you and others? What kind of metadata standards, README files or other documentation will you use to help others to understand and use your data? 
- Data documentation enables data sets and files to be discovered, used and properly cited by other users (human or computer). Without sufficient documentation the data cannot be reused.
- Documentation includes essential information regarding the data, for example a) core metadata (for discovery and identification) where, when, why and how the data were collected as well as b) descriptive information how the data is interpreted correctly using metadata standards, vocabularies and e.g. readme-files. 
- 
-Tips for best practices
-- Describe all the types of documentation (README files, metadata standards, vocabularies etc.) you will provide to help secondary users to understand and reuse your data. Repositories often require the use of a specific metadata standard. Check whether a discipline-specific metadata schema or standard exists that can be adopted.
-- Consider how the data will be organised during the project. Describe, for example, your file-naming conventions, version control and folder structure.
-- Use research instruments, which create standardised metadata formats automatically.
-- Identify the types of information that should be captured to enable other researchers to discover, access, interpret, use and cite your data. See for example: [Qvain requirements](https://www.fairdata.fi/en/user-guides/qvain-user-guide/#QvainDataset)
 
 #### [NTNU - DMP Guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
 How will the consistency and quality of data collection be controlled and documented? 
@@ -262,9 +263,24 @@ When will the data be collected/generated?
 Is there need for extra hardware or software?
 Is there need for special expertise for collecting/generating data?
 
+#### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+Examples of measures to control and ensure data quality may be the use of standardized methods and protocols to capture observations; checking precision and calibration of instruments; quality-check equipment to be used for audio or video recording; make multiple measurements, observations or samples; use standardized interview protocols and/or computer-assisted software when conducting interviews; and using standardized and consistent procedures when digitizing or transcribing data.
+
+#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+**Documentation and data quality – covers how the data will be described (ie what metadata standards are used to describe the data) and how you will measure and record the quality of your data.**
+Describe how you will control the consistency and quality of your data – this should include for example, calibration processes or control samples, data entry validation, peer-review of data samples etc.
+
 #### [SND - Checklist DMP](https://doi.org/10.5281/zenodo.6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Will the project use any established terminologies, ontologies, standards, or similar, to describe and document the material? Which ones? If you create your own terminology, will it be mapped against established terminologies?]\
 Why is this important? Many scientific disciplines have established terminologies, ontologies, and vocabularies (e.g. MeSH, ISCED, AAT, and ELSST) that can be used to categorize and document data materials. There are various standards that are recommended to follow (e.g. ISO 8601 for date, time, and time intervals). The use of standards and established terminologies simplifies the communication between people who belong to the same scientific field but can also make it easier to find material in, for example, journals. Sometimes, it may be necessary to create project-specific terminology lists if the existing ones aren’t sufficient or suited for the project. If you create a project-specific list, you should do a mapping, where you show which terms that mean exactly or almost the same thing as in other lists, but also which terms that are unique for your list. Mapping terms against other terminologies will improve the findability of the data material.
 
-#### [SIKT](https://sikt.no/en/data-management-plan)
-Examples of measures to control and ensure data quality may be the use of standardized methods and protocols to capture observations; checking precision and calibration of instruments; quality-check equipment to be used for audio or video recording; make multiple measurements, observations or samples; use standardized interview protocols and/or computer-assisted software when conducting interviews; and using standardized and consistent procedures when digitizing or transcribing data.
+#### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+How will you document your data in order to make the data findable, accessible, interoperable and re-usable for you and others? What kind of metadata standards, README files or other documentation will you use to help others to understand and use your data? 
+ Data documentation enables data sets and files to be discovered, used and properly cited by other users (human or computer). Without sufficient documentation the data cannot be reused.
+ Documentation includes essential information regarding the data, for example a) core metadata (for discovery and identification) where, when, why and how the data were collected as well as b) descriptive information how the data is interpreted correctly using metadata standards, vocabularies and e.g. readme-files. 
+ 
+Tips for best practices
+- Describe all the types of documentation (README files, metadata standards, vocabularies etc.) you will provide to help secondary users to understand and reuse your data. Repositories often require the use of a specific metadata standard. Check whether a discipline-specific metadata schema or standard exists that can be adopted.
+- Consider how the data will be organised during the project. Describe, for example, your file-naming conventions, version control and folder structure.
+- Use research instruments, which create standardised metadata formats automatically.
+- Identify the types of information that should be captured to enable other researchers to discover, access, interpret, use and cite your data. See for example: [Qvain requirements](https://www.fairdata.fi/en/user-guides/qvain-user-guide/#QvainDataset)

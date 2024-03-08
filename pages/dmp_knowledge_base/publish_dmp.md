@@ -31,7 +31,8 @@ Best practice is to publish the DMP with a PID. Ideally, all versions should be 
 - planning post-award, active phase
 ```
 
-#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)[Properties in dmp]
+#### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[Properties in dmp]
 - [#dmp_id_tree]https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_id_tree): nested, see below
 - [#dmp_title_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_title_tree): dmp title
 - [#dmp_created_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_created_tree): first version (date + time)
