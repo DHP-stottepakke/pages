@@ -48,6 +48,7 @@ If you choose to share your data in a long term archive, it is highly likely thi
 <!--- ### What should be considered when writing a DMP for Citizen Science projects? -->
 
 ### Where can I find an example of how a DMP should look like?
+Reading through different DMPs can be an useful exercise. Keep in mind that not all public DMPs are quality-controlled.
 - [Example DMPs and guidance from Digital Curation Centre](https://www.dcc.ac.uk/resources/data-management-plans/guidance-examples)
 - [Curated collection of Horizon 2020 DMPs from University of Vienna](https://phaidra.univie.ac.at/search#?page=1&pagesize=10&collection=o:1140797)
 - [DMp catalogue from LIBER Europe](https://libereurope.eu/working-group/research-data-management/plans/)
