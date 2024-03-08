@@ -29,7 +29,7 @@ In the Horizon Europe funding scheme, a brief outline of data management (1-page
 <!--- ### Who can quality-control my DMP? -->
 
 ### Where can a DMP be published?
-- [Zenodo](https://zenodo.org/) is an agnostic sharing platform which allows you to share files such as PDFs. Zenodo also allows versioning and will create a DOI for your files. [GitHub](https://github.com/) is another option, and may be connected with Zenodo to generate a DOI for your repository
+- [Zenodo](https://zenodo.org/) is an agnostic research archive (operated by CERN) which allows you to share all sorts of research outputs including data managment plans. Zenodo also allows versioning and will create a DOI for your files.
 
 ### I feel it is too much work to prepare my data for archiving in a domain specific archive
 
