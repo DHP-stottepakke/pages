@@ -25,23 +25,20 @@ Identification and discovery of the data is an issue both in the active phase (i
 > 2a.2\
 Indicate which metadata standards (for example DDI, TEI, EML, MARC, CMDI) will be used.
 
-Many researchers will not be familiar with the notion of metadata standards. Thus, encouraging an examination and comparison of possible archives for the data may be the best advice, and then to look for the metadata standard used in the archive that is preferred.
-
 > 2a.3\
 Use community metadata standards where these are in place.
 
-If unfamiliar with the notion of metadata standards, an approach could be to look for an archive much used in the community when planning where to archive/publish the data, and see what metadata standard is applied.
+Many researchers might not be familiar with the notion of metadata standards. One approach could be to look for an archive much used in the community when planning where to archive/publish the data, and see what metadata standard is applied.
 
 > 2a.4\
 Indicate how the data will be organised during the project, mentioning for example conventions, version control, and folder structures. Consistent, well-ordered research data will be easier to find, understand, and re-use.
 
-This is important to decide and apply before entering the active phase of the project, and the same organisation may or should be maintained when the data is archived.\
-File organisation and naming conventions should be part of the dataset description (in the ReadMe-file) and present both in the active phase and when archiving/publishing the data.
+This is important to decide and apply before entering the active phase of the project (and can be adjusted), and the same organisation may or should be maintained when the data is archived.\
 
 > 2a.5\
 Consider what other documentation is needed to enable re-use. This may include information on the methodology used to collect the data, analytical and procedural information, definitions of variables, units of measurement, and so on.
 
-These considerations needs to be done prior to the active phase of the research, to prepare for the information to be collected simultaneously with data collection. In addition the information needs to be made available as part of the archived dataset (e.g. embedded in the metadata or in a ReadMe-file) .
+These considerations should start prior to the active phase of the research, to prepare for the information to be collected simultaneously with data collection. In addition relevant and updated information needs to be made available as part of the archived dataset (e.g. embedded in the metadata or in a ReadMe-file).
 
 > 2a.6\
 Consider how this information will be captured and where it will be recorded (for example in a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
