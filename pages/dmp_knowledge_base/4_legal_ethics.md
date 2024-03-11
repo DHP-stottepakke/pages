@@ -226,6 +226,7 @@ Each research institution must ensure that research at their institution is in a
 
 #### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Legal and ethical requirements, codes of conduct – covers the steps that you will take to ensure the legal and ethical requirements for your data are followed.**
+
 If your project uses personal data, describe how you will ensure compliance with legislation on personal data and security - you should include how you plan to obtain consent, how you will manage the data (e.g. anonymisation of the data, access, transfer - if applicable, and destruction). You should include documentation on approved procedures that you plan to adopt.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -395,10 +396,14 @@ Describe how you plan to address other legal issues such as intellectual propert
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Refer to the information security guidelines and policies in your university/organization and define what implications they have. What information classification level does the data material have and what security measures are needed to protect the material? Who should have access to the project data during the project and how do you plan to protect the data from unauthorised access?]
-Why is this important? Access to the data material must be restricted so that authorised people can access it, but it is protected from unauthorised access. Secure work and storage environments can include access restriction (e.g. passwords), encryption, and virus and access protection. You may need to contact your organization’s IT security office to make sure that you have addressed all questions regarding information security before the data collection begins.
+**Why is this important?**
+
+Access to the data material must be restricted so that authorised people can access it, but it is protected from unauthorised access. Secure work and storage environments can include access restriction (e.g. passwords), encryption, and virus and access protection. You may need to contact your organization’s IT security office to make sure that you have addressed all questions regarding information security before the data collection begins.
  
 [Are there any copyright and/or intellectual property rights to consider? Do you need permission to collect the material that is going to be used?]
-Why is this important? Copyright is protected in the Swedish constitution (Chapter 2, Article 19) and regulated in the Act (SFS 1960:729) on Copyright in Literary and Artistic Works. Copyright sets out a number of rights for the creator (author) of a work, and a number of limitations for the user. The Swedish Copyright Act regulates when and how the author’s work can be used. Permission to use copyright-protected material includes consent, agreements, licenses, and the permission to use material after the duration of copyright has passed (>70 years).
+**Why is this important?**
+
+Copyright is protected in the Swedish constitution (Chapter 2, Article 19) and regulated in the Act (SFS 1960:729) on Copyright in Literary and Artistic Works. Copyright sets out a number of rights for the creator (author) of a work, and a number of limitations for the user. The Swedish Copyright Act regulates when and how the author’s work can be used. Permission to use copyright-protected material includes consent, agreements, licenses, and the permission to use material after the duration of copyright has passed (>70 years).
 
 
 -----
@@ -526,12 +531,14 @@ Add any comments on issues related to for example: research on human embryos and
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Does the project need ethical approval or has it been approved? Enter the reference number here.]
- Why is this important?
+**Why is this important?**
+ 
  Research that falls under the scope of the Act (2003:460) concerning the Ethical Review of Research Involving Humans (the Ethical Review Act, updated 2020-01-01) can only be carried out after ethical approval, which is applied for by the research principal. Without ethical approval, the research is illegal and subject to legal consequences. Ethical approval is also needed for research that involves animal testing.
  
  #### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-How will you manage the rights of the data you use, produce and share? (2.2) Describe how you will agree upon the rights of use related to your research data – including the collected, produced and (re)used data of your project. Here, you can employ your categorisation in the first question. Each of these categories involves different rights and licenses. Describe the transfer of rights procedures relevant to your project. Describe confidentiality issues if applicable in your project. License your data! Tips for best practices:
+How will you manage the rights of the data you use, produce and share? (2.2) Describe how you will agree upon the rights of use related to your research data – including the collected, produced and (re)used data of your project. Here, you can employ your categorisation in the first question. Each of these categories involves different rights and licenses. Describe the transfer of rights procedures relevant to your project. Describe confidentiality issues if applicable in your project. License your data!
 
-* Agreements on rights of use should be made as early as possible in the project life cycle.
-* Have you gained consent for data preservation and sharing? • Follow the funder's or publisher's policies.
-* It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a [Creative Commons](https://creativecommons.org/choose/), [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) or [MIT license](https://opensource.org/licenses/MIT), or under another relevant license.
+**Tips for best practices**
+- Agreements on rights of use should be made as early as possible in the project life cycle.
+- Have you gained consent for data preservation and sharing? • Follow the funder's or publisher's policies.
+- It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a [Creative Commons](https://creativecommons.org/choose/), [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) or [MIT license](https://opensource.org/licenses/MIT), or under another relevant license.

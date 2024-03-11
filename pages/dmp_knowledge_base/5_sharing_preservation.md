@@ -151,7 +151,9 @@ Research data should be shared as open as possible and closed as necessary. See 
 
 #### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Data sharing and long-term preservation – covers what steps you will take to ensure your data are accessible and reusable by interested groups.**
+
 Describe how and when you will share your data including data you intend to preserve - you should describe how you plan to make the data discoverable (e.g. by depositing the data into a trustworthy data repository).
+
 You should describe when the data will be made available and any access restrictions. You should cover the criteria you will use to identify preservable data. You should also describe how you will ensure the data remain usable during the data's lifetime (e.g. by providing access to supported tools, documentation on data use and support resources).
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -160,17 +162,19 @@ You should describe when the data will be made available and any access restrict
 Why is this important? Digital data materials need to be actively administered over time, to make sure that they remain accessible and usable. Research materials that are created at a university/public agency must be archived there, in accordance with the Swedish Archives Act (SFS 1990:782). As a rule, official documents at universities and other higher education institutions shall be archived and it is, in principle, unlawful to destroy official documents unless specifically allowed by law, i.e. if there is a right to dispose of records. Raw data files, ethical approvals, research data documentation, and published results must be archived. If you have questions regarding archiving or destruction of documents, please consult with your organization’s archive.
 
 #### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-What part of the data can be made openly available or published? Where and when will the data, or its metadata, be made available? (5.1) 
- Describe how you will make data available and findable for reuse. If your data or parts of the data cannot be opened, explain why you publish only metadata.
- In the case of sensitive data, which cannot be opened, describe the opening of its metadata. Describe the secured preservation procedure of sensitive data in Section 5.2.
- The openness of research data promotes its reuse.
- Tips for best practices
-You can publish a description (i.e., the metadata) of your data without making the data itself openly available, which enables you to restrict access to the data.
+What part of the data can be made openly available or published? Where and when will the data, or its metadata, be made available?
+
+Describe how you will make data available and findable for reuse. If your data or parts of the data cannot be opened, explain why you publish only metadata.
+In the case of sensitive data, which cannot be opened, describe the opening of its metadata. Describe the secured preservation procedure of sensitive data in Section 5.2.
+The openness of research data promotes its reuse.
+
+**Tips for best practices**
+- You can publish a description (i.e., the metadata) of your data without making the data itself openly available, which enables you to restrict access to the data.
 Publish your data in a data repository or a data journal.
-Check re3data.org (https://www.re3data.org/) to find a repository for your data.
-Prefer repositories or publishers, which provide persistent identifiers (PID) to enable access and citation to the data via a persistent link (e.g. DOI, URN).
-Remember to check the funder, institutional, disciplinary or national recommendations for data repositories.
-It is recommended to make all of the research data, code and software created within a research project available for reuse, for example, under a Creative Commons (https://creativecommons.org/choose/), GNU (https://www.gnu.org/licenses/gpl-3.0.en.html) or MIT license (https://opensource.org/licenses/MIT), or under another relevant license.
+- Check re3data.org (https://www.re3data.org/) to find a repository for your data.
+- Prefer repositories or publishers, which provide persistent identifiers (PID) to enable access and citation to the data via a persistent link (e.g. DOI, URN).
+- Remember to check the funder, institutional, disciplinary or national recommendations for data repositories.
+- It is recommended to make all of the research data, code and software created within a research project available for reuse, for example, under a Creative Commons (https://creativecommons.org/choose/), GNU (https://www.gnu.org/licenses/gpl-3.0.en.html) or MIT license (https://opensource.org/licenses/MIT), or under another relevant license.
 
 -----
 -----
@@ -288,7 +292,7 @@ Missing:
 #### [NTNU - DMP Guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
 Are there any relevant community specific repositories/archives for your type of data? You can search for data repositories/archives at www.re3data.org. Data can also be published through generic repositories like Zenodo, or NTNU’s institutional archive NTNU Open Research Data. This archive is part of DataverseNO, a Core Trust-certified data archive which provides access to the data for at least 10 years after deposition. Archiving data through NTNU Open Research Data/DataverseNO facilitates FAIR data by providing a DOI, following the Dublin Core metadata standard and by providing a license for reuse of data (CC0 is the standard). For more information about specific details regarding the archive, see DataverseNO: About DataverseNO. See also the wiki Research Data Repository.
  
- For principles when choosing licenses for data and other research results, see part 3.1 of the Guidelines for Open Science.
+For principles when choosing licenses for data and other research results, see part 3.1 of the Guidelines for Open Science.
 
 #### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 Which data will be preserved, and which will be destroyed at the end of the project?
@@ -302,23 +306,25 @@ Data that forms the basis of scientific articles should be deposited at a releva
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Before you preserve the data material and make it accessible, you may want to prepare the material. What file formats are suitable for long-term preservation? What documentation should be included with the data material after the project has ended? Are there any ethical and legal restrictions on the material, which mean that the data need to be processed (e.g. de-identified) before they can be made accessible? Where do you plan to archive and/or make the data accessible? Contact them in good time for assistance in how to prepare the material.]
- Why is this important? Digital file formats run the risk of becoming obsolete. If this should happen, future software may not be able to read and present the information in the files correctly, and valuable research data could be lost. Therefore, you should choose file formats that are more likely to remain usable in the future, i.e. formats that are commonly used, non-proprietary, and have an open technical specification. Another benefit of choosing those formats is that you won’t have to convert the file formats at the end of the project. It isn’t always possible to choose a format that meets all criteria, as specific instruments, analysis tools, or developed software can affect the choice of data formats. If that’s the case, it’s important to plan for how to guarantee that the data material can be preserved.
- When the project is finished and the data material shall be made accessible, it may, due to ethical and legal restrictions, be important to guarantee that the individuals in the study cannot be re-identified (i.e. identified through indirect identifiers in the data material).
+Why is this important? Digital file formats run the risk of becoming obsolete. If this should happen, future software may not be able to read and present the information in the files correctly, and valuable research data could be lost. Therefore, you should choose file formats that are more likely to remain usable in the future, i.e. formats that are commonly used, non-proprietary, and have an open technical specification. Another benefit of choosing those formats is that you won’t have to convert the file formats at the end of the project. It isn’t always possible to choose a format that meets all criteria, as specific instruments, analysis tools, or developed software can affect the choice of data formats. If that’s the case, it’s important to plan for how to guarantee that the data material can be preserved.
+
+When the project is finished and the data material shall be made accessible, it may, due to ethical and legal restrictions, be important to guarantee that the individuals in the study cannot be re-identified (i.e. identified through indirect identifiers in the data material).
 
 #### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 **Where will data with long-term value be archived, and for how long? (5.2)**
- Briefly describe what part of your data you will preserve, where it is preserved, and for how long. Long term preservation means that data is preserved for as long as necessary, for several decades or even centuries.
- You can categorise your data sets according to the anticipated preservation period:
- A) Data to be destroyed upon the ending of the project
- B) Data to be archived for a verification period, which varies across disciplines, e.g., 5–15 years 
- C) Data to be archived for potential re-use, e.g., for 25 years
- D) Data with long-term value to be archived by a curated facility for future generations for tens or hundreds of years
+Briefly describe what part of your data you will preserve, where it is preserved, and for how long. Long term preservation means that data is preserved for as long as necessary, for several decades or even centuries.
+
+You can categorise your data sets according to the anticipated preservation period:
+A) Data to be destroyed upon the ending of the project
+B) Data to be archived for a verification period, which varies across disciplines, e.g., 5–15 years 
+C) Data to be archived for potential re-use, e.g., for 25 years
+D) Data with long-term value to be archived by a curated facility for future generations for tens or hundreds of years
 
 You will need to decide which of your research data to preserve and dispose of. Data that is unique or difficult to replicate might have long-term value and be fit for preservation. Special long term data repositories should be used for digital preservation. 
 
 **Tips for best practices**
-Decisions about preserving data should begin during the data management planning stage, and should take into account e.g. institutional guidance and requirements.
-Use data repositories with a commitment to long-term curation, e.g. Fairdata Digital Preservation Service is dedicated for research datasets that have significant value to the organization or on a national level currently and especially also in the future. Contact your home organisation for further information.
+- Decisions about preserving data should begin during the data management planning stage, and should take into account e.g. institutional guidance and requirements.
+- Use data repositories with a commitment to long-term curation, e.g. Fairdata Digital Preservation Service is dedicated for research datasets that have significant value to the organization or on a national level currently and especially also in the future. Contact your home organisation for further information.
 
 
 -----
@@ -414,6 +420,7 @@ Is special software for reading/interpreting the data necessary?
 [Will a specific software or tool be required to use the data material? If it is: is it possible to add the software or tool to the data material, and if so, what documentation is required for someone to be able to use it? If it isn’t possible to add the software/tool, what is required to be able to use the data material?]
 
 **Why is this important?**
+
 To make it possible to continue using the data material, it’s important to enter information about what software or tools that are needed, as non-proprietary software isn’t always sufficient. Some tools may also be based on a certain software and, if possible, it’s of great help to include the software with the material, e.g. by open source code.
 
 
@@ -499,15 +506,18 @@ Persistent identifiers like DOIs are usually issued by data repositories (e.g., 
 
 #### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Research data that are going to be shared and published should be equipped with international standard licenses that have as few restrictions as possible on access and reuse purpose.
+
 The licenses that are marked with "Open Definition Recommended" are licenses that are conformant with the principles of open knowledge, as defined by the Open Knowledge Foundation.
 
 #### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Describe how you will assign persistent identifiers to your data**
+
 You should describe who will provide persistent identifiers. In many cases, the long-term repository will provide the identifiers. If you plan to provide the identifiers yourself, you should choose a service that is mandated to maintain the identifiers for the long-term (such as DOI issued by Bibsys).
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Will the material receive a persistent identifier (PID), and what type of PID? Enter the PID here if you have one, or when you get one.]
 **Why is this important?**
+
 A persistent identifier is a unique digital ID that refers to one or more objects, digital or physical. In research, it’s common practise to issue a PID to publications or research data that are preserved for a long time and made accessible through digital resources.
 It’s important to enter this information to show funders that you have thought about essential factors around the access to data. As there are different types of PID, depending on e.g. field of research or where the data material is preserved, you may want to explore which PID is most suited for your material. Data that are made accessible through SND receive a persistent identifier called a DOI (Digital Object Identifier).
 

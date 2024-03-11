@@ -120,6 +120,7 @@ The institution responsible for research project has overall responsibility and 
 #### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Administrative information – covering the project that will produce or use the data. The project can be located on NIRD storage (in which case it will have a project
 number).**
+
 Please give the title of the project – a Dtle for your project to which this data management plan refers.
 
 Please give the funding programs to which your project belongs – if you have applied for resources for this project, please describe and if possible provide a URL for the funding programs.
