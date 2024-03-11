@@ -158,7 +158,7 @@ Justify the use of certain formats. For example, decisions may be based on staff
 > 1b.4\
 Give preference to open and standard formats as they facilitate sharing and long-term re-use of data (several repositories provide lists of such ‘preferred formats’).
 
-A list of preferred file formats for common data types are given by Data Archiving and Networked Services (DANS) at https://dans.knaw.nl/en/file-formats/
+A list of preferred file formats for common data types are given by [Data Archiving and Networked Services (DANS)](https://dans.knaw.nl/en/file-formats/).
 
 Be aware that what is appropriate file formats may depend on the phase of the project. In the active phase both open and proprietary formats can be appropriate. In the medium-term storage open formats are to be preferred - beware e.g. the danger of license loss for proprietary software. For long-term preservation choose strictly open formats if possible, and conversion strategies should be described.
 
