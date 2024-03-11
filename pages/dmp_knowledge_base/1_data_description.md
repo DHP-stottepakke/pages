@@ -147,8 +147,7 @@ Briefly describe what types of data you are collecting or producing. In addition
 > 1b.1\
 Give details on the kind of data: for example numeric (databases, spreadsheets), textual (documents), image, audio, video, and/or mixed media.
 
-Encourage use of broad categories, researchers are often over-specific.\
-Use controlled vocabulary if available.
+This might be quite broad categories of data, which will be further specified in the following questions.\
 
 > 1b.2\
 Give details on the data format: the way in which the data is encoded for storage, often reflected by the filename extension (for example pdf, xls, doc, txt, or rdf).
@@ -161,7 +160,7 @@ Give preference to open and standard formats as they facilitate sharing and long
 
 A list of preferred file formats for common data types are given by Data Archiving and Networked Services (DANS) at https://dans.knaw.nl/en/file-formats/
 
-Be aware that what is appropriate file formats may depend on the phase of the project. In the active phase both open and proprietary formats can be appropriate. In the medium-term storage open formats are to be preferred - beware e.g. the danger of license loss for proprietary software. And for long-term preservation choose strictly open formats. Conversion strategies should be described.
+Be aware that what is appropriate file formats may depend on the phase of the project. In the active phase both open and proprietary formats can be appropriate. In the medium-term storage open formats are to be preferred - beware e.g. the danger of license loss for proprietary software. For long-term preservation choose strictly open formats if possible, and conversion strategies should be described.
 
 > 1b.5\
 Give details on the volumes (they can be expressed in storage space required (bytes), and/or in numbers of objects, files, rows, and columns).
