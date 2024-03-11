@@ -26,7 +26,7 @@ It is beneficial to include references to relevant documents as agreements or co
 Adding brief information about the purpose of the project (abstract) is helpful for evaluators.
 The DMP should be versioned, to be able to keep track of changes and alterations as the project develops, so that the DMP is "a living document".
 
-More specific descriptions of roles and responsibilities can be added in [6 - Data management responsibilities and resources](6_responsibilities_resources).\
+More specific descriptions of roles and responsibilities can be added in [6 - Data management responsibilities and resources](6_responsibilities_resources).
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Contains the minimal information required to identify the applicant and the references of the project.
