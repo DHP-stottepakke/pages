@@ -147,7 +147,7 @@ Briefly describe what types of data you are collecting or producing. In addition
 > 1b.1\
 Give details on the kind of data: for example numeric (databases, spreadsheets), textual (documents), image, audio, video, and/or mixed media.
 
-This might be quite broad categories of data, which will be further specified in the following questions.\
+This might be quite broad categories of data, which will be further specified in the following questions.
 
 > 1b.2\
 Give details on the data format: the way in which the data is encoded for storage, often reflected by the filename extension (for example pdf, xls, doc, txt, or rdf).
