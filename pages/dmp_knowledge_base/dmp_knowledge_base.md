@@ -13,7 +13,7 @@ sidebar: dmp_knowledge_base
 
 This section collects useful information about data management plans (DMP) for support personnel.
 
-The page structure is based on the [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862"). Each section is annotated and mapped to relevant persistent identifiers, interested stakeholders, project phase, and the [RDA Common Standard for machine-actionable DMP (maDMP)](http://doi.org/10.15497/rda00039).\
+The page structure is based on the [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862"). Each section is annotated and mapped to relevant persistent identifiers, interested stakeholders, project phase, and the [RDA Common Standard for machine-actionable DMP (maDMP)](http://doi.org/10.15497/rda00039).
 
 Annotations by the project group are indicated as follows:
 > 1a.1\
