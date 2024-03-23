@@ -8,19 +8,19 @@ subitems:
     url: /support_01_planning_considerations
   - title: 2 - Administrative information
     url: /support_02_admin_information
-  - title: 3 - Legal and ethical aspects
-    url: /support_03_legal_ethics
-  - title: 4 - Storage and backup
-    url: /support_04_storage_backup
-  - title: 5 - Reusing data
-    url: /support_05_data_reuse
-  - title: 6 - Creating and collecting data
-    url: /support_06_collect_create
-  - title: 7 - Processing and analysing data
-    url: /support_07_process_analyse
-  - title: 8 - Preserving and publishing data
-    url: /support_08_preserve_publish
-  - title: 9 - Responsibilities and resources
-    url: /support_09_responsibilities_resources
-  - title: 10 - DMP as 'living document'
-    url: /support_10_manage_dmp
+  - title: 3 - About the research project
+    url: /support_03_about_research 
+  - title: 4 - Legal and ethical aspects
+    url: /support_04_legal_ethics
+  - title: 5 - Storage and backup
+    url: /support_05_storage_backup
+  - title: 6 - Reusing data
+    url: /support_06_data_reuse
+  - title: 7 - Creating and collecting data
+    url: /support_07_collect_create
+  - title: 8 - Processing and analysing data
+    url: /support_08_process_analyse
+  - title: 9 - Preserving and publishing data
+    url: /support_09_preserve_publish
+  - title: 10 - Responsibilities and resources
+    url: /support_10_responsibilities_resources
