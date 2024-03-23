@@ -13,7 +13,7 @@ sidebar: dmp_knowledge_base
 
 This section collects useful information about data management plans (DMP) for support personnel.
 
-The page structure is based on the [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862"). Each section is annotated and mapped to relevant persistent identifiers, interested stakeholders, project phase, and the [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039).\
+The page structure is based on the [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862"). Each section is annotated and mapped to relevant persistent identifiers, interested stakeholders, project phase, and the [RDA Common Standard for machine-actionable DMP (maDMP)](http://doi.org/10.15497/rda00039).\
 Annotations by the project group are indicated as follows:
 > 1a.1\
 > Guidance text
@@ -37,46 +37,53 @@ The knowledge base is complemented by the following topics:
 - [Inspiring DMP projects](/pages/dmp_projects_elsewhere)
 
 ---
-## DMP stakeholders
-A data management plan (DMP) is a structured document that gathers information on the handling of research data throughout the entire lifecycle of a research project. A data management plan is a living document that should be updated as the project develops.\
-Researchers meet requirements from institutions on research funders that projects must have a DMP. While funders are interested in ensuring that research data in a project contribute to its impact, writing a DMP is also a useful process for researchers and a DMP can function as a hub that connects data-related aspects in a project.\
-Importantly, the information in a data management plan can also be valuable for third-party actors at different stages of a research project. Automatic exchange of information through machine-actionable data management plans (maDMP) is increasingly gaining attention (see e.g. [Miksa, T, Simms, S, Mietchen, D and Jones, S. 2019. Ten Príncipes for Machine-Actionable Data Management Plans. PLoS Comput Biol, 15(3): e1006750](https://doi.org/10.1371/journal.pcbi.1006750)).
+## Mapping of DMP stakeholders and needs
 
-In this project, we have categorised stakeholders into 3 levels (illustrated below as stakeholder pyramid):
+In addition to analysing and annotating existing guidelines and resources, the project group has reflected on DMP stakeholders in Norway that should be considered when designing DMP guidance and templates. This mapping is both inspired by taking a multi-stakeholder perspective on data management plans as proposed by [Kvale and Pharo](	https://doi.org/10.2218/ijdc.v16i1.746) and the group’s extensive experience in providing data management support in institutions and research infrastructures to both researchers and policy makers. Furthermore, we have illustrated DMP needs resulting from the wide spectrum of research projects and expectations a DMP may need to serve.
+
+These considerations are also available on zenodo [(DOI: 10.5281/zenodo.10836867)](https://doi.org/10.5281/zenodo.10836867).
+
+### DMP Stakeholders
+A data management plan (DMP) is a structured document containing information and thoughts regarding the handling of research data throughout the entire lifecycle of a research project, with the intention of making data as FAIR (Findable, Accessible, Interoperable, Reusable) and as open as possible. A data management plan is a living document to be updated as the project develops. Researchers meet requirements from institutions and research funders to create DMPs for their projects, in order to maximise project impact and to ensure that legal and ethical aspects t are considered. For researchers, writing a DMP should be an awareness-creating process and the DMP can function as a hub that connects data-related aspects in a project. Relevant guidance is essential in order to make writing a DMP a useful exercise instead of being perceived as an administrative burden.
+
+Importantly, the information in a data management plan can also be valuable for third-party actors at different stages of a research project. Integrating information in DMPs with other services through machine-actionable data management plans (maDMP) is increasingly gaining attention (see e.g. [Miksa, T, Simms, S, Mietchen, D and Jones, S. 2019. Ten Príncipes for Machine-Actionable Data Management Plans. PLoS Comput Biol, 15(3): e1006750](https://doi.org/10.1371/journal.pcbi.1006750)). Of note, not all of the suggested interactions are currently covered by the [RDA Common Standard for machine-actionable DMPs](http://doi.org/10.15497/rda00039). The current standard is best suited for documenting administrative information and produced datasets, and thus exchanging DMP information connected to the beginning or end of a research project. Aspects related to conducting research in the active phase, such as routines for data management and processing or legal and ethical considerations, are currently not sufficiently covered. These aspects are more difficult to standardise and closely linked to the research domain, yet potentially of interest for stakeholders and crucial for the awareness-creating function of a DMP.
+
+In this project, we have categorised DMP stakeholders in 3 levels as illustrated below as stakeholder pyramid: stakeholders that have requirements on DMP format or content (level I), stakeholders that could interact with information in the DMP (level II), and stakeholders that are not directly involved but have an interest in DMPs facilitating FAIR research data or in the DMP itself (level III).
 
 #### Level I: Stakeholders who set requirements
-- Researchers (employed in various structures, at different career levels): Requirements for user-friendliness, academic relevance
-- Institutions: Requirements for maintaining information security & privacy
-- Research funders: Institutions that require DMP, Norwegian/European Research Council: Requirements for Open Science & DMP
+- Researchers (employed in various structures, at different career levels): Requirements for user-friendliness and academic relevance
+- Institutions: Requirements for complying with information security, legislation and research ethics
+- Research funders, Institutions that require DMP: Requirements for Open Science and DMP
 
 #### Level II: Stakeholders who can offer/use information in DMP
-[relevant project phase: planning, implementation, reporting]
+The level II stakeholders might have interests in a DMP at different times during a research project, the relevant project phases are indicated in square brackets: planning (pre/post-award), implementation (active phase of the research: data creation/collection, data processing, preparing data for archiving), reporting (to institution/funder, e.g. using research information system).
 
 ##### Within the institution
-- IT department: Data storage services, information about information security [planning, implementation]
+- IT department: Data storage services, information security guidelines [planning, implementation]
 - Data Protection Officer: Projects with personal data/special category personal data, research ethics guidelines [planning]
 - Research Advisor/Research Administration: Project funding, project results, for evaluation and statistical purposes [planning, reporting]
 
 ##### Support personnel
-- Data Steward (affiliated with research unit, core facility, infrastructure): Planning, data documentation, data storage, data analysis, data sharing [planning, implementation]
+- Data Steward (affiliated with research unit, core facility, or research infrastructure): Planning, data documentation, data storage, data analysis, data sharing [planning, implementation]
 - Research support at the university library: Planning, data documentation, data sharing [planning, implementation]
-- Data Curator (at data archive): data sharing [implementation, reporting]
+- Data Curator (at data archive): Data sharing [implementation, reporting]
 
-##### National/regional services
-- Sigma2: Data storage services, high-performance computing [planning]
-- REK: Projects with health data [planning]
-- SIKT privacy services: Projects with personal data [planning]
-- CRIS/NVA: Project results [reporting]
+##### National/regional service providers
+- Sigma2 (national service provider of computational infrastructure): Allocating data storage services, high-performance computing [planning]
+- REK (regional ethical committees): Projects with health data [planning]
+- SIKT (Norwegian Agency for Shared Services in Education and Research) privacy services: Projects with personal data [planning]
+- CRIStin/NVA (research information system): Project results [reporting]
 
 #### Level III: Stakeholders without immediate involvement
-- Research community: reuse of research data, transparency in the research process, overview of ongoing projects
-- Industry: re-use of research data
-- Society: transparent and cost-effective research
+- Research community: Reuse of research data, transparency in the research process, overview of ongoing projects
+- Open Science ecosystem: DMP as research object
+- Industry: Re-use of research data
+- Society: Transparent and cost-effective research
 
 {% include image.html file="stakeholder_pyramid.png" caption="Stakeholder pyramid: DMP stakeholders in Norway." alt="DMP stakeholders depicted as pyramid with Level 1 (Stakeholders who set requirements) at the top, surrounded by the words Risk reduction, Compliance, User-friendliness & Relevance. Level 2 (Stakeholders who can offer/use information in DMP) in the middle. Level 3 (Stakeholders without immediate involvement) at the bottom" %}
 
 ---
-## DMP needs
-Depending on the field of research and the needs of the project, the DMP may take different forms. A DMP for a straightforward project with few participants will look different than a DMP for a complex international consortium project. A DMP for at project that analyses literature sources will look different from a project that creates many different types of data from patient samples. Some of these 'cornerstones' are illustrated below.
+### DMP needs
+Depending on the field of research and the needs of the project, the DMP may take different forms. A DMP for a straightforward project with few participants and limited data volume will look different from a DMP for a complex international consortium project that will produce terabytes of data. A DMP for a project that analyses literature sources will look different from a project that creates many different types of data from patient samples. The project aims to address these - partially opposing - ‘DMP cornerstones’, as illustrated below.
 
 {% include image.html file="dmp_cornerstones.png" caption="Cornerstones illustrating the different needs a DMP may need to meet." alt="Hexagon illustrating different DMP needs with characteristics written at each corner and arrows pointing to writing 'DMP needs' in the middle." %}
