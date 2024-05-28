@@ -123,6 +123,7 @@ Are there any existing data (internal or external) on the topic? If yes, how can
 
 #### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Data description and collection or reuse of existing data – this section covers how you plan to use or produce your project’s data including the amount of data you expect the project will produce or need access to.**
+
 Describe how you plan to collect new or use existing data – this should cover the methodologies and soYware that you plan to use and any constraints thedata are subject to. Also, include how you plan to document the provenance of the data. If data exists, please include a reason why the existing data is not sufficient.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -158,7 +159,7 @@ Justify the use of certain formats. For example, decisions may be based on staff
 > 1b.4\
 Give preference to open and standard formats as they facilitate sharing and long-term re-use of data (several repositories provide lists of such ‘preferred formats’).
 
-A list of preferred file formats for common data types are given by [Data Archiving and Networked Services (DANS)](https://dans.knaw.nl/en/file-formats/).
+A list of preferred file formats for common data types are given by Data Archiving and Networked Services (DANS) at [https://dans.knaw.nl/en/file-formats/](https://dans.knaw.nl/en/file-formats/)
 
 Be aware that what is appropriate file formats may depend on the phase of the project. In the active phase both open and proprietary formats can be appropriate. In the medium-term storage open formats are to be preferred - beware e.g. the danger of license loss for proprietary software. For long-term preservation choose strictly open formats if possible, and conversion strategies should be described.
 
@@ -251,14 +252,13 @@ Missing:
 ### Existing sources that can be reused
 
 #### [NTNU - DMP guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
-Keep in mind whether the scale of the data will pose challenges when 
- sharing or transferring data between sites; do you need to include 
- additional costs? How will you address these challenges? If you 
- have large volumes of data that need storage, please contact the IT department at NTNU. (link)
+Keep in mind whether the scale of the data will pose challenges when sharing or transferring data between sites; do you need to include additional costs? How will you address these challenges? If you have large volumes of data that need storage, please contact the IT department at NTNU. (link)
  
 #### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 What kind of data will be collected/generated (e.g. observations, simulations, interviews)? What are the sources (e.g. corpora or other raw data)?
+
 What type of data will be collected/generated (e.g. text, image, numerical data, sound)? 
+
 What file format(s) will be used?
 
 #### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -270,6 +270,7 @@ Provide the name of the software/tool that will be used to process and analyze d
 
 #### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Data description and collection or reuse of existing data – this section covers how you plan to use or produce your project’s data including the amount of data you expect the project will produce or need access to.**
+
 Describe how much data and the type of data you plan to collect or produce – this should include the type (e.g. databases, spreadsheets), the volume and formats you intend to use. You should justify your choice if the formats you intend to use are proprietary. The quantity of data should be in the amount of space required (e.g. in GigaBytes) or the number of files.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -280,10 +281,12 @@ Categorise your data in a table or with a clear list, for example:
  A) previously collected existing data which is being reused in this project,
  B) data collected for this project,
  C) data produced as an outcome of the research process.
- The categorisation can form a general structure for the rest of the DMP.
- List the file formats for each data set. In some cases, the file formats used during the research project may differ from those used in archiving the data after the project. List both. The file format is a primary factor in the accessibility and reusability of your data in the future.
- In the DMP, what is important is to describe the required disk space, not how many informants participated in the project. A rough estimation of the size of the data is sufficient, for example, less than 100 GB, approx. 1 TB or several petabytes.
- Tips for best practices
+ 
+The categorisation can form a general structure for the rest of the DMP.
+List the file formats for each data set. In some cases, the file formats used during the research project may differ from those used in archiving the data after the project. List both. The file format is a primary factor in the accessibility and reusability of your data in the future.
+In the DMP, what is important is to describe the required disk space, not how many informants participated in the project. A rough estimation of the size of the data is sufficient, for example, less than 100 GB, approx. 1 TB or several petabytes.
+
+**Tips for best practices**
  • Use a table or bullet points for a concise way to present data types, file formats, the software used and the size of the data.
  • Examples of file formats are .csv, .txt, .docx, .xslx and .tif.
  • Make sure to describe any special or uncommon software necessary to view or use the data, especially if the software is coded in your project.
