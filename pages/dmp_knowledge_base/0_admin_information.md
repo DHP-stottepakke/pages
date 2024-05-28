@@ -14,7 +14,7 @@ toc: true
 <!--Science Europe question ID & title-->
 ## 0 - Administrative Information
 
-<code>(Note that it is the responsibility of the Project manager, or supervisor in student projects, to ensure that a DMP is created and followed up.)</code>
+<code>(Note that it is the responsibility of the project manager, or supervisor in student projects, to ensure that a DMP is created and followed up.)</code>
 
 <!--key information-->
 ### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
