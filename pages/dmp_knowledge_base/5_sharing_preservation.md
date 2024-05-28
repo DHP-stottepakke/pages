@@ -38,8 +38,9 @@ Indicate who will be able to use the data. If it is necessary to restrict access
 See also [4 - Legal and ethical requirements](4_legal_ethics).
 
 There are different ways of restricting data access: publishing in controlled access repositories or applying reuse limitations (restrictive licenses or tags/ontologies specifying allowed reuse).\
-Examples of controlled access repositories in Norway: [SIKT archive](https://sikt.no/en/archiving-research-data), [Federated EGA Norway node](https://ega.elixir.no/)
-Examples of restrictive licenses: [CLARIN ACA ('academic use') and CLARIN RES  ('restricted use') licenses](https://www.clarin.eu/content/licenses-and-clarin-categories)
+Examples of controlled access repositories in Norway: [SIKT archive](https://sikt.no/en/archiving-research-data), [Federated EGA Norway node](https://ega.elixir.no/)\
+Examples of restrictive licenses: [CLARIN ACA ('academic use') and CLARIN RES  ('restricted use') licenses](https://www.clarin.eu/content/licenses-and-clarin-categories)\
+Examples of defining reuse permissions by ontologies/frameworks: [Data Use Ontology (DUO)](https://www.ga4gh.org/product/data-use-ontology-duo/ "2024-05-28"), [Data Use Conditions (DUC)](https://doi.org/10.1038/s41597-024-03280-6)
 
 It is crucial to be aware of necessity of access restriction and possibilities to overcome restrictions early in the project, as this is often impossible to implement in retrospect.
 
@@ -189,6 +190,8 @@ Indicate what data must be retained or destroyed for contractual, legal, or regu
 See also [4 - Legal and ethical requirements](/4_legal_ethics).
 Health data would be a typical example where legal obligations for retaining/destroying data exist.
 
+Institutions and funders may set requirements to retain data for a given period. For example, the Research Council of Norway 'has stipulated as a requirement that research data must be stored in a safe and secure manner for a minimum of 10 years' ([Policy for Open Science, 2020](https://www.forskningsradet.no/siteassets/forskningspolitisk-radgivning/apen-forskning/nfr-policy-open-science-eng.pdf)).
+
 > 5b.2\
 Indicate how it will be decided what data to keep. Describe the data to be preserved long-term.
 
@@ -197,7 +200,7 @@ Explain the foreseeable research uses (and/or users) for the data.
 Indicate where the data will be deposited. If no established repository is proposed, demonstrate in the DMP that the data can be curated effectively beyond the lifetime of the grant. It is recommended to demonstrate that the repositories policies and procedures (including any metadata standards, and costs involved) have been checked.
 
 There may be several rounds of selecting data for preservation in a project. Criteria to consider: quality of the data (e.g. discarding failed experiments), how difficult would it be to re-create the data, technical feasibility/storage costs for retaining large amounts of raw data (e.g. instead keeping only processed data), limited reuse value (e.g. raw data to transparently document the research process with little reuse value).
-Particulary if large data volumes are deleted, this should be described.
+Particulary if large data volumes are deleted, this should be described in the DMP.
 
 It is desirable to publish all central datasets in research data repositories by end of the project. Criteria for selection for trustworthy repositories should be applied and it should briefly be lined out how the criteria are met.
 If there is unpublished data remaining at the end of the project, a preservation plan needs to line out who is responsible for the data, and where and how long the data will be kept.
@@ -516,8 +519,8 @@ You should describe who will provide persistent identifiers. In many cases, the 
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Will the material receive a persistent identifier (PID), and what type of PID? Enter the PID here if you have one, or when you get one.]
-**Why is this important?**
 
+**Why is this important?**
 A persistent identifier is a unique digital ID that refers to one or more objects, digital or physical. In research, it’s common practise to issue a PID to publications or research data that are preserved for a long time and made accessible through digital resources.
 It’s important to enter this information to show funders that you have thought about essential factors around the access to data. As there are different types of PID, depending on e.g. field of research or where the data material is preserved, you may want to explore which PID is most suited for your material. Data that are made accessible through SND receive a persistent identifier called a DOI (Digital Object Identifier).
 
