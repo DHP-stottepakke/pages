@@ -14,21 +14,21 @@ toc: true
 <!--Science Europe question ID & title-->
 ## 0 - Administrative Information
 
+<code>(Note that it is the responsibility of the project manager, or supervisor in student projects, to ensure that a DMP is created and followed up.)</code>
+
 <!--key information-->
 ### [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 
 > 0.1\
 >Provide information such as name of applicant, project number, funding programme, version of DMP.
 
-This section should identify the project with title, acronym and funding (if relevant) and contain information about the host institution, participants, and collaborators. Persistent identifiers should be used wherever possible (e.g ROR for institutions, ORCID for participants).
+This section should identify the project with title, acronym and funding (if relevant) and contain information about the host institution, participants, and collaborators. Persistent identifiers should be used wherever possible (e.g ROR - Research Organization Registry for institutions, ORCID for participants).
 
-Listing participants may include role definitions, preferably using controlled vocabularies (DataCite contributor types, CredIT). See also [6 - Data management responsibilities and resources](6_responsibilities_resources).\
-If participants contribute to the project as part of their education and have a supervisor, resulting responsibilities should be specified in the DMP.
-Some institutions have formalised this in their PhD guidelines (e.g. [UiT "2024-03-05"](https://uit.no/Content/741988/cache=1629791319000/Retningslinjer%2Boppfolging%2BDMP_publisert.PDF)).
+It is beneficial to include references to relevant documents as agreements or contracts (e.g. collaborative agreements), particularly in multi-stakeholder projects.
+Adding brief information about the purpose of the project (abstract) is helpful for evaluators.
+The DMP should be versioned, to be able to keep track of changes and alterations as the project develops, so that the DMP is "a living document".
 
-It is beneficial to include references to relevant documents/agreements/contracts (e.g. collaborative agreements), particularly in multi-stakeholder projects.
-Adding brief information about the purpose/aim of the project (abstract) is helpful for evaluators.
-The DMP should be versionized (see also [Publishing the DMP](publish_dmp)).
+More specific descriptions of roles and responsibilities can be added in [6 - Data management responsibilities and resources](6_responsibilities_resources).
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Contains the minimal information required to identify the applicant and the references of the project.

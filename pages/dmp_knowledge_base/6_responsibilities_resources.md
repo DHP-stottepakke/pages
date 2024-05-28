@@ -24,7 +24,7 @@ toc: true
 In general, the PI (Principal Investigator) has the overall responsibility for the project and all its activities and outputs, including data management. It is useful to early in the project name roles and project members responsible for the various activities related to data management as exemplified above. The relevant aspects that are adressed in the prior parts of the plan, should all be assigned a responsible individual. 
 In addition to the activities mentioned in 6a.1, it can be beneficial to have a person who is responsible for controlling access to the data in the project period, as well as someone responsible for the data after the project is ended. This is particularly important if not all data can be made openly accessible.
 
-If the DMP is created as part of a student or PhD project, it should be made clear which responsibilities follow for the supervisor.
+If the DMP is created as part of a student or PhD project, it should be made clear which responsibilities follow for the supervisor. Some institutions have formalised this in their PhD guidelines (e.g. [UiT "2024-03-05"](https://uit.no/Content/741988/cache=1629791319000/Retningslinjer%2Boppfolging%2BDMP_publisert.PDF)).
 
 Information given in this section should reflect in [0 - Administrative information](0_admin_information).
 
