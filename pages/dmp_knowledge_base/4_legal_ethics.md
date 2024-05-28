@@ -396,13 +396,12 @@ Describe how you plan to address other legal issues such as intellectual propert
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Refer to the information security guidelines and policies in your university/organization and define what implications they have. What information classification level does the data material have and what security measures are needed to protect the material? Who should have access to the project data during the project and how do you plan to protect the data from unauthorised access?]
-**Why is this important?**
 
+**Why is this important?**
 Access to the data material must be restricted so that authorised people can access it, but it is protected from unauthorised access. Secure work and storage environments can include access restriction (e.g. passwords), encryption, and virus and access protection. You may need to contact your organization’s IT security office to make sure that you have addressed all questions regarding information security before the data collection begins.
  
 [Are there any copyright and/or intellectual property rights to consider? Do you need permission to collect the material that is going to be used?]
 **Why is this important?**
-
 Copyright is protected in the Swedish constitution (Chapter 2, Article 19) and regulated in the Act (SFS 1960:729) on Copyright in Literary and Artistic Works. Copyright sets out a number of rights for the creator (author) of a work, and a number of limitations for the user. The Swedish Copyright Act regulates when and how the author’s work can be used. Permission to use copyright-protected material includes consent, agreements, licenses, and the permission to use material after the duration of copyright has passed (>70 years).
 
 
@@ -424,11 +423,11 @@ Make sure this is appropriately addressed under [3b - How will data security and
 [Ministry of Education and Research - Research Ethics](https://www.regjeringen.no/en/topics/research/innsiktsartikler/research-ethics/id2000710/ "2024-03-01") provides and overview on relevant comittees and commissions.
 
 The National Research Ethics Committees ([De nasjonale forskningsetiske komiteene, FEK](https://www.forskningsetikk.no/)) are the most important professional bodies for research ethics in Norway. They are adapted to the different areas of research and academically independent:
-- [National Committee for Medical and Health Research Ethics, NEM.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nem/)
-- [National Committee for Research Ethics in Science and Technology, NENT.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nent/)
-- [National Committee for Research Ethics in the Social Sciences and the Humanities, NESH.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/)
-- [National Commission for the Investigation of Research Misconduct, NREC.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/granskingsutvalget/)
-- [National Committee for Research Ethics on Human Remains, skjelettutvalget.] (https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/skjelettutvalget/)
+- [National Committee for Medical and Health Research Ethics, NEM.](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nem/)
+- [National Committee for Research Ethics in Science and Technology, NENT.](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nent/)
+- [National Committee for Research Ethics in the Social Sciences and the Humanities, NESH.](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/)
+- [National Commission for the Investigation of Research Misconduct, NREC.](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/granskingsutvalget/)
+- [National Committee for Research Ethics on Human Remains, skjelettutvalget.](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/skjelettutvalget/)
 
 Ethical review is required for medical and health research and conducted by the different Regional Committees for Medical and Health Research Ethics ([Regionale komiteer for medisinsk og helsefaglig forskningsetikk, REK](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/rek/)).
 
@@ -501,14 +500,12 @@ Missing:
 - RRI
 - [Forskningsetikkloven](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
 - [Veileder institusjonenens ansvar forskingsetikk](https://www.forskningsetikk.no/ressurser/veileder-om-institusjonenes-ansvar-for-forskningsetikk/)
-- Nesh m venner
-- Animal experiments: FOTS, 3R principles
-- [Ethics and governance of artificial intelligence for health])https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf?sequence=1)
-- [National Research Ethics Committees Q&A: Lew privacy legislation - what does this imply for research *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
-- CARE - reflect on and consult communites 
-- Nagoya protocol
+- [National Research Ethics Committees Q&A: New privacy legislation - what does this imply for research *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
 - [Animals use for scientific purposes *Norwegian only*](https://www.forsoksdyrkomiteen.no/ressurser/)
 - [Indigenous data, consent](https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/FreePriorandInformedConsent.pdf)
+- CARE - reflect on and consult communites
+- [Ethics and governance of artificial intelligence for health])(https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf?sequence=1)
+- Nagoya protocol
 
 ---
 <!--additional explanations - only keywords-->
@@ -531,11 +528,11 @@ Add any comments on issues related to for example: research on human embryos and
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Does the project need ethical approval or has it been approved? Enter the reference number here.]
+
 **Why is this important?**
- 
  Research that falls under the scope of the Act (2003:460) concerning the Ethical Review of Research Involving Humans (the Ethical Review Act, updated 2020-01-01) can only be carried out after ethical approval, which is applied for by the research principal. Without ethical approval, the research is illegal and subject to legal consequences. Ethical approval is also needed for research that involves animal testing.
  
- #### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 How will you manage the rights of the data you use, produce and share? (2.2) Describe how you will agree upon the rights of use related to your research data – including the collected, produced and (re)used data of your project. Here, you can employ your categorisation in the first question. Each of these categories involves different rights and licenses. Describe the transfer of rights procedures relevant to your project. Describe confidentiality issues if applicable in your project. License your data!
 
 **Tips for best practices**

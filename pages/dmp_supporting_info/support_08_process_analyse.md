@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: Processing and analysing data
+title: Processing, analysing and intepreting data
 search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: support_08_process_analyse

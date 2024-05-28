@@ -1,10 +1,10 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: Administrative information
+title: About the DMP
 search_exclude: false
 contributors: [Jenny Ostrop]
-page_id: support_02_admin_information
+page_id: support_01_about_dmp
 description: Supporting DMP Information, administrative information, publish dmp, dmp publication, manage dmp, living document
 sidebar: dmp_supporting_info
 ---

@@ -24,7 +24,7 @@ toc: true
 In general, the PI (Principal Investigator) has the overall responsibility for the project and all its activities and outputs, including data management. It is useful to early in the project name roles and project members responsible for the various activities related to data management as exemplified above. The relevant aspects that are adressed in the prior parts of the plan, should all be assigned a responsible individual. 
 In addition to the activities mentioned in 6a.1, it can be beneficial to have a person who is responsible for controlling access to the data in the project period, as well as someone responsible for the data after the project is ended. This is particularly important if not all data can be made openly accessible.
 
-If the DMP is created as part of a student or PhD project, it should be made clear which responsibilities follow for the supervisor. Some institutions have formalised this in their PhD guidelines (e.g. [UiT "2024-03-05"](https://uit.no/Content/741988/cache=1629791319000/Retningslinjer%2Boppfolging%2BDMP_publisert.PDF)).
+If the DMP is created as part of a student or PhD project, it should be made clear which responsibilities follow for the supervisor. Some institutions have formalised this in their PhD guidelines (e.g. [UiT](https://uit.no/Content/741988/cache=1629791319000/Retningslinjer%2Boppfolging%2BDMP_publisert.PDF "2024-03-05")).
 
 Information given in this section should reflect in [0 - Administrative information](0_admin_information).
 
@@ -224,8 +224,8 @@ You should consider the resources (time, personnel, money) necessary to preserve
 
 #### [SND - Checklist for DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [Estimate what resources you will need to collect and document the data material during the project. This includes the cost of staff to collect, process, manage, and document the data during the project, as well as to prepare the data and documentation for long-term preservation and possible dissemination, which will improve the FAIRness of the data.]
-**Why is this important?**
 
+**Why is this important?**
 Handling and documenting data tends to require more resources than planned. By planning for and documenting staff costs for documentation and data management during the project, as well as for the work needed to archive and make the data accessible after the project, you are more likely to have sufficient resources.
 
 #### [DMP Tuuli](https://zenodo.org/records/5242629) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
