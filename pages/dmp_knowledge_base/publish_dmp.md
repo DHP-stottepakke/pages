@@ -17,7 +17,7 @@ toc: true
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
 > not covered
 
-Best practice is to publish the DMP with a PID. Ideally, all versions should be published, but at minimum the final version (when reporting the project).
+Best practice is to publish the DMP with a PID. This can be referred to (and from) when publishing papers, data sets and other outputs from the research project. Ideally, all versions of the DMP could be published, but at minimum the final version should be made available (i.e. when reporting the project). The research repository [Zenodo](https://zenodo.org/) is often used to publish DMPs, together with other researchs results. In Norway, The National Research Archive (Nasjonalt vitenarkiv, NVA) is [under development](https://sikt.no/tjenester/nasjonalt-vitenarkiv-nva), and this might also be a possible repository for DMP archiving and/or publication.
 
 ```
 **Relevant PID**
