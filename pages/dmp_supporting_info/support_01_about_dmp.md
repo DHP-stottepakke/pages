@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: Administrative information
+title: About the DMP
 search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: support_01_about_dmp
