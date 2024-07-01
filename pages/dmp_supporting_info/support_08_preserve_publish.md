@@ -8,5 +8,10 @@ page_id: support_08_preserve_publish
 description: Supporting DMP Information, preservation strategy, preserve data, data preservation, publish data, data publication, repository, open access, closed access, data sharing
 sidebar: dmp_supporting_info
 ---
+We need a general introduction here.
 
-coming soon
+## About this chapter
+
+**Why is this topic important**
+
+## Question-specific guidance

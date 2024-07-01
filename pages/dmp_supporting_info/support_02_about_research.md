@@ -8,8 +8,15 @@ page_id: support_02_about_research
 description: Supporting DMP Information, Administrative information, Research project, Contributors, Funding
 sidebar: dmp_supporting_info
 ---
+We need a general introduction here.
 
-## About the research project
+## About this chapter
+
+**Why is this topic important**
+
+## Question-specific guidance
+
+### About the research project
 
 Project title
 
@@ -56,10 +63,3 @@ If applicable: Acronym of grant proposal
 Grant number
 
 If applicable: Link/reference to project in funder database
-
-
-
-
-
-
-

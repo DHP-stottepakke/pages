@@ -8,8 +8,15 @@ page_id: support_01_about_dmp
 description: Supporting DMP Information, administrative information, publish dmp, dmp publication, manage dmp, living document
 sidebar: dmp_supporting_info
 ---
+We need a general introduction here.
 
-## About the Data Management Plan
+## About this chapter
+
+**Why is this topic important**
+
+## Question-specific guidance
+
+### About the Data Management Plan
 
 DMP title
 
@@ -114,7 +121,3 @@ Yes
 List consultation(s)
 
 DMP Consultation
-
-
-
-
