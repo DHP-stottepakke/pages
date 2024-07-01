@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Data documentation during the project
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Svein Høier]
 page_id: support_06_document
 description: Supporting DMP Information, data collection, data creation, data generation, data production
 sidebar: dmp_supporting_info

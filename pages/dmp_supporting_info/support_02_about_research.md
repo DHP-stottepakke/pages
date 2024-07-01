@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: About the research project
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Lisbeth Jahren]
 page_id: support_02_about_research
 description: Supporting DMP Information, Administrative information, Research project, Contributors, Funding
 sidebar: dmp_supporting_info
