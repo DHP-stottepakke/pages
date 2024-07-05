@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: Publish DMP
+title: Publishing the DMP
 search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: publish_dmp
@@ -11,7 +11,7 @@ sidebar: dmp_knowledge_base
 toc: true
 ---
 
-## Where can you publish your DMP?
+## Where to publish the DMP?
 
 <!--key information-->
 ### [Science Europe Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862") [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) - annotated
@@ -26,6 +26,7 @@ Best practice is to publish the DMP with a PID. This can be referred to (and fro
 **Interested stakeholder**
 - Level 1: Funder
 - Level 2: Research Administration, CRIStin/NVA
+- Level 3: Research community
 
 **Relevant project phase**
 - planning post-award, active phase
