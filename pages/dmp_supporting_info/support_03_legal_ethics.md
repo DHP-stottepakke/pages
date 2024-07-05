@@ -8,17 +8,22 @@ page_id: support_03_legal_ethics
 description: Supporting DMP Information, legal requirements, ethical requirements
 sidebar: dmp_supporting_info
 ---
-We need a general introduction here.
+National legislation, institutional guidelines and international norms have influence on the handling of research data. Both researchers and research institutions are legally responsible for complying with legal and ethical requirements.
 
 ## About this chapter
 
 **Why is this topic important**
+* helps gathering information about the paperwork
+* helps to identify processes that may be time-consuming
+* avoid violation of legal and ethical requirements
 
 Covering the different topics.
 
+* Research-responsible institution(s)
+
 * Research Ethical Guidelines and Codes of conduct
 
-* Ethical approval
+* Ethical approval(s)
 
 * Personal data
 
@@ -26,16 +31,27 @@ Covering the different topics.
 
 ## Question-specific guidance
 
+### Responsible institution
+
+* if >1, specify contracts
+
 ### Research Ethical Guidelines and Codes of conduct
 
 #### Will you follow specific codes of conduct?
 
-##### General research ethical Guidelines
+All projects need to follow general research ethical guidelines
 
 Forskningsetikkloven
 NESH, NENT and friends
+European Code of Conduct for research integrity
 
-Subject-specific guidelines
+##### Subject-specific guidelines
+
+Animal experiments
+
+
+
+
 
 ### Describe policies and guidelines for data management that you are following?
 

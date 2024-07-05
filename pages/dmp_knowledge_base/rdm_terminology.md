@@ -18,6 +18,7 @@ Describing research data management with the right terms can be tricky - some us
 ### Norwegian RDM terms:
 - [NO-RDA termliste for forskningsdatahåndtering](https://www.openscience.no/en/node/3544)
 - [Datatilsynet uttrykk om personvern norsk-engelsk](https://www.datatilsynet.no/regelverk-og-verktoy/ordbok/)
+- [CRediT Contributor Roles Taxonomy Translations (bokmål, nynorsk)](https://contributorshipcollaboration.github.io/projects/translation/completed/)
 - [Humord: Datahåndtering](https://data.ub.uio.no/skosmos/humord/nb/page/c59286)
 - [Språkrådets termwiki: Bibliotekfag](http://termwiki.sprakradet.no/wiki/Kategori:Bibliotekfag)
 
