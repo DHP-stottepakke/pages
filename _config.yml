@@ -17,7 +17,7 @@ topnav_title: ''
 description: "Data Management Planning support package for Norwegian Higher Education Libraries"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@3.0.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@3.0.1
 
 dsw_deep_link_prefix: hhttps://dsw-test.elixir.no/wizard/
 
