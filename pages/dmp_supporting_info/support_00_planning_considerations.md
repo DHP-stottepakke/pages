@@ -8,6 +8,9 @@ page_id: support_00_planning_considerations
 description: Supporting DMP Information, planning considerations, pre-start, pre-award, before you start
 affiliations:
 sidebar: dmp_supporting_info
+dsw:
+- name: Guiding questionnaire for pre-considerations
+  uuid: knowledge-models/elixir.no:dsw-km-bott-localization-preproject:0.1.1/preview
 ---
 
 It is beneficial to take research data management into consideration already ahead of starting a research project, particularly if applying for external funding. Early identification of aspects that may need attention or potentially time-consuming processes, will avoid delays in the project progress. Furthermore, costs related to data management efforts are considered eligible costs by many research funders. Some funders therefore ask to briefly outline data management as part of project proposals.
@@ -77,7 +80,3 @@ If the project plans to recruit or train dedicated staff, related costs should b
 Will research data management (RDM) in the project require additional resources? Consider costs for data storage, data processing, data archiving, expert support.
 
 Many research funders consider list research data management as eligible costs in applications. Have costs for RDM been included in the project budget?
-
-## Questionnaire
-
-If you prefer to look at the guiding questions as questionnaire: **ENTER VIEW ONLY LINK**
