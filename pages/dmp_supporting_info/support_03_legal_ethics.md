@@ -13,21 +13,35 @@ National legislation, institutional guidelines and international norms have infl
 ## About this chapter
 
 **Why is this topic important**
-* helps gathering information about the paperwork
-* helps to identify processes that may be time-consuming
-* avoid violation of legal and ethical requirements
+* Awareness helps to avoid violation of legal and ethical requirements
+* Early identification of processes that may be time-consuming ensures project progress
+* Document central policies and central documents for later reference
 
-Covering the different topics.
+Questions in this chapter address the following aspects:
 
-* Research-responsible institution(s)
+### The responsible institution
+The host institution has an overarching responsibility for following the applicable legislation and ensure that research ethical norms are followed.
+* GDPR: data controller (behandlingsansvarlig). If n>1, co-controller agreement. More common: one takes responsibility, the other signs data processor agreement.
+* Helseforskningsloven: forskningsansvarlig
 
-* Research Ethical Guidelines and Codes of conduct
+### Research Ethical Guidelines and Codes of conduct
+* Forskningsetikkloven
+* NESH, NENT
+* Codes of conduct
 
-* Ethical approval(s)
+### Ethical approvals
+* REK
+* FOTS
 
-* Personal data
+### Personal data
+* GDPR
+* Registration in other systems
+* DPIA
 
-* Sensitive data
+### Sensitive data
+* other reasons for sensitivity
+
+
 
 ## Question-specific guidance
 
