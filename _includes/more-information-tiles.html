@@ -38,7 +38,23 @@
 {%- endif %}
 {%- endfor %}
 {%- endif %}
-{%- if actual_training or actual_faircookbook or actual_fairsharing or actual_dsw or actual_rdmkit %}
+{%- if page.cessda %}
+{%- assign actual_cessda = nil %}
+{%- for rdmdoc in page.cessda %}
+{%- if rdmdoc.name %}
+{%- assign actual_cessda = 1 %}
+{%- endif %}
+{%- endfor %}
+{%- endif %}
+{%- if page.turing  %}
+{%- assign actual_turing = nil %}
+{%- for rdmdoc in page.turing %}
+{%- if rdmdoc.name %}
+{%- assign actual_turing = 1 %}
+{%- endif %}
+{%- endfor %}
+{%- endif %}
+{%- if actual_training or actual_faircookbook or actual_fairsharing or actual_dsw or actual_rdmkit or actual_cessda or actual_turing %}
 <!-- More information -->
 <h2>{{site.theme_variables.headings.more-information-tiles | default: 'More information' }}</h2>
 
@@ -135,6 +151,34 @@
                         <div class="row g-1">
                             <div class="col-2 d-flex align-items-center justify-content-center">
                                 <img alt="RDMkit logo" class="img-fluid" src="{{ 'assets/img/rdmkit_compact_logo.svg' | relative_url }}">
+                            </div>
+                            <div class="col-10 d-flex align-items-center">
+                                <span class="text-start">Data management guidelines on: {{rdmdoc.name}}</span>
+                            </div>
+                        </div>
+                    </a>
+                    {%- endfor %}
+                    {%- endif %}
+                    {%- if actual_cessda %}
+                    {%- for rdmdoc in page.cessda %}
+                    <a class="btn bg-white hover-primary text-start d-block" data-bs-toggle="tooltip" data-bs-placement="right" title="DMEG" href="{{ rdmdoc.url }}">
+                        <div class="row g-1">
+                            <div class="col-2 d-flex align-items-center justify-content-center">
+                                <img alt="DMEG logo" class="img-fluid" src="{{ 'assets/img/dmeg.svg' | relative_url }}">
+                            </div>
+                            <div class="col-10 d-flex align-items-center">
+                                <span class="text-start">Data management guidelines on: {{rdmdoc.name}}</span>
+                            </div>
+                        </div>
+                    </a>
+                    {%- endfor %}
+                    {%- endif %}
+                    {%- if actual_cessda %}
+                    {%- for rdmdoc in page.cessda %}
+                    <a class="btn bg-white hover-primary text-start d-block" data-bs-toggle="tooltip" data-bs-placement="right" title="The Turing Way handbook" href="{{ rdmdoc.url }}">
+                        <div class="row g-1">
+                            <div class="col-2 d-flex align-items-center justify-content-center">
+                                <img alt="The Turing Way handbook logo" class="img-fluid" src="{{ 'assets/img/turing.svg' | relative_url }}">
                             </div>
                             <div class="col-10 d-flex align-items-center">
                                 <span class="text-start">Data management guidelines on: {{rdmdoc.name}}</span>
