@@ -20,7 +20,7 @@ National legislation, institutional guidelines and international norms have infl
 Questions in this chapter address the following aspects:
 
 ### The responsible institution
-The host institution has an overarching responsibility for following the applicable legislation and ensure that research ethical norms are followed.
+The host institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed.
 * GDPR: data controller (behandlingsansvarlig). If n>1, co-controller agreement. More common: one takes responsibility, the other signs data processor agreement.
 * Helseforskningsloven: forskningsansvarlig
 
@@ -46,10 +46,14 @@ The host institution has an overarching responsibility for following the applica
 ## Question-specific guidance
 
 ### Involved organisation(s)
+Specifying the host institution and possible collaboration partners is important as this defines legal responsibilities and implies which guidelines are to be followed.
+
+Please identify both the host institution and possible collaboration partners or external parties/subcontractors contributing to the project. Use the "Add" button to add a project partner. If your project has external partners, please indicate any relevant contracts or collaborative agreements for later reference.
 
 We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambigously identify institutions. In case the organisation is not registered, type the name and click outside of the text box and the string will be saved.
 
-Please specify both the host institution and possible collaboration partners or external parties/subcontractors contributing to the project. Use the "Add" button to add a project partner. If your project has external partners, please indicate any relevant contracts or collaborative agreements for later reference.
+### Describe policies and guidelines for data management that you are following
+It is important to be aware of guidelines for research data management
 
 
 ### Research Ethical Guidelines and Codes of conduct
