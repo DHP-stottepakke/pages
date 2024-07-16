@@ -15,7 +15,7 @@ National legislation, institutional guidelines and international norms have infl
 **Why is this topic important**
 * Awareness helps to avoid violation of legal and ethical requirements
 * Early identification of processes that may be time-consuming ensures project progress
-* Document central policies and central documents for later reference
+* Collect information about central policies and central documents for later reference
 
 Questions in this chapter address the following aspects:
 
@@ -45,15 +45,18 @@ The host institution has an overarching responsibility for following the applica
 
 ## Question-specific guidance
 
-### Responsible institution
+### Involved organisation(s)
 
-* if >1, specify contracts
+We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambigously identify institutions. In case the organisation is not registered, type the name and click outside of the text box and the string will be saved.
+
+Please specify both the host institution and possible collaboration partners or external parties/subcontractors contributing to the project. Use the "Add" button to add a project partner. If your project has external partners, please indicate any relevant contracts or collaborative agreements for later reference.
+
 
 ### Research Ethical Guidelines and Codes of conduct
 
 #### Will you follow specific codes of conduct?
 
-All projects need to follow general research ethical guidelines
+All projects are expected to follow general research ethical guidelines
 
 Forskningsetikkloven
 NESH, NENT and friends
