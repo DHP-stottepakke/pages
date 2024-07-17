@@ -33,7 +33,7 @@ Helpdesk: [research-data@uio.no](mailto:research-data@uio.no)
 
 Helpdesk: [researchdata@hjelp.uit.no](mailto:researchdata@hjelp.uit.no)
 
-Currently, we have only included the project partners in the list. For other organisations, see the [RDMkit Norway resource page](https://rdmkit.elixir-europe.org/no_resources).
+Currently, we have only included the project partners in the list. For other organisations, find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
 
 ## Disciplinary support services
 
