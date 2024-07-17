@@ -48,12 +48,24 @@ The host institution has an overarching responsibility for following the applica
 ### Involved organisation(s)
 Specifying the host institution and possible collaboration partners is important as this defines legal responsibilities and implies which guidelines are to be followed.
 
-Please identify both the host institution and possible collaboration partners or external parties/subcontractors contributing to the project. Use the "Add" button to add a project partner. If your project has external partners, please indicate any relevant contracts or collaborative agreements for later reference.
+Please identify both the host institution and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has external partners, please indicate any relevant contracts or collaborative agreements for later reference.
 
 We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambigously identify institutions. In case the organisation is not registered, type the name and click outside of the text box and the string will be saved.
 
+
 ### Describe policies and guidelines for data management that you are following
-It is important to be aware of guidelines for research data management
+Specifying relevant guidelines, policies or processes will help you recognize research data management requirements and routines to be aware of.
+
+Identify relevant policies, guidelines or processes applicable to your project. In addition to selecting from a list of common policies, you can manually add (additional) references.
+
+You can select from the following common policies and guidelines:
+* Funder: [Horizon Europe provisions on Open Science](https://rea.ec.europa.eu/open-science_en "2024-07-17")
+* Funder: [The Research Council of Norway Policy for Open Science](https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-07-17")
+* Funder: [The Research Council of Norway Policy for open access to research data](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/ "2024-07-17")
+* Institution: [UiB Policy for Open Science](https://www.uib.no/en/foremployees/142184/university-bergen-policy-open-science "2024-07-17")
+* Institution: [UiO Policies and guidelines for research data management](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html "2024-07-17")
+* Institution: [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
+* Institution: [UiT Principles and guidelines for managment for research data](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184 "2024-07-17")
 
 
 ### Research Ethical Guidelines and Codes of conduct
