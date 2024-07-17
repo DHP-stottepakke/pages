@@ -13,33 +13,66 @@ National legislation, institutional guidelines and international norms have infl
 ## About this chapter
 
 **Why is this topic important**
-* helps gathering information about the paperwork
-* helps to identify processes that may be time-consuming
-* avoid violation of legal and ethical requirements
+* Awareness helps to avoid violation of legal and ethical requirements
+* Early identification of processes that may be time-consuming ensures project progress
+* Collect information about central policies and central documents for later reference
 
-Covering the different topics.
+Questions in this chapter address the following aspects:
 
-* Research-responsible institution(s)
+### The responsible institution
+The host institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed.
+* GDPR: data controller (behandlingsansvarlig). If n>1, co-controller agreement. More common: one takes responsibility, the other signs data processor agreement.
+* Helseforskningsloven: forskningsansvarlig
 
-* Research Ethical Guidelines and Codes of conduct
+### Research Ethical Guidelines and Codes of conduct
+* Forskningsetikkloven
+* NESH, NENT
+* Codes of conduct
 
-* Ethical approval(s)
+### Ethical approvals
+* REK
+* FOTS
 
-* Personal data
+### Personal data
+* GDPR
+* Registration in other systems
+* DPIA
 
-* Sensitive data
+### Sensitive data
+* other reasons for sensitivity
+
+
 
 ## Question-specific guidance
 
-### Responsible institution
+### Involved organisation(s)
+Specifying the host institution and possible collaboration partners is important as this defines legal responsibilities and implies which guidelines are to be followed.
 
-* if >1, specify contracts
+Please identify both the host institution and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has external partners, please indicate any relevant contracts or collaborative agreements for later reference.
+
+We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambigously identify institutions. In case the organisation is not registered, type the name and click outside of the text box and the string will be saved.
+
+
+### Describe policies and guidelines for data management that you are following
+Specifying relevant guidelines, policies or processes will help you recognize research data management requirements and routines to be aware of.
+
+Identify relevant policies, guidelines or processes applicable to your project. In addition to selecting from a list of common policies, you can manually add (additional) references.
+
+You can select from the following common policies and guidelines:
+* Funder: [Horizon Europe provisions on Open Science](https://rea.ec.europa.eu/open-science_en "2024-07-17")
+* Funder: [The Research Council of Norway Policy for Open Science](https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-07-17")
+* Funder: [The Research Council of Norway Policy for open access to research data](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/ "2024-07-17")
+* Institution: [UiB Policy for Open Science](https://www.uib.no/en/foremployees/142184/university-bergen-policy-open-science "2024-07-17")
+* Institution: [UiO Policies and guidelines for research data management](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html "2024-07-17")
+* Institution: [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
+* Institution: [UiT Principles and guidelines for managment for research data](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184 "2024-07-17")
+
 
 ### Research Ethical Guidelines and Codes of conduct
 
 #### Will you follow specific codes of conduct?
 
-All projects need to follow general research ethical guidelines
+All projects are expected to follow general research ethical guidelines
 
 Forskningsetikkloven
 NESH, NENT and friends
