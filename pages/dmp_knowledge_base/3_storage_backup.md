@@ -37,17 +37,19 @@ Clearly (even if briefly) describes:
 or
 - Explains why institutional storage will not be used (and for what part of the data) and describes the (additional) locations, storage media, and procedures that will be used for storing and backing up data during the project.
 
-```
-**Relevant PID**
-- none?
-
-**Interested stakeholder**
--  Level 2: ITA, Sigma2 if big data
-
-**Relevant project phase**
-- pre-award: outline (if budget-relevant)
-- planning post-award, active phase
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* none?\\
+\\
+**Interested stakeholder**\\
+* Level 2: ITA, Sigma2 if big data\\
+\\
+**Relevant project phase**\\
+* pre-award: outline (if budget-relevant)\\
+* planning post-award, active phase\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in distribution]
@@ -78,14 +80,16 @@ Missing:
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - Where to find information about local & national computing infrastructure. When to use what.
 - Technical knowledge of backup approaches
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
-Where to find information at own institution, use of institutionally managed storage, pricing policy (see question 6b), backup in case institutional storage cannot be used.
+### Knowledge for users
+- Where to find information at own institution
+- Use of institutionally managed storage, pricing policy (see question 6b)
+- Backup in case institutional storage cannot be used.
 
 ---
 <!--recycling possible?-->
@@ -177,18 +181,20 @@ Clearly explains:
 - Who will have access to the data during the research.
 - Clearly describes the additional security measures (in terms of physical security, network security, and security of computer systems and files) that will be taken to ensure that stored and transferred data are safe, when sensitive data are involved (for example personal data, politically sensitive information, or trade secrets).
 
-```
-**Relevant PID**
-- none?
-
-**Interested stakeholder**
-- Level 1: Institution (information security)
-- Level 2: DPO, REK, Sikt personverntjenester
-
-**Relevant project phase**
-- pre-award: outline
-- planning post-award, active phase
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* none?\\
+\\
+**Interested stakeholder**\\
+* Level 1: Institution (information security)\\
+* Level 2: DPO, REK, Sikt personverntjenester\\
+\\
+**Relevant project phase**\\
+* pre-award: outline\\
+* planning post-award, active phase\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in security and privacy]
@@ -222,7 +228,7 @@ Missing:
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - National policies
 - Classification of information: Institutional policies and storage guides
 - Routines for data recovery
@@ -230,7 +236,7 @@ Missing:
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - Data recovery
 - National and institutional policies
 - Information security levels 
