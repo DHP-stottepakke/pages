@@ -93,8 +93,16 @@ Institutional privacy policies:
 
 
 ### Sensitive data
-* other reasons for sensitivity
+Personal data is only one of many reasons to take precautions when processing and storing data. The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary".
 
+Reasons for sensitivity (non-exhaustive):
+* National security
+* Export control regulations
+* Intellectual Property Rights (IPR)
+* Confidentiality issues
+* Research on endagered species
+* Research on protected cultural heritage
+* Indigenous Data Governance
 
 
 ## Question-specific guidance
@@ -144,7 +152,7 @@ You can select from the following list of general research ethical guidelines, b
 ### Are additional ethical guidelines or codes of conduct relevant?
 Being aware of research ethical guidelines and codes of conduct is important as ethical considerations may affect how data will be handled and shared.
 
-Examples (non-comprehensive):
+Examples (non-exhaustive):
 * [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care "2024-04-22")
 * [The TRUST Code – Global Code of Conduct for Equitable Research Partnerships](https://www.globalcodeofconduct.org/ "2024-04-22")
 * [Nagoya Protocol on Access to Genetic Resources and Benefit-Sharing](https://www.cbd.int/abs/default.shtml "2024-04-22")
@@ -200,9 +208,9 @@ Write about:
 
 
 ### Will sensitive information (apart from special category personal data) be collected/processed?
-There are multiple reasons for considering information as sensitive. The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary".
+There are multiple reasons for considering information as sensitive.
 
-Reasons for sensitivity (non-comprehensive):
+Reasons for sensitivity (non-exhaustive):
 * National security
 * Export control regulations
 * Intellectual Property Rights (IPR)
@@ -212,5 +220,3 @@ Reasons for sensitivity (non-comprehensive):
 * Indigenous Data Governance
 
 Include link to legal text, institutional IPR policies
-
-

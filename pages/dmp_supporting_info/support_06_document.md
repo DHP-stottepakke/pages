@@ -8,10 +8,20 @@ page_id: support_06_document
 description: Supporting DMP Information, data collection, data creation, data generation, data production
 sidebar: dmp_supporting_info
 ---
-We need a general introduction here.
+
+{% include callout.html type="tip" content="
+**Why is this topic important**\\
+>> What is in for you?\\
+>> Short & concise\\
+>> Add lines as needed\\
+" %}
 
 ## About this chapter
 
-**Why is this topic important**
+General information
 
 ## Question-specific guidance
+
+### Question 1
+
+### Question 2

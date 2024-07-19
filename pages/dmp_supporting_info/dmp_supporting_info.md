@@ -4,7 +4,7 @@ layout: page
 title: Supporting Information for Users
 permalink: /dmp_supporting_info/
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Jenny Ostrop, Korbinian Bösl, Live Kvale, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]
 page_id: dmp_supporting_info
 description: DMP supporting information, user guidance
 affiliations:
@@ -12,16 +12,19 @@ sidebar: dmp_supporting_info
 ---
 
 This section collects information that is useful when writing a Data Management Plan (DMP).
+- [Purpose of a DMP](/pages/support_00_dmp_purpose) explains what a DMP is and why you should write one for your research project.
+- [Get local/disciplinary support](/pages/support_local_disc) refers to disciplinary data management experts and data management support staff at your institution.
 
-- [Get local/disciplinary support](/support_local_disc) refers to disciplinary data management experts and data management support staff at your institution.
-- The other pages are structured according to our DMP template.
+It is beneficial to take research data management into consideration already ahead of starting a research project, particularly if applying for external funding.
+- [Considerations pre-start/pre-award](/pages/support_00_planning_considerations) provides a set of guiding questions to be considered pre-start/ pre-award.
 
-## Purpose of a Data Management Plan
-
-A data management plan (DMP) is both a formal document and a practical tool. Both research funders and institutions require research projects to have a DMP. A DMP outlines how data is planned to be handled in the process of a research project, from data collection or re-use, through data processing and analysis, to data preservation and archiving. Depending on the field of research and the needs of the project, the DMP may take different forms. The DMP should be considered a living document and be revised as the project develops.
-Writing a DMP will
-- Establish good data management routines in your project, including creating awareness for ethical, legal and privacy aspects and aid allocation of required resources
-- Make it easier to have a unified approach to data management within a research group and create awareness around potential data-related issues as early as possible
-- Help you to create a preservation plan for your data and gather all necessary documentation to archive high-quality FAIR data (openly or with controlled access)
-- Help you choose the right storage and backup solutions and thereby avoid data loss or violation of information security
-- Give you an overview of data-related project aspects and thereby complement other project management tools and ease coordination with service providers and other stakeholders
+The other pages are structured according to our DMP template and contain both general and question-specific guidance:
+- [1 - About the DMP](/pages/support_01_about_dmp)
+- [2 - About the research project](/pages/support_02_about_research)
+- [3 - Legal and ethical aspects](/pages/support_03_legal_ethics)
+- [4 - Storing and protecting data during the project](/pages/support_04_store_protect)
+- [5 - Reusing or collecting data](/pages/support_05_reuse_collect)
+- [6 - Data documentation during the project](/pages/support_06_document)
+- [7 - Processing, analysing and intepreting data](/pages/support_07_process_analyse)
+- [8 - Preserving and publishing data](/pages/support_08_preserve_publish)
+- [9 - Responsibilities and resources](/pages/support_09_responsibilities_resources)

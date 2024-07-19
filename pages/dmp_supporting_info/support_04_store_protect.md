@@ -8,15 +8,25 @@ page_id: support_04_store_protect
 description: Supporting DMP Information, data storage, data backup
 sidebar: dmp_supporting_info
 ---
-We need a general introduction here.
+
+{% include callout.html type="tip" content="
+**Why is this topic important**\\
+>> What is in for you?\\
+>> Short & concise\\
+>> Add lines as needed\\
+" %}
 
 ## About this chapter
 
-**Why is this topic important**
+General information
 
 ## Question-specific guidance
 
-### Storing and protecting data
+### Question 1
+
+### Question 2
+
+#### Storing and protecting data
 
 Which data storage guidelines will you be following?
 

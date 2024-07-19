@@ -8,10 +8,20 @@ page_id: support_07_process_analyse
 description: Supporting DMP Information, process data, data processing, analyse data, data analysis, analyze, analyzis
 sidebar: dmp_supporting_info
 ---
-We need a general introduction here.
+
+{% include callout.html type="tip" content="
+**Why is this topic important**\\
+>> What is in for you?\\
+>> Short & concise\\
+>> Add lines as needed\\
+" %}
 
 ## About this chapter
 
-**Why is this topic important**
+General information
 
 ## Question-specific guidance
+
+### Question 1
+
+### Question 2

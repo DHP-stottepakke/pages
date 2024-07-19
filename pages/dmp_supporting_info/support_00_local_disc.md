@@ -11,7 +11,11 @@ sidebar: dmp_supporting_info
 ---
 If you have questions about research data management (RDM) or writing at data management plan (DMP), you can consult the information resources or contact the general RDM support at your institution. In addition, your unit may have research advisors who can direct you to the right resources or even dedicated data stewards who can help you hands-on.
 
+In addition, some Norwegian research infrastructures provide RDM support services or knowledge resources.
+
 ## Institutional RDM support (alphabetical order)
+
+Currently, we have only included the project partners in the list. For other organisations, find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
 
 ### NTNU - Norwegian University of Science and Technology (NTNU)
 [Research Data @NTNU](https://i.ntnu.no/researchdata)
@@ -33,26 +37,25 @@ Helpdesk: [research-data@uio.no](mailto:research-data@uio.no)
 
 Helpdesk: [researchdata@hjelp.uit.no](mailto:researchdata@hjelp.uit.no)
 
-Currently, we have only included the project partners in the list. For other organisations, find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
 
 ## Disciplinary support services
 
-Several Norwegian research infrastructures including nodes of ESFRI (European Strategy Forum on Research Infrastructures) Landmarks and ERIC (European Research Infrastructure Consortium) provide domain-specific research data management support.
+Several Norwegian research infrastructures including national nodes of ESFRI (European Strategy Forum on Research Infrastructures) Landmarks and ERIC (European Research Infrastructure Consortium) provide domain-specific research data management support.
 
-### CESSDA - Social Sciences
+### CESSDA - Social sciences
 The Consortium for European Social Science Data Archives (CESSDA) has its main office in Norway.
 
 Homepage: [CESSDA](https://www.cessda.eu/ "2024-07-12")
 
 Knowledge resource: [Data Management Expert Guide](https://dmeg.cessda.eu/ "2024-07-12")
 
-### CLARINO - Language Sciences
-The Common Language Resources and Technology Infrastructure Norway (CLARINO) maintains research data repositories, tools and services.
+### CLARINO - Language sciences
+The Common Language Resources and Technology Infrastructure Norway (CLARINO) maintains research data repositories, tools and services. It is a node in the pan-European [Common Language Resources and Technology Infrastructure (CLARIN ERIC)](https://www.clarin.eu/).
 
 Homepage: [CLARINO](https://clarin.w.uib.no/ "2024-07-12)
 
-### ELIXIR-NO - Life Sciences
-The Norwegian node of the pan-European infrastructure for biological information (ELIXIR) provides e-infrastructure, tools and data resources, training, and data management support for the life sciences.
+### ELIXIR-NO - Life sciences
+ELIXIR-NO provides data management support as well as e-infrastructure, tools and data resources and training for the life sciences. It is the Norwegian node of the pan-European [infrastructure for biological information (ELIXIR)](https://elixir-europe.org/).
 
 Homepage: [ELIXIR Norway](https://elixir.no/ "2024-07-12")
 
@@ -61,6 +64,13 @@ Helpdesk: [support@elixir.no](https://elixir.no/helpdesk "2024-07-12")
 Knowledge resource: [RDMkit](https://rdmkit.elixir-europe.org/ "2024-07-12")
 
 Knowledge resource: [Norwegian Life Science RDM LookUp](https://elixir.no/rdm-lookup/ "2024-07-12")
+
+### NorCRIN - Clinical research
+The national infrastructure NorCRIN provides advice on national procedures, good clinical practice, data management and monitoring. NorCRIN is a partnership between six university hospitals in Norway with the objective to strengthen and simplify collaboration in all categories of clinical research in Norway and member of the [European Clinical Research Infrastructure Network (ECRIN ERIC)](https://ecrin.org/).
+
+Homepage: [NorCRIN](https://www.norcrin.no/ "2024-07-12")
+
+Knowledge resource: [Guidance and support (NorCRIN): Are you planning a clinical study?](https://www.norcrin.no/en/are-you-planning-a-clinical-study/)
 
 ### Sigma2 - National e-infrastructure for computational Science
 Sigma2 provides services in high-performance computing and large-scale data storage.

@@ -13,7 +13,7 @@ sidebar: dmp_knowledge_base
 
 This section collects useful information about data management plans (DMP) for support personnel.
 
-The project work included conceptual reflections in DMP which we would like to share:
+The project work involved conceptual reflections in DMP which we would like to share:
 - [Conceptual DMP reflections](/pages/dmp_reflections)
 
 The core part of the knowledge base is based on the [Science Europe DMP Guidance](https://doi.org/10.5281/zenodo.4915862 "Science Europe. (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition. https://doi.org/10.5281/zenodo.4915862"). Each section is annotated and mapped to relevant persistent identifiers, interested stakeholders, project phase, and the [RDA Common Standard for machine-actionable DMP (maDMP)](http://doi.org/10.15497/rda00039).

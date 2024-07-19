@@ -15,11 +15,11 @@ dsw:
 
 It is beneficial to take research data management into consideration already ahead of starting a research project, particularly if applying for external funding. Early identification of aspects that may need attention or potentially time-consuming processes, will avoid delays in the project progress. Furthermore, costs related to data management efforts are considered eligible costs by many research funders. Some funders therefore ask to briefly outline data management as part of project proposals.
 
-This can be seen as preparation for writing a more comprehensive data management plan (DMP) when starting on the project.
+Answering the guiding questions can be seen as preparation for writing a more comprehensive data management plan (DMP) when starting on the project.
 
-Do you know who you can approach with questions related to research data management? Perhaps data stewards or research advisors at your unit? For institutional support, which is often located at the library, see [Get local/disciplinary support](support_00_local_disc).
+Do you know who you can approach with questions related to research data management? Perhaps data stewards or research advisors at your unit? For institutional support, which is often located at the library, and domain-specific support services see [Get local/disciplinary support](/pages/support_00_local_disc).
 
-## Guiding questions
+## Guiding questions pre-start/ pre-award
 
 ### Data management requirements
 
