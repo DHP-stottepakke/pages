@@ -46,7 +46,7 @@ In this context also the following laws and regulations might be relevant:
 > 4a.1\
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
 
-According to GDPR there are two options for legal bases for processing of personal data in research, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
+According to GDPR there are two options for legal bases for processing of personal data in research, consent and p interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
 - [Consult SIKTs guidance for Legal bases for personal data processing in research.](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
 - [Consult SIKTs guidance for information and consent.](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 - Consult your institutions requirements for notification forms for personal data, Data Protection Impact Assessments (DPIAs), risk and compliance system or similar.
@@ -165,6 +165,7 @@ Missing:
 - Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
 - [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
 - [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
+- [Policy on information security and data protection in higher education and research *Norwegian only*](https://www.regjeringen.no/no/dokumenter/f-04-20-policy-for-informasjonssikkerhet-og-personvern-i-hoyere-utdanning-og-forskning/id2769629/)
 
 ##### Health research data
 - [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44)
@@ -182,10 +183,7 @@ Missing:
 ##### Other laws of potential relevance
 - [Archive Act](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
 - [Research Ethics Act](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
-- [Patent Act](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
-- [Copyright Act](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
 - [Act on Universities and Colleges Act](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
-- [National Security Act](https://lovdata.no/dokument/NL/lov/2018-06-01-24)
 
 #### Data Minimization
 - [EDPS glossary: Data minimization](https://www.edps.europa.eu/data-protection/data-protection/glossary/d_en)
@@ -303,7 +301,7 @@ Legal requirements for data processor and joint data controller agreements.
 Much research data can be protected as databases. Inform yourself about to what extent copyright applies to the data you create or collect, agreements you have with your employer regarding ownership. Intellectual property might affect how open the data can be shared with others.
 
 Consult:
--	Funders requirements regarding licencing.
+- Funders requirements regarding licencing.
 - National recommendations for licencing of research data; [How should we share research data?](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf)
 - Institutional policies for intellectual property (IPR).
 -	Institutional recommendations for licensing.
@@ -366,20 +364,42 @@ Missing:
 <!--additional explanations-->
 ### Knowledge for support staff
 - Legislation, legal challenges (e.g. different legislations and GDPR)
-- Export control, eksportkontrollloven
 - IPR
-- Cultural heritage, kulturminneloven
 - Commercial interests, patents, contact to local TTO
 - Collaborative agreement best practice, how are they referred to
-- Åndsverkloven, arkivloven
 - The Research Council of Norway: [How should we share research data? Report and recommendations relating to licensing and making research data available](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf)
+
+#### Relevant legislation and documents
+- National security
+	- National Security Act ([Norwegian: Lov om nasjonal sikkerhet(sikkerhetsloven)](https://lovdata.no/dokument/NL/lov/2018-06-01-24)
+	- [Rapport Et helhetlig forskningssystem for åpen, skjermet og gradert forskning (2024) *Norwegian only*](https://www.forskningsradet.no/siteassets/publikasjoner/2024/sluttrapport_helhetlig-forskningssystem.pdf)
+- Export control regulations
+	- Export Control Act ([Norwegian: Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v.(eksportkontrollloven)](https://lovdata.no/dokument/NL/lov/1987-12-18-93)
+	- [Report Guidelines and tools for responsible international knowledge cooperation (2023)](https://hkdir.no/en/rapporter-undersokelser-og-statistikk/guidelines-and-tools-for-responsible-international-knowledge-cooperation-report)
+- Intellectual Property Rights (IPR) or confidentiality issues
+	- Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
+	- Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
+	- Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
+	- Act on Universities and Colleges Act [Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven))](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
+- Research on endagered species
+	- Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100)
+- Research on protected cultural heritage
+	- Cultural Heritage Act ([Norwegian: Lov om kulturminner (kulturminneloven)](https://lovdata.no/dokument/NL/lov/1978-06-09-50)
+- Indigenous Data Governance
+	- United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter)](https://www.regjeringen.no/no/tema/urfolk-og-minoriteter/urfolkryddemappe/fns-erklaring-om-urfolks-rettigheter1/id629670/)
+
+#### Institutional IPR policies:
+* [University of Bergen (UiB)](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-07-19")
+* [University of Oslo (UiO)](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-07-19")
+* [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
+* [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-07-19"))
 
 ---
 <!--additional explanations - only keywords-->
 ### Knowledge for users
 - legislation, legal challenges (e.g. different legislations)
 - possible restrictions, where to find information
-- ethics resources at their institutions (list with links?)
+- ethics resources at their institutions (list with links)
 - IPR at their institutions (list with links)
 - commercial interests, patent applications and implications
 - licensing
