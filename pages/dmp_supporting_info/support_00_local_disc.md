@@ -39,8 +39,14 @@ Helpdesk: [researchdata@hjelp.uit.no](mailto:researchdata@hjelp.uit.no)
 
 
 ## Disciplinary support services
-
 Several Norwegian research infrastructures including national nodes of ESFRI (European Strategy Forum on Research Infrastructures) Landmarks and ERIC (European Research Infrastructure Consortium) provide domain-specific research data management support.
+
+### Biobank Norway - Biobanking
+Biobank Norway provides the ELSI Helpdesk for Biobanking and advices on regulations and standards for ethical, legal, and societal issues. Biobank Norway is the Norwgian node of the European [Biobanking and BioMolecular resources Research Infrastructure (BBMRI ERIC)](https://www.bbmri-eric.eu/).
+
+Homepage: [Biobank Norway](https://bbmri.no/ "2024-07-19")
+
+Helpdesk: [ELSI Help Desk](https://bbmri.no/help-desk-elsi "2024-07-19")
 
 ### CESSDA - Social sciences
 The Consortium for European Social Science Data Archives (CESSDA) has its main office in Norway.
@@ -54,8 +60,8 @@ The Common Language Resources and Technology Infrastructure Norway (CLARINO) mai
 
 Homepage: [CLARINO](https://clarin.w.uib.no/ "2024-07-12)
 
-### ELIXIR-NO - Life sciences
-ELIXIR-NO provides data management support as well as e-infrastructure, tools and data resources and training for the life sciences. It is the Norwegian node of the pan-European [infrastructure for biological information (ELIXIR)](https://elixir-europe.org/).
+### ELIXIR Norway - Life sciences
+ELIXIR Norway provides data management support as well as e-infrastructure, tools and data resources and training for the life sciences. It is the Norwegian node of the pan-European [infrastructure for biological information (ELIXIR)](https://elixir-europe.org/).
 
 Homepage: [ELIXIR Norway](https://elixir.no/ "2024-07-12")
 
@@ -64,6 +70,13 @@ Helpdesk: [support@elixir.no](https://elixir.no/helpdesk "2024-07-12")
 Knowledge resource: [RDMkit](https://rdmkit.elixir-europe.org/ "2024-07-12")
 
 Knowledge resource: [Norwegian Life Science RDM LookUp](https://elixir.no/rdm-lookup/ "2024-07-12")
+
+### GBIF Norway- Biodiversity research
+GBIF Norway supplies IT-services and assistance with deposition of biodiversity data to affiliated organizations. It is the Norwegian node of the international network [Global Biodiversity Information Facility](https://www.gbif.org/).
+
+Homepage: [GBIF Norway](https://www.gbif.no/ "2024-07-19")
+
+Helpdesk: [helpdesk@gbif.no](https://www.gbif.no/services/ "2024-07-19")
 
 ### NorCRIN - Clinical research
 The national infrastructure NorCRIN provides advice on national procedures, good clinical practice, data management and monitoring. NorCRIN is a partnership between six university hospitals in Norway with the objective to strengthen and simplify collaboration in all categories of clinical research in Norway and member of the [European Clinical Research Infrastructure Network (ECRIN ERIC)](https://ecrin.org/).
