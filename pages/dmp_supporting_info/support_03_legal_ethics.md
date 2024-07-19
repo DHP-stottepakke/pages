@@ -115,6 +115,7 @@ Reasons for sensitivity (non-exhaustive):
 	* Cultural Heritage Act ([Norwegian: Lov om kulturminner (kulturminneloven)](https://lovdata.no/dokument/NL/lov/1978-06-09-50)
 * Indigenous Data Governance
 	* United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter)](https://www.regjeringen.no/no/tema/urfolk-og-minoriteter/urfolkryddemappe/fns-erklaring-om-urfolks-rettigheter1/id629670/)
+	* [GIDA-Sápmi - Sámi Research Data Governance](https://uit.no/research/sshf-no/project?pid=788403 "2024-07-19")
 
 Further information:
 - [Report How should we share research data? (2021)](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf)
