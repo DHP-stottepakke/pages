@@ -53,16 +53,18 @@ For more advanced use, use of workflow systems, reproducible deployment and buil
 - Clearly outlines the documentation needed to enable data re-use, stating where the information will be recorded (for example a database with links to each item, a ‘readme’ text file, file headers, code books, or lab notebooks).
 - Indicates how the data will be organised during the project (for example naming conventions, version control strategy and folder structures).
 
-```
-**Relevant PID**
-- Metadata standard (DOI / URI)
-
-**Interested stakeholder**
-- Level 2: Possibly core facility, library staff
-
-**Relevant project phase**
-- planning post-award, active phase, archiving/publishing phase
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* Metadata standard (DOI / URI)\\
+\\
+**Interested stakeholder**\\
+* Level 2: Possibly core facility, library staff\\
+\\
+**Relevant project phase**\\
+* planning post-award, active phase, archiving/publishing phase\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dataset]
@@ -107,20 +109,21 @@ For more advanced use, use of workflow systems, reproducible deployment and buil
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
-- Identifying domain-specific archives. Generic archive properties.
-- Metadata standards. Data findability.
-- Data organization, version control.
-- Data documentation, domain conventions. 
+### Knowledge for support staff
+- Identifying domain-specific archives. Institutional and generic archive properties. Trusted research archives.
+- What lies in interoperability
+- Metadata standards. Linked data. Vocabularies/onotologies. Data findability (incl. indexing, metasearch, research catalogues).
+- Data organization. Version control.
+- Data documentation and domain conventions. 
 - Specific software: domain-specific, ELN
 - Useful resources, generic and domain-specific.
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - Metadata standard mostly defined by archive, how to identify archive
 - Data organization in active phase
-- Data documentation
+- Data documentation in the active phase and for preservation
 
 ---
 <!--recycling possible?-->
@@ -196,18 +199,19 @@ At a conceptual level, data quality approaches and standards are described in th
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Clearly describes the approach taken to ensure and document quality control in the collection of data during the lifetime of the project.
 
-```
-**Relevant PID**
-not pid, but defined persitant standards for quality control relevant? - *[Are there _standards_ for 'quality control'? Or should it be 'best practice'?]*
-(established practices like calibration, signing by colleague, peer review etc.) 
-
-**Interested stakeholder**
-Research community - caring about the trustworthyness of the research
-Publishing venue
-
-**Relevant project phase**
-- planning post-award, active phase
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* not pid, but defined practices for quality control relevant? (GLP, GMP, established practices like calibration, signing by colleague, peer review etc.)\\
+\\
+**Interested stakeholder**\\
+* Level 3: Research community - caring about the trustworthyness of the research\\
+* Level 3: Publishing venue\\
+\\
+**Relevant project phase**\\
+*  planning post-award, active phase\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dataset]
@@ -238,12 +242,12 @@ Publishing venue
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - Researchers might need help to present this explicit (might be self-explanatory to a researcher that one always calibrate an instrument for instance?)
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - Data quality measure examples
 
 ---

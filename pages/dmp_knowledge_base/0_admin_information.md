@@ -22,7 +22,7 @@ toc: true
 > 0.1\
 >Provide information such as name of applicant, project number, funding programme, version of DMP.
 
-This section should identify the project with title, acronym and funding (if relevant) and contain information about the host institution, participants, and collaborators. Persistent identifiers should be used wherever possible (e.g ROR - Research Organization Registry for institutions, ORCID for participants).
+This section should identify the project with title, acronym and funding (if relevant) and contain information about the host institution, participants, and collaborators. Persistent identifiers should be used wherever possible (e.g ROR - Research Organization Registry for institutions, ORCID for participants). Adding contextual information about the project (e.g. project abstract) is useful for anyone reading or evaluating the DMP.
 
 It is beneficial to include references to relevant documents as agreements or contracts (e.g. collaborative agreements), particularly in multi-stakeholder projects.
 Adding brief information about the purpose of the project (abstract) is helpful for evaluators.
@@ -33,20 +33,22 @@ More specific descriptions of roles and responsibilities can be added in [6 - Da
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Contains the minimal information required to identify the applicant and the references of the project.
 
-```
-**Relevant PID**
-- Persons: ORCID, CRIStin ID/NVA ID, role description DataCite/CredIT
-- Institutions: ROR
-- Funder: ID Open Funder Registry, ID CrossRef Funder Registry
-- Funding: Grant ID
-
-**Interested stakeholder**
-- Level 1: Funder
-- Level 2: Research Administration, CRIStin/NVA
-
-**Relevant project phase**
-- planning post-award, final reporting
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* Persons: ORCID, CRIStin ID/NVA ID, role description DataCite/CredIT\\
+* Institutions: ROR\\
+* Funder: ID Open Funder Registry, ID CrossRef Funder Registry\\
+* Funding: Grant ID\\
+\\
+**Interested stakeholder**\\
+* Level 1: Funder\\
+* Level 2: Research Administration, CRIStin/NVA\\
+\\
+**Relevant project phase**\\
+* planning post-award, final reporting\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
@@ -78,13 +80,13 @@ Missing:
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - Advantages/disadvantages of different PID systems. Which information is needed at institution/funder.
 - Being aware how contracts and collaborative agreements are handled at institution (e.g. ePhorte)
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - How to find the right PIDs (wishful thinking: pre-filled information based on Feide login)
 
 ---

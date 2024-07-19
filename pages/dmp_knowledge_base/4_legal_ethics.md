@@ -46,7 +46,7 @@ In this context also the following laws and regulations might be relevant:
 > 4a.1\
 > Ensure that when dealing with personal data data protection laws (for example GDPR) are complied with:
 
-According to GDPR there are two options for legal bases for processing of personal data in research, consent and general interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
+According to GDPR there are two options for legal bases for processing of personal data in research, consent and p interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
 - [Consult SIKTs guidance for Legal bases for personal data processing in research.](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
 - [Consult SIKTs guidance for information and consent.](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 - Consult your institutions requirements for notification forms for personal data, Data Protection Impact Assessments (DPIAs), risk and compliance system or similar.
@@ -87,20 +87,21 @@ If the data should be available for future research contact the archive you wish
 - Clearly indicates if personal data will be collected/used as part of the project, and, if applicable, how compliance with applicable legislation will be ensured (for example by gaining informed consent, considering encryption, anonymisation, or pseudonymisation). 
 - Describes the procedure to manage access to only authorised users.
 
-```
-**Relevant PID**
-- REK ID, ID SIKT personverntjenester
-- Ontology terms reflecting data protection (e.g. [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico), [Data Use Ontology](Data Use Ontology), [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)
-
-**Interested stakeholder**
-- Level 1: Host institution/data owner (information security, risk reduction)
-- Level 2: REK, SIKT personverntjenester, DPO or legal experts
-
-**Relevant project phase**
-- pre-award: outline
-- planning post-award, active phase
-
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* REK ID, ID SIKT personverntjenester\\
+* Ontology terms reflecting data protection (e.g. [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico), [Data Use Ontology](Data Use Ontology), [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)\\
+\\
+**Interested stakeholder**\\
+* Level 1: Host institution/data owner (information security, risk reduction)\\
+* Level 2: REK, SIKT personverntjenester, DPO or legal experts\\
+\\
+**Relevant project phase**\\
+* pre-award: outline\\
+* planning post-award, active phase\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
@@ -143,8 +144,13 @@ Missing:
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - NB! encryption is problematic for long-term preservation (e.g. NFR guidance)
+- What is personal data & special category personal data, which laws & guidelines apply, responsibilities (e.g. DPO)
+- If personal data is processed, which legal bases for data processing is used (usually relevant: public intrest or consent)?
+- If research is legal basis for data processing, then consent is is part of 4c below.
+- Use data minimisation as a strategy to avoid unwanted privacy breaches. 
+- Explain whether there is a managed access procedure in place for authorised users of personal data. Ensure that this aspect is covered under storage [3b - How will data security and protection of sensitive data be taken care of during the research?](3_storage_backup).
 
 #### Institutional privacy policies
 - [University of Bergen (UiB)](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen), also available [in Norwegian](https://www.uib.no/personvern)
@@ -159,6 +165,7 @@ Missing:
 - Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
 - [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
 - [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
+- [Policy on information security and data protection in higher education and research *Norwegian only*](https://www.regjeringen.no/no/dokumenter/f-04-20-policy-for-informasjonssikkerhet-og-personvern-i-hoyere-utdanning-og-forskning/id2769629/)
 
 ##### Health research data
 - [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44)
@@ -173,31 +180,32 @@ Missing:
 - [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
 - [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
 
-##### Other laws of potential relevance to life sciences research data
+##### Other laws of potential relevance
 - [Archive Act](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
 - [Research Ethics Act](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
-- [Patent Act](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
-- [Copyright Act](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
 - [Act on Universities and Colleges Act](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
-- [National Security Act](https://lovdata.no/dokument/NL/lov/2018-06-01-24)
 
-- What is personal data & special category personal data, which laws & guidelines apply, responsibilities (e.g. DPO)
-- If personal data is processed, which legal bases for data processing is used (usually relevant: public intrest or consent)?
-- If research is legal basis for data processing, then consent is is part of 4c below.
-- Use data minimisation as a strategy to avoid unwanted privacy breaches. 
-- Explain whether there is a managed access procedure in place for authorised users of personal data. Ensure that this aspect is covered under storage [3b - How will data security and protection of sensitive data be taken care of during the research?](3_storage_backup).
+#### Data Minimization
+- [EDPS glossary: Data minimization](https://www.edps.europa.eu/data-protection/data-protection/glossary/d_en)
+- [Datatilsynet: Grunleggende personvernprinsipper - Dataminimering (in Norwegian)](https://www.datatilsynet.no/rettigheter-og-plikter/personvernprinsippene/grunnleggende-personvernprinsipper/dataminimering/)
+
+#### Data Anonymization
+- [Datatilsynet: The anonymisation of personal data](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/) also as [pdf: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
+- [Sikt: Carrying out a project without processing personal data](https://sikt.no/en/personvernhandbok-forskning/carrying-out-project-without-processing-personal-data "2024-07-18")
+- Sikt archive accepts anonymized and directly/indirectly identifiable quantitative data. Sikt does not accept anonymized qualitative data. [Types of data to be archived with Sikt](https://sikt.no/en/tjenester/arkivere-data/what-kind-data-can-be-archived-sikt "2024-07-18")
+- [Amnesia Anonymization Tool (OpenAire)](https://amnesia.openaire.eu/)
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - National regulations
 - Personal data, special categories of personal data
 - GDPR legal basis (behandlingsgrunnlag)
 - Data minimization principle
-- informed consent, granular consent
-- health data
-- de-identification - pseudonymisation
-- anonymization
+- Informed consent, granular consent
+- Health data
+- De-identification - pseudonymisation
+- Anonymization
 
 ---
 <!--recycling possible?-->
@@ -293,7 +301,7 @@ Legal requirements for data processor and joint data controller agreements.
 Much research data can be protected as databases. Inform yourself about to what extent copyright applies to the data you create or collect, agreements you have with your employer regarding ownership. Intellectual property might affect how open the data can be shared with others.
 
 Consult:
--	Funders requirements regarding licencing.
+- Funders requirements regarding licencing.
 - National recommendations for licencing of research data; [How should we share research data?](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf)
 - Institutional policies for intellectual property (IPR).
 -	Institutional recommendations for licensing.
@@ -312,18 +320,20 @@ Clearly explains, if applicable:
 - Alternatively, there is a clear statement that there are no such restrictions on the data.
 - Indicates, if applicable, whether there are any restrictions on the re-use of thirdparty data.
 
-```
-**Relevant PID**
-- country codes, laws, document ids of contracts/collaborative agreements, licenses of re-used data
-
-**Interested stakeholder**
-- Level 1: Host institution/data owner (risk reduction)
-- Level 2: Possibly ITA, DPO or legal experts, REK
-
-**Relevant project phase**
-- pre-award: outline
-- planning post-award, active phase
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* country codes, laws, document ids of contracts/collaborative agreements, licenses of re-used data\\
+\\
+**Interested stakeholder**\\
+* Level 1: Host institution/data owner (risk reduction)\\
+* Level 2: Possibly ITA, DPO or legal experts, REK\\
+\\
+**Relevant project phase**\\
+* pre-award: outline\\
+* planning post-award, active phase\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dataset]
@@ -352,22 +362,44 @@ Missing:
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
-- legislation, legal challenges (e.g. different legislations and GDPR)
-- Export control, eksportkontrollloven
+### Knowledge for support staff
+- Legislation, legal challenges (e.g. different legislations and GDPR)
 - IPR
-- Cultural heritage, kulturminneloven
-- commercial interests, patents, contact to local TTO
-- collaborative agreement best practice, how are they referred to
-- Åndsverkloven, arkivloven
-- Report How should we share research data
+- Commercial interests, patents, contact to local TTO
+- Collaborative agreement best practice, how are they referred to
+- The Research Council of Norway: [How should we share research data? Report and recommendations relating to licensing and making research data available](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf)
+
+#### Relevant legislation and documents
+- National security
+	- National Security Act ([Norwegian: Lov om nasjonal sikkerhet(sikkerhetsloven)](https://lovdata.no/dokument/NL/lov/2018-06-01-24)
+	- [Rapport Et helhetlig forskningssystem for åpen, skjermet og gradert forskning (2024) *Norwegian only*](https://www.forskningsradet.no/siteassets/publikasjoner/2024/sluttrapport_helhetlig-forskningssystem.pdf)
+- Export control regulations
+	- Export Control Act ([Norwegian: Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v.(eksportkontrollloven)](https://lovdata.no/dokument/NL/lov/1987-12-18-93)
+	- [Report Guidelines and tools for responsible international knowledge cooperation (2023)](https://hkdir.no/en/rapporter-undersokelser-og-statistikk/guidelines-and-tools-for-responsible-international-knowledge-cooperation-report)
+- Intellectual Property Rights (IPR) or confidentiality issues
+	- Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
+	- Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
+	- Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
+	- Act on Universities and Colleges Act [Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven))](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
+- Research on endagered species
+	- Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100)
+- Research on protected cultural heritage
+	- Cultural Heritage Act ([Norwegian: Lov om kulturminner (kulturminneloven)](https://lovdata.no/dokument/NL/lov/1978-06-09-50)
+- Indigenous Data Governance
+	- United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter)](https://www.regjeringen.no/no/tema/urfolk-og-minoriteter/urfolkryddemappe/fns-erklaring-om-urfolks-rettigheter1/id629670/)
+
+#### Institutional IPR policies:
+* [University of Bergen (UiB)](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-07-19")
+* [University of Oslo (UiO)](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-07-19")
+* [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
+* [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-07-19"))
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - legislation, legal challenges (e.g. different legislations)
 - possible restrictions, where to find information
-- ethics resources at their institutions (list with links?)
+- ethics resources at their institutions (list with links)
 - IPR at their institutions (list with links)
 - commercial interests, patent applications and implications
 - licensing
@@ -439,30 +471,34 @@ It is less common that the institutions have ethics committees.
 
 Be aware of international codes of conduct including but not limited to:
 - [CARE principles from GIDA](https://www.gida-global.org/care) for Indigenous Data Governance
+- [Indigenous data, consent](https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/FreePriorandInformedConsent.pdf)
 - [Nagoya protocol](https://www.cbd.int/abs) on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization to the Convention on Biological Diversity
 - [WMA Declaration of Helsinki](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/) on Ethical Principles for Medical Research Involving Human Subjects
+- [Ethics and governance of artificial intelligence for health](https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf?sequence=1)
 - [Ethical Guidelines for the Use of Animals in Research](https://www.forskningsetikk.no/en/guidelines/science-and-technology/ethical-guidelines-for-the-use-of-animals-in-research/)
 
-Also reflect on and consult communites and general Responsible Research and Innovation (RRI) guidelines.
+Also reflect on and consulting communities and general Responsible Research and Innovation (RRI) guidelines.
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Provides details of what ethical issues have been considered that may affect data storage, transfer, use, sharing and/ or preservation, and demonstrates that adequate measures are in place to manage ethical requirements.
 - Mentions, if applicable, whether ethical review is being pursued. If ethical approval has been obtained, refers to the relevant committee and documents.
 - Refers to relevant ethical guidelines and/or codes of conduct or alternatively provides a clear statement that explains why ethical issues have not been considered.
 
-```
-**Relevant PID**
-- country codes, laws, document ids of contracts/collaborative agreements, licenses of re-used data
-
-**Interested stakeholder**
-- Level 1: Host institution (compliance with research ethics)
-- Level 2: Possibly core facility (animal facility, sequencing facility)
-- Level 3: Affected communities
-
-**Relevant project phase**
-- pre-award: outline
-- planning post-award, active phase
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* Country codes, laws, document ids of contracts/collaborative agreements, licenses of re-used data\\
+\\
+**Interested stakeholder**\\
+* Level 1: Host institution (compliance with research ethics)\\
+* Level 2: Possibly core facility (animal facility, sequencing facility)\\
+* Level 3: Affected communities\\
+\\
+**Relevant project phase**\\
+* pre-award: outline\\
+* planning post-award, active phase\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
@@ -496,20 +532,23 @@ Missing:
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
-- RRI
+### Knowledge for support staff
 - [Forskningsetikkloven](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
+- Local organisation of research ethics
 - [Veileder institusjonenens ansvar forskingsetikk](https://www.forskningsetikk.no/ressurser/veileder-om-institusjonenes-ansvar-for-forskningsetikk/)
 - [National Research Ethics Committees Q&A: New privacy legislation - what does this imply for research *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
-- [Animals use for scientific purposes *Norwegian only*](https://www.forsoksdyrkomiteen.no/ressurser/)
-- [Indigenous data, consent](https://www.ohchr.org/sites/default/files/Documents/Issues/IPeoples/FreePriorandInformedConsent.pdf)
-- CARE - reflect on and consult communites
-- [Ethics and governance of artificial intelligence for health])(https://iris.who.int/bitstream/handle/10665/375579/9789240084759-eng.pdf?sequence=1)
-- Nagoya protocol
+- Research ethical guidelines and codes of conduct
+- Responsible Research and Innovation (RRI)
+
+#### Institutional resources on research ethics: 
+* [UiB Research Ethics](https://www.uib.no/en/researchethics "2024-07-17")
+* [Research ethics at UiO](https://www.uio.no/english/for-employees/support/research/research-ethics/ "2024-07-17")
+* [Ethics at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Ethics+at+NTNU "2024-07-17")
+* [UiT Research Ethics](https://en.uit.no/research/ethics)
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - Awareness of ethical issues and implications, relevant documents
 - Local ethical resources and boards
 

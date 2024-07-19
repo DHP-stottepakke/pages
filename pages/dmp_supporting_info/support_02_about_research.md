@@ -8,15 +8,25 @@ page_id: support_02_about_research
 description: Supporting DMP Information, Administrative information, Research project, Contributors, Funding
 sidebar: dmp_supporting_info
 ---
-We need a general introduction here.
+
+{% include callout.html type="tip" content="
+**Why is this topic important**\\
+>> What is in for you?\\
+>> Short & concise\\
+>> Add lines as needed\\
+" %}
 
 ## About this chapter
 
-**Why is this topic important**
+General information
 
 ## Question-specific guidance
 
-### About the research project
+### Question 1
+
+### Question 2
+
+#### About the research project
 
 Project title
 

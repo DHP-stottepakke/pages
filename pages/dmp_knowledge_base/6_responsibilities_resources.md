@@ -48,19 +48,21 @@ The DMP should be used as an active project management tool, and the value of a 
 - Clearly indicates who is responsible for day-to-day implementation and adjustments to the DMP.
 - Explains, for collaborative projects, the co-ordination of data management responsibilities across partners.
 
-```
-**Relevant PID**
-- ORCID to identify individuals
-- CRediT for contributors roles
-- ROR for institution (? - for responsible institution. And to map individual ORCIDs with institution?)
-
-**Interested stakeholder**
-- Level 2: Possibly core facility, research administration, research archive
-- Level 3: Research community (when assessing the project)
-
-**Relevant project phase**
-- planning post-award, active phase, final reporting
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* ORCID to identify individuals\\
+* CRediT for contributors roles\\
+* ROR for institution (? - for responsible institution. And to map individual ORCIDs with institution?)\\
+\\
+**Interested stakeholder**\\
+* Level 2: Possibly core facility, research administration, research archive\\
+* Level 3: Research community (when assessing the project)\\
+\\
+**Relevant project phase**\\
+* planning post-award, active phase, final reporting\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
@@ -85,14 +87,14 @@ The DMP should be used as an active project management tool, and the value of a 
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - Assigning roles (e.g. CRediT)
 - Understanding responsibilities (e.g. GDPR & institution)
 - Stress the importance of clear distribution of roles and responsibilities, and the importance of communicating the roles and responsibilities among project members.
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - Examples of responsibility distribution
 - Motivation: The importance of clear roles and responsibility distribution
 
@@ -154,18 +156,20 @@ Include monetary costs in your project budget, preferrably broken down on activi
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 - Provides clear estimates of the resources and costs (for example storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges) that will be dedicated to data management and ensuring that data will be FAIR and describes how these costs will be covered. Alternatively, there is a statement that no additional resources are needed.
 
-```
-**Relevant PID**
-- none?
-
-**Interested stakeholder**
-- Level 1: Funder
-- Level 2: Research Administration
-
-**Relevant project phase**
-- planning pre-award
-- planning post-award
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* none?\\
+\\
+**Interested stakeholder**\\
+* Level 1: Funder\\
+* Level 2: Research Administration\\
+\\
+**Relevant project phase**\\
+* planning pre-award\\
+* planning post-award\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
@@ -190,13 +194,13 @@ Include monetary costs in your project budget, preferrably broken down on activi
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - Costing RDM, funder guidelines on what costs are eligible
 - Resources e.g. [OpenAire section costs of RDM](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm), [OpenAire RDM cost estimation](https://www.openaire.eu/estimating-costs-rdm-tool)
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - Costing RDM
 - Resources e.g. [OpenAire section costs of RDM](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm), [OpenAire RDM cost estimation](https://www.openaire.eu/estimating-costs-rdm-tool)
 

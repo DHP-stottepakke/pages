@@ -2,10 +2,12 @@ title: DMP Supporting Information
 title_url: /dmp_supporting_info
 
 subitems:
-  - title: Planning considerations
-    url: /support_00_planning_considerations
+  - title: Purpose of a DMP
+    url: /support_00_dmp_purpose
   - title: Get local/disciplinary support
     url: /support_00_local_disc
+  - title: Considerations pre-start/pre-award
+    url: /support_00_planning_considerations
   - title: 1 - About the DMP
     url: /support_01_about_dmp
   - title: 2 - About the research project

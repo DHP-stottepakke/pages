@@ -8,16 +8,25 @@ page_id: support_05_reuse_collect
 description: Supporting DMP Information, reusing data, data reuse, data re-use, pre-existing data
 sidebar: dmp_supporting_info
 ---
-We need a general introduction here.
+
+{% include callout.html type="tip" content="
+**Why is this topic important**\\
+>> What is in for you?\\
+>> Short & concise\\
+>> Add lines as needed\\
+" %}
 
 ## About this chapter
 
-**Why is this topic important**
+General information
 
 ## Question-specific guidance
 
-### Reusing and collecting data
+### Question 1
 
+### Question 2
+
+#### Reusing and collecting data
 The project will (re)use dataset(s) or record(s) available in a repository/registry/archive
 
 Not applicable

@@ -74,3 +74,8 @@ While working on the project, we came across inspiring DMP projects in other cou
 - DeiC DMP (Danmark): [https://dmp.deic.dk/](https://dmp.deic.dk/)
 - Salzburg Manifesto on machine-actionable Data Management Plans (maDMPs): [https://doi.org/10.5281/zenodo.10658522](https://doi.org/10.5281/zenodo.10658522)
 - OSTrails (EU project): [https://ostrails.eu](https://ostrails.eu)
+
+### Relevant working groups
+- [Research Data Allicance (RDA) DMP Common Standards WG](https://www.rd-alliance.org/groups/dmp-common-standards-wg/)
+- [Research Data Allicance (RDA) Active Data Management Plans IG](https://www.rd-alliance.org/groups/active-data-management-plans/)
+- [LIBER Research Data Management Working Group](https://libereurope.eu/working-group/research-data-management/)

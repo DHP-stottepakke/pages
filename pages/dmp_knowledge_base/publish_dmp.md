@@ -19,18 +19,20 @@ toc: true
 
 Best practice is to publish the DMP with a PID. This can be referred to (and from) when publishing papers, data sets and other outputs from the research project. Ideally, all versions of the DMP could be published, but at minimum the final version should be made available (i.e. when reporting the project). The research repository [Zenodo](https://zenodo.org/) is often used to publish DMPs, together with other researchs results. In Norway, The National Research Archive (Nasjonalt vitenarkiv, NVA) is [under development](https://sikt.no/tjenester/nasjonalt-vitenarkiv-nva), and this might also be a possible repository for DMP archiving and/or publication.
 
-```
-**Relevant PID**
-- PID of DMP
-
-**Interested stakeholder**
-- Level 1: Funder
-- Level 2: Research Administration, CRIStin/NVA
-- Level 3: Research community
-
-**Relevant project phase**
-- planning post-award, active phase
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* PID of DMP\\
+\\
+**Interested stakeholder**\\
+* Level 1: Funder\\
+* Level 2: Research Administration, CRIStin/NVA\\
+* Level 3: Research community\\
+\\
+**Relevant project phase**\\
+* planning post-award, active phase\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
@@ -59,12 +61,12 @@ We also recommend assigning your data management plan a persistent identifier, s
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - How to publish a DMP (with different tools, recommended platforms, versions)
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - Why should you publish your DMP
 - How to publish your DMP
 

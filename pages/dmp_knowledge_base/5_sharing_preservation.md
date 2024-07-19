@@ -52,17 +52,19 @@ It is crucial to be aware of necessity of access restriction and possibilities t
 - Clearly explains, if applicable, why data sharing is limited or not possible, and who can access the data under which conditions (for example, only members of certain communities or via a sharing agreement).
 - Explains, where possible, what actions will be taken to overcome or to minimise data sharing restrictions.
 
-```
-**Relevant PID**
-- PID of archived datasets?
-
-**Interested stakeholder**
-- Level 2: Core facility, data archive, research administration (statistics)
-
-**Relevant project phase**
-- pre-award:outline
-- planning post-award, active phase, final reporting
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* PID of archived datasets?\\
+\\
+**Interested stakeholder**\\
+* Level 2: Core facility, data archive, research administration (statistics)\\
+\\
+**Relevant project phase**\\
+* pre-award:outline\\
+* planning post-award, active phase, final reporting\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
@@ -112,7 +114,7 @@ Missing:
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - Embargo policies and funder guidelines
 - Controlled access repositories
 - Ways of limiting data reuse: reuse tags, licenses
@@ -121,7 +123,7 @@ Missing:
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - sharing as in archiving != sharing with collaborators in the active phase (storage = section 3, consortia agreements in section 4)
 - Embargo policies and funder guidelines
 - Valid and invalid reasons of access restritions and how to do this in practice
@@ -213,16 +215,18 @@ If there is unpublished data remaining at the end of the project, a preservation
 - Explains how data will be managed in a sustainable way beyond the lifetime of the grant.
 - Provides the name of the archive or trustworthy repository – or the way to curate and preserve data – that will be used to make data available for re-use.
 
-```
-**Relevant PID**
-- none?
-
-**Interested stakeholder**
-- Level 2: Core facility, data archive, research administration (statistics), CRIStin/NVA
-
-**Relevant project phase**
-- active phase, final reporting
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* none?\\
+\\
+**Interested stakeholder**\\
+* Level 2: Core facility, data archive, research administration (statistics), CRIStin/NVA\\
+\\
+**Relevant project phase**\\
+* active phase, final reporting\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
@@ -275,14 +279,14 @@ Missing:
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - Preservation selection best practice.
 - Legal requirements, e.g. health data.
 - Selecting repositories, archive catalogues, definition trusted repositories
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - Preservation selection best practice.
 - Consider when preservation decisions will be taken. Might be too early to concretize at planning stage but institutional guidance and requirements should be taken into account.
 - Selecting a trusted repository.
@@ -354,16 +358,18 @@ There is few reasons to share data outside of data repositories after completion
 - Clearly indicates which specific tools or software (for example specific scripts, codes, or algorithms developed during the project, version of the software) potential users may need to access, interpret, and (re-)use the data. 
 - Provides information, if relevant, on any protocol to access the data (for example if authentication is needed or if there is a data access request procedure).
 
-```
-**Relevant PID**
-- none?
-
-**Interested stakeholder**
-- Level 3: Research community (+Standard bodies?)
-
-**Relevant project phase**
-- active phase, final reporting
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* none?\\
+\\
+**Interested stakeholder**\\
+* Level 3: Research community (+Standard bodies?)\\
+\\
+**Relevant project phase**\\
+* active phase, final reporting\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
@@ -393,7 +399,7 @@ Missing:
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - Data provenance
 - Persistent file formats
 - Dependencies for software code.
@@ -401,7 +407,7 @@ Missing:
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - Data provenance
 - Persistent file formats
 - Dependencies for software code
@@ -447,16 +453,18 @@ At what granularity are PIDs provided? (collection, dataset, each item in a data
 - Clearly indicates if and which PIDs are provided for all datasets, individual datasets, data collections, or subsets. If PIDs will not be used, it explains why.
 - Clearly presents the approach, and the choice of identifiers is justified and refers to international standards.
 
-```
-**Relevant PID**
-- PID of all datasets produced
-
-**Interested stakeholder**
-- Level 2: Research administration (statistics), CRIStin/NVA
-
-**Relevant project phase**
-- active phase, final reporting
-```
+{% include callout.html type="note" content="
+**Mappings**\\
+\\
+**Relevant PID**\\
+* PID of all datasets produced\\
+\\
+**Interested stakeholder**\\
+* Level 2: Research administration (statistics), CRIStin/NVA\\
+\\
+**Relevant project phase**\\
+* active phase, final reporting\\
+" %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in dmp]
@@ -491,13 +499,13 @@ Will a persistent identifier (DOI) for the datasets be used? Persistent identifi
 
 ---
 <!--additional explanations-->
-### Explanations for support staff
+### Knowledge for support staff
 - Types of PIDs
 - Research catalogues
 
 ---
 <!--additional explanations - only keywords-->
-### Explanations for users
+### Knowledge for users
 - The archives decides for you, types of PIDs
 
 ---
