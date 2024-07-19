@@ -22,10 +22,18 @@ General information
 
 ## Question-specific guidance
 
-### Question 1
+### Which data storage guidelines will you be following?
+Institutions commonly have a storage guide that explains which data can be stored where.
+
+Institutional storage guides:
+* [UiB Storage guide](https://www.uib.no/en/foremployees/153608/storage-guide)
+* [UiO Data storage guide](https://www.uio.no/english/services/it/security/lsis/storage-guide.html)
+* [NTNU Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
+* [UiT Research data portal - Processing and storage](https://en.uit.no/research/research-dataportal/art?p_document_id=729174)
 
 ### Question 2
 
+## Structure
 #### Storing and protecting data
 
 Which data storage guidelines will you be following?
