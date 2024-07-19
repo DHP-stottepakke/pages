@@ -1,15 +1,17 @@
 copyright: "[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) Except where otherwise noted, dHMp norge is licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)."
-extra_line: "dHMp norge is a deliverable in the project [Data Management Plans: Support package for Norwegian higher education libraries](https://www.uib.no/en/ub/166135/data-management-plans-support-package-norwegian-higher-education-libraries) led by the University of Bergen. \nThe project is supported by the National Library of Norway."
+extra_line: "dHMp norge is an output of the project [Data Management Plans: Support package for Norwegian higher education libraries](https://www.uib.no/en/ub/166135/data-management-plans-support-package-norwegian-higher-education-libraries) led by the University of Bergen. \nThe project is supported by the National Library of Norway."
 
 columns:
   - type: links
-    width: 2
+    width: 1
     children:
-      - url_text: Contribute
-        url: /contribute
+     - url_text: Contributors
+       url: /contributors
+     - url_text: How to cite
+       url: /contribute
   - type: image
     image_width: 100%
-    width: 2
+    width: 1
     src: 'assets/img/uib-logo-inv.svg'
     alt: logo uib
   - type: image
@@ -32,8 +34,8 @@ columns:
     width: 1
     src: 'assets/img/elixir-logo.svg'
     alt: logo elixir
-  - type: image
-    image_width: 100%
-    width: 1
-    src: 'assets/img/nb-logo-inv.svg'
-    alt: logo nb
+  #- type: image
+    #image_width: 100%
+    #width: 1
+    #src: 'assets/img/nb-logo-inv.svg'
+    #alt: logo nb

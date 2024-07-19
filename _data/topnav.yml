@@ -3,8 +3,8 @@ subitems:
     url: /index
   - title: Knowledge Base for Support Staff
     url: /dmp_knowledge_base
-  #- title: DMP tool texts
-    #url: /dmp_texts
+  #- title: DMP Questionnaire
+    #url: /dmp_template
   - title: DMP Supporting Information
     url: /dmp_supporting_info
   - title: Contribute

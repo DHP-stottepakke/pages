@@ -8,13 +8,13 @@ site_url: https://dhp-stottepakke.github.io/pages/
 
 github_edit_url: "{{ site_url }}/edit/{{ github_branch }}/"
 
-title: "DMP support package demo"
+title: "DMP Support Package"
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 topnav_title: ''
 # this appears on the top navigation bar next to the home button
 
-description: "Data Management Planning support package for Norwegian Higher Education Libraries"
+description: "Data Management Planning Support Package for Norwegian Higher Education Libraries"
 # Metadata description of the website
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.5.0
