@@ -11,20 +11,24 @@ sidebar: dmp_supporting_info
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> What is in for you?\\
->> Short & concise\\
->> Add lines as needed\\
+>> Defining what research data that will be analysed within your project is an important core element when designing your research project. You should always check whether excisting data can be of relevance to your project. Identifying reusable data will often be a very effective way of planning and starting a project.\\
+>> Defining how project data will be collected will also help when defining and delegate data management roles in the project\\
+>> Defining how data will be reused, created and flow in and out of your project, will contribute to Open Data and Open Science\\
+>> Add lines as neeeded\\
 " %}
 
 ## About this chapter
 
-General information
+In this chapter you are asked to define what data that will be included in your project, including both data residing externally from your project that will be included, as well as data that will be collected by yourself or other project members.   
 
 ## Question-specific guidance
 
-### Question 1
+### Q1: If applicable: Will you reuse published datasets or build on digital sources?
+All research projects are based on excisting sources and/or data for producing knowledge. Reusing data can therefore be essetial.   
 
-### Question 2
+### Q2: If applicable: Will you reuse unpublished data(sets)?
+
+### Q3: If applicable: Did you consider but discard the idea of reusing data?
 
 #### Reusing and collecting data
 The project will (re)use dataset(s) or record(s) available in a repository/registry/archive
