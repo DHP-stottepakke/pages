@@ -58,7 +58,7 @@ Knowledge resource: [Data Management Expert Guide](https://dmeg.cessda.eu/ "2024
 ### CLARINO - Language sciences
 The Common Language Resources and Technology Infrastructure Norway (CLARINO) maintains research data repositories, tools and services. It is a node in the pan-European [Common Language Resources and Technology Infrastructure (CLARIN ERIC)](https://www.clarin.eu/).
 
-Homepage: [CLARINO](https://clarin.w.uib.no/ "2024-07-12)
+Homepage: [CLARINO](https://clarin.w.uib.no/ "2024-07-12")
 
 ### ELIXIR Norway - Life sciences
 ELIXIR Norway provides data management support as well as e-infrastructure, tools and data resources and training for the life sciences. It is the Norwegian node of the pan-European [infrastructure for biological information (ELIXIR)](https://elixir-europe.org/).
