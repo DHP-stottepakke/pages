@@ -100,7 +100,7 @@ NOR-Openscreen is the Norwegian node of the [EU-Openscreen infrastructure (EU-Op
 
 Homepage: [NOR-Openscreen](https://www.openscreen.uio.no/english/index.html "2024-08-12")
 
-Knowledge resource: [NOR-Openscreen offers guidance about FAIR data management](https://www.openscreen.uio.no/english/services/data-management/index.html "2024-08-12")
+Helpdesk:  [chembio@ncmm.uio.no](mailto:chembio@ncmm.uio.no?subject=Research Data Management)
 
 ### Sigma2 - National e-infrastructure for computational Science
 Sigma2 provides services in high-performance computing and large-scale data storage.
