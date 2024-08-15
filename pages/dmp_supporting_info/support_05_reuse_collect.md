@@ -23,12 +23,20 @@ In this chapter you are asked to define what data that will be included in your 
 
 ## Question-specific guidance
 
-### Q1: If applicable: Will you reuse published datasets or build on digital sources?
-All research projects are based on excisting sources and/or data for producing knowledge. Reusing data can therefore be essetial.   
+### If applicable: Will you reuse published datasets or build on digital sources?
+Almost all research projects are based on using excisting digital sources for producing knowledge. When researching relevant digital sources, you should search for both research publications as well as for relevant datasets. Some much-used services when searching for data: 
+- DataCite
+- Google Dataset Search 
+- Mendeley Data
+- Dimensions   
 
-### Q2: If applicable: Will you reuse unpublished data(sets)?
+### If applicable: Will you reuse unpublished data(sets)?
+Unpublished, but highly relevant, data(sets) can be findable within searchable registers. Some examples in Norway can be:
+Surveybanken (the Survey Bank)
+helsedata.no
 
-### Q3: If applicable: Did you consider but discard the idea of reusing data?
+### If applicable: Did you consider but discard the idea of reusing data?
+There can be a number of reasons to discard the idea of reusing data, like lack of relevance for excisting data etc. Identifying such reasons (when designing your project) will motivate the nesessity of collecting new data, and possibly motivate your sharing of your new data in a findable, accessible, interoprable and reusable manner.  
 
 #### Reusing and collecting data
 The project will (re)use dataset(s) or record(s) available in a repository/registry/archive
