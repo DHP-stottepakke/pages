@@ -96,7 +96,7 @@ Homepage: [NorCRIN](https://www.norcrin.no/ "2024-07-12")
 Knowledge resource: [Guidance and support (NorCRIN): Are you planning a clinical study?](https://www.norcrin.no/en/are-you-planning-a-clinical-study/)
 
 ### NOR-Openscreen - Chemical biology
-NOR-Openscreen is the Norwegian node of the [EU-Openscreen infrastructure (EU-Openscreen ERIC)](https://www.eu-openscreen.eu/) supporting the discovery of biologically active substances in all areas of the Life Sciences by providing transnational, open access to the most advanced technologies, chemical and biological resources as well as expertise through Europe. 
+NOR-Openscreen is the Norwegian node of the [EU-Openscreen infrastructure (EU-Openscreen ERIC)](https://www.eu-openscreen.eu/) supporting the discovery of biologically active substances in all areas of the Life Sciences by providing transnational, open access to the most advanced technologies, chemical and biological resources as well as expertise through Europe. NOR-Openscreen offers guidance about FAIR data management.
 
 Homepage: [NOR-Openscreen](https://www.openscreen.uio.no/english/index.html "2024-08-12")
 
