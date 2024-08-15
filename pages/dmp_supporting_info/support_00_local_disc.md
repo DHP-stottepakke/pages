@@ -78,12 +78,29 @@ Homepage: [GBIF Norway](https://www.gbif.no/ "2024-07-19")
 
 Helpdesk: [helpdesk@gbif.no](https://www.gbif.no/services/ "2024-07-19")
 
+### NALMIN - Norwegian Advanced Light Microscopy Imaging Network
+Norwegian Advanced Light Microscopy Imaging Network (NALMIN) principal goal is to establish a network at international competence level for advanced light microscopy. The network consists of 5 national nodes located in Oslo (1 node with two branches(NorMIC IBV and NorMIC Radium)), Bergen, Trondheim (2 nodes) and Tromsø, each with specialized competence. All nodes are members of the national NorBioimaging infrastructure organization, and the NorMIC Oslo node is a member of the [EuroBioimaging ECRIN](https://www.eurobioimaging.eu/nodes/normic-oslo---advanced-light-microscopy-node-oslo) network. 
+
+Homepage: [NALMIN](https://nalmin.no/ "2024-08-12")
+
+### NAPI - National network of Advanced Proteomics Infrastructure 
+NAPI partners include proteomics core facilities in Oslo, Bergen, Trondheim, Tromsø and Ås, as well as research groups with a strong focus on proteomics technology development. NAPI therefore combines the proteomics expertise available across Norway, streamlining collaborations, accelerating the development of new techniques, and providing researchers in Norway access to cutting edge proteomics technology.
+
+Homepage: [NAPI](https://www.napi.uio.no/ "2024-08-12")
+
 ### NorCRIN - Clinical research
 The national infrastructure NorCRIN provides advice on national procedures, good clinical practice, data management and monitoring. NorCRIN is a partnership between six university hospitals in Norway with the objective to strengthen and simplify collaboration in all categories of clinical research in Norway and member of the [European Clinical Research Infrastructure Network (ECRIN ERIC)](https://ecrin.org/).
 
 Homepage: [NorCRIN](https://www.norcrin.no/ "2024-07-12")
 
 Knowledge resource: [Guidance and support (NorCRIN): Are you planning a clinical study?](https://www.norcrin.no/en/are-you-planning-a-clinical-study/)
+
+### NOR-Openscreen - Chemical biology
+NOR-Openscreen is the Norwegian node of the [EU-Openscreen infrastructure (EU-Openscreen ERIC)](https://www.eu-openscreen.eu/) supporting the discovery of biologically active substances in all areas of the Life Sciences by providing transnational, open access to the most advanced technologies, chemical and biological resources as well as expertise through Europe. NOR-Openscreen offers guidance about FAIR data management.
+
+Homepage: [NOR-Openscreen](https://www.openscreen.uio.no/english/index.html "2024-08-12")
+
+Helpdesk: [chembio@ncmm.uio.no](mailto:chembio@ncmm.uio.no?subject=Research Data Management)
 
 ### Sigma2 - National e-infrastructure for computational Science
 Sigma2 provides services in high-performance computing and large-scale data storage.
