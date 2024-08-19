@@ -22,6 +22,16 @@ In this chapter you are asked to define what data that will be included in your 
 
 ## Question-specific guidance
 
+Question-specific guidance should match with latest structure:
+- The project will (re)use dataset(s) or record(s) available in a repository/registry/archive
+- The project will collect data through observations, questionnaires or interviews
+- The project will collect physical samples
+- The project will capture data using measurement equipment
+- The project will generate research software or code (TODO)
+- The project will generate computational data or models (TODO)
+- Other types of data the project will gather
+- Who else could be interested in us in using data from this project?
+
 ### If applicable: Will you reuse published datasets or build on digital sources?
 Almost all research projects are based on using excisting digital sources for producing knowledge. When researching relevant digital sources, you should search for both research publications as well as search for relevant datasets. Some much-used services when searching for excistin data: 
 - [Datacite](https://pages.github.com/)
