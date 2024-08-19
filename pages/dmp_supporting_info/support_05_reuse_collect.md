@@ -11,56 +11,37 @@ sidebar: dmp_supporting_info
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> Defining what research data that will be analysed within your project is an important core element when designing your research project. You should always check whether excisting data can be of relevance to your project. Identifying reusable data will often be a very effective way of planning and starting a project.\\
->> Defining how project data will be collected will also help when defining and delegate data management roles in the project\\
->> Defining how data will be reused, created and flow in and out of your project, will contribute to Open Data and Open Science\\
->> Add lines as neeeded\\
+>> Defining what research data that will be analysed within your project is an important core element when designing your research project. Identifying reusable data will often be a very effective way of starting the planning of a project, and thus you should always check whether excisting data can be of relevance to your project.\\
+>> Defining how project data will be collected will also help when defining data management roles and delegate daa management in the project\\
+>> Defining how data will be created, possivbly reused and flow in and out of your project, will contribute to Open Data and Open Science\\
 " %}
 
 ## About this chapter
 
-In this chapter you are asked to define what data that will be included in your project, including both data residing externally from your project that will be included, as well as data that will be collected by yourself or other project members.   
+In this chapter you are asked to define what data that will be included in your project, including both data originating outside of your project, as well as data that will be collected by yourself or other project members.   
 
 ## Question-specific guidance
 
 ### If applicable: Will you reuse published datasets or build on digital sources?
-Almost all research projects are based on using excisting digital sources for producing knowledge. When researching relevant digital sources, you should search for both research publications as well as for relevant datasets. Some much-used services when searching for data: 
-- DataCite
-- Google Dataset Search 
-- Mendeley Data
-- Dimensions   
+Almost all research projects are based on using excisting digital sources for producing knowledge. When researching relevant digital sources, you should search for both research publications as well as search for relevant datasets. Some much-used services when searching for excistin data: 
+- [Datacite](https://pages.github.com/)
+- [Google Dataset Search](https://pages.github.com/)
+- [Mendeley Data](https://pages.github.com/)
+- [Dimensions](https://pages.github.com/)
 
 ### If applicable: Will you reuse unpublished data(sets)?
-Unpublished, but highly relevant, data(sets) can be findable within searchable registers. Some examples in Norway can be:
-Surveybanken (the Survey Bank)
-helsedata.no
+Not all data from conducted research within your research field will open and unrestricted. But very often, many unpublished data(sets) of relevance can be findable by reference in publications, or by searchable metadata within registers and the like. Some examples in Norway can be:
+- [Surveybanken](https://sikt.no/surveybanken)
+- [microdata.no](https://www.microdata.no)
+- [helsedata.no](https://www.helsedata.no)
+- [HUNT Cloud Data](https://hunt-db.medisin.ntnu.no/hunt-db/variablelist)
 
 ### If applicable: Did you consider but discard the idea of reusing data?
-There can be a number of reasons to discard the idea of reusing data, like lack of relevance for excisting data etc. Identifying such reasons (when designing your project) will motivate the nesessity of collecting new data, and possibly motivate your sharing of your new data in a findable, accessible, interoprable and reusable manner.  
+There can be a number of reasons to discard the idea of reusing data, like lack of relevance for excisting data etc. Identifying such reasons (when designing your project) will motivate the nesessity of collecting new data both for yourself and others, and clarify to project members the need for sharing the collected data in your project in a findable, accessible, interoprable and reusable manner.   
 
 #### Reusing and collecting data
-The project will (re)use dataset(s) or record(s) available in a repository/registry/archive
-
-Not applicable
-
-Briefly describe why you discarded the idea of reusing data
 
 
-Yes
-
-List published dataset(s) or other record(s) that will be (re)used in the project
-
-Title of the published dataset or record
-
-Is access to the data restricted or needs to be applied for?
-
-No
-
-Yes, specific infrastructure is needed to access the data
-
-Yes, specific infrastructure is needed and there is an application procedure
-
-Describe the application procedure
 
 Does the data have a clear license/reuse conditions?
 
