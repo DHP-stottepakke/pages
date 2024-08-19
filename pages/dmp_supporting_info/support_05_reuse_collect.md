@@ -39,7 +39,7 @@ Not all data from conducted research within your research field will open and un
 ### If applicable: Did you consider but discard the idea of reusing data?
 There can be a number of reasons to discard the idea of reusing data, like lack of relevance for excisting data etc. Identifying such reasons (when designing your project) will motivate the nesessity of collecting new data both for yourself and others, and clarify to project members the need for sharing the collected data in your project in a findable, accessible, interoprable and reusable manner.   
 
-#### Reusing and collecting data
+## Question-specific guidance
 
 
 
