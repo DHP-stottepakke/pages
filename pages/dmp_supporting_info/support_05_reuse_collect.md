@@ -45,7 +45,7 @@ There can be a number of reasons to discard the idea of reusing data, like lack 
 
 ### The project will generate research software or code
 
-### The project will generate computational data or models (TODO)
+### The project will generate computational data or models
 
 ### Other types of data the project will gather
 
