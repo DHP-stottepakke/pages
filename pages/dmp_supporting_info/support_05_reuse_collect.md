@@ -11,9 +11,9 @@ sidebar: dmp_supporting_info
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> Defining what research data that will be analysed within your project is an important core element when designing your research project. Identifying reusable data will often be a very effective way of starting the planning of a project, and thus you should always check whether excisting data can be of relevance to your project.\\
->> Defining how project data will be collected will also help when defining data management roles and delegate daa management in the project\\
->> Defining how data will be created, possivbly reused and flow in and out of your project, will contribute to Open Data and Open Science\\
+>> Defining what data that will be analysed within your project is an important core element when designing your research project. And identifying reusable data will often be a very effective way of starting the planning of a project, and thus you should always check whether excisting data can be of relevance to your project.\\
+>> Defining how project data will be collected will also help when defining data management roles and delegate data management in the project\\
+>> Defining how data will be created, possivbly reused, and flow both in and out of your project, will contribute to Open Data and Open Science practices.\\
 " %}
 
 ## About this chapter
@@ -23,21 +23,22 @@ In this chapter you are asked to define what data that will be included in your 
 ## Question-specific guidance
 
 ### The project will (re)use dataset(s) or record(s) available in a repository/registry/archive
-Almost all research projects are based on using excisting digital sources for producing knowledge. When researching relevant digital sources, you should search for both research publications as well as search for relevant datasets. Some much-used services when searching for excistin data: 
+On a general level, almost all research projects are based on using excisting digital sources for producing knowledge. And when searching for relevant digital sources, you should search for both research publications as well as search for relevant datasets. Some much-used services when searching for excisting data: 
 - [Datacite](https://pages.github.com/)
 - [Google Dataset Search](https://pages.github.com/)
 - [Mendeley Data](https://pages.github.com/)
 - [Dimensions](https://pages.github.com/)
 
-Not all data from conducted research within your research field will open and unrestricted. But very often, many unpublished data(sets) of relevance can be findable by reference in publications, or by searchable metadata within registers and the like. Some examples in Norway can be:
+Not all data from conducted research within your research field will be open and unrestricted. But very often, even restriceted and closed data(sets) of relevance can be findable by reference in publications, or by searchable metadata within registers and the like. Some examples in Norway can be:
 - [Surveybanken](https://sikt.no/surveybanken)
 - [microdata.no](https://www.microdata.no)
 - [helsedata.no](https://www.helsedata.no)
 - [HUNT Cloud Data](https://hunt-db.medisin.ntnu.no/hunt-db/variablelist)
 
-There can be a number of reasons to discard the idea of reusing data, like lack of relevance for excisting data etc. Identifying such reasons (when designing your project) will motivate the nesessity of collecting new data both for yourself and others, and clarify to project members the need for sharing the collected data in your project in a findable, accessible, interoprable and reusable manner.  
+There can of course be a number of reasons to discard the idea of reusing data in your project, like lack of relevance for excisting data etc. Taking the time to identifying such reasons (when designing your project) will most often motivate the nesessity of collecting new data both for yourself, project members and collaborators. 
 
 ### The project will collect data through observations, questionnaires or interviews
+
  
 ### The project will collect physical samples
 
