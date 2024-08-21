@@ -38,15 +38,20 @@ Not all data from conducted research within your research field will be open and
 There can of course be a number of reasons to discard the idea of reusing data in your project, like lack of relevance for excisting data etc. Taking the time to identifying such reasons (when designing your project) will most often motivate the nesessity of collecting new data both for yourself, project members and collaborators. 
 
 ### The project will collect data through observations, questionnaires or interviews
+If relevant for your project: Describe how data will be collected through observations, questionnaires or interviews. 
 
  
 ### The project will collect physical samples
+If relevant for your project: Describe how data will be collected in form of physical samples, and in form of digital twins of such physical samples. Think thru and identify how data will be described in the collecting process.  
 
 ### The project will capture data using measurement equipment
+If relevant for your project: Describe how data will be collected by using masurement equipment, and think through the use of lab journals to document experimental activity.  
 
 ### The project will generate research software or code
+If relevant for your project: Describe how research software or code will be generated in the project, and think through the possible use of version control and git(?)
 
 ### The project will generate computational data or models
+If relevant for your project: Describe how computational data or models will be produced in the project, and think through the use of version control and git(?)
 
 ### Other types of data the project will gather
 
