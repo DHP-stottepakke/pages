@@ -7,6 +7,15 @@ contributors: [Svein Høier]
 page_id: support_05_reuse_collect
 description: Supporting DMP Information, reusing data, data reuse, data re-use, pre-existing data
 sidebar: dmp_supporting_info
+dsw:
+- name: Reusing and collecting data
+  uuid: knowledge-models/elixir.no:dsw-km-bott-localization:latest/preview?questionUuid=43e2efe4-016c-4a20-8b94-526ae1799afa
+cessda:
+- name: Discover
+  url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/7.-Discover
+rdmkit:
+- name: Existing data
+  url: https://rdmkit.elixir-europe.org/existing_data
 ---
 
 {% include callout.html type="tip" content="

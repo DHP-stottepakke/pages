@@ -7,6 +7,23 @@ contributors: [Jenny Ostrop]
 page_id: support_03_legal_ethics
 description: Supporting DMP Information, legal requirements, ethical requirements
 sidebar: dmp_supporting_info
+dsw:
+- name: Legal and ethical aspects
+  uuid: knowledge-models/elixir.no:dsw-km-bott-localization:latest/preview?questionUuid=18ae1270-b81f-4e47-bdf5-fced56a9ab23
+cessda:
+- name: Protect
+  url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect
+rdmkit:
+- name: Sensitivity
+  url: https://rdmkit.elixir-europe.org/data_sensitivity
+- name: Ethical aspects
+  url: https://rdmkit.elixir-europe.org/ethics
+- name: Security
+  url: https://rdmkit.elixir-europe.org/data_security
+- name: GDPR compliance
+  url: https://rdmkit.elixir-europe.org/gdpr_compliance
+- name: Human data
+  url: https://rdmkit.elixir-europe.org/human_data
 ---
 
 {% include callout.html type="tip" content="

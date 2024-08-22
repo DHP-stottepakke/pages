@@ -11,6 +11,11 @@ sidebar: dmp_supporting_info
 dsw:
 - name: Guiding questionnaire for pre-considerations
   uuid: knowledge-models/elixir.no:dsw-km-bott-localization-preproject:0.1.1/preview
+rdmkit:
+- name: Coordination
+  url: https://rdmkit.elixir-europe.org/dm_coordination
+- name: Costs
+  url: https://rdmkit.elixir-europe.org/costs_data_management
 ---
 
 It is beneficial to take research data management into consideration already ahead of starting a research project, particularly if applying for external funding. Early identification of aspects that may need attention or potentially time-consuming processes, will avoid delays in the project progress. Furthermore, costs related to data management efforts are considered eligible costs by many research funders. Some funders therefore ask to briefly outline data management as part of project proposals.
