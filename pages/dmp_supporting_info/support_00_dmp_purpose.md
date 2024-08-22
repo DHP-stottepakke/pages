@@ -7,6 +7,12 @@ contributors: [Jenny Ostrop, Korbinian Bösl, Illimar Rekand, Live Kvale, Leif L
 page_id: support_00_dmp_purpose
 description: Supporting DMP Information, Purpose of a DMP, Why write a DMP, Reason, Motivation, What is a DMP
 sidebar: dmp_supporting_info
+cessda:
+- name: Planing
+  url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan
+rdmkit:
+- name: Planning
+  url: https://rdmkit.elixir-europe.org/data_management_plan
 ---
 
 ## What is a Data Management Plan (DMP) and why should you write one?

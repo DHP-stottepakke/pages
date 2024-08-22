@@ -7,6 +7,18 @@ contributors: [Jenny Ostrop]
 page_id: support_09_responsibilities_resources
 description: Supporting DMP Information, data management responisbilities, data management resources
 sidebar: dmp_supporting_info
+dsw:
+- name: Responsibilities and resources
+  uuid: knowledge-models/elixir.no:dsw-km-bott-localization:latest/preview?questionUuid=b450d1a4-b0ad-4e62-8b40-967bad5e1437
+cessda:
+- name: Adapt your DMP
+  url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1
+rdmkit:
+- name: Project data management coordination
+  url: https://rdmkit.elixir-europe.org/dm_coordination
+turing:
+- name: Guide for Collaboration
+  url: https://book.the-turing-way.org/collaboration/collaboration
 ---
 
 {% include callout.html type="tip" content="

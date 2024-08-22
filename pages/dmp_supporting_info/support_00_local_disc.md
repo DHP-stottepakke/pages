@@ -8,6 +8,9 @@ page_id: support_00_local_disc
 description:
 affiliations:
 sidebar: dmp_supporting_info
+rdmkit:
+- name: National page for Norway
+  url: https://rdmkit.elixir-europe.org/no_resources
 ---
 If you have questions about research data management (RDM) or writing at data management plan (DMP), you can consult the information resources or contact the general RDM support at your institution. In addition, your unit may have research advisors who can direct you to the right resources or even dedicated data stewards who can help you hands-on.
 
