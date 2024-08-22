@@ -11,14 +11,14 @@ dsw:
 - name: Storing and protecting data during the project
   uuid: knowledge-models/elixir.no:dsw-km-bott-localization:latest/preview?questionUuid=b11a3987-d7fa-4e9e-9ab5-48a6f2ffc2b0
 cessda:
-- name: Data storage in social science
+- name: Data storage
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/4.-Store/Storage
-- name: File naming and folder structure in social science
+- name: File naming and folder structure
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Designing-a-data-file-structure
 rdmkit:
-- name: Data storage in life science
+- name: Data storage
   url: https://rdmkit.elixir-europe.org/storage
-- name: Data organisation in life science
+- name: Data organisation
   url: https://rdmkit.elixir-europe.org/data_organisation
 ---
 
