@@ -14,8 +14,11 @@ cessda:
 - name: Adapt your DMP
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1
 rdmkit:
-- name: Data publication
+- name: Project data management coordination
   url: https://rdmkit.elixir-europe.org/dm_coordination
+turing:
+- name: Guide for Collaboration
+  url: https://book.the-turing-way.org/collaboration/collaboration
 ---
 
 {% include callout.html type="tip" content="

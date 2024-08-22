@@ -16,6 +16,9 @@ cessda:
 rdmkit:
 - name: Data analysis
   url: https://rdmkit.elixir-europe.org/data_analysis
+turing:
+- name: Guide for Reproducible Research
+  url: https://book.the-turing-way.org/reproducible-research/reproducible-research
 ---
 
 {% include callout.html type="tip" content="

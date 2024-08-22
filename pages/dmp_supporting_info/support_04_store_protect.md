@@ -20,6 +20,9 @@ rdmkit:
   url: https://rdmkit.elixir-europe.org/storage
 - name: Data organisation in life science
   url: https://rdmkit.elixir-europe.org/data_organisation
+turing:
+- name: File Naming Conventions
+  url: https://book.the-turing-way.org/project-design/filenaming
 ---
 
 {% include callout.html type="tip" content="

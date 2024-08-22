@@ -24,6 +24,11 @@ rdmkit:
   url: https://rdmkit.elixir-europe.org/gdpr_compliance
 - name: Human data
   url: https://rdmkit.elixir-europe.org/human_data
+turing:
+- name: Ethical Research
+  url: https://book.the-turing-way.org/ethical-research/ethical-research
+- name: Sensitive Data Projects
+  url: https://book.the-turing-way.org/project-design/sdpw
 ---
 
 {% include callout.html type="tip" content="

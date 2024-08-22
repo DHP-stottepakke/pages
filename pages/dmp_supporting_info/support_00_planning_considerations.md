@@ -16,6 +16,9 @@ rdmkit:
   url: https://rdmkit.elixir-europe.org/dm_coordination
 - name: Costs
   url: https://rdmkit.elixir-europe.org/costs_data_management
+turing:
+- name: Project Design
+  url: https://book.the-turing-way.org/project-design/project-design
 ---
 
 It is beneficial to take research data management into consideration already ahead of starting a research project, particularly if applying for external funding. Early identification of aspects that may need attention or potentially time-consuming processes, will avoid delays in the project progress. Furthermore, costs related to data management efforts are considered eligible costs by many research funders. Some funders therefore ask to briefly outline data management as part of project proposals.

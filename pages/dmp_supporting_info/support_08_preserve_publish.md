@@ -18,6 +18,9 @@ rdmkit:
   url: https://rdmkit.elixir-europe.org/data_publication
 - name: Identifiers
   url: https://rdmkit.elixir-europe.org/identifiers
+turing:
+- name: Sharing and Archiving Data
+  url: https://book.the-turing-way.org/reproducible-research/rdm/rdm-sharing
 ---
 
 {% include callout.html type="tip" content="
