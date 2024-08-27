@@ -25,17 +25,25 @@ turing:
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> What is in for you?\\
->> Short & concise\\
->> Add lines as needed\\
+>> Your data is valuable – they should be available for reuse.\\
+>> You yourself may need to look at them and make use of them again.\\
+>> Good and rich metadata will make your data findable through search engines.\\
+>> Good documentation in a readme file will enable others to understand the information held in your data.\\
+>> Increasingly, archiving your data as FAIR as possible is viewed as equally important as publishing other research output, in the assessment of research.\\
 " %}
 
 ## About this chapter
 
-General information
+Research data should be archived and preserved, for the benefit of future research. Data should be archived as open as possible and as closed as necessary, as the guiding principle of EU and others says.
+Not all data can be made publicly available, as elaborated in the chapter “Legal and ethical aspects”. In this chapter you will be asked to consider whether you data, or part of your data, may and should be preserved and published, and to explain why access to (part of) your data need to be restricted. 
+The chapter will assist you in walking through all planning considerations regarding these issues, including where to publish your data and what metadata to apply.
+
 
 ## Question-specific guidance
 
-### Question 1
+### Can all of your data become completely open over time?
+The issue here is for you to consider whether (some of) your data is of a nature that should not be made openly available. Please see the chapter ‘Legal and etical aspects’ to identify criteria for deciding this. This should help you identify whether part of your data need to be restricted from public access. Your will also be asked to consider whether such parts may be anonymized or aggregated so that such a version of your data can be openly available.
+Data that cannot be openly available, may perhaps be available to authorized users. You will be asked to consider this option, and how such authorization may be carried out in practice.
 
-### Question 2
+### Selecting archive(s) for publishing datasets
+This question, and its sub-questions, will assist you in finding archive(s)/repository(-ies) suitable to deposit your data.
