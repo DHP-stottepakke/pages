@@ -47,3 +47,12 @@ Data that cannot be openly available, may perhaps be available to authorized use
 
 ### Selecting archive(s) for publishing datasets
 This question, and its sub-questions, will assist you in finding archive(s)/repository(-ies) suitable to deposit your data.
+
+### Securing that your data is FAIR
+No matter whether your data may be published openly or not, it is always a question of making your data FAIR - or rather as FAIR as possible. FAIR stands for Findable, Accessible, Interoperable, Reusable. So you should aim to make your data as findable, as accessible, as interoperable, and as reusable as possible. So here you will find a checklist that serves to remind you how to make your data as FAIR as possible.
+
+### List data(sets) that you will delete
+Determining whether data need to or should be deleted, is a decision you may need to do. There may be data that were ruined for some reason. Or other data, in huge amounts, that obviously are of no value for anyone. You need to decide whether there are data that are of no value to preserve. In a sub-question here, you will be asked to explain why these data were deleted. This explanation is part of making your research transparent.
+
+### List datasets (and software or code) that you will preserve or publish
+Here you will be asked to describe closer what data you will preserve. The question of sensitive information will be asked, to ensure that all necessary considerations regarding this issue is done. You will also be sked about the metadata and documentation to follow the data. Metadata and documentation are very important for the preserved data to be of good value into the future. So you are asked to think through and consider this well.
