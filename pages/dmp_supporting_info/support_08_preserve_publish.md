@@ -28,7 +28,7 @@ turing:
 >> Your data is valuable – they should be available for reuse.\\
 >> Archiving data is also a way to ensure availability of data for yourself at a later time point, e.g. after switching affiliations.\\
 >> Rich metadata will make your data findable through search engines. Good documentation and structured metadata will enable others to understand the information held in your data and enable data reuse.\\
->> Good documentation in a readme file will enable others to understand the information held in your data.\\
+>> Comply with requirements by research funders and academic publishers to making data underlying a study available.\\
 >> Increasingly, archiving your data as FAIR as possible is viewed as equally important as publishing other research output, in the assessment of research.\\
 " %}
 
