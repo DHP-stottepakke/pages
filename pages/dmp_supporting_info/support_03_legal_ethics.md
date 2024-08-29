@@ -74,9 +74,9 @@ Further information:
 * [Protect (CESSDA DMEG): Ethics and data protection](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Ethics-and-data-protection "2024-07-17")
 
 Institutional resources on research ethics: 
+* [Ethics at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Ethics+at+NTNU "2024-07-17")
 * [UiB Research Ethics](https://www.uib.no/en/researchethics "2024-07-17")
 * [Research ethics at UiO](https://www.uio.no/english/for-employees/support/research/research-ethics/ "2024-07-17")
-* [Ethics at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Ethics+at+NTNU "2024-07-17")
 * [UiT Research Ethics](https://en.uit.no/research/ethics)
 
 
@@ -111,9 +111,9 @@ Further information:
 * [Protect (CESSDA DMEG): Processing personal data](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Processing-personal-data "2024-07-17")
 
 Institutional privacy policies:
+* [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy)
 * [University of Bergen (UiB)](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen)
 * [University of Oslo (UiO)](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html)
-* [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy)
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_742141)
 
 
@@ -143,9 +143,9 @@ Further information:
 - [Report How should we share research data? (2021)](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf)
 
 Institutional IPR policies:
+* [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
 * [University of Bergen (UiB)](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-07-19")
 * [University of Oslo (UiO)](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-07-19")
-* [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-07-19"))
 
 
@@ -167,13 +167,13 @@ Specifying relevant guidelines, policies or processes will help you recognize re
 Identify relevant policies, guidelines or processes applicable to your project. In addition to selecting from a list of common policies, you can manually add (additional) references. Investigate for example whether your research unit has defined own guidelines.
 
 You can select from the following list of common policies and guidelines:
-* Funder: [Horizon Europe provisions on Open Science](https://rea.ec.europa.eu/open-science_en "2024-07-17")
-* Funder: [The Research Council of Norway Policy for Open Science](https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-07-17")
-* Funder: [The Research Council of Norway Policy for open access to research data](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/ "2024-07-17")
+* Institution: [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
 * Institution: [UiB Policy for Open Science](https://www.uib.no/en/foremployees/142184/university-bergen-policy-open-science "2024-07-17")
 * Institution: [UiO Policies and guidelines for research data management](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html "2024-07-17")
-* Institution: [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
 * Institution: [UiT Principles and guidelines for managment for research data](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184 "2024-07-17")
+* Funder: [The Research Council of Norway Policy for Open Science](https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-07-17")
+* Funder: [The Research Council of Norway Policy for open access to research data](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/ "2024-07-17")
+* Funder: [Horizon Europe provisions on Open Science](https://rea.ec.europa.eu/open-science_en "2024-07-17")
 
 Further information:
 * [RDM resources in Norway (RDMkit): Funder policies on research data](https://rdmkit.elixir-europe.org/no_resources#funder-policies-on-research-data)
@@ -237,6 +237,10 @@ Read more about [Personal data and data privacy.](/pages/support_03_legal_ethics
 #### Which institutional privacy routines apply?
 Research organisations define their own privacy policies and routines that may differ from each other, it is therefore important to make yourself familiar with the applicable policies and guidelines at your institution.
 
+##### Norwegian University of Science and Technology (NTNU)
+* [Collection of personal data for research projects at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2024-07-16")
+* [NTNU privacy policy](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy "2024-07-16")
+
 ##### University of Bergen (UiB)
 * [Personvern i forskning ved UiB (in Norwegian)](https://www.uib.no/forskningsetikk/129857/personvern-i-forskning-ved-uib "2024-07-16")
 * [Forskningsrutiner (in Norwegian)](https://www.uib.no/forskningsetikk/123944/forskningsrutiner "2024-07-16")
@@ -245,10 +249,6 @@ Research organisations define their own privacy policies and routines that may d
 ##### University of Oslo (UiO)
 * [Privacy routines at UiO](https://www.uio.no/english/about/regulations/privacy-declarations/ "2024-07-16")
 * [Privacy policy at UiO](https://www.uio.no/english/about/regulations/privacy-declarations/ "2024-07-16")
-
-##### Norwegian University of Science and Technology (NTNU)
-* [Collection of personal data for research projects at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2024-07-16")
-* [NTNU privacy policy](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy "2024-07-16")
 
 ##### UiT The Arctic University of Norway (UiT)
 * [Processing of personal data in research projects](https://en.uit.no/research/ethics/art?p_document_id=754184 "2024-07-16")
@@ -298,9 +298,9 @@ Further information:
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)
 
 Institutional resources on participant information and consent:
-* [UiB - Rutiner ved oppstart av forskningsprosjekter: informasjonsplikt og samtykke *Norwegian only*](https://www.uib.no/forskningsetikk/123944/forskningsrutiner?step=2#2-3-informasjonsplikt-og-samtykke-nbsp- "2024-07-19")
 * [NTNU - Samtykke for behandling av personopplysninger *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Samtykke+for+behandling+av+personopplysninger "2024-07-19")
 * [NTNU - Samtykke fra forskningsdeltakere i helseforskning *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Samtykke+fra+forskningsdeltakere+i+helseforskning "2024-07-19")
+* [UiB - Rutiner ved oppstart av forskningsprosjekter: informasjonsplikt og samtykke *Norwegian only*](https://www.uib.no/forskningsetikk/123944/forskningsrutiner?step=2#2-3-informasjonsplikt-og-samtykke-nbsp- "2024-07-19")
 
 
 ### Will sensitive information (apart from special category personal data) be collected/processed?

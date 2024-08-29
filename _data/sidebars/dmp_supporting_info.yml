@@ -8,21 +8,23 @@ subitems:
     url: /support_00_local_disc
   - title: Considerations pre-start/pre-award
     url: /support_00_planning_considerations
-  - title: 1 - About the DMP
+  - title: Get started with DMP writing
+    url: /support_00_start_writing   
+  - title: Chapter 1 - About the DMP
     url: /support_01_about_dmp
-  - title: 2 - About the research project
+  - title: Chapter 2 - About the research project
     url: /support_02_about_research 
-  - title: 3 - Legal and ethical aspects
+  - title: Chapter 3 - Legal and ethical aspects
     url: /support_03_legal_ethics
-  - title: 4 - Storing and protecting data during the project
+  - title: Chapter 4 - Storing and protecting data during the project
     url: /support_04_store_protect
-  - title: 5 - Reusing and collecting data
+  - title: Chapter 5 - Reusing and collecting data
     url: /support_05_reuse_collect
-  - title: 6 - Data documentation during the project
+  - title: Chapter 6 - Data documentation during the project
     url: /support_06_document 
-  - title: 7 - Processing, analysing and interpreting data
+  - title: Chapter 7 - Processing, analysing and interpreting data
     url: /support_07_process_analyse
-  - title: 8 - Preserving and publishing data
+  - title: Chapter 8 - Preserving and publishing data
     url: /support_08_preserve_publish
-  - title: 9 - Responsibilities and resources
+  - title: Chapter 9 - Responsibilities and resources
     url: /support_09_responsibilities_resources
