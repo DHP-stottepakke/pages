@@ -25,7 +25,6 @@ rdmkit:
 >> Add lines as needed\\
 " %}
 
-#### About the Data Management Plan
 
 ## About this chapter
 
