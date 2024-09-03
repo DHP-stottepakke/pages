@@ -20,8 +20,6 @@ dsw:
 >> This information makes it possible to trace a project to responsible induviduals and organization, as well as funders of the research.\\
 " %}
 
-#### About the research project
-
 ## About this chapter
 
 This chapter let you provide information about the research project; title, possible project acronyms, project start and end date, as well as project description and project funding, when relevant.  
