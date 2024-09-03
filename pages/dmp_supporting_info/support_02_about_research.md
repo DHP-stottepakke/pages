@@ -14,65 +14,31 @@ dsw:
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> What is in for you?\\
->> Short & concise\\
->> Add lines as needed\\
+>> Old and new project members can easily find the information they need if you collect all information about a project in a single planning document. \\
+>> Providing a project abstract, project proposal or other project description puts the DMP in context and is thus useful information for anyone reading or evaluating the DMP. \\
+>> Administrative information about the project that will be of interest when communicating and reporting to parties external to the project.\\
+>> This information makes it possible to trace a project to responsible induviduals and organization, as well as funders of the research.\\
 " %}
-
-## About this chapter
-
-General information
-
-## Question-specific guidance
-
-### Question 1
-
-### Question 2
 
 #### About the research project
 
-Project title
+## About this chapter
 
-If applicable: Project acronym
+This chapter let you provide information about the research project; title, possible project acronyms, project start and end date, as well as project description and project funding, when relevant.  
 
-Starting date of the project
+## Question-specific guidance
 
-Ending date of the project
+### Project title
 
-Project description
+### If applicable: Project acronym
 
-Link to a project proposal or other project description
+### Starting date of the project
 
-Link to external information about the project
+### Ending date of the project
 
-Enter textual project description
+### Project description
 
-Enter project abstract or other project description
+### Did you apply for external project funding?
 
-Did you apply for external project funding?
 
-No
 
-Yes
-
-List project funding
-
-Funder
-
-Funding status
-
-Planned
-
-Applied
-
-Granted
-
-Rejected
-
-Title of grant proposal
-
-If applicable: Acronym of grant proposal
-
-Grant number
-
-If applicable: Link/reference to project in funder database
