@@ -25,118 +25,22 @@ rdmkit:
 >> Add lines as needed\\
 " %}
 
+
 ## About this chapter
 
-General information
+This chapter collects administrative information about the DMP itself. It makes it clear who contributes to data management in the research project and how responsibilities are assigned in the research group (e.g. between the project leader, research staff, and technical staff), which also is useful information when making data accessible. A DMP should be a living document and plans and responsibilities for undertaking DMP revisions should be noted in this chapter.
 
 ## Question-specific guidance
 
-### Question 1
+### DMP title
 
-### Question 2
+### Contributor(s)
 
-#### About the Data Management Plan
+### This DMP is related to other DMP(s)
 
-DMP title
+### Have your made plans for revisions of this DMP?
 
-Contributor(s) 
+### Have you published, or will you publish (versions) of this DMP?
 
-Name 
+### Did you consult with research data management experts?
 
-E-mail address 
-
-ORCID Identifier 
-
-Affiliation 
-
-Role 
-
-Contact Person 
-
-Data Collector 
-
-Data Curator 
-
-Data Manager 
-
-Data Protection Officer 
-
-Data Steward 
-
-Distributor 
-
-Editor 
-
-Producer 
-
-Project Leader 
-
-Project Manager 
-
-Project Member 
-
-Researcher 
-
-Rights Holder 
-
-Sponsor 
-
-Supervisor 
-
-Work Package Leader 
-
-Other 
-
-If applicable: Is there a related DMP? 
-
-No 
-
-Yes 
-
-Related DMP(s) 
-
-DMP identifier 
-
-Description/ Relationship 
-
-Have your made plans for revisions of the DMP?
-
-No
-
-Yes
-
-Revisions plans
-
-Will (versions of) the DMP be published?
-
-No
-
-Yes
-
-Published version(s)
-
-DMP identifier
-
-Identifier type
-
-doi
-
-handle
-
-ark
-
-url
-
-other
-
-Description
-
-If applicable: Did you consult with DMP experts?
-
-Not applicable
-
-Yes
-
-List consultation(s)
-
-DMP Consultation
