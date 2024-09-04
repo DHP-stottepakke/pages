@@ -25,7 +25,8 @@ turing:
 **Why is this topic important**\\
 >> Understanding, analyzing and reusing data depends on the practice of documenting, structuring, naming and other ways of describing data \\
 >> The inclusion of metadata, providing data about the data used in the project, secures the usefullness of the data, both internally and externally of your project \\
->> Data documentation should be done as soon as possible, and always during the project \\
+>> Interpretation of project results requires an understanding of the data provenance/data lineage, i.e. where the data originates from and how it was processed.\\
+>> Collecting data documentation should start as early as possible and prepares for making data accessible accompanied by structured metadata.\\
 " %}
 
 ## About this chapter
