@@ -17,5 +17,5 @@ rdmkit:
 
 ## Get started with writing your Data Management Plan in Data Stewardship Wizard
 
-Short user guidance
+Coming soon: Short user guidance
 
