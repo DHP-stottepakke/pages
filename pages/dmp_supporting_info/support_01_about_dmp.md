@@ -28,7 +28,7 @@ rdmkit:
 
 ## About this chapter
 
-This chapter makes it clear who is behind a project, and responsible for its material and intellectual content. This also means that data that are made accessible can be cited correctly. Please describe how responsibilities are assigned in the research group (e.g. between the project leader, research staff, and technical staff), and who is responsible for what (who creates and updates the DMP, who is the project’s representative, etc. This chapter collects administrative information about the DMP itself.
+This chapter collects administrative information about the DMP itself. It makes it clear who contributes to data management in the research project and how responsibilities are assigned in the research group (e.g. between the project leader, research staff, and technical staff), which also is useful information when making data accessible. A DMP should be a living document and plans and responsibilities for undertaking DMP revisions should be noted in this chapter.
 
 ## Question-specific guidance
 
