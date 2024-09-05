@@ -25,6 +25,7 @@ rdmkit:
 >> Add lines as needed\\
 " %}
 
+<code> NB! For projects with particular information security requirements (e.g. dual use research, protection of intellectual property rights and commercial interests), already the DMP itself could be sensitive information. If applicable, clarify this with your IT department.</code>
 
 ## About this chapter
 
