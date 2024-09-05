@@ -46,14 +46,13 @@ National legislation, institutional guidelines and international norms have impl
 Questions in this chapter address the following aspects:
 
 ### The research-performing organisation(s)
-The research institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed. Particulary in collaboration projects, it is important to define responsibilities and document them in collaboration agreements and contracts.
-
-In projects that process personal data and underlay the General Data Protection Regulation, (GDPR, Norwegian: [Lov om behandling av personopplysninger (personopplysningsloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), the host organisation usually is the data controller. If responsibility is shared between organisations, a joint controller agreement is required.
-
-In projects that are regulated by the Health Research Act (Norwegian: [Lov om medisinsk og helsefaglig forskning (helseforskningsloven)](https://lovdata.no/dokument/NL/lov/2008-06-20-44)), the host organisation acts as research-responsible entity (Norwegian: [Forskningsansvarlig iht. helseforskningsloven](https://www.forskningsetikk.no/ressurser/fbib/lover-retningslinjer/forskningsansvarlig-ihht-helseforskningsloven/ "2024-07-17")).
+The research institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed. In collaboration projects, it is important to define responsibilities and document them in collaboration agreements or contracts.
 
 Research organisations commonly have policies or guidelines for data management, sometimes as part of Open Science guidelines. There may also be specific routines or processes to be followed. Identifying such policies, guidelines, or processes will help you recognize research data management requirements and routines to be aware of.
 
+In projects that process personal data and underlay the General Data Protection Regulation, (GDPR, Norwegian: [Lov om behandling av personopplysninger (personopplysningsloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), the host organisation usually is the data controller. If responsibility is shared between organisations, this must be contractually specified.
+
+In projects that are regulated by the Health Research Act (Norwegian: [Lov om medisinsk og helsefaglig forskning (helseforskningsloven)](https://lovdata.no/dokument/NL/lov/2008-06-20-44)), the host organisation acts as research-responsible entity (Norwegian: [Forskningsansvarlig iht. helseforskningsloven](https://www.forskningsetikk.no/ressurser/fbib/lover-retningslinjer/forskningsansvarlig-ihht-helseforskningsloven/ "2024-07-17")).
 
 ### Research Ethical Guidelines and Codes of conduct
 The Act on Ethics and Integrity in Research (Norwegian: [Lov om organisering av forskningsetisk arbeid (forsknigsetikkloven)](https://lovdata.no/dokument/NL/lov/2017-04-28-23)) defines responsibilities of both research institutions and individual researchers. Furthermore, it defines an advisory role of National Research Ethics Committees that provide research area-specific guidance. Health research is handled by Regional Ethics Committees.
@@ -74,9 +73,9 @@ Further information:
 * [Protect (CESSDA DMEG): Ethics and data protection](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Ethics-and-data-protection "2024-07-17")
 
 Institutional resources on research ethics: 
+* [Ethics at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Ethics+at+NTNU "2024-07-17")
 * [UiB Research Ethics](https://www.uib.no/en/researchethics "2024-07-17")
 * [Research ethics at UiO](https://www.uio.no/english/for-employees/support/research/research-ethics/ "2024-07-17")
-* [Ethics at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Ethics+at+NTNU "2024-07-17")
 * [UiT Research Ethics](https://en.uit.no/research/ethics)
 
 
@@ -87,10 +86,12 @@ Research projects conducting medical and health research on human beings, human 
 * [Regional Committees for Medical and Health Research Ethics](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/rek/)
 * [REK-portalen](https://rekportalen.no/#hjem/home "2024-07-17")
 
-Research projects conducting animal experiments must seek pre-approval from the Norwegian Food Safety Authority (Norwegian: Mattilsynet):
-* [Mattilsynet on experimental animals (in Norwegian)](https://www.mattilsynet.no/dyr/forsoksdyr "2024-07-17")
-* [FOTS application portal (gitek.no)](https://asp.gitek.no/fdu/pmws.dll/Login "2024-07-17")
+Research projects conducting animal experiments must seek pre-approval from the Norwegian Food Safety Authority (Norwegian: Mattilsynet), which is handled through the FOTS application portal:
+* [Mattilsynet on experimental animals *Norwegian only*](https://www.mattilsynet.no/dyr/forsoksdyr "2024-07-17")
+* [FOTS (Forsøksdyrforvaltningens tilsyns- og søknadssystem) application portal](https://asp.gitek.no/fdu/pmws.dll/Login "2024-07-17")
 * [Animal use for scientific purposes *Norwegian only*](https://www.forsoksdyrkomiteen.no/ressurser/)
+
+While more common in other countries, in Norway institutional ethical committees currently only have been established at selected organisations and faculties. Contact research advisors or research support staff about local routines.
 
 
 ### Personal data and data privacy
@@ -111,9 +112,9 @@ Further information:
 * [Protect (CESSDA DMEG): Processing personal data](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Processing-personal-data "2024-07-17")
 
 Institutional privacy policies:
+* [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy)
 * [University of Bergen (UiB)](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen)
 * [University of Oslo (UiO)](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html)
-* [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy)
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_742141)
 
 
@@ -130,7 +131,7 @@ Reasons for sensitivity (non-exhaustive):
 	* Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
 	* Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
 	* Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
-	* Act on Universities and Colleges Act [Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven))](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
+	* Act on Universities and Colleges Act ([Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven))](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
 * Research on endagered species
 	* Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100)
 * Research on protected cultural heritage
@@ -143,22 +144,30 @@ Further information:
 - [Report How should we share research data? (2021)](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf)
 
 Institutional IPR policies:
+* [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
 * [University of Bergen (UiB)](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-07-19")
 * [University of Oslo (UiO)](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-07-19")
-* [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-07-19"))
 
 
 ## Question-specific guidance
 
 ### Involved organisation(s)
-Specifying the host institution and possible collaboration partners is important as this defines legal responsibilities and implies which guidelines are to be followed.
-
-Please identify both the host institution and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has external partners, please indicate any relevant contracts or collaborative agreements for later reference.
+Specifying the host institution and possible collaboration partners is important as this defines legal responsibilities and implies which guidelines are to be followed.\
+Read more about [The research-performing organisation(s).](/pages/support_03_legal_ethics#the-research-performing-organisations)
 
 We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambigously identify institutions. In case the organisation is not registered, type the name and click outside of the text box and the string will be saved.
 
-Read more about [The research-performing organisation(s).](/pages/support_03_legal_ethics#the-research-performing-organisations)
+Please identify both the host institution (In multi-partner projects: coordinating institution) and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has scientific collaborators or external partners, please indicate any relevant contracts or collaboration agreements for later reference.
+
+For help with contract-related questions contact legal advisors at your institution:
+* [NTNU: Kontraksmaler og signeringsfullmakt *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Kontraktsmaler+og+signeringsfullmakt "2024-09-04")
+* [UiB: Contracts and legal counselling *Norwegian only*](https://www.uib.no/boa/17236/kontrakter-og-juridisk-r%C3%A5dgivning "2024-09-04")
+* [UiO: Collaboration agreements](https://www.uio.no/english/for-employees/unitpages/sv/psi/research-support/research-procedures/collaboration-agreements/ "2024-09-04")
+* [UiT: Agreements for research](https://en.uit.no/om/internasjonalisering/portal?p_document_id=481109 "2024-09-04")
+
+Further information:
+* [The Research Council of Norway: Collaboration agreements](https://www.forskningsradet.no/en/financing/received-funding/collaboration-agreements/)
 
 
 ### Indicate relevant policies and guidelines for research data management or Open Science
@@ -167,19 +176,17 @@ Specifying relevant guidelines, policies or processes will help you recognize re
 Identify relevant policies, guidelines or processes applicable to your project. In addition to selecting from a list of common policies, you can manually add (additional) references. Investigate for example whether your research unit has defined own guidelines.
 
 You can select from the following list of common policies and guidelines:
-* Funder: [Horizon Europe provisions on Open Science](https://rea.ec.europa.eu/open-science_en "2024-07-17")
-* Funder: [The Research Council of Norway Policy for Open Science](https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-07-17")
-* Funder: [The Research Council of Norway Policy for open access to research data](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/ "2024-07-17")
+* Institution: [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
 * Institution: [UiB Policy for Open Science](https://www.uib.no/en/foremployees/142184/university-bergen-policy-open-science "2024-07-17")
 * Institution: [UiO Policies and guidelines for research data management](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html "2024-07-17")
-* Institution: [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
 * Institution: [UiT Principles and guidelines for managment for research data](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184 "2024-07-17")
+* Funder: [The Research Council of Norway Policy for Open Science](https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-07-17")
+* Funder: [The Research Council of Norway Policy for open access to research data](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/ "2024-07-17")
+* Funder: [Horizon Europe provisions on Open Science](https://rea.ec.europa.eu/open-science_en "2024-07-17")
 
 Further information:
 * [RDM resources in Norway (RDMkit): Funder policies on research data](https://rdmkit.elixir-europe.org/no_resources#funder-policies-on-research-data)
 * [RDM resources in Norway (RDMkit): Institutional  policies on research data](https://rdmkit.elixir-europe.org/no_resources#institutional-policies-on-research-data)
-
-Read more about [The research-performing organisation(s).](/pages/support_03_legal_ethics#the-research-performing-organisations)
 
 
 ### Indicate applicable general research ethical guidelines
@@ -198,10 +205,11 @@ You can select from the following list of general research ethical guidelines, b
 
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
 
-### Are additional ethical guidelines or codes of conduct relevant?
-Being aware of research ethical guidelines and codes of conduct is important as ethical considerations may affect how data will be handled and shared.
 
-Examples (non-exhaustive):
+### Are additional ethical guidelines or codes of conduct relevant?
+Being aware of research ethical guidelines and codes of conduct is important as ethical considerations may affect how data will be handled and shared. 
+
+Please indicate any additional ethical guidelines or codes of conducts relevant for the project. Examples (non-exhaustive):
 * [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care "2024-04-22")
 * [The TRUST Code – Global Code of Conduct for Equitable Research Partnerships](https://www.globalcodeofconduct.org/ "2024-04-22")
 * [Guidelines for the inclusion of adults with impaired or absent capacity to consent *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/med-helse/inklusjon-av-voksne-personer-med-manglende-eller-redusert-samtykkekompetanse/)
@@ -219,12 +227,14 @@ Further information:
 
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
 
-### Does the project require ethical approval?
+
+### Does the project require ethical pre-approval?
 If the project involves health research, use of human biological material, testing on animals or similar, a pre-approval is likely needed to execute the project. The approval case numbers should be referred to in the DMP.
 
-Registrations of the legal basis of procesing personal data are not the same as a research ethics assessment and should therefore not be included here, but addressed in the next question.
+NB! Registrations of the legal basis of procesing personal data are not the same as a research ethics assessment and should therefore not be included here, but addressed in the next question.
 
 Read more about [Ethical approvals.](/pages//support_03_legal_ethics#ethical-approvals)
+
 
 ### Will any data connected to a person ("personal data") be collected/processed?
 Personal data is any information that can be linked to living person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: Personopplysningsloven), which incorporates the EU General Data Protection Regulation (GDPR) in Norway.
@@ -237,6 +247,10 @@ Read more about [Personal data and data privacy.](/pages/support_03_legal_ethics
 #### Which institutional privacy routines apply?
 Research organisations define their own privacy policies and routines that may differ from each other, it is therefore important to make yourself familiar with the applicable policies and guidelines at your institution.
 
+##### Norwegian University of Science and Technology (NTNU)
+* [Collection of personal data for research projects at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2024-07-16")
+* [NTNU privacy policy](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy "2024-07-16")
+
 ##### University of Bergen (UiB)
 * [Personvern i forskning ved UiB (in Norwegian)](https://www.uib.no/forskningsetikk/129857/personvern-i-forskning-ved-uib "2024-07-16")
 * [Forskningsrutiner (in Norwegian)](https://www.uib.no/forskningsetikk/123944/forskningsrutiner "2024-07-16")
@@ -245,10 +259,6 @@ Research organisations define their own privacy policies and routines that may d
 ##### University of Oslo (UiO)
 * [Privacy routines at UiO](https://www.uio.no/english/about/regulations/privacy-declarations/ "2024-07-16")
 * [Privacy policy at UiO](https://www.uio.no/english/about/regulations/privacy-declarations/ "2024-07-16")
-
-##### Norwegian University of Science and Technology (NTNU)
-* [Collection of personal data for research projects at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2024-07-16")
-* [NTNU privacy policy](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy "2024-07-16")
 
 ##### UiT The Arctic University of Norway (UiT)
 * [Processing of personal data in research projects](https://en.uit.no/research/ethics/art?p_document_id=754184 "2024-07-16")
@@ -298,9 +308,9 @@ Further information:
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)
 
 Institutional resources on participant information and consent:
-* [UiB - Rutiner ved oppstart av forskningsprosjekter: informasjonsplikt og samtykke *Norwegian only*](https://www.uib.no/forskningsetikk/123944/forskningsrutiner?step=2#2-3-informasjonsplikt-og-samtykke-nbsp- "2024-07-19")
 * [NTNU - Samtykke for behandling av personopplysninger *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Samtykke+for+behandling+av+personopplysninger "2024-07-19")
 * [NTNU - Samtykke fra forskningsdeltakere i helseforskning *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Samtykke+fra+forskningsdeltakere+i+helseforskning "2024-07-19")
+* [UiB - Rutiner ved oppstart av forskningsprosjekter: informasjonsplikt og samtykke *Norwegian only*](https://www.uib.no/forskningsetikk/123944/forskningsrutiner?step=2#2-3-informasjonsplikt-og-samtykke-nbsp- "2024-07-19")
 
 
 ### Will sensitive information (apart from special category personal data) be collected/processed?
