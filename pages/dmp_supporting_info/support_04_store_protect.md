@@ -70,7 +70,12 @@ You should also consider if a more advanced way to organise your data, such as o
 
 ### Information security level(s) this storage solution will be used for
 
-While the general information security levels used at Norwegian higher educational institutions are similar (green, yellow, red, black), the classification between which data falls into which category and which solution is allowed for which security level might vary. Please consult the [institutional storage guides](support_04_store_protect#storage-guidelines) for details.
+While the general information security levels used at Norwegian higher educational institutions are similar (green, yellow, red, black), the classification between which data falls into which category and which solution is allowed for which security level might vary. Please consult the institutional storage guides for details:
+
+* [NTNU Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
+* [UiB Storage guide](https://www.uib.no/en/foremployees/153608/storage-guide)
+* [UiO Data storage guide](https://www.uio.no/english/services/it/security/lsis/storage-guide.html)
+* [UiT Research data portal - Processing and storage](https://en.uit.no/research/research-dataportal/art?p_document_id=729174)
 
 ### Is the storage solution associated with costs?
 
