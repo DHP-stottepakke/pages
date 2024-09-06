@@ -57,7 +57,7 @@ For some domains there might be existing guides to estimate the data volume gene
 
 ### If applicable: Will storage need change over time?
 
-In many cases the storage needs of a project will increase with project length. Taking this into consideration will help with budgeting. Also in some cases there might be a need for temporary storage of intermediate results, which do not have to be stored for longer time-frames.
+In many cases the storage needs of a project will increase with project length. Taking this into consideration will help with budgeting and reducing expenses for storage space. Also in some cases there might be a need for temporary storage of intermediate results, which do not have to be stored for longer time-frames.
 
 ### Temporarily archiving of data sets (e.g. to tape)
 Temporarily archiving can be a great solution for your project if you produce very large data volumes or if the project is collecting data over a long period but will only be analysed later. Data that is 
