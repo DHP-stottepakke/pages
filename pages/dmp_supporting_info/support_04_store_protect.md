@@ -109,7 +109,7 @@ Here the explanation from [NFDI4Chem](https://www.nfdi4chem.de/3-2-1-rule/) [![L
 ### File naming and organisation
 Consistent file naming and folder structures are an important part of organising data in your research project. It is critical to be consistent and to make all of your project partners following the same convention.
 
-There are different strategies for file naming and folder structure. Please consult the chapters in e.g. the [RDMkit for life sciences or the CESSDA Data Management Guide](support_04_store_protect#further-resources)  for inspiration.
+There are different strategies for file naming and folder structure. Please consult the chapters in e.g. the [RDMkit for life sciences or the CESSDA Data Management Guide](support_04_store_protect#further-resources) for inspiration.
 
 ### Risk evaluation
 
