@@ -81,7 +81,7 @@ In case your project requires storage beyond the basic supplied level by your in
 If you are using institutional solutions, the institution commonly provides backup and snapshotting functionality, that allow you to restore data. This information should be provided by your IT department. It is good to be aware of the frequency and possibly limitations of these before you may need to recover data in your project.
 
 If you are using other solutions you should check the backup routines of theses solutions or might have to implement your own routines.
-An often suggested backup rule is 3-2-1.
+If not relying on managed storage, an often suggested backup rule is 3-2-1.
 
 Here the explanation from [NFDI4Chem](https://www.nfdi4chem.de/3-2-1-rule/) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 > The 3-2-1 Backup Rule in Detail
