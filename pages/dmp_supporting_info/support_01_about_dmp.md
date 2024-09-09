@@ -49,7 +49,7 @@ Institutional email addresses as contact email are preferred.
 
 Affiliations are added at an institutional level and harvested from the [ROR registry of research organizations.](https://ror.org/)
 
-Roles should be added to specify their contribution, examples of roles are: 
+Roles should be added to specify their contribution (following the [DataCite contributor type](https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/contributorType/ "2024-09-09") definitions). Examples of roles are: 
 *Contact Person 
 *Data Collector 
 *Data Manager  
