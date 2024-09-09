@@ -41,7 +41,7 @@ E.g. "Data Management Plan for AMAZING - A really fantastic project, WP3 the com
 ### Contributor(s)
 List all person contributing to both the plan and the data management in the project.
 
-Name is written Given-name Sur-name; Eg. Niels Henrik Abel (eller skal det være invertert???)
+Name is written Given-name Family-name; Eg. Niels Henrik Abel.
 
 Institutional email addresses as contact email are preferred.
 
