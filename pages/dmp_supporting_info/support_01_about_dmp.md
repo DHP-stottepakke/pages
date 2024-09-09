@@ -36,7 +36,7 @@ This chapter collects administrative information about the DMP itself. It makes 
 ### DMP title
 Make a title for the data management plan which makes it clear which research project it relates to, if a project has multiple plans, then add information about which part or package of the project this specific plan is for.
 E.g. "Data Management Plan for AMAZING - A really fantastic project, 2020-2024"
-Eg. "Data Management Plan for AMAZING - A really fantastic project, WP3 the complex data collection, 2020-2024"
+E.g. "Data Management Plan for AMAZING - A really fantastic project, WP3 the complex data collection, 2020-2024"
 
 ### Contributor(s)
 List all person contributing to both the plan and the data management in the project.
