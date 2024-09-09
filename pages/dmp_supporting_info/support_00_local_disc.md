@@ -12,6 +12,14 @@ rdmkit:
 - name: National page for Norway
   url: https://rdmkit.elixir-europe.org/no_resources
 ---
+
+{% include callout.html type="note" content="
+**On this page**\\
+>> Find local support staff\\
+>> Get help from disciplinary experts\\
+>> Get inspired by discipline-rooted resources\\
+" %}
+
 If you have questions about research data management (RDM) or writing at data management plan (DMP), you can consult the information resources or contact the general RDM support at your institution. In addition, your unit may have research advisors who can direct you to the right resources or even dedicated data stewards who can help you hands-on.
 
 In addition, some Norwegian research infrastructures provide RDM support services or knowledge resources.
@@ -70,9 +78,11 @@ Homepage: [ELIXIR Norway](https://elixir.no/ "2024-07-12")
 
 Helpdesk: [support@elixir.no](https://elixir.no/helpdesk "2024-07-12")
 
+Knowledge resource: [Norwegian Life Science RDM LookUp](https://elixir.no/rdm-lookup/ "2024-07-12")
+
 Knowledge resource: [RDMkit](https://rdmkit.elixir-europe.org/ "2024-07-12")
 
-Knowledge resource: [Norwegian Life Science RDM LookUp](https://elixir.no/rdm-lookup/ "2024-07-12")
+Knowledge resource: [FAIR Cookbook](https://faircookbook.elixir-europe.org/ "2024-09-09")
 
 ### GBIF Norway- Biodiversity research
 GBIF Norway supplies IT-services and assistance with deposition of biodiversity data to affiliated organizations. It is the Norwegian node of the international network [Global Biodiversity Information Facility](https://www.gbif.org/).
@@ -118,3 +128,31 @@ Sikt maintains several data collections, including archival of personal data wit
 Homepage: [Sikt Research data](https://sikt.no/en/omrade/research-data "2024-07-12")
 
 Helpdesk: [kontakt@sikt.no](mailto:kontakt@sikt.no)
+
+
+## Discipline-rooted approaches to research data managmement (non-exhaustive)
+Scientific disciplines have different traditions for recognizing and handling research data. Here, we list some discipline-rooted knowledge resources and publications which may help identifying research data and select approaches to research data management in a given discipline.
+
+### Humanities
+Report: Recognising Digital Scholarly Outputs in the Humanities – ALLEA Report. (2023). [doi: 10.26356/OUTPUTS-DH](https://doi.org/10.26356/OUTPUTS-DH)
+
+Report: Sustainable and FAIR Data Sharing in the Humanities: Recommendations of the ALLEA Working Group E-Humanities - Digital Repository of Ireland. (2020). [doi: 10.7486/DRI.tq582c863](https://doi.org/10.7486/DRI.tq582c863)
+
+#### Archeology
+Article: Nicholson, C., Kansa, S., Gupta, N., & Fernandez, R. (2023). Will It Ever Be FAIR?: Making Archaeological Data Findable, Accessible, Interoperable, and Reusable. Advances in Archaeological Practice, 11(1), 63–75. [doi: 10.1017/aap.2022.40](https://doi.org/10.1017/aap.2022.40)
+
+#### Language Sciences
+Book: The Open Handbook of Linguistic Data Management. (2022). [doi: 10.7551/mitpress/12200.001.0001](https://doi.org/10.7551/mitpress/12200.001.0001)
+
+### Life Sciences
+Knowledge resource: [Norwegian Life Science RDM LookUp](https://elixir.no/rdm-lookup/ "2024-07-12")
+
+Knowledge resource: [RDMkit](https://rdmkit.elixir-europe.org/ "2024-07-12")
+
+Knowledge resource: [FAIR Cookbook](https://faircookbook.elixir-europe.org/ "2024-09-09")
+
+### Mathematics
+Article: Conrad, T. O. F., Ferrer, E., Mietchen, D., Pusch, L., Stegmüller, J., & Schubotz, M. (2024). Making Mathematical Research Data FAIR: Pathways to Improved Data Sharing. Scientific Data, 11(1), 676. [doi: 10.1038/s41597-024-03480-0](https://doi.org/10.1038/s41597-024-03480-0)
+
+### Social Sciences
+Knowledge resource: [CESSDA Data Management Expert Guide](https://dmeg.cessda.eu/ "2024-07-12")
