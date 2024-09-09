@@ -43,7 +43,7 @@ List all person contributing to both the plan and the data management in the pro
 
 Name is written Given-name Sur-name; Eg. Niels Henrik Abel (eller skal det være invertert???)
 
-Institutional email addresses is proffered
+Institutional email addresses as contact email are preferred.
 
 [ORCIDs](https://orcid.org/) are important to correctly identify researchers, if contributors do not have an ORCID they can create one for free.
 
