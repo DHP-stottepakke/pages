@@ -62,7 +62,7 @@ Roles should be added to specify their contribution, examples of roles are:
 *Related Person or Other can be used for others who contribute in more general terms.
 
 ### This DMP is related to other DMP(s)
-If the project has multiple plans and one "master plan" this field is used to show relations. Create the master plan first, and then sub-plans for the different parts with different practices for how data is organized.
+If there is several data management plans within a project, this field is used to show relations. Create the "master plan" first, and then sub-plans for the different parts of the project with different practices for how data is organized.
 
 ### Have your made plans for revisions of this DMP?
 For the data management plan to function as a project-tool, the plan should be updated as the project evolves, and changes or issues occur.
