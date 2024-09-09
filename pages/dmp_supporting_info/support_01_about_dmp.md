@@ -45,7 +45,7 @@ Name is written Given-name Sur-name; Eg. Niels Henrik Abel (eller skal det være
 
 Institutional email addresses as contact email are preferred.
 
-[ORCIDs](https://orcid.org/) are important to correctly identify researchers, if contributors do not have an ORCID they can create one for free.
+[ORCIDs](https://orcid.org/) are recommended to unambiguously identify researchers. If contributors do not have an ORCID they can create one for free.
 
 Affiliations are added at an institutional level and harvested from the [ROR registry of research organizations.](https://ror.org/)
 
