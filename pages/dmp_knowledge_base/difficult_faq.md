@@ -66,6 +66,8 @@ Ideally, a DMP should be as filled out as much as possible before the active pha
 
 The DMP should be updated as the project develops and decisions taken, it should be considered 'a living document'. Scheduling regular updates is recommended, either at given timepoints or in connections with milestones in the project.
 
+The DMP should be updated as the project develops and decisions taken, it should be considered 'a living document'. Scheduling regular updates is recommended, either at given timepoints or in connections with milestones in the project.
+
 ## Level of the DMP
 
 ### I need a 1-page DMP for a Horizon Europe application
