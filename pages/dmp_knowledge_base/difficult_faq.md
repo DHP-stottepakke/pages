@@ -26,6 +26,9 @@ In the Horizon Europe funding scheme, a brief outline of data management (1-page
 Practices for DMP evaluation (first draft/as part of the final reporting) are still under establishment and routines may vary between different research funders and institutions.
 
 In the Horizon Europe funding scheme, a brief outline of data management (1-page DMP) is required at proposal stage and included the scientific proposal evaluation.
+Practices for DMP evaluation (first draft/as part of the final reporting) are still under establishment and routines may vary between different research funders and institutions.
+
+In the Horizon Europe funding scheme, a brief outline of data management (1-page DMP) is required at proposal stage and included the scientific proposal evaluation.
 - [Horizon Europe - briefing slides for evaluators](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/experts/standard-briefing-slides-for-experts_he_en.pdf)
 - [Horizon Europe - video on evaluation of Open Science practices](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/videos), [YouTube-link](https://www.youtube.com/watch?v=EiJ8RaD3WBw)
 
