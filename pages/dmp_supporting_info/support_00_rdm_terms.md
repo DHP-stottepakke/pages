@@ -61,3 +61,16 @@ Provenance: A type of historical information or metadata about the origin, locat
 ### Research data
 
 ### Sensitive data
+#### [RDMkit: Data sensitivity](https://rdmkit.elixir-europe.org/data_sensitivity)
+
+>  The term sensitive data is used when making data publicly available could put people, organisations, countries, and/or ecosystems at risk - this could be for example, personal or commercial information, [...]. Such data sensitivity must be protected against unauthorized access, and therefore one should be cautious when deadling with potentitally sensitive or sensitive information.
+
+### Special category data
+#### [European Commission: What personal data is considered sensitive?](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/legal-grounds-processing-data/sensitive-data/what-personal-data-considered-sensitive_en)
+The GDPR defines special categories of personal data (‘[personal] sensitive data’) as:
+> -   personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs;
+> - trade-union membership;
+> -  genetic data, biometric data processed solely to identify a human being;
+> - health-related data;
+> - data concerning a person’s sex life or sexual orientation.
+
