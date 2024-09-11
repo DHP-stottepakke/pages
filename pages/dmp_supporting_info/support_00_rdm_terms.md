@@ -53,6 +53,15 @@ Examples:
 * Compact identifiers for life sciece data resolving via [identifers.org](https://identifiers.org/)
 
 ### Personal data
+#### [European Commission: What is personal data?](https://commission.europa.eu/law/law-topic/data-protection/reform/what-personal-data_en)
+
+> Personal data is any information that relates to an **identified** or **identifiable living individual**. Different pieces of information, which collected together can lead to the identification of a particular person, also constitute personal data.
+
+> Personal data that has been de-identified, encrypted or **pseudonymised** but can be used to re-identify a person remains personal data and falls within the scope of the GDPR.
+
+> Personal data that has been rendered **anonymous** in such a way that the individual is not or no longer identifiable is no longer considered personal data. For data to be truly anonymised, the anonymisation must be irreversible.
+
+> The GDPR protects personal data **regardless of the technology used for processing that data** – it’s technology neutral and applies to both automated and manual processing, provided the data is organised in accordance with pre-defined criteria (for example alphabetical order). It also doesn’t matter how the data is stored – in an IT system, through video surveillance, or on paper; in all cases, personal data is subject to the protection requirements set out in the GDPR.
 
 ### Provencance, data lineage
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
