@@ -54,7 +54,15 @@
 {%- endif %}
 {%- endfor %}
 {%- endif %}
-{%- if actual_training or actual_faircookbook or actual_fairsharing or actual_dsw or actual_rdmkit or actual_cessda or actual_turing %}
+{%- if page.other  %}
+{%- assign actual_other = nil %}
+{%- for rdmdoc in page.other %}
+{%- if rdmdoc.name %}
+{%- assign actual_other = 1 %}
+{%- endif %}
+{%- endfor %}
+{%- endif %}
+{%- if actual_training or actual_faircookbook or actual_fairsharing or actual_dsw or actual_rdmkit or actual_cessda or actual_turing or actual_other %}
 <!-- More information -->
 <h2>{{site.theme_variables.headings.more-information-tiles | default: 'Further resources' }}</h2>
 
@@ -182,6 +190,20 @@
                             </div>
                             <div class="col-10 d-flex align-items-center">
                                 <span class="text-start">Data science guidelines on: {{rdmdoc.name}}</span>
+                            </div>
+                        </div>
+                    </a>
+                    {%- endfor %}
+                    {%- endif %}
+                    {%- if actual_other %}
+                    {%- for rdmdoc in page.other %}
+                    <a class="btn bg-white hover-primary text-start d-block" data-bs-toggle="tooltip" data-bs-placement="right" title="external link" href="{{ rdmdoc.url }}">
+                        <div class="row g-1">
+                            <div class="col-2 d-flex align-items-center justify-content-center">
+                                <img alt="Link logo" class="img-fluid" src="{{ 'assets/img/link.svg' | relative_url }}">
+                            </div>
+                            <div class="col-10 d-flex align-items-center">
+                                <span class="text-start">{{rdmdoc.name}}</span>
                             </div>
                         </div>
                     </a>
