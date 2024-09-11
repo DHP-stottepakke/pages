@@ -35,8 +35,8 @@ This chapter collects administrative information about the DMP itself. It makes 
 
 ### DMP title
 Make a title for the data management plan which makes it clear which research project it relates to, if a project has multiple plans, then add information about which part or package of the project this specific plan is for.
-E.g. "Data Management Plan for AMAZING - A really fantastic project, 2020-2024"
-E.g. "Data Management Plan for AMAZING - A really fantastic project, WP3 the complex data collection, 2020-2024"
+* E.g. "Data Management Plan for AMAZING - A really fantastic project, 2020-2024"
+* E.g. "Data Management Plan for AMAZING - A really fantastic project, WP3 the complex data collection, 2020-2024"
 
 ### Contributor(s)
 List all person contributing to both the plan and the data management in the project.
@@ -50,16 +50,16 @@ Institutional email addresses as contact email are preferred.
 Affiliations are added at an institutional level and harvested from the [ROR registry of research organizations.](https://ror.org/)
 
 Roles should be added to specify their contribution (following the [DataCite contributor type](https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/contributorType/ "2024-09-09") definitions). Examples of roles are: 
-*Contact Person 
-*Data Collector 
-*Data Manager  
-*Project Leader 
-*Project Manager 
-*Project Member 
-*Researcher 
-*Supervisor 
-*Work Package Leader
-*Related Person or Other can be used for others who contribute in more general terms.
+* Contact Person 
+* Data Collector 
+* Data Manager  
+* Project Leader 
+* Project Manager 
+* Project Member 
+* Researcher 
+* Supervisor 
+* Work Package Leader
+* Related Person or Other can be used for others who contribute in more general terms.
 
 ### This DMP is related to other DMP(s)
 If there is several data management plans within a project, this field is used to show relations. Create the "master plan" first, and then sub-plans for the different parts of the project with different practices for how data is organized.
@@ -79,9 +79,9 @@ For projects with information security requirements (e.g. dual use research, pro
 ### Did you consult with research data management experts?
 Universities in Norway normally have a contact point where you can receive guidance regarding data management:
 
-*[NTNU - Norwegian University of Science and Technology](https://i.ntnu.no/researchdata)
-*[University of Bergen](https://www.uib.no/en/ub/111372/open-access-research-data)
-*[University of Oslo](https://www.uio.no/english/for-employees/support/research/research-data-management/)
-*[UiT The Arctic University of Norway](https://en.uit.no/research/research-dataportal/art?p_document_id=729171)
+* [NTNU - Norwegian University of Science and Technology](https://i.ntnu.no/researchdata)
+* [University of Bergen](https://www.uib.no/en/ub/111372/open-access-research-data)
+* [University of Oslo](https://www.uio.no/english/for-employees/support/research/research-data-management/)
+* [UiT The Arctic University of Norway](https://en.uit.no/research/research-dataportal/art?p_document_id=729171)
 
 
