@@ -16,6 +16,13 @@ cessda:
 rdmkit:
 - name: Documentation and metadata
   url: https://rdmkit.elixir-europe.org/metadata_management
+other:
+- name: "OpenAIRE: How do I license my research?"
+  url: https://www.openaire.eu/how-do-i-license-my-research-data
+- name: "Figshare: On choosing licenses"
+  url: https://help.figshare.com/article/what-is-the-most-appropriate-licence-for-my-research
+- name: "ELIXIR-BE RDM: Data licences"
+  url: https://rdm.elixir-belgium.org/data_licences 
 turing:
 - name: Documentation and Metadata
   url: https://book.the-turing-way.org/reproducible-research/rdm/rdm-metadata
