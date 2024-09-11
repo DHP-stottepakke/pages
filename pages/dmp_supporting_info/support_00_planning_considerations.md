@@ -37,15 +37,16 @@ Some research funders ask about Open Science and/ or data management planning al
 Some aspects that could be addressed in this section:
 * What data the project will reuse, produce or generate and who could be interested in using datasets and related research outputs (e.g. software, models, workflows) resulting from the project. Will the results e.g. be useful for researchers from the same discipline, researchers in another domain, public administration or industry?
 * How making data available will benefit the impact, and is connected to the dissemination and exploitation strategy of the project
-* Examples of data types, metadata standards, data repositories where the data will be made available. This can also be addressed specifically if already known, or with more generic phrases
+* Demonstrate awareness of relevant concepts and terminology, e.g. FAIR principles
+* Examples of data types, metadata standards, and data repositories where the data will be made available. This can be addressed specifically if already known, or with more generic phrases.
 * How data quality will be ensured
 * Outline how data management in the project will be organised and who will be responsible. Remember to include costs related to data mangement in your budget, if applicable.
 * Awareness of possible data management challenges or constraints particularly if handling large amounts of data or sensitive data.
 * If data cannot be made available openly, explain why
-* Familiarity with relevant guidelines and routines
+* Familiarity with relevant guidelines and routines, e.g. instiutional Open Science guidelines
 
-Since 2023, The Research Council of Norway has incorporated assessment of Open Research under two subsection of the 'impact' criterion.
-* [The Research Council of Norway: Assessment of open science in grant applications](https://www.forskningsradet.no/en/processing-grant-applications/processing-applications/assessment-open-science/ "2024-09-09")
+Since 2023, The Research Council of Norway has incorporated assessment of Open Research under two subsection of the 'impact' criterion: "potential impact of the propsed research" (for example including making resarch data FAIR) and "communication and expoitation" (for example including which archiving solutions will be used for research data).
+* [The Research Council of Norway: Assessment of open science in grant applications](https://www.forskningsradet.no/en/financing/application-process/assessment-open-science/ "2024-09-11")
 
 In Horizon Europe, Open Science practices are considered in the evaluation of proposals under the 'excellence' and under the 'quality and efficiency of implementation' criterion. Open access to research outputs such as publications, data, software, models, algorithms, and workflows is considered mandatory practice, whereas other practices are beneficial and can improve the proposal score.
 * [Directorate-General for Research and Innovation (European Commission). (2021). Horizon Europe Open Science Fact Sheet.](https://doi.org/10.2777/18252)
@@ -85,7 +86,7 @@ Are for example one or several of the following aspects relevant?
 * Processing of personal data
 * Data processor agreement or joint controllership agreement
 * Data Protection Impact Assessment (DPIA) if the project involves a "high risk" to people's personal information
-	* For questions about processing of personal data contact your local data protection officer (DPO)
+	* Consult privacy guidelines and routines at your institution. For questions about processing of personal data contact your local data protection officer (DPO).
 * Ethical pre-approval (if e.g. conducting medical and health research, animal experiments)
 * Informed consent from human participants (medical and health research)
 * Explicit consent from human participants

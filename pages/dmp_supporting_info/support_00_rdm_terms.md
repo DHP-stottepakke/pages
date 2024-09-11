@@ -36,7 +36,7 @@ integrity, security, authenticity and accessibility of the records, objects, met
 
 ### Data preservation
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-Preservation: An activity within archiving in which specific items of data are maintained over time so that they can 
+> Preservation: An activity within archiving in which specific items of data are maintained over time so that they can 
 still be accessed and understood through changes in technology. 
 
 ### Data storage
