@@ -21,7 +21,18 @@ For Norwegian translations, take a look a the [NO-RDA Termliste for forskningsda
 
 ## Key research data management terms explained (alphabetical order, non-exaustive)
 
-### Archiving, Data archival
+### Archiving
+#### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+> Engage in curation activity that ensures that records, objects, metadata and data are properly
+selected, stored, and can be accessed, and for which logical and physical integrity are maintained
+over time, including security and authenticity
+
+### Data archive
+#### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+> Archive (noun): Curated collection or repository containing physical or digital static records, objects, metadata and
+data deemed suitable for permanent retention, set up and managed to established standards and
+models, such as ISAD(G), CoreTrustSeal, and the OAIS reference model, that ensure long term
+integrity, security, authenticity and accessibility of the records, objects, metadata and data.
 
 ### Data preservation
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -31,20 +42,24 @@ still be accessed and understood through changes in technology.
 ### Data storage
 
 ### FAIR principles
+#### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0]
+> FAIR data principles: Set of guiding principles to make data Findable, Accessible, Interoperable, and Reusable.
+
+[The FAIR principles in detail](https://www.go-fair.org/fair-principles/)
 
 ### Information security
 
 ### Metadata
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-Metadata: Data about data. It is data (or information) that defines and describes the characteristics of other data. It is used to improve the understanding and use of the data.
+> Metadata: Data about data. It is data (or information) that defines and describes the characteristics of other data. It is used to improve the understanding and use of the data.
 
 ### Metadata standard
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-Metadata standard: High level, shared representation of the metadata elements related to a dataset, collection, or other digital object. May also provide an XML schema describing the format in which the elements should be stored. Typically, a standard XML format is defined using XML Schema or document type definition (DTD). Standards are typically ratified by national or international standards bodies.
+> Metadata standard: High level, shared representation of the metadata elements related to a dataset, collection, or other digital object. May also provide an XML schema describing the format in which the elements should be stored. Typically, a standard XML format is defined using XML Schema or document type definition (DTD). Standards are typically ratified by national or international standards bodies.
 
 ### Persistand identifier (PID)
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-Persistent identifier: Long-lasting digital reference to an object that gives information about that object regardless of what happens to that object. Developed to address link rot, a persistent identifier can be resolved to provide an appropriate representation of an object whether that object changes its online location or goes offline.
+> Persistent identifier: Long-lasting digital reference to an object that gives information about that object regardless of what happens to that object. Developed to address link rot, a persistent identifier can be resolved to provide an appropriate representation of an object whether that object changes its online location or goes offline.
 
 Examples:
 * [Digital Object identifier (DOI)](https://en.wikipedia.org/wiki/Digital_object_identifier "2024-09-09")
@@ -65,28 +80,40 @@ Examples:
 
 ### Provencance, data lineage
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-Provenance: A type of historical information or metadata about the origin, location or the source of something, or the history of the ownership or location of an object or resource including digital objects. For example, information about the Principal Investigator who recorded the data, and the information concerning its storage, handling, and migration.
+> Provenance: A type of historical information or metadata about the origin, location or the source of something, or the history of the ownership or location of an object or resource including digital objects. For example, information about the Principal Investigator who recorded the data, and the information concerning its storage, handling, and migration.
+
+### Repository
+#### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+> Repository: Physical or digital storage location that can house, preserve, manage, and provide access to many
+types of digital and physical materials in a variety of formats. Materials in online repositories are
+curated to enable search, discovery, and reuse. There must be sufficient control for the physical
+and digital material to be authentic, reliable, accessible and usable on a continuing basis.
 
 ### Research data
 #### [The Research Council of Norway’s Policy for Open Access to Research Data](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf)
-
 > The term **research data** is defined in this policy to mean the registration/recording/reporting of numerical scores, textual records, images and sounds that are generated by or arise during research projects. These may, for example, be data that are generated through new analysis by combining existing secondary data, or entirely new data that are generated through new data collection.
 > Research data are always a direct result of research activity, regardless of whether the data are based on secondary data or whether they are collected from scratch.
 
 > The term **secondary data** is used in this policy to refer to data that already exist, regardless of the research to be conducted. These may comprise information collected for a different purpose (e.g. public administrative data, clinical data or weather data) or they may be physical or digital collections of objects and texts (e.g. libraries or data reused from previous projects such text corpuses or other scientific collections). Information on the Internet may also be defined as secondary data in this context, and such information is highly heterogeneous. Data which are used as secondary data in research, but which have been collected, generated or processed by other researchers or research institutions than those conducting the research, will normally not be encompassed by the guidelines in this policy.
 
+#### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+> Research data: Data that are used as primary sources to support technical or scientific enquiry, research,
+scholarship, or artistic activity, and that are used as evidence in the research process and/or are
+commonly accepted in the research community as necessary to validate research findings and
+results. All other digital and non-digital content have the potential of becoming research data.
+Research data may be experimental data, observational data, operational data, third party data,
+public sector data, monitoring data, processed data, or repurposed data.
 
 ### Sensitive data
-#### [RDMkit: Data sensitivity](https://rdmkit.elixir-europe.org/data_sensitivity)
-
+#### [RDMkit: Data sensitivity](https://rdmkit.elixir-europe.org/data_sensitivity) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 >  The term sensitive data is used when making data publicly available could put people, organisations, countries, and/or ecosystems at risk - this could be for example, personal or commercial information, [...]. Such data sensitivity must be protected against unauthorized access, and therefore one should be cautious when deadling with potentitally sensitive or sensitive information.
 
 ### Special category data
 #### [European Commission: What personal data is considered sensitive?](https://commission.europa.eu/law/law-topic/data-protection/reform/rules-business-and-organisations/legal-grounds-processing-data/sensitive-data/what-personal-data-considered-sensitive_en)
-The GDPR defines special categories of personal data (‘[personal] sensitive data’) as:
-> -   personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs;
-> - trade-union membership;
-> -  genetic data, biometric data processed solely to identify a human being;
-> - health-related data;
-> - data concerning a person’s sex life or sexual orientation.
+> The GDPR defines special categories of personal data (‘[personal] sensitive data’) as:
+> * personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs;
+> * trade-union membership;
+> *  genetic data, biometric data processed solely to identify a human being;
+> * health-related data;
+> * data concerning a person’s sex life or sexual orientation.
 

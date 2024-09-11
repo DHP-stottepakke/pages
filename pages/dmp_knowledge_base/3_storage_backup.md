@@ -169,10 +169,11 @@ As in 3b.2, choosing a suitable storage and infrastructure is essential, in this
 > 3b.4\
 Explain which institutional data protection policies are in place.
 
-[UiB Storage guide](https://www.uib.no/en/foremployees/153608/storage-guide "2024-03-05")
-[UiO Data storage guide](https://www.uio.no/english/services/it/security/lsis/storage-guide.html "2024-03-05")
-[NTNU Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide  "2024-03-05")
-[UiT Processing and storage](https://en.uit.no/research/research-dataportal/art?p_document_id=729174 "2024-03-05")
+Consult institutional information security policies and storage guides:
+* [NTNU Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide  "2024-03-05")
+* [UiB Storage guide](https://www.uib.no/en/foremployees/153608/storage-guide "2024-03-05")
+* [UiO Data storage guide](https://www.uio.no/english/services/it/security/lsis/storage-guide.html "2024-03-05")
+* [UiT Processing and storage](https://en.uit.no/research/research-dataportal/art?p_document_id=729174 "2024-03-05")
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 Clearly explains:
@@ -198,7 +199,7 @@ Clearly explains:
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [Properties in security and privacy]
-- https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-security_and_privacy: description [string, free text], name [string, free text]
+- [#properties-in-security_and_privacy](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-security_and_privacy): description [string, free text], name [string, free text]
 
 [Properties in distribution]
 - [#distribution_data_access_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_data_access_tree): open/shared/closed
@@ -231,6 +232,8 @@ Missing:
 ### Knowledge for support staff
 - National policies
 - Classification of information: Institutional policies and storage guides
+	- [Klassifisering av infomasjon: Sektorstandard for universiteter, høgskoler og forskningsinstitutter](https://cms.sikt.no/sites/default/files/2023-02/Sektorstandard_klassifisering_av_informasjon%20%281%29.pdf "2024-09-11")
+	- Dual use research: Report [Et helhetlig forskningssystem for åpen, skjermet og gradert forskning (NFR, 2024)](https://www.forskningsradet.no/nyheter/2024/fire-anbefalinger-for-et-helhetlig-forskningssystem-for-apen-skjermet-og-gradert-forskning/ "2024-09-11")
 - Routines for data recovery
 - Understanding data security measures
 
@@ -266,7 +269,6 @@ If your project uses sensitive data, describe how you will take care of data pro
 Refer to the information security guidelines and policies in your university/organization and define what implications they have. What information classification level does the data material have and what security measures are needed to protect the material? Who should have access to the project data during the project and how do you plan to protect the data from unauthorised access?
 
 **Why is this important?**
-
 Access to the data material must be restricted so that authorised people can access it, but it is protected from unauthorised access. Secure work and storage environments can include access restriction (e.g. passwords), encryption, and virus and access protection. You may need to contact your organization’s IT security office to make sure that you have addressed all questions regarding information security before the data collection begins.]
 
 #### [DMP Tuuli](https://zenodo.org/doi/10.5281/zenodo.3629371) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

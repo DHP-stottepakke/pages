@@ -69,8 +69,9 @@ How the members of your project access the data and how access is controlled can
 You should also consider if a more advanced way to organise your data, such as object storage or databases might be of help for your project.
 
 ### Information security level(s) this storage solution will be used for
-While the general information security levels used at Norwegian higher educational institutions are similar (green, yellow, red, black), the classification between which data falls into which category and which solution is allowed for which security level might vary. Please consult the institutional storage guides for details:
+While the general information security levels used at Norwegian higher educational institutions are similar (open/ green, limited/ yellow, confidential/ red, strictly confidential/ black), the classification between which data falls into which category and which solution is allowed for which security level might vary. Be aware that dual use research and restricted information may follow separate provisions.
 
+Please consult the institutional storage guides for details:
 * [NTNU Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
 * [UiB Storage guide](https://www.uib.no/en/foremployees/153608/storage-guide)
 * [UiO Data storage guide](https://www.uio.no/english/services/it/security/lsis/storage-guide.html)
@@ -110,7 +111,7 @@ Here the explanation from [NFDI4Chem](https://www.nfdi4chem.de/3-2-1-rule/) [![L
 ### File naming and organisation
 Consistent file naming and folder structures are an important part of organising data in your research project. It is critical to be consistent and to make all of your project partners following the same convention.
 
-There are different strategies for file naming and folder structure. Please consult the chapters in e.g. the [RDMkit for life sciences or the CESSDA Data Management Guide](support_04_store_protect#further-resources) for inspiration.
+There are different strategies for file naming and folder structure. Please consult the chapters in e.g. the [RDMkit for life sciences, the CESSDA Data Management Guide, or The Turing Way handbook](support_04_store_protect#further-resources) for inspiration.
 
 ### Risk evaluation
 There are different risk considerations for your project you might want to carry out depending on the nature of your project. Some practises like carrying physical storage media can be associated with increased risks or violate regulation and laws. Thus project members should be informed about the risks and the risks should be mitigated where possible.
