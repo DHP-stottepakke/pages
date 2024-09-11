@@ -69,7 +69,6 @@ How the members of your project access the data and how access is controlled can
 You should also consider if a more advanced way to organise your data, such as object storage or databases might be of help for your project.
 
 ### Information security level(s) this storage solution will be used for
-
 While the general information security levels used at Norwegian higher educational institutions are similar (green, yellow, red, black), the classification between which data falls into which category and which solution is allowed for which security level might vary. Please consult the institutional storage guides for details:
 
 * [NTNU Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
@@ -78,11 +77,9 @@ While the general information security levels used at Norwegian higher education
 * [UiT Research data portal - Processing and storage](https://en.uit.no/research/research-dataportal/art?p_document_id=729174)
 
 ### Is the storage solution associated with costs?
-
 In case your project requires storage beyond the basic supplied level by your institution, there might be associated costs. Often it is good practise to familiarize your self with storage costs upfront, so that they can be factored into your budget. In many cases the costs will vary depending on the needs and nature of your project and potentially by funding source. If you are using commercial cloud storage also consider that traffic in and out of the system might be charged.
 
 ### Backups
-
 If you are using institutional solutions, the institution commonly provides backup and snapshotting functionality, that allow you to restore data. This information should be provided by your IT department. It is good to be aware of the frequency and possibly limitations of these before you may need to recover data in your project.
 
 If you are using other solutions you should check the backup routines of theses solutions or might have to implement your own routines.
@@ -110,12 +107,10 @@ Here the explanation from [NFDI4Chem](https://www.nfdi4chem.de/3-2-1-rule/) [![L
 >
 > The 3-2-1 rule does not include a backup routine. However, this is just as important because the best backup is useless if it is out of date. Automations (e.g., a cron job) on your servers are best suited for this, copying your data to the secondary storage every night. Or use central services, they already have backup plans.
 
-
 ### File naming and organisation
 Consistent file naming and folder structures are an important part of organising data in your research project. It is critical to be consistent and to make all of your project partners following the same convention.
 
 There are different strategies for file naming and folder structure. Please consult the chapters in e.g. the [RDMkit for life sciences or the CESSDA Data Management Guide](support_04_store_protect#further-resources) for inspiration.
 
 ### Risk evaluation
-
 There are different risk considerations for your project you might want to carry out depending on the nature of your project. Some practises like carrying physical storage media can be associated with increased risks or violate regulation and laws. Thus project members should be informed about the risks and the risks should be mitigated where possible.

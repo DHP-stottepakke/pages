@@ -43,7 +43,7 @@ turing:
 ## About this chapter
 National legislation, institutional guidelines and international norms have implications for the handling of research data. Both researchers and research institutions are legally responsible for complying with legal and ethical requirements.
 
-Questions in this chapter address the following aspects:
+Questions in this chapter include the following aspects:
 
 ### The research-performing organisation(s)
 The research institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed. In collaboration projects, it is important to define responsibilities and document them in collaboration agreements or contracts.
@@ -95,7 +95,7 @@ While more common in other countries, in Norway institutional ethical committees
 
 
 ### Personal data and data privacy
-As processing of personal data is followed by data management requirements, being specific about personal data is part of the DMP. It is the responsibility of the Researcher to make sure that data processing is in agreement with the national legislation and institutional policies and routines.
+As processing of personal data is followed by data management requirements, being specific about personal data is part of the DMP. It is the responsibility of the researcher to make sure that data processing is in agreement with the national legislation and institutional policies and routines.
 
 Personal data is any information that can be linked to an identifiable person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: [Lov om behandling av personopplysninger (personopplysningsloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. Any processing of personal data requires a lawful basis. Special precautions must be taken for special categories of personal data (often called personal sensitive data) containing information about racial or ethnic origin, political beliefs, religion, philosophical beliefs, trade union memberships, genetic and biometric information, health information, or sexual information.
 
@@ -104,12 +104,7 @@ Personal data is any information that can be linked to an identifiable person. T
 * [The Norwegian Data Protection Authority (Datatilsynet) on the Personal Data Act *Norwegian only*](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/om-personopplysningsloven-og-nar-den-gjelder/ "2024-07-17")
 * [National Research Ethics Comittees: Q&A: New legislation on personal data - what does it mean for research? *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
 
-It is a common misunderstanding that research ethics and privacy protection is the same thing, yet it is important to remember that complying with privacy legislation and conducting research ethical considerations are independent processes.
-
-Further information:
-* [National Research Ethics Committees - The Personal Data Act](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/legal-statutes-and-guidelines/the-personal-data-act/ "2024-07-17")
-* [GDPR compliance (RDMkit)](https://rdmkit.elixir-europe.org/gdpr_compliance "2024-07-17")
-* [Protect (CESSDA DMEG): Processing personal data](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Processing-personal-data "2024-07-17")
+It is a common misunderstanding that research ethics and privacy protection is the same thing, yet it is important to remember that complying with privacy legislation and conducting research ethical considerations are independent processes. Read more about the distinction between data protection and privacy by [National Research Ethics Committees: The Personal Data Act - Research ethics - far more than privacy](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/legal-statutes-and-guidelines/the-personal-data-act/ "2024-07-17")
 
 Institutional privacy policies:
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy)
@@ -123,19 +118,19 @@ Personal data is only one of many reasons to take precautions when processing an
 
 Reasons for sensitivity (non-exhaustive):
 * National security
-	* National Security Act ([Norwegian: Lov om nasjonal sikkerhet(sikkerhetsloven)](https://lovdata.no/dokument/NL/lov/2018-06-01-24)
+	* National Security Act ([Norwegian: Lov om nasjonal sikkerhet(sikkerhetsloven)](https://lovdata.no/dokument/NL/lov/2018-06-01-24))
 * Export control regulations
 	* Export Control Act ([Norwegian: Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v.(eksportkontrollloven)](https://lovdata.no/dokument/NL/lov/1987-12-18-93)
 	* [Report Guidelines and tools for responsible international knowledge cooperation (2023)](https://hkdir.no/en/rapporter-undersokelser-og-statistikk/guidelines-and-tools-for-responsible-international-knowledge-cooperation-report)
 * Intellectual Property Rights (IPR) or confidentiality issues
-	* Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
-	* Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
-	* Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
-	* Act on Universities and Colleges Act ([Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven))](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
+	* Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40))
+	* Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9))
+	* Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126))
+	* Act on Universities and Colleges Act ([Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven)](https://lovdata.no/dokument/NL/lov/2005-04-01-15))
 * Research on endagered species
-	* Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100)
+	* Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100))
 * Research on protected cultural heritage
-	* Cultural Heritage Act ([Norwegian: Lov om kulturminner (kulturminneloven)](https://lovdata.no/dokument/NL/lov/1978-06-09-50)
+	* Cultural Heritage Act ([Norwegian: Lov om kulturminner (kulturminneloven)](https://lovdata.no/dokument/NL/lov/1978-06-09-50))
 * Indigenous Data Governance
 	* United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter)](https://www.regjeringen.no/no/tema/urfolk-og-minoriteter/urfolkryddemappe/fns-erklaring-om-urfolks-rettigheter1/id629670/)
 	* [GIDA-Sápmi - Sámi Research Data Governance](https://uit.no/research/sshf-no/project?pid=788403 "2024-07-19")
@@ -185,8 +180,8 @@ You can select from the following list of common policies and guidelines:
 * Funder: [Horizon Europe provisions on Open Science](https://rea.ec.europa.eu/open-science_en "2024-07-17")
 
 Further information:
-* [RDM resources in Norway (RDMkit): Funder policies on research data](https://rdmkit.elixir-europe.org/no_resources#funder-policies-on-research-data)
 * [RDM resources in Norway (RDMkit): Institutional  policies on research data](https://rdmkit.elixir-europe.org/no_resources#institutional-policies-on-research-data)
+* [RDM resources in Norway (RDMkit): Funder policies on research data](https://rdmkit.elixir-europe.org/no_resources#funder-policies-on-research-data)
 
 
 ### Indicate applicable general research ethical guidelines
@@ -245,15 +240,15 @@ Read more about [Personal data and data privacy.](/pages/support_03_legal_ethics
 
 
 #### Which institutional privacy routines apply?
-Research organisations define their own privacy policies and routines that may differ from each other, it is therefore important to make yourself familiar with the applicable policies and guidelines at your institution.
+Privacy routines at research organisations may differ from each other, it is therefore important to make yourself familiar with the applicable policies and guidelines at your institution.
 
 ##### Norwegian University of Science and Technology (NTNU)
 * [Collection of personal data for research projects at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2024-07-16")
 * [NTNU privacy policy](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy "2024-07-16")
 
 ##### University of Bergen (UiB)
-* [Personvern i forskning ved UiB (in Norwegian)](https://www.uib.no/forskningsetikk/129857/personvern-i-forskning-ved-uib "2024-07-16")
-* [Forskningsrutiner (in Norwegian)](https://www.uib.no/forskningsetikk/123944/forskningsrutiner "2024-07-16")
+* [Personvern i forskning ved UiB *Norwegian only*](https://www.uib.no/forskningsetikk/129857/personvern-i-forskning-ved-uib "2024-07-16")
+* [Forskningsrutiner *Norwegian only*](https://www.uib.no/forskningsetikk/123944/forskningsrutiner "2024-07-16")
 * [Privacy policy for the University of Bergen](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen "2024-07-16")
 
 ##### University of Oslo (UiO)
@@ -298,14 +293,14 @@ Consent is a possible legal basis for processing of personal data under GDPR. Fo
 If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes as part of both the informed and specific consent. It is advisable to use standard consent clauses, which can be reflected with machine readable metadata.
 
 ##### Research project using 'public interest' as legal basis
-Applying public interest as legal basis for scientific research projects is common and strongly recommended at some institutions. For compliance with ethical guidelines, permission to archive the data for the purpose of future research, and possibly also educational purposes should be collected and documented.
+Applying public interest as legal basis for scientific research projects is advisable. For compliance with ethical guidelines, permission to archive the data for the purpose of future research, and possibly also educational purposes should be collected and documented.
 
 Further information:
-* [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
-* [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 * [GA4GH ethical toolkit](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/) with examples of granular consent and machine readable metadata (for human genetic data)
 * [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico)
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)
+* [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
+* [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 
 Institutional resources on participant information and consent:
 * [NTNU - Samtykke for behandling av personopplysninger *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Samtykke+for+behandling+av+personopplysninger "2024-07-19")

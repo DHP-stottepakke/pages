@@ -23,5 +23,5 @@ Describing research data management with the right terms can be tricky - some us
 - [Språkrådets termwiki: Bibliotekfag](http://termwiki.sprakradet.no/wiki/Kategori:Bibliotekfag)
 
 ### English RDM terms:
-- [CoData Research Data Management Terminology](https://codata.org/initiatives/data-science-and-stewardship/rdm-terminology-wg/rdm-terminology/)
+- [CoData Research Data Management Terminology (2023 version)](https://doi.org/10.5281/zenodo.10626170 "2024-09-09")
 - [Datatilsynet Vocabulary english-norwegian](https://www.datatilsynet.no/en/regulations-and-tools/vocabulary/)
