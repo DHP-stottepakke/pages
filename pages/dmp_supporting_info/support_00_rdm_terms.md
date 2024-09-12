@@ -23,7 +23,7 @@ For Norwegian translations, take a look a the [NO-RDA Termliste for forskningsda
 
 ### Archiving
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-> Engage in curation activity that ensures that records, objects, metadata and data are properly
+> Engage in curation activity that ensures that records, objects, metadata and data are properly selected, stored, and can be accessed, and for which logical and physical integrity are maintained over time, including security and authenticity
 over time, including security and authenticity
 
 ### Data archive
