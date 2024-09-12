@@ -8,7 +8,7 @@ page_id: support_00_dmp_purpose
 description: Supporting DMP Information, Purpose of a DMP, Why write a DMP, Reason, Motivation, What is a DMP
 sidebar: dmp_supporting_info
 cessda:
-- name: Planing
+- name: Planning
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan
 rdmkit:
 - name: Planning
