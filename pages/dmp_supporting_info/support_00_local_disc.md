@@ -157,3 +157,5 @@ Article: Conrad, T. O. F., Ferrer, E., Mietchen, D., Pusch, L., Stegmüller, J.,
 
 ### Social Sciences
 Knowledge resource: [CESSDA Data Management Expert Guide](https://dmeg.cessda.eu/ "2024-07-12")
+
+Report: Making Qualitative Data Reusable - A Short Guidebook For Researchers And Data Stewards Working With Qualitative Data - DANS Guidebook. (2023). [doi: 10.5281/zenodo.7777519](https://doi.org/10.5281/zenodo.7777519)
