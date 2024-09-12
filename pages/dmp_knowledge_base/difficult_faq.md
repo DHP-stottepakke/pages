@@ -38,7 +38,7 @@ In the Horizon Europe funding scheme, a brief outline of data management (1-page
 Science Europe, an organisation of European funders (incl. RCN) has created a [rubic for reviewers](https://scienceeurope.org/media/22hpslfl/se-rdm-template-5-guidance-on-the-evaluation-of-data-management-plans.docx&ved=2ahUKEwiYo4uJur2IAxWkHBAIHZPOLLUQFnoECAwQAQ&usg=AOvVaw1hIpNDQG9JQ-kQM-PUwKwh) on minimal DMP requirements.
 
 ### Where can a DMP be published?
-* [Zenodo](https://zenodo.org/) is an agnostic research archive (operated by CERN) which allows you to share all sorts of research outputs including data managment plans. Zenodo also allows versioning and will create a DOI for your files.
+* [Zenodo](https://zenodo.org/) is an agnostic research archive (operated by CERN) which allows you to share all sorts of research outputs including data managment plans. Zenodo also allows versioning and will create a unique DOI for your DMP versions.
 
 ### I feel it is too much work to prepare my data for archiving in a domain-specific archive
 
