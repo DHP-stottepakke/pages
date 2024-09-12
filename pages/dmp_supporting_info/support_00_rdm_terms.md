@@ -23,9 +23,7 @@ For Norwegian translations, take a look a the [NO-RDA Termliste for forskningsda
 
 ### Archiving
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-> Engage in curation activity that ensures that records, objects, metadata and data are properly
-selected, stored, and can be accessed, and for which logical and physical integrity are maintained
-over time, including security and authenticity
+> Engage in curation activity that ensures that records, objects, metadata and data are properly selected, stored, and can be accessed, and for which logical and physical integrity are maintained over time, including security and authenticity
 
 ### Data archive
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -36,8 +34,7 @@ integrity, security, authenticity and accessibility of the records, objects, met
 
 ### Data preservation
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-> Preservation: An activity within archiving in which specific items of data are maintained over time so that they can 
-still be accessed and understood through changes in technology. 
+> Preservation: An activity within archiving in which specific items of data are maintained over time so that they can still be accessed and understood through changes in technology. 
 
 ### Data storage
 
@@ -84,10 +81,7 @@ Examples:
 
 ### Repository
 #### [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-> Repository: Physical or digital storage location that can house, preserve, manage, and provide access to many
-types of digital and physical materials in a variety of formats. Materials in online repositories are
-curated to enable search, discovery, and reuse. There must be sufficient control for the physical
-and digital material to be authentic, reliable, accessible and usable on a continuing basis.
+> Repository: Physical or digital storage location that can house, preserve, manage, and provide access to many types of digital and physical materials in a variety of formats. Materials in online repositories are curated to enable search, discovery, and reuse. There must be sufficient control for the physical and digital material to be authentic, reliable, accessible and usable on a continuing basis.
 
 ### Research data
 #### [The Research Council of Norway’s Policy for Open Access to Research Data](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf)

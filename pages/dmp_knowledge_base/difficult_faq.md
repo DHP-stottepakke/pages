@@ -35,8 +35,10 @@ In the Horizon Europe funding scheme, a brief outline of data management (1-page
 * [Horizon Europe - briefing slides for evaluators](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/experts/standard-briefing-slides-for-experts_he_en.pdf)
 * [Horizon Europe - video on evaluation of Open Science practices](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/videos), [YouTube-link](https://www.youtube.com/watch?v=EiJ8RaD3WBw)
 
+Science Europe, an organisation of European funders (incl. RCN) has created a [rubic for reviewers](https://scienceeurope.org/media/22hpslfl/se-rdm-template-5-guidance-on-the-evaluation-of-data-management-plans.docx&ved=2ahUKEwiYo4uJur2IAxWkHBAIHZPOLLUQFnoECAwQAQ&usg=AOvVaw1hIpNDQG9JQ-kQM-PUwKwh) on minimal DMP requirements.
+
 ### Where can a DMP be published?
-* [Zenodo](https://zenodo.org/) is an agnostic research archive (operated by CERN) which allows you to share all sorts of research outputs including data managment plans. Zenodo also allows versioning and will create a DOI for your files.
+* [Zenodo](https://zenodo.org/) is an agnostic research archive (operated by CERN) which allows you to share all sorts of research outputs including data managment plans. Zenodo also allows versioning and will create a unique DOI for your DMP versions.
 
 ### I feel it is too much work to prepare my data for archiving in a domain-specific archive
 
@@ -53,7 +55,6 @@ If you choose to share your data in a long term archive, it is highly likely thi
 
 ### Where can I find an example of how a DMP should look like?
 Reading through different DMPs can be an useful exercise. Keep in mind that not all public DMPs are quality-controlled.
-Reading through different DMPs can be an useful exercise. Keep in mind that not all public DMPs are quality-controlled.
 * [Example DMPs and guidance from Digital Curation Centre](https://www.dcc.ac.uk/resources/data-management-plans/guidance-examples)
 * [Curated collection of Horizon 2020 DMPs from University of Vienna](https://phaidra.univie.ac.at/search#?page=1&pagesize=10&collection=o:1140797)
 * [DMP catalogue from LIBER Europe](https://libereurope.eu/working-group/research-data-management/plans/)
@@ -63,8 +64,7 @@ Reading through different DMPs can be an useful exercise. Keep in mind that not 
 
 ### I need a 1-page DMP for a Horizon Europe application
 #### [European Commission. (2021, updated 2023). Horizon Europe Programme Guide: Evaluation of open science practices p.42ff](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf "2024-09-12")
-> * Proposers will have to provide concrete information on how they plan to comply with the mandatory open science practices. Failure to sufficiently address this, will result
-in a lower evaluation score. A clear explanation of how they will adopt recommended practices, as appropriate for their projects, will result in a higher evaluation score. [page 42]
+> * Proposers will have to provide concrete information on how they plan to comply with the mandatory open science practices. Failure to sufficiently address this, will result in a lower evaluation score. A clear explanation of how they will adopt recommended practices, as appropriate for their projects, will result in a higher evaluation score. [page 42]
 > * Under the ‘Excellence’ part of their proposals, in the section on methodology, proposers should describe how open science practices (mandatory and recommended, as appropriate) are implemented as an integral part of the methodology and show how their implementation is adapted to the nature of their work, therefore increasing the chances of the project delivering on its objectives. Information relevant to the specific area of the proposal should be provided in no more than one page. If open science practices are not applicable to the proposal, justifications should be provided so that, if evaluators agree, open science will not be taken into consideration in the evaluation. Additionally, proposers generating or reusing data should outline in a maximum of one (additional) page their plans for data management. [page 42]
 > * Research data management (RDM): RDM is mandatory in Horizon Europe for projects generating or reusing data. If you expect to generate or reuse data and/or other research outputs (except for publications), you are required to outline in a maximum of one page how these will be managed. Further details on this are provided in the proposal template in the relevant section on open science. A full data management plan (DMP) is not required at submission stage.(...) [page 43]
 
