@@ -11,6 +11,9 @@ sidebar: dmp_supporting_info
 dsw:
 - name: Guiding questionnaire for pre-considerations
   uuid: knowledge-models/elixir.no:dsw-km-bott-localization-preproject:0.1.1/preview
+other:
+- name: OpenAIRE Guides for Researchers: How to comply with Horizon Europe mandate
+  url: https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm
 rdmkit:
 - name: Coordination
   url: https://rdmkit.elixir-europe.org/dm_coordination
@@ -45,12 +48,13 @@ Some aspects that could be addressed in this section:
 * If data cannot be made available openly, explain why
 * Familiarity with relevant guidelines and routines, e.g. instiutional Open Science guidelines
 
-Since 2023, The Research Council of Norway has incorporated assessment of Open Research under two subsection of the 'impact' criterion: "potential impact of the propsed research" (for example including making resarch data FAIR) and "communication and expoitation" (for example including which archiving solutions will be used for research data).
+Since 2023, The Research Council of Norway has incorporated assessment of Open Research under two subsection of the 'Impact' criterion: "Potential impact of the propsed research" (for example including making resarch data FAIR) and "Communication and expoitation" (for example including which archiving solutions will be used for research data).
 * [The Research Council of Norway: Assessment of open science in grant applications](https://www.forskningsradet.no/en/financing/application-process/assessment-open-science/ "2024-09-11")
 
-In Horizon Europe, Open Science practices are considered in the evaluation of proposals under the 'excellence' and under the 'quality and efficiency of implementation' criterion. Open access to research outputs such as publications, data, software, models, algorithms, and workflows is considered mandatory practice, whereas other practices are beneficial and can improve the proposal score.
+In Horizon Europe, Open Science practices are considered in the evaluation of proposals under the 'Excellence' and under the 'Quality and efficiency of implementation' award criterion. Open access to research outputs such as publications, data, software, models, algorithms, and workflows is considered mandatory practice and failure to address this will result in a lower evaluation score. Adoption of additional recommended Open Science practices can improve the evaluation score.
 * [Directorate-General for Research and Innovation (European Commission). (2021). Horizon Europe Open Science Fact Sheet.](https://doi.org/10.2777/18252)
-* [European Commission. (2021, updated 2023). Horizon Europe Programme Guide](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf "2024-09-09")
+* [European Commission. (2021, updated 2023). Horizon Europe Programme Guide: Evaluation of open science practices p.42ff](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf "2024-09-12")
+* [Horizon Europe FAQ: Under Horizon Europe, does a Data Management Plan (DMP) need to be included as part of the proposal?](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/19539)
 
 Read more about [Research data management and DMP requirements](/pages/support_00_dmp_purpose#research-data-management-and-dmp-requirements).
 
@@ -112,7 +116,7 @@ Briefly discuss what data the project will collect or generate.
 
 Remember that the research data is a broad term and includes all sorts of data used in research including observational and experimental data, surveys, registry data, simulations, and other data records. Also related project results such as research software/code should be included.
 
-Read more about identifying data and approaches to research data management under [Discipline-rooted approaches to research data managmement](/pages/support_00_local_disc#discipline-rooted-approaches-to-research-data-managmement-non-exhaustive)
+Read more about identifying data and approaches to research data management under [Discipline-rooted approaches to research data managmement](/pages/support_00_local_disc#discipline-rooted-approaches-to-research-data-managmement)
 
 #### Can all results be made available?
 Some datasets cannot be made publicly available. Decisions to not share data should follow the principle "as open as possible, as closed as necessary". Reasons may include protection of sensitive data, export control regulations, and intellectual property rights/confidentiality issues.
