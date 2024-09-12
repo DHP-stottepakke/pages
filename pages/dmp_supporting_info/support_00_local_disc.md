@@ -130,9 +130,10 @@ Homepage: [Sikt Research data](https://sikt.no/en/omrade/research-data "2024-07-
 Helpdesk: [kontakt@sikt.no](mailto:kontakt@sikt.no)
 
 
-## Discipline-rooted approaches to research data managmement (non-exhaustive)
+## Discipline-rooted approaches to research data managmement
 Scientific disciplines have different traditions for recognizing and handling research data. Here, we list some discipline-rooted knowledge resources and publications which may help identifying research data and select approaches to research data management in a given discipline.
 
+Sorted by research discipline (non-exhaustive):
 ### Humanities
 Report: Recognising Digital Scholarly Outputs in the Humanities – ALLEA Report. (2023). [doi: 10.26356/OUTPUTS-DH](https://doi.org/10.26356/OUTPUTS-DH)
 
@@ -156,3 +157,5 @@ Article: Conrad, T. O. F., Ferrer, E., Mietchen, D., Pusch, L., Stegmüller, J.,
 
 ### Social Sciences
 Knowledge resource: [CESSDA Data Management Expert Guide](https://dmeg.cessda.eu/ "2024-07-12")
+
+Report: Making Qualitative Data Reusable - A Short Guidebook For Researchers And Data Stewards Working With Qualitative Data - DANS Guidebook. (2023). [doi: 10.5281/zenodo.7777519](https://doi.org/10.5281/zenodo.7777519)
