@@ -12,7 +12,7 @@ dsw:
 - name: Guiding questionnaire for pre-considerations
   uuid: knowledge-models/elixir.no:dsw-km-bott-localization-preproject:0.1.1/preview
 other:
-- name: "OpenAIRE Guides for Researchers: How to comply with Horizon Europe mandate"
+- name: "OpenAIRE Guides for Researchers: How to comply with Horizon Europe mandate for research data management"
   url: https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm
 rdmkit:
 - name: Coordination
