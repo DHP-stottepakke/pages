@@ -14,10 +14,9 @@ dsw:
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> Old and new project members can easily find the information they need if you collect all information about a project in a single planning document. \\
->> Providing a project abstract, project proposal or other project description puts the DMP in context and is thus useful information for anyone reading or evaluating the DMP. \\
->> Administrative information about the project that will be of interest when communicating and reporting to parties external to the project.\\
->> This information makes it possible to trace a project to responsible induviduals and organization, as well as funders of the research.\\
+
+>> Administrative information about the project will be of interest both of project members as well as parties external to the project.\\
+>> 
 " %}
 
 ## About this chapter
