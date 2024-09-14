@@ -16,12 +16,12 @@ dsw:
 **Why is this topic important**\\
 
 >> Administrative information about the project will be of interest both of project members as well as parties external to the project.\\
->> 
+>> Specific information about the project is useful for all parties involved.\\
 " %}
 
 ## About this chapter
 
-This chapter let you provide information about the research project; title, possible project acronyms, project start and end date, as well as project description and project funding, when relevant.  
+This chapter let you provide information about the research project; title, possible project acronyms, project start and end date, as well as fileds for project description and when relevant: project funding.  
 
 ## Question-specific guidance
 
