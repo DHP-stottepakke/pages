@@ -52,10 +52,9 @@ According to the [Act relating to the processing of personal data (The Personal 
 
 In projects that are regulated by [the Health Research Act (Norwegian: Helseforskningsloven)](https://lovdata.no/dokument/NL/lov/2008-06-20-44), the host organisation acts as [research-responsible entity (Norwegian: Forskningsansvarlig)](https://www.forskningsetikk.no/ressurser/fbib/lover-retningslinjer/forskningsansvarlig-ihht-helseforskningsloven/ "2024-07-17").
 
-FORTSETT HER
 
 ### Research Ethical Guidelines and Codes of conduct
-The Act on Ethics and [Integrity in Research (Norwegian: Forsknigsetikkloven)](https://lovdata.no/dokument/NL/lov/2017-04-28-23) defines responsibilities of both research institutions and individual researchers. Furthermore, it defines an advisory role of National Research Ethics Committees that provide research area-specific guidance. Health research is handled by Regional Ethics Committees.
+The [Act on Ethics and Integrity in Research (Norwegian: Forsknigsetikkloven)](https://lovdata.no/dokument/NL/lov/2017-04-28-23) defines responsibilities of both research institutions and individual researchers. Furthermore, it defines an advisory role of National Research Ethics Committees that provide research area-specific guidance. Health research is handled by Regional Ethics Committees.
 
 [The National Research Ethics Committees (FEK)](https://www.forskningsetikk.no/en/):
 * [National Committee for Medical and Health Research Ethics (NEM)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nem/)
@@ -66,7 +65,7 @@ The Act on Ethics and [Integrity in Research (Norwegian: Forsknigsetikkloven)](h
 
 In addition, subject-specific ethical guidelines and codes of conduct commonly apply.
 
-Ethical considerations may affect how data will be handled and shared, therefore mapping of generic and subject-specific research ethical guidelines and codes of conduct is important.
+Ethical considerations may affect how data will be handled and shared, therefore knowledge of generic and subject-specific research ethical guidelines and codes of conduct is important.
 
 Further information:
 * [Ethical aspects (RDMkit): Which aspects of RDM might raise ethical issues?](https://rdmkit.elixir-europe.org/ethics#which-aspects-of-rdm-might-raise-ethical-issues)
@@ -80,6 +79,8 @@ Institutional resources on research ethics:
 
 
 ### Ethical approvals
+**FIKSE* tydeliggjøre at det i de fleste tilfeller ikke er etisk approval, men at dette er unntakene dvs helse -og at forskeren er ansvarlig for å gjøre etiske vurderinge**
+
 For certain projects, an ethical pre-approval is needed to execute the project. The approval case numbers should be referred to in the DMP. It is the responsibility of the Researcher to make sure that the project and associated data is in agreement with current legislation.
 
 Research projects conducting medical and health research on human beings, human biological material or personal health data must be pre-approved by the Regional committees for medical and health research ethics (REK):
