@@ -236,6 +236,10 @@ Read more about [Ethical approvals.](/pages//support_03_legal_ethics#ethical-app
 ### Will any data connected to a person ("personal data") be collected/processed?
 Personal data is any information that can be linked to living person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: Personopplysningsloven), which incorporates the EU General Data Protection Regulation (GDPR) in Norway.
 
+All processing of personal data must be in accordance with The Personal Data Act (Norwegian: Personopplysningsloven), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. The principle of data minimisation should be followed and the collection of personal information should be limited to what is directly relevant and necessary to accomplish a specified purpose.
+
+If personal data are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly. This should be described in the chapter 'Storage and backup' and wherever relevant.
+
 Even if data should be truly anonymous and is therefore not considered personal data, i.e. data collected anonymously and not linked to a directly or indirectly person at any stage of the research process, it is worthwile to document research ethical considerations connected to data collection and participant information and how anonymity of the data is ensured. If data is anonymized during the course of the research project, it is considered processing of personal data.
 
 Read more about [Personal data and data privacy.](/pages/support_03_legal_ethics#personal-data-and-data-privacy)
