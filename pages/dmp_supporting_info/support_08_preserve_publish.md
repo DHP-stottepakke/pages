@@ -41,12 +41,33 @@ The chapter will assist you in walking through all planning considerations regar
 
 ## Question-specific guidance
 
+### Selecting archive(s) for publishing datasets
+*add figure for flow chart*
+This question, and its sub-questions, will assist you in finding archive(s)/repository(-ies) suitable to deposit your data.
+
+Where do you plan to archive you research data? Remember that this can also include project results that you are not immediately thinking of as 'data'.
+As archive choice often decides over metadata standards to be followed, it is advisable to investigate this question early in the project.
+
+Timely archiving of datasets in trustworthy repositories is recommended. Depending on the study and the type of data, it may be appropriate to archive everything in one repository or archiving different parts in different repositories that will link to the related datasets. Re3data and FAIRsharing are registries that may help identifying suitable repositories.
+
+Evaluate which archive(s) will be most relevant for your datasets, using the following the decision tree:
+
+    Does your dataset contain personal data or sensitive information?
+    [If yes, investigate discipline-specific or generic archives with restricted access]
+
+    Do journals or funders require that specific archives will be used or is there disciplinary conventions?
+    [If yes, make yourself familiar with the recommendations and use discipline-specific archives]
+
+    Can you use an institutional archive?
+    [If yes, use your institutional archive]
+
+    If none of the above applies, use a generic research data archive.
+
+In some cases it is important to contact the research data archive beforehand. *elaborate*
+
 ### Can all of your data become completely open over time?
 The issue here is for you to consider whether (some of) your data is of a nature that should not be made openly available. Please see the chapter ‘Legal and etical aspects’ to identify criteria for deciding this. This should help you identify whether part of your data need to be restricted from public access. Your will also be asked to consider whether such parts may be anonymized or aggregated so that such a version of your data can be openly available.
 Data that cannot be openly available, may perhaps be available to authorized users. You will be asked to consider this option, and how such authorization may be carried out in practice.
-
-### Selecting archive(s) for publishing datasets
-This question, and its sub-questions, will assist you in finding archive(s)/repository(-ies) suitable to deposit your data.
 
 ### Securing that your data is FAIR
 No matter whether your data may be published openly or not, it is always a question of making your data FAIR - or rather as FAIR as possible. FAIR stands for Findable, Accessible, Interoperable, Reusable. So you should aim to make your data as findable, as accessible, as interoperable, and as reusable as possible. So here you will find a checklist that serves to remind you how to make your data as FAIR as possible.
