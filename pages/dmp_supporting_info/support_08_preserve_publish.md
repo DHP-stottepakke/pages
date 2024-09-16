@@ -43,6 +43,7 @@ The chapter will assist you in walking through all planning considerations regar
 
 ### Selecting archive(s) for publishing datasets
 *add figure for flow chart*
+
 This question, and its sub-questions, will assist you in finding archive(s)/repository(-ies) suitable to deposit your data.
 
 Where do you plan to archive you research data? Remember that this can also include project results that you are not immediately thinking of as 'data'.
