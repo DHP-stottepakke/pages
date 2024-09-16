@@ -6,8 +6,6 @@ subitems:
     url: /support_00_dmp_purpose
   - title: Get local/disciplinary support
     url: /support_00_local_disc
-  - title: Research data terms
-    url: /support_00_rdm_terms
   - title: Considerations pre-start/pre-award
     url: /support_00_planning_considerations
   - title: Get started with DMP writing
@@ -30,3 +28,5 @@ subitems:
     url: /support_08_preserve_publish
   - title: Chapter 9 - Responsibilities and resources
     url: /support_09_responsibilities_resources
+  - title: Research data terms
+    url: /support_00_rdm_terms
