@@ -25,7 +25,7 @@ Sharing should be read as publishing data in a repository (openly or with contro
 Outline the plan for data preservation and give information on how long the data will be retained.
 
 In many cases this information should be provided by the data repository.
-Relevant certificatoin schemes are e.g. CoreTrustSeal, DIN31644, ISO163638.
+Relevant certification schemes are e.g. CoreTrustSeal, DIN31644, ISO163638.
 
 > 5a.3\
 Explain when the data will be made available. Indicate the expected timely release. Explain whether exclusive use of the data will be claimed and if so, why and for how long. Indicate whether data sharing will be postponed or restricted for example to publish, protect intellectual property, or seek patents.
