@@ -17,7 +17,7 @@ sidebar: dmp_supporting_info
 
 Some of the terms used in the context of data management plans and research data managment might need explanation. We try to adhere to the following definitions.
 
-For Norwegian translations, take a look a the [NO-RDA Termliste for forskningsdatahåndtering](https://www.openscience.no/en/node/3544).
+For Norwegian translations, consult the [NO-RDA Termliste for forskningsdatahåndtering](https://www.openscience.no/en/node/3544).
 
 ## Key research data management terms explained (alphabetical order, non-exaustive)
 
