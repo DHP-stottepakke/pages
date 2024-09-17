@@ -42,6 +42,8 @@ integrity, security, authenticity and accessibility of the records, objects, met
 
 ### Data storage
 
+### Embargo 
+> A given period of time which defines when the data will be made available in an open archive.
 
 ### FAIR principles
  > FAIR data principles: Set of guiding principles to make data Findable, Accessible, Interoperable, and Reusable. [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
