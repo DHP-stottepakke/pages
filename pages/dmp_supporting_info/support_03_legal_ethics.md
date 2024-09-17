@@ -79,8 +79,6 @@ Institutional resources on research ethics:
 
 
 ### Ethical approvals
-**FIKSE* tydeliggjøre at det i de fleste tilfeller ikke er etisk approval, men at dette er unntakene dvs helse -og at forskeren er ansvarlig for å gjøre etiske vurderinge**
-
 For certain projects, an ethical pre-approval is needed to execute the project. The approval case numbers should be referred to in the DMP. It is the responsibility of the Researcher to make sure that the project and associated data is in agreement with current legislation.
 
 Research projects conducting medical and health research on human beings, human biological material or personal health data must be pre-approved by the Regional committees for medical and health research ethics (REK):
