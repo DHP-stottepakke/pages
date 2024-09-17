@@ -38,7 +38,7 @@ Do you know who you can approach with questions related to research data managem
 Some research funders ask about Open Science and/ or data management planning already in grant applications. In this section you should demonstrate that you have reflected on how your research results can be made available including some practical aspects and how this will strengthen the impact of your project. You are not required to have a complete DMP at the proposal stage.
 
 Some aspects that could be addressed in this section:
-* What data the project will reuse, produce or generate and who could be interested in using datasets and related research outputs (e.g. software, models, workflows) resulting from the project. Will the results e.g. be useful for researchers from the same discipline, researchers in another domain, public administration or industry?
+* What data the project will reuse, produce or generate and who could be interested in using datasets and related research outputs (e.g. software, models, workflows) resulting from the project. Will the results e.g. be useful for researchers from the same discipline, researchers in another domain, public administration, industry or the general public?
 * How making data available will benefit the impact, and is connected to the dissemination and exploitation strategy of the project
 * Demonstrate awareness of relevant concepts and terminology, e.g. FAIR principles
 * Examples of data types, metadata standards, and data repositories where the data will be made available. This can be addressed specifically if already known, or with more generic phrases.
@@ -124,7 +124,7 @@ Some datasets cannot be made publicly available. Decisions to not share data sho
 If data cannot be made available openly, consider if datasets still could be made available with restricted access.
 
 #### Who else could be interested in using the data?
-What application for your data inside or outside your own research field can you foresee? Will other researchers, public administration or industry be able to (re)use your results? In short: why is your data valuable?
+What application for your data inside or outside your own research field can you foresee? Will other researchers, public administration, industry or the general public be able to (re)use your results? In short: why is your data valuable?
 
 ### Resources and responsibilities
 

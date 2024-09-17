@@ -41,21 +41,20 @@ turing:
 " %}
 
 ## About this chapter
-National legislation, institutional guidelines and international norms have implications for the handling of research data. Both researchers and research institutions are legally responsible for complying with legal and ethical requirements.
-
-Questions in this chapter include the following aspects:
+National legislation, institutional guidelines and international norms have implications for the handling of research data. Often there is a need to balance availability and openness with confidentially. Both researchers and research institutions are legally responsible for complying with legal and ethical requirements.
 
 ### The research-performing organisation(s)
-The research institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed. In collaboration projects, it is important to define responsibilities and document them in collaboration agreements or contracts.
+The research institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed. In all research collaborations, it is important to define responsibilities and document them in agreements or contracts.
 
 Research organisations commonly have policies or guidelines for data management, sometimes as part of Open Science guidelines. There may also be specific routines or processes to be followed. Identifying such policies, guidelines, or processes will help you recognize research data management requirements and routines to be aware of.
 
-In projects that process personal data and underlay the General Data Protection Regulation, (GDPR, Norwegian: [Lov om behandling av personopplysninger (personopplysningsloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), the host organisation usually is the data controller. If responsibility is shared between organisations, this must be contractually specified.
+According to the [Act relating to the processing of personal data (The Personal Data Act, Norwegian: Personvernloven)](https://lovdata.no/dokument/NLE/lov/2018-06-15-38) the the host organisation usually is the data controller. If responsibility is to be shared between organisations, this must be contractually specified. 
 
-In projects that are regulated by the Health Research Act (Norwegian: [Lov om medisinsk og helsefaglig forskning (helseforskningsloven)](https://lovdata.no/dokument/NL/lov/2008-06-20-44)), the host organisation acts as research-responsible entity (Norwegian: [Forskningsansvarlig iht. helseforskningsloven](https://www.forskningsetikk.no/ressurser/fbib/lover-retningslinjer/forskningsansvarlig-ihht-helseforskningsloven/ "2024-07-17")).
+In projects that are regulated by [the Health Research Act (Norwegian: Helseforskningsloven)](https://lovdata.no/dokument/NL/lov/2008-06-20-44), the host organisation acts as [research-responsible entity (Norwegian: Forskningsansvarlig)](https://www.forskningsetikk.no/ressurser/fbib/lover-retningslinjer/forskningsansvarlig-ihht-helseforskningsloven/ "2024-07-17").
+
 
 ### Research Ethical Guidelines and Codes of conduct
-The Act on Ethics and Integrity in Research (Norwegian: [Lov om organisering av forskningsetisk arbeid (forsknigsetikkloven)](https://lovdata.no/dokument/NL/lov/2017-04-28-23)) defines responsibilities of both research institutions and individual researchers. Furthermore, it defines an advisory role of National Research Ethics Committees that provide research area-specific guidance. Health research is handled by Regional Ethics Committees.
+The [Act on Ethics and Integrity in Research (Norwegian: Forsknigsetikkloven)](https://lovdata.no/dokument/NL/lov/2017-04-28-23) defines responsibilities of both research institutions and individual researchers. Furthermore, it defines an advisory role of National Research Ethics Committees that provide research area-specific guidance. Health research is handled by Regional Ethics Committees.
 
 [The National Research Ethics Committees (FEK)](https://www.forskningsetikk.no/en/):
 * [National Committee for Medical and Health Research Ethics (NEM)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nem/)
@@ -66,7 +65,7 @@ The Act on Ethics and Integrity in Research (Norwegian: [Lov om organisering av 
 
 In addition, subject-specific ethical guidelines and codes of conduct commonly apply.
 
-Ethical considerations may affect how data will be handled and shared, therefore mapping of generic and subject-specific research ethical guidelines and codes of conduct is important.
+Ethical considerations may affect how data will be handled and shared, therefore knowledge of generic and subject-specific research ethical guidelines and codes of conduct is important.
 
 Further information:
 * [Ethical aspects (RDMkit): Which aspects of RDM might raise ethical issues?](https://rdmkit.elixir-europe.org/ethics#which-aspects-of-rdm-might-raise-ethical-issues)
@@ -155,6 +154,8 @@ We use an integration with the [Research Organization Registry (ROR)](https://ro
 
 Please identify both the host institution (In multi-partner projects: coordinating institution) and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has scientific collaborators or external partners, please indicate any relevant contracts or collaboration agreements for later reference.
 
+We assume that the localization of the host organisation (in multi-partner projects: coordinating organisation) defines the applicable legislation. If this should not apply, make sure to indicate this as a relevant agreement related to the collaboration partner.
+
 For help with contract-related questions contact legal advisors at your institution:
 * [NTNU: Kontraksmaler og signeringsfullmakt *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Kontraktsmaler+og+signeringsfullmakt "2024-09-04")
 * [UiB: Contracts and legal counselling *Norwegian only*](https://www.uib.no/boa/17236/kontrakter-og-juridisk-r%C3%A5dgivning "2024-09-04")
@@ -233,6 +234,10 @@ Read more about [Ethical approvals.](/pages//support_03_legal_ethics#ethical-app
 
 ### Will any data connected to a person ("personal data") be collected/processed?
 Personal data is any information that can be linked to living person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: Personopplysningsloven), which incorporates the EU General Data Protection Regulation (GDPR) in Norway.
+
+All processing of personal data must be in accordance with The Personal Data Act (Norwegian: Personopplysningsloven), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. The principle of data minimisation should be followed and the collection of personal information should be limited to what is directly relevant and necessary to accomplish a specified purpose.
+
+If personal data are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly. This should be described in the chapter 'Storage and backup' and wherever relevant.
 
 Even if data should be truly anonymous and is therefore not considered personal data, i.e. data collected anonymously and not linked to a directly or indirectly person at any stage of the research process, it is worthwile to document research ethical considerations connected to data collection and participant information and how anonymity of the data is ensured. If data is anonymized during the course of the research project, it is considered processing of personal data.
 
