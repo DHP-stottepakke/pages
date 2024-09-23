@@ -44,6 +44,8 @@ integrity, security, authenticity and accessibility of the records, objects, met
 
 ### Data storage
 
+### Embargo 
+> A given period of time which defines when the data will be made available in an open archive after it has been deposited already.
 
 ### FAIR principles
  > FAIR data principles: Set of guiding principles to make data Findable, Accessible, Interoperable, and Reusable.
