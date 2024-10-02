@@ -29,7 +29,6 @@ rdmkit:
 <code> NB! For projects with particular information security requirements (e.g. dual use research, protection of intellectual property rights and commercial interests), already the DMP itself could be sensitive information. If applicable, clarify this with your IT department.</code>
 
 ## About this chapter
-
 This chapter collects administrative information about the data management plan (DMP) itself. It makes it clear who contributes to data management in the research project and how responsibilities are assigned in the research group (e.g. between the project leader, research staff, and technical staff), which also is useful information when making data accessible. A DMP should be a living document and plans and responsibilities for undertaking DMP revisions should be noted in this chapter.
 
 Questions in this chapter include the following aspects:
