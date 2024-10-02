@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Reusing or collecting data
 search_exclude: false
-contributors: [Svein Høier]
+contributors: [Svein Høier, Jenny Ostrop]
 page_id: support_05_reuse_collect
 description: Supporting DMP Information, reusing data, data reuse, data re-use, pre-existing data
 sidebar: dmp_supporting_info
@@ -45,19 +45,20 @@ There is a number of different strategies to identify existing datasets or recor
 
 #### Scientific datasets
 Useful approaches to identify scientific datasets:
-* Data underlaying a research article or described in a data publication (data journals are an emerging journal genre)
+* Data underlaying a research article or described in a data publication
 	* Use literature search engines to track relevant datasets via research articles. Data access should be described in a data availability statement.
+	* Data journals are an emerging journal genre
 	* Some search engines have filter functions to search in data availability statements, e.g. [EuropePMC](https://europepmc.org/advancesearch).
 * Datasets in relevant discipline-specific data archives
-	* Where do researchers in the same field publish their data? (check data availability statements in publications or publication guidelines of relevant journals)
+	* Where do researchers in the same field publish their data? Check data availability statements in publications or publication guidelines of relevant journals.
 	* Curated research data registries that allow filtering of discipline: [re3data.org](https://www.re3data.org/), [fairsharing.org](https://fairsharing.org/)
-* Metasearch-services for datases: often the best choice to identify data in institutional and generic archives
+* Metasearch-services for datases. Different search engines have different advantages and disadvantages, it can be useful to compare results. Often the best choice to identify data in institutional and generic archives.
 	* Non-commercial: [DataCite Commons](https://commons.datacite.org/ "2024-10-02"), [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/), [OpenAIRE research graph, filter by type](https://explore.openaire.eu/search/advanced/research-outcomes "2024-10-02")
 	* Commercial: [Google Dataset Search](https://datasetsearch.research.google.com/), [Mendeley Data](https://data.mendeley.com/), [WOS Data Citation Index](https://clarivate.com/webofsciencegroup/solutions/webofscience-data-citation-index/), [Dimensions](https://app.dimensions.ai/)
 
 Not all data from conducted research within your research field will be open and unrestricted. But very often, even restriceted and closed data(sets) of relevance can be findable by reference in publications, or by searchable metadata within registers and the like. Some examples in Norway can be:
-- [helsedata.no](https://www.helsedata.no)
-- [HUNT Cloud Data](https://hunt-db.medisin.ntnu.no/hunt-db/variablelist)
+* [helsedata.no](https://www.helsedata.no)
+* [HUNT Cloud Data](https://hunt-db.medisin.ntnu.no/hunt-db/variablelist)
 
 #### Data from the public sector
 Useful resources (non-exaustive):
@@ -97,4 +98,3 @@ For some projects that handle very little data, this may be the only applicable 
 
 ### Who else could be interested in us in using data from this project?
 Thinking through who could be interested in the data that is used or produced in a research project, contributes to the project's impact and can motivate good data handling practices.
-
