@@ -94,7 +94,7 @@ If writing software/models is a central part of the research project, you can co
 ### Other types of data the project will gather
 If relevant for your project: What other types of documents will the project utilize or produce, which have not been captured by the previous categories?
 
-For some projects that handle very little data, this may be the only applicable category.
+For some projects that handle little data, this may be the only applicable category.
 
 ### Who else could be interested in us in using data from this project?
 Thinking through who could be interested in the data that is used or produced in a research project, contributes to the project's impact and can motivate good data handling practices.

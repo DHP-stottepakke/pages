@@ -11,14 +11,16 @@ dsw:
 - name: Storing and protecting data during the project
   uuid: knowledge-models/elixir.no:dsw-km-bott-localization:latest/preview?questionUuid=b11a3987-d7fa-4e9e-9ab5-48a6f2ffc2b0
 cessda:
-- name: Data storage in social science
+- name: Data storage
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/4.-Store/Storage
-- name: File naming and folder structure in social science
-  url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Designing-a-data-file-structure
+- name: Backup
+  url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/4.-Store/Backup
+- name: File naming and folder structure
+  url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Designing-a-data-file-structure  
 rdmkit:
-- name: Data storage in life science
+- name: Data storage
   url: https://rdmkit.elixir-europe.org/storage
-- name: Data organisation in life science
+- name: Data organisation
   url: https://rdmkit.elixir-europe.org/data_organisation
 turing:
 - name: File Naming Conventions
@@ -33,9 +35,11 @@ turing:
 " %}
 
 ## About this chapter
-This chapters collects information about your planned data storage and backup throughout the research project. Consider all digital data that you are expecting to handle in the project, including working documents.
+This chapters collects information about your planned data storage and backup throughout the research project, including information security aspects. Consider all digital data that you are expecting to handle in the project, including working documents.
 
 If specific storage solutions are chosen as the project proceeds with data processing and analysis or preservation, this may be specified in the respective chapters of the DMP.
+
+
 
 ## Question-specific guidance
 
@@ -71,14 +75,42 @@ Use the 'Explore storage needs' dialogue if you are unsure what applies to your 
 ### Where will you store data and documents?
 Consider all digital data that you are expecting to handle in the course of the project, including working documents such as manuscripts or electronic lab notebooks (ELN).
 
-#### Storage solutions
-It is important to keep track of the storage solutions used in the project. Usually, your storage solution(s) will be selected from the solutions recommended in your institution's storage guide. If applicable, provide a link to the description of the storage solution for later reference.\
+It is important to keep track of the storage solutions used in the project. 
 This is also a good opportunity to reflect on the data backup solution, its potentially associated costs and whether the information security level and certification of the solution match with requirements that apply to your stored data. 
 
 How easily the members of your project may access the data and how access is controlled can be crucial. The overall capacity and transfer speed of a storage solution can also be critical parameters in case you have larger amounts of data.\
 You should also consider what storage solution serves your needs and if a more advanced way to organise your data, such as object storage or databases might be of help for your project.
 
-Temporarily storing data in 'cold storage' (e.g. on tape) with longer access times can be a recommended solution for your project if you produce very large data volumes or if the project is collecting data over a long time period, but where the data will be analysed later. An issue to consider here is whether data in such a storage are quick and easy to access, or if access needs to be planned in advance.
+#### Storage solutions
+Usually, your storage solution(s) will be selected from the solutions recommended in your institution's storage guide. If applicable, provide a link to the description of the storage solution for later reference.
+
+Institutional storage guides:
+* [NTNU Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
+* [UiB Storage guide](https://www.uib.no/en/foremployees/153608/storage-guide)
+* [UiO Data storage guide](https://www.uio.no/english/services/it/security/lsis/storage-guide.html)
+* [UiT Research data portal - Processing and storage](https://en.uit.no/research/research-dataportal/art?p_document_id=729174)
+
+Storage solution examples (non-exaustive):
+* Local hardware
+* Institutionally managed cloud storage
+	* E.g. OneDrive
+* Institutionally managed data servers or network drives
+* Institutionally managed cold storage (e.g. tape storage)
+	* Temporarily storing data in 'cold storage' with longer access times can be a recommended solution for your project if you produce very large data volumes or if the project is collecting data over a long time period, but where the data will be analysed later. An issue to consider here is whether data in such a storage are quick and easy to access, or if access needs to be planned in advance.
+* Trusted research environments
+	* [TSD](https://www.uio.no/tjenester/it/forskning/sensitiv/) provided by UiO
+	* [HUNT Cloud](https://about.hdc.ntnu.no/) provided by NTNU
+	* [SAFE](https://www.uib.no/en/foremployees/131011/safe) provided by UiB
+* National storage infrastructure
+	* E.g. [Sigma2 services](https://www.sigma2.no/services-overview) such as NIRD
+* Other cloud storage
+	* E.g. Google Drive, Dropbox
+* Online version control services
+	* E.g. GitHub, GitLab
+* Online document services
+	* E.g. Overleaf, Googledocs
+* Online platforms offering software-as-a-service
+
 
 #### Information security level(s) your storage solution will be used for
 While the general information security levels used at Norwegian higher educational institutions are similar to each other (open/ green, limited/ yellow, confidential/ red, strictly confidential/ black), the actual classification of which data falls into which category and which solution is allowed for which security level might vary between institutions and from case to case. Be aware that dual use research and restricted information may need to follow separate provisions.
