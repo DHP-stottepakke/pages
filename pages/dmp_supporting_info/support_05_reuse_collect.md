@@ -13,9 +13,20 @@ dsw:
 cessda:
 - name: Discover
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/7.-Discover
+  - name: Research data
+  url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Research-data
 rdmkit:
 - name: Existing data
   url: https://rdmkit.elixir-europe.org/existing_data
+- name: Data life cycle: Collecting
+  url: https://rdmkit.elixir-europe.org/collecting
+- name: Data provenance
+  url: https://rdmkit.elixir-europe.org/data_provenance
+- name: Data quality
+  url: https://rdmkit.elixir-europe.org/data_quality
+turing:
+- name: Finding data
+  url: https://book.the-turing-way.org/reproducible-research/rdm/rdm-find
 ---
 
 {% include callout.html type="tip" content="
@@ -35,14 +46,15 @@ What is considered a unit/set/collection of data may be structured according to 
 ## Question-specific guidance
 
 ### The project will (re)use dataset(s) or record(s) available in a repository/registry/archive
-Many research projects are based on using excisting digital sources for producing knowledge. For example, existing data is used as reference, datasets can be approached with novel questions or combined, and many published datasets contain information that was not followed up in the connected research articles. Often, pre-existing sources and data will be combined with collecting or producing own data. 
+Many research projects are based on using excisting digital sources for producing knowledge. For example, existing data is used as reference, datasets can be approached with novel questions or combined, and many published datasets contain information that was not followed up in the connected research articles. Often, pre-existing sources and data will be combined with collecting or producing own data.
 
 As many of the same considerations apply, also access to materials that are commonly referred to as 'records' or 'sources' rather than 'data' should be included here, such as material in public archives, media archives, legal resources, or large amounts of digital literature.
+
+Not all data from conducted research within your research field will be open and unrestricted. But very often, even restriceted and closed data(sets) of relevance can be findable by reference in publications, or by searchable metadata within registers and the like.
 
 There can of course be a number of reasons to discard the idea of reusing data in your project, like lack of relevance for excisting data etc. Taking the time to identifying such reasons (when designing your project) will most often motivate the nesessity of collecting new data both for yourself, project members and collaborators. If the idea of reusing data is discarded, funder guidelines ask for a brief description why building on existing sources is not relevant or applicable for the project.
 
 There is a number of different strategies to identify existing datasets or records:
-
 #### Scientific datasets
 Useful approaches to identify scientific datasets:
 * Data underlaying a research article or described in a data publication
@@ -56,17 +68,15 @@ Useful approaches to identify scientific datasets:
 	* Non-commercial: [DataCite Commons](https://commons.datacite.org/ "2024-10-02"), [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/), [OpenAIRE research graph, filter by type](https://explore.openaire.eu/search/advanced/research-outcomes "2024-10-02")
 	* Commercial: [Google Dataset Search](https://datasetsearch.research.google.com/), [Mendeley Data](https://data.mendeley.com/), [WOS Data Citation Index](https://clarivate.com/webofsciencegroup/solutions/webofscience-data-citation-index/), [Dimensions](https://app.dimensions.ai/)
 
-Not all data from conducted research within your research field will be open and unrestricted. But very often, even restriceted and closed data(sets) of relevance can be findable by reference in publications, or by searchable metadata within registers and the like. Some examples in Norway can be:
-* [helsedata.no](https://www.helsedata.no)
-* [HUNT Cloud Data](https://hunt-db.medisin.ntnu.no/hunt-db/variablelist)
-
-#### Data from the public sector
+#### Data from the public sector including registry data
 Useful resources (non-exaustive):
 * Norwegian public data are available from [data.norge.no/](https://data.norge.no/)
 * [data.europa.eu](https://data.europa.eu/en) is the official portal for European data
 * [Google Public Data search](https://www.google.com/publicdata/directory)
 * Data by international organisations, e.g. [WHO Data collections](https://www.who.int/data/collections)
 * [microdata.no](https://www.microdata.no/) and [sikt.no/surveybanken](https://sikt.no/surveybanken) are Sikt services to access register data and survey data, respectively
+* [helsedata.no](https://www.helsedata.no) gives access to both open health data and datasets with restricted access
+* Portals for national studies such as [HUNT Cloud Data](https://hunt-db.medisin.ntnu.no/hunt-db/variablelist)
 * National knowledge bases such as [artsdatabanken.no](https://www.artsdatabanken.no/search) for biodiversity or [NVE map services *Norwegian only*](https://www.nve.no/karttjenester/) for geographical data
 
 #### Data in digital archives and collections
