@@ -26,6 +26,9 @@ toc: true
 * [FAIRsFAIR training library](https://www.fairsfair.eu/competence-centre/training-library)
 * [FAIRsFAIR zenodo community](https://zenodo.org/communities/fairsfair)
 
+#### FAIR-Impact
+* [FAIR-Impact resource catalogue](https://catalogue.fair-impact.eu/resources)
+
 #### EOSC-Pillar
 * [EOSC-Pillar training and support catalogue](https://eosc-pillar.d4science.org/web/eoscpillartrainingandsupport)
 
