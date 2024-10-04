@@ -20,7 +20,7 @@ cessda:
 rdmkit:
 - name: Existing data
   url: https://rdmkit.elixir-europe.org/existing_data
-- name: Data life cycle: Collecting
+- name: "Data life cycle: Collecting"
   url: https://rdmkit.elixir-europe.org/collecting
 - name: Data quality
   url: https://rdmkit.elixir-europe.org/data_quality

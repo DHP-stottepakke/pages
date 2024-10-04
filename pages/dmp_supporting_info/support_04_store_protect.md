@@ -54,6 +54,7 @@ Institutional storage guides:
 
 Alternatively, you can add storage guidelines manually. In collaboration projects there might be multiple guidelines of relevance for your project.
 
+
 ### Expected total volume of data in the project
 You are advised to roughly estimate the total data volume as early as possible in order to budget for connected costs. You should also take into account that you might produce intermediate data that also requires space, even if some of these data may be discarded in the end of the project. It may be worth to consider if all data needs to be accessible all the time ('hot' storage) or whether using 'cold' storage could be considered for parts of the data. Deciding early on which data needs to be preserved long-term and timely archiving is also advisable to save storage resources.
 
@@ -67,10 +68,12 @@ For some domains there might exist guides to estimate the data volume generated 
 * [Life Science data, genomics: Illumina  Approximate sizes of sequencing run output folders](https://support.illumina.com/bulletins/2018/01/approximate-sizes-of-sequencing-run-output-folders.html)
 * [Life Science data, proteomics: Numerical Compression Schemes for Proteomics Mass Spectrometry Data](https://doi.org/10.1074/mcp.O114.037879))
 
+
 ### Will storage need change over time?
 Taking changes in storage needs over time into consideration will help you with budgeting and with reducing expenses for storage space. Often, the storage need of a project will increase with project length. In some projects storage need decreases during the project or be largest in the middle of the project, as there is a need for temporary storage of intermediate results, which do not have to be stored for longer time frames.
 
 Use the 'Explore storage needs' dialogue if you are unsure what applies to your project.
+
 
 ### Where will you store data and documents?
 Consider all digital data that you are expecting to handle in the course of the project, including working documents such as manuscripts or electronic lab notebooks (ELN).
@@ -110,7 +113,6 @@ Storage solution examples (non-exaustive):
 * Online document services
 	* E.g. Overleaf, Googledocs
 * Online platforms offering software-as-a-service
-
 
 #### Information security level(s) your storage solution will be used for
 While the general information security levels used at Norwegian higher educational institutions are similar to each other (open/ green, limited/ yellow, confidential/ red, strictly confidential/ black), the actual classification of which data falls into which category and which solution is allowed for which security level might vary between institutions and from case to case. Be aware that dual use research and restricted information may need to follow separate provisions.
@@ -169,12 +171,14 @@ In case your project requires storage beyond a basic level supplied by your inst
 #### At the end of the project, what will happen with data in this storage solution?
 It is important to consider what will happen with data beyond the project period. This is particularly important when working with large data volumes. If applicable, indicate the termination date for the storage solution.
 
+
 ### File naming and folder organisation
 Consistent file naming and folder structures are an important part of organising data in your research project. It is critical to be consistent and to make all of your project partners following the same convention.
 
 It is advisable to document the chosen file naming and folder structure strategy or principles. This will make it easier to understand the data at a later timepoint or for others. This can e.g. be done in README-files.
 
 There are different strategies for file naming and folder structure. Please consult the chapters in e.g. the [RDMkit for life sciences, the CESSDA Data Management Guide, or The Turing Way handbook](support_04_store_protect#further-resources) for inspiration.
+
 
 ### Risk evaluation
 There are different risk considerations for your project you might want to carry out depending on the nature of your project. Some practises like carrying physical storage media can be associated with increased risks or violate regulation and laws. Thus project members should be informed about the risks and the risks should be mitigated where possible.
