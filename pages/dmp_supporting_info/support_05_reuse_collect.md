@@ -43,6 +43,8 @@ Different disciplines may use different terms to describe the data or records un
 
 What is considered a unit/set/collection of data may be structured according to the needs of the project. Depending on the discipline and specifics of a project, a data unit may already resemble what will preserved/published as a dataset, or be a much wider category that will undergo extensive filtering or processing on the way to becoming a dataset.
 
+
+
 ## Question-specific guidance
 
 ### The project will (re)use dataset(s) or record(s) available in a repository/registry/archive
@@ -88,6 +90,7 @@ Useful resources (non-exaustive):
 * [digitaltmuseum.no](https://digitaltmuseum.no/)
 * [europeana.eu](https://www.europeana.eu/en)
 
+
 ### The project will collect data through observations, questionnaires or interviews
 If relevant for your project: Describe how data will be collected through observations, questionnaires or interviews, digitalized if needed, and how data quality will be ensured.
 
@@ -95,6 +98,7 @@ Further reading:
 * [CESSDA DMEG: Data in the social sciences](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Data-in-the-social-sciences)
 * [CESSDA DMEG: File formats and data conversion](https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process/File-formats-and-data-conversion)
 * [CESSDA DMEG: Data entry and integrity](https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process/Data-entry-and-integrity)
+
 
 ### The project will capture data using measurement equipment
 If relevant for your project: Describe how data will be collected by using masurement equipment or laboratory instruments, how experimental parameters or other relevant information are documented, and how data quality will be ensured.
@@ -104,8 +108,10 @@ Further reading:
 * [Turing way: Electronic Lab Notebooks](https://book.the-turing-way.org/reproducible-research/rdm/rdm-elns)
 * [Turing way: Data Organisation in Spreadsheets](https://book.the-turing-way.org/reproducible-research/rdm/rdm-spreadsheets)
 
+
 ### The project will collect physical samples
 If relevant for your project: Describe how cross-referencing between physical samples and digital data will be achieved.
+
 
 ### The project will generate research software, code, computational models or simulations
 If relevant for your project: Research software, computational models and simulations are related to research data as a research output, yet more dynamic. Describe all software, code, computational models or simulations that will be generated during the research project.
@@ -127,6 +133,7 @@ Further reading:
 If relevant for your project: What other types of documents will the project utilize or produce, which have not been captured by the previous categories?
 
 For some projects that handle little data, this may be the only applicable category.
+
 
 ### Who else could be interested in us in using data from this project?
 Thinking through who could be interested in the data that is used or produced in a research project, contributes to the project's impact and can motivate good data handling practices.
