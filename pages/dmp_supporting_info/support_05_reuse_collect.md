@@ -13,15 +13,15 @@ dsw:
 cessda:
 - name: Discover
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/7.-Discover
-  - name: Research data
+- name: Research data
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Research-data
+- name: Data quality
+  url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process/Wrap-up-Data-quality
 rdmkit:
 - name: Existing data
   url: https://rdmkit.elixir-europe.org/existing_data
 - name: Data life cycle: Collecting
   url: https://rdmkit.elixir-europe.org/collecting
-- name: Data provenance
-  url: https://rdmkit.elixir-europe.org/data_provenance
 - name: Data quality
   url: https://rdmkit.elixir-europe.org/data_quality
 turing:
@@ -54,7 +54,9 @@ Not all data from conducted research within your research field will be open and
 
 There can of course be a number of reasons to discard the idea of reusing data in your project, like lack of relevance for excisting data etc. Taking the time to identifying such reasons (when designing your project) will most often motivate the nesessity of collecting new data both for yourself, project members and collaborators. If the idea of reusing data is discarded, funder guidelines ask for a brief description why building on existing sources is not relevant or applicable for the project.
 
-There is a number of different strategies to identify existing datasets or records:
+You can consult the chapters on data discovery and existing data in e.g. the [RDMkit for life sciences, the CESSDA Data Management Guide, or The Turing Way handbook](support_05_reuse_collect#further-resources) for inspiration.
+
+There is a number of different strategies that can be applied to identify existing datasets or records:
 #### Scientific datasets
 Useful approaches to identify scientific datasets:
 * Data underlaying a research article or described in a data publication
@@ -87,10 +89,20 @@ Useful resources (non-exaustive):
 * [europeana.eu](https://www.europeana.eu/en)
 
 ### The project will collect data through observations, questionnaires or interviews
-If relevant for your project: Describe how data will be collected through observations, questionnaires or interviews, digitalized if needed, and data quality be ensured.
+If relevant for your project: Describe how data will be collected through observations, questionnaires or interviews, digitalized if needed, and how data quality will be ensured.
+
+Further reading:
+* [CESSDA DMEG: Data in the social sciences](https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Data-in-the-social-sciences)
+* [CESSDA DMEG: File formats and data conversion](https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process/File-formats-and-data-conversion)
+* [CESSDA DMEG: Data entry and integrity](https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process/Data-entry-and-integrity)
 
 ### The project will capture data using measurement equipment
-If relevant for your project: Describe how data will be collected by using masurement equipment or laboratory instruments, how experimental parameters or other relevant information are documented, and data quality be ensured.
+If relevant for your project: Describe how data will be collected by using masurement equipment or laboratory instruments, how experimental parameters or other relevant information are documented, and how data quality will be ensured.
+
+Further reading:
+* [RDMkit: Data provenance](https://rdmkit.elixir-europe.org/data_provenance)
+* [Turing way: Electronic Lab Notebooks](https://book.the-turing-way.org/reproducible-research/rdm/rdm-elns)
+* [Turing way: Data Organisation in Spreadsheets](https://book.the-turing-way.org/reproducible-research/rdm/rdm-spreadsheets)
 
 ### The project will collect physical samples
 If relevant for your project: Describe how cross-referencing between physical samples and digital data will be achieved.
@@ -98,8 +110,18 @@ If relevant for your project: Describe how cross-referencing between physical sa
 ### The project will generate research software, code, computational models or simulations
 If relevant for your project: Research software, computational models and simulations are related to research data as a research output, yet more dynamic. Describe all software, code, computational models or simulations that will be generated during the research project.
 
-If writing software/models is a central part of the research project, you can consider writing a Software Management Plan (SMP) to supplement this DMP.
+If writing software/models is a significant part of the research project, you can consider writing a Software Management Plan (SMP) to supplement this DMP.
 * [Elixir Software Management Plan](https://smw.dsw.elixir-europe.org/wizard/knowledge-models/smw:smp:0.0.18)
+
+The FAIR for Research Software (FAIR4RS) RDA working group defines research software as "source code files, algorithms, scripts, computational workflows and executables that were created during the research process or for a research purpose" ([Gruenpeter et al. 2021, doi: 10.5281/zenodo.5504016](https://doi.org/10.5281/zenodo.5504016)).
+The FAIR for Research Software (FAIR4RS) principles have been adapted from the FAIR principles to fit the characteristics of software/code ([Barker et al. 2022, doi: 10.1038/s41597-022-01710-x](https://doi.org/10.1038/s41597-022-01710-x), [Lamprecht et al. 2020, doi: 10.3233/DS-190026](https://doi.org/10.3233/DS-190026)).
+
+Further reading:
+* [Turing way: Version control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
+* [Software Carpentry: Version control with git](https://swcarpentry.github.io/git-novice/)
+* [Turing way: Reproducible environments](https://book.the-turing-way.org/reproducible-research/renv)
+* [Turing way: Code quality](https://book.the-turing-way.org/reproducible-research/code-quality)
+
 
 ### Other types of data the project will gather
 If relevant for your project: What other types of documents will the project utilize or produce, which have not been captured by the previous categories?
