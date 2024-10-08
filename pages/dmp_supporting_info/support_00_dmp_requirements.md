@@ -12,7 +12,11 @@ rdmkit:
   url: https://rdmkit.elixir-europe.org/no_resources
 ---
 
-Both funders and institutions have requirements on data management - this page collects relevant policies, guidelines, documents, and links.
+{% include callout.html type="note" content="
+**On this page**\\
+>> Links to institutional policies and guidelines\\
+>> Funder requirements\\
+" %}
 
 ## Institutional policies and guidelines
 DMP requirements are commonly part of Open Science policies or guidelines for research data management. Currently, we have only included the project partners in the list. For other organisations, find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).

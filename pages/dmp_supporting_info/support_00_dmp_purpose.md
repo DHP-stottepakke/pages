@@ -15,6 +15,12 @@ rdmkit:
   url: https://rdmkit.elixir-europe.org/data_management_plan
 ---
 
+{% include callout.html type="note" content="
+**On this page**\\
+>> What is a data management plan?\\
+>> What is in for you?\\
+" %}
+
 ## What is a Data Management Plan (DMP) and why should you write one?
 A data management plan (DMP) is both a formal document and a practical tool. [Both research funders and institutions require research projects to have a DMP](/pages/support_00_dmp_requirements). A DMP outlines how data is planned to be handled in the process of a research project, from data collection or re-use, through data processing and analysis, to data preservation and archiving. Depending on the field of research and the needs of the project, the DMP may take different forms. The DMP should be considered a living document and be revised as the project develops.
 
