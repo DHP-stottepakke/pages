@@ -82,7 +82,7 @@ Research projects conducting animal experiments must seek pre-approval from the 
 * [FOTS (Forsøksdyrforvaltningens tilsyns- og søknadssystem) application portal](https://asp.gitek.no/fdu/pmws.dll/Login "2024-07-17")
 * [Animal use for scientific purposes *Norwegian only*](https://www.forsoksdyrkomiteen.no/ressurser/)
 
-While more common in other countries, in Norway institutional ethical committees currently only have been established at selected organisations and faculties. Contact research advisors or research support staff about local routines.
+While more common in other countries, in Norway institutional ethical committees currently only have been established at selected organisations and faculties. Contact research advisors or [research support staff](/pages/support_00_local_disc) about local routines.
 
 
 ### Personal data and data privacy
@@ -235,22 +235,19 @@ Read more about [Personal data and data privacy.](/pages/support_03_legal_ethics
 #### Which institutional privacy routines apply?
 Privacy routines at research organisations may differ from each other, it is therefore important to make yourself familiar with the applicable policies and guidelines at your institution.
 
-##### Norwegian University of Science and Technology (NTNU)
-* [Collection of personal data for research projects at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2024-07-16")
-* [NTNU privacy policy](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy "2024-07-16")
-
-##### University of Bergen (UiB)
-* [Personvern i forskning ved UiB *Norwegian only*](https://www.uib.no/forskningsetikk/129857/personvern-i-forskning-ved-uib "2024-07-16")
-* [Forskningsrutiner *Norwegian only*](https://www.uib.no/forskningsetikk/123944/forskningsrutiner "2024-07-16")
-* [Privacy policy for the University of Bergen](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen "2024-07-16")
-
-##### University of Oslo (UiO)
-* [Privacy routines at UiO](https://www.uio.no/english/about/regulations/privacy-declarations/ "2024-07-16")
-* [Privacy policy at UiO](https://www.uio.no/english/about/regulations/privacy-declarations/ "2024-07-16")
-
-##### UiT The Arctic University of Norway (UiT)
-* [Processing of personal data in research projects](https://en.uit.no/research/ethics/art?p_document_id=754184 "2024-07-16")
-* [Data protection/ Privacy at UiT](https://en.uit.no/om/informationsecurity#kapittel_705927 "2024-07-16")
+* Norwegian University of Science and Technology (NTNU)
+	* [Collection of personal data for research projects at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2024-07-16")
+	* [NTNU privacy policy](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy "2024-07-16")
+* University of Bergen (UiB)
+	* [Personvern i forskning ved UiB *Norwegian only*](https://www.uib.no/forskningsetikk/129857/personvern-i-forskning-ved-uib "2024-07-16")
+	* [Forskningsrutiner *Norwegian only*](https://www.uib.no/forskningsetikk/123944/forskningsrutiner "2024-07-16")
+	* [Privacy policy for the University of Bergen](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen "2024-07-16")
+* University of Oslo (UiO)
+	* [Privacy routines at UiO](https://www.uio.no/english/about/regulations/privacy-declarations/ "2024-07-16")
+	* [Privacy policy at UiO](https://www.uio.no/english/about/regulations/privacy-declarations/ "2024-07-16")
+* UiT The Arctic University of Norway (UiT)
+	* [Processing of personal data in research projects](https://en.uit.no/research/ethics/art?p_document_id=754184 "2024-07-16")
+	* [Data protection/ Privacy at UiT](https://en.uit.no/om/informationsecurity#kapittel_705927 "2024-07-16")
 
 #### GDPR considerations
 As data controller, the research-performing organisation is required to maintain a record of processing activities under its responsibility (GDPR article 30). The respective routines differ between institutions and it is the researchers responsibility to make yourself familiar with the requirements at your organisation. Some of the information will overlap with the data managment plan, but unfortunately an automatic information exchange between the systems ist currently not possible.
@@ -291,11 +288,13 @@ Institutional resources on participant information and consent:
 * [NTNU - Samtykke for behandling av personopplysninger *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Samtykke+for+behandling+av+personopplysninger "2024-07-19")
 * [NTNU - Samtykke fra forskningsdeltakere i helseforskning *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Samtykke+fra+forskningsdeltakere+i+helseforskning "2024-07-19")
 * [UiB - Rutiner ved oppstart av forskningsprosjekter: informasjonsplikt og samtykke *Norwegian only*](https://www.uib.no/forskningsetikk/123944/forskningsrutiner?step=2#2-3-informasjonsplikt-og-samtykke-nbsp- "2024-07-19")
+* [UiO - Open sharing: Research data and personal information](https://www.uio.no/english/for-employees/support/research/research-data-management/topics/as-open-as-possible.html)
 
 Further information:
 * [GA4GH ethical toolkit](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/) with examples of granular consent and machine readable metadata (for human genetic data)
 * [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico)
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)
+* [National Research Ethics Commitees: Consent]8https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
 * [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
 * [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 
