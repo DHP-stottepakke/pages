@@ -30,7 +30,7 @@ turing:
 
 ## About this chapter
 
-General information
+General information and such
 
 ## Question-specific guidance
 
