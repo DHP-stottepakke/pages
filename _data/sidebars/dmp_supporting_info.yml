@@ -8,9 +8,9 @@ subitems:
     url: /support_00_dmp_requirements
   - title: Get local/disciplinary support
     url: /support_00_local_disc
-  - title: Considerations pre-start/pre-award
+  - title: Pre-start/pre-award considerations
     url: /support_00_planning_considerations
-  - title: DMP writing support
+  - title: The data management plan (DMP)
     url: /support_00_start_writing
     subitems:
       - title: Chapter 1 - About the DMP

@@ -56,7 +56,7 @@ In Horizon Europe, Open Science practices are considered in the evaluation of pr
 * [European Commission. (2021, updated 2023). Horizon Europe Programme Guide: Evaluation of open science practices p.42ff](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf "2024-09-12")
 * [Horizon Europe FAQ: Under Horizon Europe, does a Data Management Plan (DMP) need to be included as part of the proposal?](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/faq/19539)
 
-Read more about [Research data management and DMP requirements](/pages/support_00_dmp_purpose#research-data-management-and-dmp-requirements).
+Read more about [Research data management and DMP requirements](/pages/support_00_dmp_requirements).
 
 
 ## Data management considerations pre-start/ pre-award
@@ -68,10 +68,9 @@ Answering the following guiding questions during project planning can help you i
 Both institutions and research funders set requirements for research data management and sharing of research data. Furthermore, many research journals require that data underlying scientific articles is made available. Investigating the submissions guidelines in relevant journals in your field can therefore be a good idea. In addition, there can be disciplinary conventions on how data should be shared with the community.\
 Discuss briefly which data sharing policies, guidelines or conventions may apply for your project.
 
-Read more about [Research data management and DMP requirements](/pages/support_00_dmp_purpose#research-data-management-and-dmp-requirements).
+Read more about [Research data management and DMP requirements](/pages/support_00_dmp_requirements).
 
 Investigating discipline-rooted resources and disciplinary support services can be helpful for identifying relevant community conventions. For more information, see the resources under [Get local/disciplinary support](/pages/support_00_local_disc).
-
 
 #### Will legal and ethical aspects require attention?
 Discuss briefly if there are legal or ethical aspects in the project that may require attention.\
@@ -105,9 +104,10 @@ Please indicate the highest expected information security class in the project:
 * Restricted (yellow)
 * Confidential (red)
 * Strictly confidential (black)
-* NB! Dual use projects with restricted information may have separate provisions
+* NB! Dual use projects may follow the NATO security classification and have separate provisions
 
 See guidance on the DMP chapter [Storing and protecting data during the project](/pages/support_04_store_protect) for additional information and links to institutional resources.
+
 
 ### Making data available
 
@@ -125,6 +125,7 @@ If data cannot be made available openly, consider if datasets still could be mad
 
 #### Who else could be interested in using the data?
 What application for your data inside or outside your own research field can you foresee? Will other researchers, public administration, industry or the general public be able to (re)use your results? In short: why is your data valuable?
+
 
 ### Resources and responsibilities
 
