@@ -55,7 +55,7 @@ There is currently no accepted standard for how a DMP for a research centre or c
 
 Relevant literature:
 * David, R., Richard, A. S., Connellan, C., Lauer, K. B., Chiusano, M. L., Goble, C., Houde, M., Kemmer, I., Keppler, A., Lieutaud, P., Ohmann, C., Panagiotopoulou, M., Khan, S. R., Rybina, A., Soiland-Reyes, S., Wit, C., Wittner, R., Buono, R. A., Marsh, S. A., … Ewbank, J. (2023). Umbrella Data Management Plans to Integrate FAIR Data: Lessons From the ISIDORe and BY-COVID Consortia for Pandemic Preparedness. Data Science Journal, 22(1). [doi: 10.5334/dsj-2023-035](https://doi.org/10.5334/dsj-2023-035)
-* Mittal, D., Mease, R., Kuner, T., Flor, H., Kuner, R., & Andoh, J. (2023). Data management strategy for a collaborative research center. GigaScience, 12, giad049. [doi: 10.1093/gigascience/giad049](https://doi.org/10.1093/gigascience/giad049)
+* Mittal, D., Mease, R., Kuner, T., Flor, H., Kuner, R., & Andoh, J. (2023). Data management strategy for a collaborative research center. GigaScience, 12, giad049. [doi: 10.1093/gigas
 
 
 ## General questions on RDM

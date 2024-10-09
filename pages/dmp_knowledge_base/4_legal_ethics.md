@@ -127,10 +127,9 @@ Missing:
 ### Other DMP guidance
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Rights and legal requirements and codes of conduct]
 - How are GDPR and the Personal Data Act complied with when handling/ processing personal data?
-	- Is informed consent for long-term preservation and possibly sharing of personal data used?
-	- Is anonymization, pseudonymization or encryption of personal data being considered for long-term preservation and/or sharing?
+- Is informed consent for long-term preservation and possibly sharing of personal data used?
+- Is anonymization, pseudonymization or encryption of personal data being considered for long-term preservation and/or sharing?
 - Should a managed procedure be used for authorized access to personal data?
 (Rights and legal requirements and codes of conduct)
 
@@ -348,13 +347,12 @@ Missing:
 ### Other DMP guidance
 
 #### [Guidance from NFR](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/)
-[Rights and legal requirements and codes of conduct]
 - Which legal entities have rights to and/or rights to determine the use of the research data? 
 - Will the data be openly accessible or with access restrictions, if so, what access restrictions? One example is that access to data is only granted via an authentication service. 
 - Will there be any purpose restrictions, such as that the data can only be used for non-commercial purposes, and if so, why? 
 - Which dedications to public domain or licenses should be applied to the research data? 
 - Where the project involves several partners and/or several legal or natural persons with rights to research data; How should rights to control data access be managed in the project? 
-- Where the research data falls under copyright or database protection under the Copyright Act; What rights apply and how will this be managed in the project? When using data from a third party; What access and purpose restrictions, if any, apply to this data?
+- Where the research data falls under copyright or database protection under the Copyright Act; What rights apply and how will this be managed in the project? When using data from a third party; What access and purpose restrictions, if any, apply to this data? (Rights and legal requirements and codes of conduct)
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
 - not covered
