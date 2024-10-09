@@ -23,17 +23,36 @@ turing:
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> What is in for you?\\
->> Short & concise\\
->> Add lines as needed\\
+>> What tools or infrastructure are needed for data processing and analysis?\\
+>> Will data processing create additional metadata?\\
+>> Do data formats need to be converted?\\
+>> How will versions of files be managed?\\
 " %}
 
 ## About this chapter
+Irrespective of the type and origin of research data, their processing and analyis is a very important step in the reserach process and part of the data lineage/provenance. This chapter collects information about tools and infrastructure used and steps undertaken in data processing and analysis.
 
-General information
+
 
 ## Question-specific guidance
 
-### Question 1
+#### Do you need to work together with your collaborators on documents? (e.g. manuscripts)
 
-### Question 2
+
+#### Do you need a shared space with your collaborators to work on data analysis?
+
+#### Do you need to plan compute solutions and capacity?
+
+#### Will the data be converted to other file format(s) before archiving?
+
+#### Will data processing or analysis alter metadata or produce additional metadata?
+
+#### Will data processing affect information security?
+
+#### Will you handle different versions of files?
+
+#### Will you monitor data integrity once it has been collected?
+
+#### Will you be integrating or linking data from different origins or different types of data?
+
+#### Does your computational approach require validation of results?
