@@ -234,7 +234,6 @@ Missing:
 - Classification of information: Institutional policies and storage guides
 	- [Klassifisering av infomasjon: Sektorstandard for universiteter, høgskoler og forskningsinstitutter](https://cms.sikt.no/sites/default/files/2023-02/Sektorstandard_klassifisering_av_informasjon%20%281%29.pdf "2024-09-11")
 	- Dual use research: Report [Et helhetlig forskningssystem for åpen, skjermet og gradert forskning (NFR, 2024)](https://www.forskningsradet.no/nyheter/2024/fire-anbefalinger-for-et-helhetlig-forskningssystem-for-apen-skjermet-og-gradert-forskning/ "2024-09-11")
-	- Export control: Guidelines for [International research and innovation cooperation](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation "2024-10-03")
 - Routines for data recovery
 - Understanding data security measures
 
