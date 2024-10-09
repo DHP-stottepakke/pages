@@ -12,6 +12,12 @@ other:
   url: https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html#project-questionnaire
 ---
 
+{% include callout.html type="note" content="
+**On this page**\\
+>> Short user guidance to DMP questionnaire\\
+>> Supporting information for filling out the DMP (by DMP chapter)\\
+" %}
+
 ## Get started with writing your Data Management Plan in Data Stewardship Wizard
 
 Coming soon: Short user guidance
