@@ -28,8 +28,8 @@ turing:
 " %}
 
 ## About this chapter
-
 In this chapter, you are asked to define responsibilities, who will be involved in the project, and the cost related to research data management. Remember that additional expertise can be needed when covering the areas of responsibility in the project. Also remember that cost can be relevant both for facilities, equipment, hardware, software, license costs or other recurring fees, preservation and archiving, costs for preparing data for publication and more. The questions in this chapter cover such aspects of research data management.       
+
 
 ## Question-specific guidance
 
