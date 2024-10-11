@@ -71,7 +71,7 @@ Further information:
 
 
 ### Ethical approvals
-For certain projects, an ethical pre-approval is needed to execute the project. The approval case numbers should be referred to in the DMP. It is the responsibility of the Researcher to make sure that the project and associated data is in agreement with current legislation.
+For certain projects, an ethical pre-approval is needed to execute the project. The approval case numbers should be referred to in the DMP. It is the responsibility of the Researcher to make sure that the project and associated data is in agreement with current legislation and research ethical norms.
 
 Research projects conducting medical and health research on human beings, human biological material or personal health data must be pre-approved by the Regional committees for medical and health research ethics (REK):
 * [Regional Committees for Medical and Health Research Ethics](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/rek/)
@@ -82,7 +82,9 @@ Research projects conducting animal experiments must seek pre-approval from the 
 * [FOTS (Forsøksdyrforvaltningens tilsyns- og søknadssystem) application portal](https://asp.gitek.no/fdu/pmws.dll/Login "2024-07-17")
 * [Animal use for scientific purposes *Norwegian only*](https://www.forsoksdyrkomiteen.no/ressurser/)
 
-While more common in other countries, in Norway institutional ethical committees currently only have been established at selected organisations and faculties. Contact research advisors or [research support staff](/pages/support_00_local_disc) about local routines.
+While more common in other countries, in Norway institutional ethical committees currently only have been established at selected organisations and faculties. For most domains the researchers will make an ethical assessment of the research project with reference to relevant guidelines and regulations. As part of this assessment, it is necessary to consider the potential harm and risk that may arise from the research. Here consequences of sharing research data should be considered according to the principle of as open as possible as closed as necessary. For international cooperations it is advisable to consider research ethics issues before entering collaborations as perceptions and legislation may differ between countries.
+
+Contact research advisors or [research support staff](/pages/support_00_local_disc) about local routines.
 
 
 ### Personal data and data privacy
