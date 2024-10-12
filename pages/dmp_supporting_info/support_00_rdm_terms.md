@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Research data terms
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Live Kvale, Jenny Ostrop]
 page_id: support_00_rdm_terms
 description:
 affiliations:
@@ -19,7 +19,7 @@ Some of the terms used in the context of data management plans and research data
 
 For Norwegian translations, consult the [NO-RDA Termliste for forskningsdatahåndtering](https://www.openscience.no/en/node/3544).
 
-## Key research data management terms explained (alphabetical order, non-exaustive)
+## Key research data management terms explained (alphabetical order, non-exhaustive)
 
 
 ### Archiving
@@ -28,7 +28,7 @@ For Norwegian translations, consult the [NO-RDA Termliste for forskningsdatahån
 
 
 ### Data archive
-On these pages and in the affiliated data management plan template, archive is used for repositories. 
+On these pages and in the affiliated data management plan template, the term archive is used for repositories. 
 
 > Archive (noun): Curated collection or repository containing physical or digital static records, objects, metadata and
 data deemed suitable for permanent retention, set up and managed to established standards and
@@ -36,11 +36,14 @@ models, such as ISAD(G), CoreTrustSeal, and the OAIS reference model, that ensur
 integrity, security, authenticity and accessibility of the records, objects, metadata and data.
 [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+* Trustworthy repository
 
 ### Data preservation
  > Preservation: An activity within archiving in which specific items of data are maintained over time so that they can still be accessed and understood through changes in technology.
 [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+### Data repository
+See data archive [add cross-reference]
 
 ### Data storage
 
