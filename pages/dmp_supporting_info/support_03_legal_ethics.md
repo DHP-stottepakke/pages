@@ -94,7 +94,7 @@ Personal data is any information that can be linked to an identifiable person. T
 
 Extra care must be taken for processing of special categories of personal data (often called sensitive personal data). Special categories include information about: Race or ethnic background; Political, philosophical, or religious beliefs; Health information and health related conditions; Sexual orientation or behavior; Membership in trade unions; Genetic and biometric information intended to identify a physical person.
 
-The principle of data minimzation entails limiting the amount of personal data collected and processed to what is necessary to achive hte purpose of the data processing and shuld be considered whenever collection of personal data is planned.
+The principle of data minimization entails limiting the amount of personal data collected and processed to what is necessary to achieve the purpose of the data processing and should be considered whenever collection of personal data is planned.
 
 * The Personal Data Act ([Norwegian: Lov om behandling av personopplysninger (personopplysningsloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)
 * [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
