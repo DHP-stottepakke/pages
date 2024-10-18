@@ -88,9 +88,13 @@ Contact research advisors or [research support staff](/pages/support_00_local_di
 
 
 ### Personal data and data privacy
-As processing of personal data is followed by data management requirements, being specific about personal data is part of the DMP. It is the responsibility of the researcher to make sure that data processing is in agreement with the national legislation and institutional policies and routines.
+As processing of personal data is followed by data management requirements, being specific about personal data is part of the DMP. It is the responsibility of the researcher to make sure that data processing is in agreement with the national legislation and institutional policies and routines. If personal data is to be FAIR, and available for future research or shared openly, considerations on how this can be done must be made prior to data collection.
 
-Personal data is any information that can be linked to an identifiable person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: [Personopplysningsloven](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. Any processing of personal data requires a lawful basis. Special precautions must be taken for special categories of personal data (often called personal sensitive data) containing information about racial or ethnic origin, political beliefs, religion, philosophical beliefs, trade union memberships, genetic and biometric information, health information, or sexual information.
+Personal data is any information that can be linked to an identifiable person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: [Personopplysningsloven](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. Any processing of personal data requires a lawful basis. 
+
+Extra care must be taken for processing of special categories of personal data (often called sensitive personal data). Special categories include information about: Race or ethnic background; Political, philosophical, or religious beliefs; Health information and health related conditions; Sexual orientation or behavior; Membership in trade unions; Genetic and biometric information intended to identify a physical person.
+
+The principle of data minimization entails limiting the amount of personal data collected and processed to what is necessary to achieve the purpose of the data processing and should be considered whenever collection of personal data is planned.
 
 * The Personal Data Act ([Norwegian: Lov om behandling av personopplysninger (personopplysningsloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)
 * [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
@@ -99,9 +103,8 @@ Personal data is any information that can be linked to an identifiable person. T
 
 It is a common misunderstanding that research ethics and privacy protection is the same thing, yet it is important to remember that complying with privacy legislation and conducting research ethical considerations are independent processes. Read more about the distinction between data protection and privacy by [National Research Ethics Committees: The Personal Data Act - Research ethics - far more than privacy](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/legal-statutes-and-guidelines/the-personal-data-act/ "2024-07-17")
 
-
 ### Sensitive data
-Personal data is only one of many reasons to take precautions when processing and storing data. The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary".
+Sensitive data is data that must be protected against unwanted disclosure. Personal data is one of many reasons to take precautions when processing and storing data. The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary".
 
 Reasons for sensitivity (non-exhaustive):
 * National security
