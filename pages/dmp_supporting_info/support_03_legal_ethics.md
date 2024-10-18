@@ -88,7 +88,7 @@ Contact research advisors or [research support staff](/pages/support_00_local_di
 
 
 ### Personal data and data privacy
-AAs processing of personal data is followed by data management requirements, being specific about personal data is part of the DMP. It is the responsibility of the researcher to make sure that data processing is in agreement with the national legislation and institutional policies and routines. If personal data is to be FAIR, and available for future research or shared openly, considerations on how this can be done must be made prior to data collection.
+As processing of personal data is followed by data management requirements, being specific about personal data is part of the DMP. It is the responsibility of the researcher to make sure that data processing is in agreement with the national legislation and institutional policies and routines. If personal data is to be FAIR, and available for future research or shared openly, considerations on how this can be done must be made prior to data collection.
 
 Personal data is any information that can be linked to an identifiable person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: [Personopplysningsloven](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. Any processing of personal data requires a lawful basis. 
 
