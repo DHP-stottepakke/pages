@@ -19,7 +19,7 @@ rdmkit:
 " %}
 
 ## Institutional policies and guidelines
-DMP requirements are commonly part of Open Science policies or guidelines for research data management. Currently, we have only included the project partners in the list. For other organisations, find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
+DMP requirements, or calls for the use of DMPs, are commonly part of Open Science policies or guidelines for research data management. Here are links to current institutional polcies of Norwegian Higher Education institutions. Currently, we have only included the partners of this DMP support project in the list. For other organisations, you'll find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
 
 * [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
 > All research projects must have a Data Management Plan (DMP) fulfilling the requirements of the funding bodies.
@@ -33,11 +33,15 @@ DMP requirements are commonly part of Open Science policies or guidelines for re
 * [UiT Principles and guidelines for managment for research data](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184 "2024-07-17")
 > The researcher must set up a Data Management Plan at an early phase of the project and preferably within six months after start-up.
 
-## National strategy on access and sharing of research data
+## National strategy on access to and sharing of research data
 * [Norwegian Ministry of Education and Research. (2017). National strategy on access to and sharing of research data](https://www.regjeringen.no/en/dokumenter/national-strategy-on-access-to-and-sharing-of-research-data/id2582412/ "2024-09-09")
-> * Research data must be as open as possible, as closed as necessary
-> * Research data should be managed and curated to take full advantage of their potential
-> * Decisions concerning archiving and data management must be taken within the research community
+> * Basic principles:
+> ** Research data must be as open as possible, as closed as necessary
+> ** Research data should be managed and curated to take full advantage of their potential
+> ** Decisions concerning archiving and data management must be taken within the research community
+> * Expectation:
+> ** The Government expects the research institutions to develop procedures for (i) approving data management plans and (ii) determining whether a given research project is of a
+type for which an individual data management plan is not necessary or suitable.
 
 
 ## Funder policies and guidelines
@@ -48,7 +52,7 @@ DMP requirements are commonly part of Open Science policies or guidelines for re
 > * Research data must be made accessible for reuse
 > * Reserach data should be made accessible at an early stage [latest at publication]
 > * Research data must be accompanied by standardized metadata
-> * Research dataprovided with a license for access, reuse, and redistribution
+> * Research data provided with a license for access, reuse, and redistribution
 > * Research data should be made accessible at the lowest possible cost [preferable at no charge]
 > * The management of research data must be described in a data management plan [DMP must be delivered in connection with the revised grant application, final version together with the final report]
 	
