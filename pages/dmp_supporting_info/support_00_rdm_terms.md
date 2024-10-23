@@ -21,14 +21,13 @@ For Norwegian translations, consult the [NO-RDA Termliste for forskningsdatahån
 
 ## Key research data management terms explained (alphabetical order, non-exhaustive)
 
-
 ### Archiving
 > Engage in curation activity that ensures that records, objects, metadata and data are properly selected, stored, and can be accessed, and for which logical and physical integrity are maintained over time, including security and authenticity
 [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
 ### Data archive
-On these pages and in the affiliated data management plan template, the term archive is used for repositories. 
+Synonym: Data repository. On these pages and in the affiliated data management plan template, we use the term data archive for repositories. 
 
 > Archive (noun): Curated collection or repository containing physical or digital static records, objects, metadata and
 data deemed suitable for permanent retention, set up and managed to established standards and
@@ -38,17 +37,22 @@ integrity, security, authenticity and accessibility of the records, objects, met
 
 * Trustworthy repository
 
+
 ### Data preservation
  > Preservation: An activity within archiving in which specific items of data are maintained over time so that they can still be accessed and understood through changes in technology.
 [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+
 ### Data repository
 See data archive [add cross-reference]
 
+
 ### Data storage
+
 
 ### Embargo 
 > A given period of time which defines when the data will be made available in an open archive after it has been deposited already.
+
 
 ### FAIR principles
  > FAIR data principles: Set of guiding principles to make data Findable, Accessible, Interoperable, and Reusable.
@@ -72,7 +76,6 @@ See data archive [add cross-reference]
 ### Persistand identifier (PID)
 > Persistent identifier: Long-lasting digital reference to an object that gives information about that object regardless of what happens to that object. Developed to address link rot, a persistent identifier can be resolved to provide an appropriate representation of an object whether that object changes its online location or goes offline. [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-
 Examples:
 * [Digital Object identifier (DOI)](https://en.wikipedia.org/wiki/Digital_object_identifier "2024-09-09")
 * [Handle](https://en.wikipedia.org/wiki/Handle_System "2024-09-09")
@@ -81,7 +84,6 @@ Examples:
 
 
 ### Personal data
-
 > Personal data is any information that relates to an **identified** or **identifiable living individual**. Different pieces of information, which collected together can lead to the identification of a particular person, also constitute personal data.
 > Personal data that has been de-identified, encrypted or **pseudonymised** but can be used to re-identify a person remains personal data and falls within the scope of the GDPR.
 > Personal data that has been rendered **anonymous** in such a way that the individual is not or no longer identifiable is no longer considered personal data. For data to be truly anonymised, the anonymisation must be irreversible.
@@ -94,7 +96,7 @@ Examples:
 
 
 ### Repository
-On these pages and in the affiliated data management plan template, archive is used for repositories.
+On these pages and in the affiliated data management plan template, the term 'archive' is used for repositories.
 
 > Repository: Physical or digital storage location that can house, preserve, manage, and provide access to many types of digital and physical materials in a variety of formats. Materials in online repositories are curated to enable search, discovery, and reuse. There must be sufficient control for the physical and digital material to be authentic, reliable, accessible and usable on a continuing basis.
 [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -106,9 +108,10 @@ On these pages and in the affiliated data management plan template, archive is u
 > The term **secondary data** is used in this policy to refer to data that already exist, regardless of the research to be conducted. These may comprise information collected for a different purpose (e.g. public administrative data, clinical data or weather data) or they may be physical or digital collections of objects and texts (e.g. libraries or data reused from previous projects such text corpuses or other scientific collections). Information on the Internet may also be defined as secondary data in this context, and such information is highly heterogeneous. Data which are used as secondary data in research, but which have been collected, generated or processed by other researchers or research institutions than those conducting the research, will normally not be encompassed by the guidelines in this policy.
 [The Research Council of Norway’s Policy for Open Access to Research Data](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf)
 
-
 > Research data: Data that are used as primary sources to support technical or scientific enquiry, research, scholarship, or artistic activity, and that are used as evidence in the research process and/or are commonly accepted in the research community as necessary to validate research findings and results. All other digital and non-digital content have the potential of becoming research data. Research data may be experimental data, observational data, operational data, third party data, public sector data, monitoring data, processed data, or repurposed data.
 [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+### Restricted access
 
 
 ### Sensitive data

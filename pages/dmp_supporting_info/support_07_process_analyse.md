@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: Processing, analysing and intepreting data
+title: Processing, analysing and interpreting data
 search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: support_07_process_analyse
@@ -30,8 +30,7 @@ turing:
 " %}
 
 ## About this chapter
-Irrespective of the type and origin of research data, their processing and analyis is a very important step in the reserach process and part of the data lineage/provenance. This chapter collects information about tools and infrastructure used and steps undertaken in data processing and analysis.
-
+Data processing and analysis is a central element in the research process and part of the data lineage/provenance. This chapter collects information about tools and infrastructure used as well as asking to clarify steps that will be important for preparation of high-quality FAIR data.
 
 
 ## Question-specific guidance
