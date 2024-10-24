@@ -102,7 +102,7 @@ Several sub-questions allow to refer to information in other DMP chapters or ext
 *write something about standards and use of ontologies*
 
 #### Where has the data been archived?
-*write something about preservation strategy if NOT using a trustworthy repository*
+*write something about preservation strategy if you are NOT using a trustworthy repository*
 
 #### Under what license will the dataset be made available?
 *write something about license selection*
