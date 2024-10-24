@@ -69,7 +69,7 @@ Timely archiving of datasets in trustworthy repositories is recommended. Dependi
 
 Evaluate which archive(s) will be most relevant for your datasets, using the following the decision tree:
 
-	1) Does your dataset contain personal data or sensitive information?
+    1) Does your dataset contain personal data or sensitive information?
     [If yes, investigate discipline-specific or generic archives with restricted access]
 
     2) Do journals or funders require that specific archives will be used or is there disciplinary conventions?
