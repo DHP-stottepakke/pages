@@ -27,7 +27,7 @@ For Norwegian translations, consult the [NO-RDA Termliste for forskningsdatahån
 
 
 ### Data archive
-Synonym: Data repository. On these pages and in the affiliated data management plan template, we use the term data archive for repositories. 
+Synonym: Long-term data repository. On these pages and in the affiliated data management plan template, we use the term data archive for long-term repositories. 
 
 > Archive (noun): Curated collection or repository containing physical or digital static records, objects, metadata and
 data deemed suitable for permanent retention, set up and managed to established standards and
