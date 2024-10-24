@@ -85,6 +85,6 @@ type for which an individual data management plan is not necessary or suitable.
 	
 * [European Commission. (Version 4.1, 01 May 2024). Horizon Europe Programme Guide: Open Science p.40ff](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf "2024-09-09")
 > * Research data management (RDM) is mandatory in Horizon Europe for projects generating or reusing data. If you expect to generate or reuse data and/or other research outputs (except for publications), you are required to outline in a maximum of one page how these will be managed. Further details on this are provided in the proposal template in the relevant section on open science. [page 43]
-> * Writing a DMP is part of the methodology of the project … DMPs are thus a key means of support when planning and conducting a research project, and, ideally, filling in a DMP should be started prior to the beginning of the project. [page 46-47]
+> * Writing a DMP is part of the methodology of the project (…). DMPs are thus a key means of support when planning and conducting a research project, and, ideally, filling in a DMP should be started prior to the beginning of the project. [page 46-47]
 > * A DMP should be a living document, which is updated and enriched as the project evolves. [page 47]
 
