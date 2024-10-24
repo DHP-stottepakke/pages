@@ -19,7 +19,7 @@ rdmkit:
 " %}
 
 ## Institutional policies and guidelines
-DMP requirements, or calls for the use of DMPs, are commonly part of Open Science policies or guidelines for research data management. Here are links to current institutional polcies of Norwegian Higher Education institutions. Currently, we have only included the partners of this DMP support project in the list. For other organisations, you'll find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
+DMP requirements, or calls for the use of DMPs, are commonly part of Open Science policies or guidelines for research data management. Here are links to current institutional policies of Norwegian Higher Education institutions. Currently, we have only included the partners of this DMP support project in the list. For other organisations, you can find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
 
 * [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
 > All research projects must have a Data Management Plan (DMP) fulfilling the requirements of the funding bodies.
