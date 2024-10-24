@@ -100,12 +100,12 @@ Storage solution examples (non-exhaustive):
 * Institutionally managed data servers or network drives
 * Institutionally managed 'cold' storage (e.g. tape storage)
 	* Temporarily storing data in 'cold' storage with longer access times can be a recommended solution for your project if you produce very large data volumes or if the project is collecting data over a long time period, but where the data will be analysed later. An issue to consider here is whether data in such a storage are quick and easy to access, or if access needs to be planned in advance.
-* Trusted research environments
+* Trusted research environments (TREs)
 	* [TSD](https://www.uio.no/tjenester/it/forskning/sensitiv/) provided by UiO
 	* [HUNT Cloud](https://about.hdc.ntnu.no/) provided by NTNU
 	* [SAFE](https://www.uib.no/en/foremployees/131011/safe) provided by UiB
 	* See also 
-* National storage infrastructure
+* National storage infrastructures
 	* E.g. [Sigma2 services](https://www.sigma2.no/services-overview) such as NIRD
 * Other cloud storage
 	* E.g. Google Drive, Dropbox
