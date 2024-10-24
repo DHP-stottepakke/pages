@@ -30,27 +30,27 @@ turing:
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> Understanding, analyzing and reusing data depends on the practice of documenting, structuring, naming and other ways of describing data \\
->> The inclusion of metadata, providing data about the data used in the project, secures the usefullness of the data, both internally and externally of your project \\
->> Interpretation of project results requires an understanding of the data provenance/data lineage, i.e. where the data originates from and how it was processed.\\
->> Collecting data documentation should start as early as possible and prepares for making data accessible accompanied by structured metadata.\\
+>> Understanding, analyzing and reusing data depends on how said data has been documented, structured, named and in other ways described \\
+>> The inclusion of metadata, providing data about the data used in a project, secures that data can be properly utilized, both within and beyond your own project \\
+>> Interpretation of project results requires an understanding of the data provenance/data lineage, i.e. where the data originates from and how it has been processed \\
+>> Data documentation should start as early as possible, and in the form of accompanied structured metadata, ensures that data is accessible \\
 " %}
 
 ## About this chapter
 
-This chapter collects information about how metadata and other accompanying information will be handled in the active phase of the project. 
+This chapter includes information about how metadata and other accompanying information will be handled in the active phase of the project. 
 
 ## Question-specific guidance
 
 ### How will you link data and metadata?
 
-Multiple selections will often be applicable to a project. Basic descriptive techniques will be relevant to many projects: structured naming of files and folders, using a readme-file to provide information, using embedded metadata in files or using a seperat metadatafile (a sidecar file for each file in the dataset). More advances techniques that can be relevant is using a database system for linking metadata and data, or establishing a data/variables dictionary for the data in the project. 
+Often there will be multiple ways in which data and metadata can be linked within a project. Basic descriptive techniques will be relevant to many projects: these include structured and consistent naming of files and folders, using a readme-file to provide information, using embedded metadata in files, or using a separate metadata-file (a sidecar file for each file in the dataset). More advanced techniques that may be relevant include using a database system for linking metadata and data, or establishing a data/variable dictionary for the data in the project. 
 
-_Supplementary info: Almost all computer systems will provide some system metadata embedded in files, and provide info on creation date and who has write or read access to the file. Most systems will also provide users with some possiblilities for adding user metadata that can be embedded in files, like descriptive tags._
+_Supplementary info: Almost all computer systems will provide some system metadata embedded in files, and provide info on creation date and who has editor or read-only access to the file, for example. Most systems will also provide users with possiblilities of adding user metadata that can be embedded in files, such as descriptive tags._
 
 ### Do suitable metadata standards exist for your data?
 
-You should be awere of, and choose, a metadata standard as soon as possible when planning and doing your project. Many research fields has established a metadata standard that is used widely within the field. At the same time, most repositories for research data will implement specific standards (often using Dublin Core as a starting point), so planned use of an archive will often lead to planned use of a metadata standards. When in doubt about relevant metadata standards within your field, the Dublin Core standard will often be a good choice.    
+When planning and embarking on your project, you should familiarize yourself with, and choose, a suitable metadata standard, if one exists. Many research fields have established metadata standards that are widely used within that specific scientific field. Furthermore, most repositories for research data will implement specific standards (often using Dublin Core as a starting point). As such, planned use of an archive will often lead to planned use of specific metadata standards. When in doubt about relevant metadata standards within your field, the Dublin Core standard will often be a good choice.    
 
 ### Will you use existing vocabularies/ontologies/terminologies to describe your data?
 
@@ -58,11 +58,11 @@ If you want to facilitate interoperability of your data with data you get from e
 
 _Supplementary info: Please concider what vocabularies, ontologies or terminology that has relevance within your field of research, and apply these to highten precition when describing research data. When in doubt of relevance, please look for usage by others within your field, like in published published journal articles og connected to published datasets._  
 
-### How are the rights of the collected data arranged?
+### How are the rights of the collected data distributed?
 
-Discussing make agreements regarding use rights and potential intellectual property rights prior to collection.
-Not all data are covered by the copyright act, and some data will be databases which are related rights. 
-If Intellectual Property Rights are defined by a contract/agreement, make sure to include it in the answer.
+Discuss making agreements regarding usage rights and potential intellectual property rights prior to data collection.
+Not all data are covered by The Copyright Act, and some data may be in the form of databases, and may qualify for protection. 
+If intellectual property rights are defined through a contract/agreement, make sure to include it in the answer.
 
 _Supplementary info: Defining rights and providing licenses to collected data will often reduce the potential for later conflicts around internal and external use (and reuse) of research data within and after the project period._
 
