@@ -96,7 +96,7 @@ Examples:
 
 
 ### Repository
-On these pages and in the affiliated data management plan template, the term 'archive' is used for repositories.
+On these pages and in the affiliated data management plan template, the term 'archive' is used for long-term repositories.
 
 > Repository: Physical or digital storage location that can house, preserve, manage, and provide access to many types of digital and physical materials in a variety of formats. Materials in online repositories are curated to enable search, discovery, and reuse. There must be sufficient control for the physical and digital material to be authentic, reliable, accessible and usable on a continuing basis.
 [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
