@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Research data terms
 search_exclude: false
-contributors: [Live Kvale, Jenny Ostrop]
+contributors: [Live Kvale, Jenny Ostrop, Korbinian Bösl]
 page_id: support_00_rdm_terms
 description:
 affiliations:

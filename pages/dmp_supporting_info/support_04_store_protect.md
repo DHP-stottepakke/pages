@@ -70,7 +70,7 @@ In case you are planning computationally demanding data analysis, see also the c
 
 
 ### Will storage need change over time?
-*Specific to computationally demanding projects*![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400)
+![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400)*Specific to data/compute heavy projects*\
 Taking changes in storage needs over time into consideration will help you with budgeting and with reducing expenses for storage space. Often, the storage need of a project will increase with project length. In some projects storage need decreases during the project or be largest in the middle of the project, as there is a need for temporary storage of intermediate results, which do not have to be stored for longer time frames.
 
 Use the 'Explore storage needs' dialogue if you are unsure what applies to your project.
@@ -169,9 +169,6 @@ In case your project requires storage beyond a basic level supplied by your inst
 
 #### At the end of the project, what will happen with data in this storage solution?
 It is important to consider what will happen with data beyond the project period. This is particularly important when working with large data volumes. If applicable, indicate the termination date for the storage solution.
-
-#### At the end of the project, what will happen with data in this storage solution?
-If the chosen storage solution has access restrictions, describe who will have access and how access rights will be controlled.
 
 #### If applicable: How will access to the storage solution be controlled?
 If the chosen storage solution has access restrictions, describe who will have access and how access rights will be controlled.
