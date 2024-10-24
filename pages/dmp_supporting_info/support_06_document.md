@@ -16,13 +16,6 @@ cessda:
 rdmkit:
 - name: Documentation and metadata
   url: https://rdmkit.elixir-europe.org/metadata_management
-other:
-- name: "OpenAIRE: How do I license my research?"
-  url: https://www.openaire.eu/how-do-i-license-my-research-data
-- name: "Figshare: On choosing licenses"
-  url: https://help.figshare.com/article/what-is-the-most-appropriate-licence-for-my-research
-- name: "ELIXIR-BE RDM: Data licences"
-  url: https://rdm.elixir-belgium.org/data_licences 
 turing:
 - name: Documentation and Metadata
   url: https://book.the-turing-way.org/reproducible-research/rdm/rdm-metadata
@@ -30,8 +23,8 @@ turing:
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> Understanding, analyzing and reusing data depends on the practice of documenting, structuring, naming and other ways of describing data \\
->> The inclusion of metadata, providing data about the data used in the project, secures the usefullness of the data, both internally and externally of your project \\
+>> Understanding, analysing and reusing data depends on the practice of documenting, structuring, naming and other ways of describing data \\
+>> The inclusion of metadata, providing data about the data used in the project, secures the usefulness of the data, both internally and externally of your project \\
 >> Interpretation of project results requires an understanding of the data provenance/data lineage, i.e. where the data originates from and how it was processed.\\
 >> Collecting data documentation should start as early as possible and prepares for making data accessible accompanied by structured metadata.\\
 " %}
@@ -43,40 +36,70 @@ This chapter collects information about how metadata and other accompanying info
 ## Question-specific guidance
 
 ### How will you link data and metadata?
+Multiple selections will often be applicable to a project. Basic descriptive techniques will be relevant to many projects: structured naming of files and folders, using a readme-file to provide information, using embedded metadata in files or using a separate metadata file (a sidecar file for each file in the dataset). More advances techniques that can be relevant is using a database system for linking metadata and data, or establishing a data/variables dictionary for the data in the project. 
 
-Multiple selections will often be applicable to a project. Basic descriptive techniques will be relevant to many projects: structured naming of files and folders, using a readme-file to provide information, using embedded metadata in files or using a seperat metadatafile (a sidecar file for each file in the dataset). More advances techniques that can be relevant is using a database system for linking metadata and data, or establishing a data/variables dictionary for the data in the project. 
+_Supplementary info: Almost all computer systems will provide some system metadata embedded in files, and provide info on creation date and who has write or read access to the file. Most systems will also provide users with some possibilities for adding user metadata that can be embedded in files, like descriptive tags._
 
-_Supplementary info: Almost all computer systems will provide some system metadata embedded in files, and provide info on creation date and who has write or read access to the file. Most systems will also provide users with some possiblilities for adding user metadata that can be embedded in files, like descriptive tags._
 
 ### Do suitable metadata standards exist for your data?
+You should be aware of, and choose, a metadata standard as soon as possible when planning and doing your project. Many research fields have established a metadata standard that are adapted to discipline-specific needs and are widely adopted the field. At the same time, most repositories for research data will implement specific standards and therefore planned use of an archive will often lead to planned use of a metadata standards.
 
-You should be awere of, and choose, a metadata standard as soon as possible when planning and doing your project. Many research fields has established a metadata standard that is used widely within the field. At the same time, most repositories for research data will implement specific standards (often using Dublin Core as a starting point), so planned use of an archive will often lead to planned use of a metadata standards. When in doubt about relevant metadata standards within your field, the Dublin Core standard will often be a good choice.    
+"Minimum Information Standards" can be important from the [FAIRsharing registry of standards](http://fairsharing.org/).
+
+_Supplementary info: When unsure about relevant metadata standards within your field, the Dublin Core standard defines a minimum set of values and is embedded in many more comprehensive standards._
+
 
 ### Will you use existing vocabularies/ontologies/terminologies to describe your data?
+Please consider what controlled vocabularies, ontologies or terminologies have relevance within your field of research, and apply these to heighten precision when describing research data. Specifying the applied vocabularies/ontologies/terminologies in the metadata or data documentation is important to avoid ambiguity.
 
-If you want to facilitate interoperability of your data with data you get from elsewhere, and facilitate re-use of your own data later, it is handy if you use standard ways to encode certain data. Such standard encodings are sometimes called terminologies or ontologies.
+Vocabularies/ontologies/terminologies can be important from the [FAIRsharing registry of standards](http://fairsharing.org/).
 
-_Supplementary info: Please concider what vocabularies, ontologies or terminology that has relevance within your field of research, and apply these to highten precition when describing research data. When in doubt of relevance, please look for usage by others within your field, like in published published journal articles og connected to published datasets._  
+For some disciplines, lookup services to identify relevant vocabularies/ontologies/terminologies exist. When in doubt of relevance, please look for usage by others within your field, like in published published journal articles or connected to published datasets.
+* [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/dataset/lov/)
+* [EMBL-EBI Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols4/index)
+* [CESSDA and service providers: European Language Social Science Thesaurus (ELSST)](https://elsst.cessda.eu)
+
+Further reading:
+* [RDMkit: How do you find appropriate vocabularies or ontologies?](https://rdmkit.elixir-europe.org/metadata_management#how-do-you-find-appropriate-vocabularies-or-ontologies)
+* [FAIRCookbook: Introduction to terminologies and ontologies](https://w3id.org/faircookbook/FCB019)
+* [FAIRCookbook: Introduction to terminologies and ontologies](https://w3id.org/faircookbook/FCB004)
+* [FAIRCookbook: Selecting an ontology lookup service](https://w3id.org/faircookbook/FCB004)
+
 
 ### How are the rights of the collected data arranged?
+Discussing make agreements regarding use rights and potential intellectual property rights prior to collection. Not all data are covered by the copyright act, and some data will be databases which are related rights. If Intellectual Property Rights are defined by a contract/agreement, make sure to include it in the answer. Defining rights and providing licenses to collected data will often reduce the potential for later conflicts around internal and external use (and reuse) of research data within and after the project period.
 
-Discussing make agreements regarding use rights and potential intellectual property rights prior to collection.
-Not all data are covered by the copyright act, and some data will be databases which are related rights. 
-If Intellectual Property Rights are defined by a contract/agreement, make sure to include it in the answer.
+If the data counts as databases, the institutions will often hold rights to the database, this does not however exclude usage rights by the researchers.
 
-_Supplementary info: Defining rights and providing licenses to collected data will often reduce the potential for later conflicts around internal and external use (and reuse) of research data within and after the project period._
+If the data is owned by or copyrighted by external bodies select this one and elaborate in the follow up question, and the next question on "use restrictions".`\
+Please note that there is no Fair-use clause in the Norwegian copyright act, subsequently usage of data from secondary sources would place restriction on future sharing. This can be described in the section "Preserving and publishing data"
+
+If there is a consortium agreement or rights are arranged in another way, please make sure to list any relevant contracts or agreements in the chapter 'About the research project'.
+
 
 ### Are there any use restrictions for these data?
+Are there any limitations on the data use such as restricting use to research on certain types of diseases, sharing only within certain geographical boundaries, etc.?\
+If applicable, describing data use in a formalised way greatly improves the data reusability. Explicitly stating usage permissions or restrictions is recommended over applying a restrictive data license. Data licenses are addressed in the next question.
 
-Are there any limitations on the data use e.g. only for research on certain types of diseases, sharing only within certain geographical boundaries, etc.?
-Describing data use in a formalised way by using the data use ontology (DUO) greatly improves the data reusability. 
+Examples of use definition:
+* [Data Use Ontology (DUO)](https://github.com/EBISPOT/DUO#readme) is an international standard, which provides codes to represent data use restrictions for controlled access datasets
+* [Open Digital Rights Language (ODRL)](https://www.w3.org/TR/odrl-vocab/) is a policy expression language
 
-_Supplementary info:_
+Further reading:
+* [FAIRCookbook: Permitted uses of data](https://w3id.org/faircookbook/FCB035)
+* Article: Alter, G., Gonzalez-Beltran, A., Ohno-Machado, L., & Rocca-Serra, P. (2020). The Data Tags Suite (DATS) model for discovering data access and use requirements. GigaScience, 9(2), giz165. [doi: 10.1093/gigascience/giz165](https://doi.org/10.1093/gigascience/giz165)
 
 
 ### Will a license be assigned to your data as early as possible? 
+It is not always clear to everyone in the project (and outside) what can and can not be done with a data set. Being clear about reuse conditions and assigning data a license is one requirement of the FAIR principles.
 
-It is not always clear to everyone in the project (and outside) what can and can not be done with a data set. It is helpful to associate each data set with a license as early as possible in the project. A data license should ideally be as free as possible: any restriction like 'only for non-commercial use' or 'attribution required' may reduce the reusability and thereby the number of citations. If possible, use a computer-readable and computer actionable license.
+It is helpful to associate each data set with a license as early as possible in the project and the license should be stored together with the data all the time. A data license should ideally be as free as possible: any restriction like 'only for non-commercial use' or 'attribution required' may have undesired implications, reduce the reusability and thereby the number of citations. If possible, use a computer-readable and computer actionable license.
 
-_Supplementary info:_
+_Supplementary info: attribution requirements can lead to inconvenient [license stacking](https://mozillascience.github.io/open-data-primers/5.3-license-stacking.html "2024-10-12") and thus limiting reuse. Similarly, restricting commercial use can have unintended consequences._
 
+Further reading:
+* [RDMkit: Licensing](https://rdmkit.elixir-europe.org/licensing)
+* [CESSDA DMEG: Licensing your data](https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish/Publishing-with-CESSDA-archives/Licensing-your-data)
+* [OpenAIRE: How do I license my research?](https://www.openaire.eu/how-do-i-license-my-research-data)
+* [Figshare: On choosing licenses](https://help.figshare.com/article/what-is-the-most-appropriate-licence-for-my-research)
+* [ELIXIR-BE RDM: Data licences](https://rdm.elixir-belgium.org/data_licences)
