@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Data documentation during the project
 search_exclude: false
-contributors: [Svein Høier]
+contributors: [Svein Høier, Ida Juhasz, Jenny Ostrop]
 page_id: support_06_document
 description: Supporting DMP Information, data collection, data creation, data generation, data production
 sidebar: dmp_supporting_info
@@ -23,28 +23,37 @@ turing:
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> Understanding, analysing and reusing data depends on the practice of documenting, structuring, naming and other ways of describing data \\
->> The inclusion of metadata, providing data about the data used in the project, secures the usefulness of the data, both internally and externally of your project \\
->> Interpretation of project results requires an understanding of the data provenance/data lineage, i.e. where the data originates from and how it was processed.\\
->> Collecting data documentation should start as early as possible and prepares for making data accessible accompanied by structured metadata.\\
+>> Understanding, analysing and reusing data depends on how said data has been documented, structured, named and in other ways described\\
+>> The inclusion of metadata, providing data about the data used in a project, secures that data can be properly utilized, both within and beyond your own project\\
+>> Interpretation of project results requires an understanding of the data provenance/data lineage, i.e. where the data originates from and how it has been processed\\
+>> Data documentation should start as early as possible, and in the form of accompanied structured metadata, ensures that data is accessible\\
 " %}
 
 ## About this chapter
 
-This chapter collects information about how metadata and other accompanying information will be handled in the active phase of the project. 
+This chapter includes information about how metadata and other accompanying information will be handled in the active phase of the project. 
 
 ## Question-specific guidance
 
 ### How will you link data and metadata?
-Multiple selections will often be applicable to a project. Basic descriptive techniques will be relevant to many projects: structured naming of files and folders, using a readme-file to provide information, using embedded metadata in files or using a separate metadata file (a sidecar file for each file in the dataset). More advances techniques that can be relevant is using a database system for linking metadata and data, or establishing a data/variables dictionary for the data in the project. 
+Metadata is data about data, providing the necessary context that allows to understand or use data. Providing this information in a structured way facilitates data reuse. Metadata can be descriptive (e.g. title, data content, date of creation), structural (e.g. explaining file organisation), give information about data provenance (e.g. data origin, versions), administrative (e.g. access permissions), legal (e.g. data license), or technical (e.g. data format, tools and software). A metadata standard is a predefined way of describing data.
 
-_Supplementary info: Almost all computer systems will provide some system metadata embedded in files, and provide info on creation date and who has write or read access to the file. Most systems will also provide users with some possibilities for adding user metadata that can be embedded in files, like descriptive tags._
+Often there will be multiple ways in which data and metadata can be linked within a project. Basic descriptive techniques will be relevant to many projects: these include structured and consistent naming of files and folders, using a  README-file to provide information, using embedded metadata in files, or using a separate metadata-file (a sidecar file for each file in the dataset). More advanced techniques that may be relevant include using a database system for linking metadata and data, or establishing a data/variable dictionary for the data in the project.
+
+Please consult the chapters in e.g. the [RDMkit for life sciences, the CESSDA Data Management Guide, or The Turing Way handbook for more information, e.g. on what to write in a README-file](/pages/support_06_document#further-resources).
+
+_Supplementary info: Almost all computer systems will provide some system metadata embedded in files, and provide info on creation date and who has editor or read-only access to the file, for example. Most systems will also provide users with possibilities of adding user metadata that can be embedded in files, such as descriptive tags._
 
 
 ### Do suitable metadata standards exist for your data?
-You should be aware of, and choose, a metadata standard as soon as possible when planning and doing your project. Many research fields have established a metadata standard that are adapted to discipline-specific needs and are widely adopted the field. At the same time, most repositories for research data will implement specific standards and therefore planned use of an archive will often lead to planned use of a metadata standards.
+When planning and embarking on your project, you should familiarize yourself with, and choose, a suitable metadata standard, if one exists. Many research fields have established a metadata standard that are adapted to discipline-specific needs and are widely adopted the field. If available, applying a domain-specific standard ensures that all necessary information to facilitate data use and reuse are included. In addition to domain-specific standards, domain-agnostic standard exist. "Minimal Information Standard" describes a defined minimal set of metadata, while a metadata standard also can include optional values.
 
-"Minimum Information Standards" can be important from the [FAIRsharing registry of standards](http://fairsharing.org/).
+Most repositories for research data will implement specific standards and therefore planned use of an archive will often lead to planned use of a metadata standards.\
+"Minimal Information Standards" can be important from the [FAIRsharing registry of standards](http://fairsharing.org/).
+
+Further resources:
+* [RDA metadata standards catalog](https://rdamsc.bath.ac.uk/)
+* [Digital Curation Centre: Metadata standards by discipline](https://www.dcc.ac.uk/guidance/standards/metadata)
 
 _Supplementary info: When unsure about relevant metadata standards within your field, the Dublin Core standard defines a minimum set of values and is embedded in many more comprehensive standards._
 
@@ -67,14 +76,16 @@ Further reading:
 
 
 ### How are the rights of the collected data arranged?
-Discussing make agreements regarding use rights and potential intellectual property rights prior to collection. Not all data are covered by the copyright act, and some data will be databases which are related rights. If Intellectual Property Rights are defined by a contract/agreement, make sure to include it in the answer. Defining rights and providing licenses to collected data will often reduce the potential for later conflicts around internal and external use (and reuse) of research data within and after the project period.
+Discuss making agreements regarding usage rights and potential intellectual property rights prior to data collection. Defining rights and providing licenses to collected data will often reduce the potential for later conflicts around internal and external use (and reuse) of research data within and after the project period.
 
-If the data counts as databases, the institutions will often hold rights to the database, this does not however exclude usage rights by the researchers.
+Not all data are covered by The Copyright Act, and some data may be in the form of databases, and may qualify for protection. If the data counts as databases, the institutions will often hold rights to the database, this does not however exclude usage rights by the researchers. 
 
-If the data is owned by or copyrighted by external bodies select this one and elaborate in the follow up question, and the next question on "use restrictions".`\
+If intellectual property rights are defined through a contract/agreement, make sure to refer to it in relation to the involved organisations in the chapter 'Legal and ethical aspects'.
+
+If the data is owned by or copyrighted by external bodies select this one and elaborate in the follow up question, and the next question on "use restrictions".\
 Please note that there is no Fair-use clause in the Norwegian copyright act, subsequently usage of data from secondary sources would place restriction on future sharing. This can be described in the section "Preserving and publishing data"
 
-If there is a consortium agreement or rights are arranged in another way, please make sure to list any relevant contracts or agreements in the chapter 'About the research project'.
+If there is a consortium agreement or rights are arranged in another way, please make sure to list any relevant contracts or agreements.
 
 
 ### Are there any use restrictions for these data?

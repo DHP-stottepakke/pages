@@ -71,7 +71,7 @@ In case you are planning computationally demanding data analysis, see also the c
 
 ### Will storage need change over time?
 ![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to data/compute heavy projects*\
-Taking changes in storage needs over time into consideration will help you with budgeting and with reducing expenses for storage space. Often, the storage need of a project will increase with project length. In some projects storage need decreases during the project or be largest in the middle of the project, as there is a need for temporary storage of intermediate results, which do not have to be stored for longer time frames.
+Taking changes in storage needs over time into consideration will help you with budgeting and with reducing expenses for storage space. Often, the storage need of a project will increase with project length. In some projects storage need decreases during the project or be largest in the middle of the project, as there is a need for temporary storage of intermediate results, which do not have to be stored long-term.
 
 Use the 'Explore storage needs' dialogue if you are unsure what applies to your project.
 
@@ -83,6 +83,7 @@ Consider all digital data that you are expecting to handle in the course of the 
 This is also a good opportunity to reflect on the data backup solution, its potentially associated costs, and whether the information security level and certification of the solution match with requirements that apply to your stored data. You should also consider how data will be organised in the chosen storage solution.
 
 How easily the members of your project may access the data and how access is controlled can be crucial. The overall capacity and transfer speed of a storage solution can also be critical parameters in case you have larger amounts of data.
+
 
 #### Storage solutions
 Usually, your storage solution(s) will be selected from the solutions recommended in your institution's storage guide. If applicable, provide a link to the description of the storage solution for later reference.
@@ -124,29 +125,30 @@ Please consult the institutional storage guides for details:
 * [UiO Data storage guide](https://www.uio.no/english/services/it/security/lsis/storage-guide.html)
 * [UiT Research data portal - Processing and storage](https://en.uit.no/research/research-dataportal/art?p_document_id=729174)
 
-#### Organisation of the storage solution
-Indicate which data organisation best describes the respective storage solution.
+If the chosen storage solution has access restrictions, describe who will have access and how access rights will be controlled.
 
+#### Storage solution structure
+Indicate which data structure best describes the respective storage solution.
 * A file system with files and folders
 	* Remember to specify file naming and folder structure conventions in the respective question below.
 * An "object store" or a "document store" system
 	* Some "file" storage systems do not have a tree structure like we know in a file system, but rather have direct pointers to any file in the system. Such systems are called "object stores" or "document stores". Examples: Amazon S3, CEPH, MongoDB
 * A database system
-	* Databases systems can be relational or non-relational. Examples: MySQL, NoSQL, Oracle Database
+	* Database systems can be relational or non-relational. Examples: MySQL, NoSQL, Oracle Database
 * Application-specific data storage
 	* Some applications may have their own data structure that can only be accessed through the application. Examples: some Electronic Lab Notebook (ELN) or Electronic Data Capture (EDC) applications
 
 #### Backups
-If you are using institutional solutions, the institution commonly provides backup and snapshotting functionality, that allow you to restore data. Applicable information should be provided by your IT department. It is good to be aware of the backup routines and frequency, and possible limitations of these before the need to recover data appears in your project.
+If you use institutional solutions, the institution commonly provides backup and snapshotting functionality, that allow you to restore data. Applicable information should be provided by your IT department. It is good to be aware of the backup routines and frequency, and possible limitations of these before the need to recover data appears in your project.
 
-If you are using other solutions you should check the backup routines of theses solutions, or you may have to implement your own routines.
-If not relying on managed storage, an often suggested backup rule is 3-2-1.
+If you use other solutions you should check the backup routines of theses solutions, or you may have to implement your own routines.
+If you are not relying on managed storage, an often suggested backup rule is 3-2-1.
 
 Here the explanation from [NFDI4Chem](https://www.nfdi4chem.de/3-2-1-rule/) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 > The 3-2-1 Backup Rule in Detail
 > * Three Copies of the Data: In research, this means that in addition to the original data, create at least two additional copies. This redundancy ensures that even in the event of hardware failure or data corruption, backup versions are always available for access.
 > * Two Different Storage Media: It is advisable to back up the data on two different storage media. This could be, for example, a local server and an external hard drive. Using different media minimizes the risk that both copies could be lost simultaneously due to the same event (such as hardware failure). Do not rely on hard drives only!
-> * One Copy at an External Location: Store this third copy at a different physical location to protect it from local disasters such as fires or floods. While cloud storage solutions are often chosen, we recommend central storage, for example, at central IT or library services of the university/institution. Because they take care of the server housing and hosting, and the backups.
+> * One Copy at an External Location: Store this third copy at a different physical location to protect it from local disasters such as fires or floods. While cloud storage solutions are often chosen, we recommend central storage, for example, at central IT or library services of the university/institution, as they take care of the server housing, hosting and backups.
 >
 > Example of a Backup Plan - A research laboratory could secure its data as follows:
 > * Primary Copy: Store the original data on the laboratory server with regularly maintaining and backup procedures.
@@ -160,10 +162,10 @@ Here the explanation from [NFDI4Chem](https://www.nfdi4chem.de/3-2-1-rule/) [![L
 >
 > What the 3-2-1 Rule Does Not Include
 >
-> The 3-2-1 rule does not include a backup routine. However, this is just as important because the best backup is useless if it is out of date. Automations (e.g., a cron job) on your servers are best suited for this, copying your data to the secondary storage every night. Or use central services, they already have backup plans.
+> The 3-2-1 rule does not include a backup routine. However, this is just as important because the best backup is useless if it is out of date. Automations (e.g., a cron job) on your servers are best suited for this, copying your data to the secondary storage every night. An alternative is to use central services with built-in backup plans.
 
 #### Is the storage solution associated with costs?
-In case your project requires storage beyond a basic level supplied by your institution, there might be associated costs. Often, it is good practise to familiarize yourself with storage costs upfront, so that they can be factored into your budget. In many cases the costs will vary depending on the needs and nature of your project and potentially by requirements from your funding source. If you are using commercial cloud storage, also consider that traffic in and out of the system might be charged.
+In case your project requires storage beyond a basic level supplied by your institution, there might be associated costs. It is often good practise to familiarize yourself with storage costs at the outset, so that they can be factored into your budget. In many cases the costs will vary depending on the needs and nature of your projectand perhaps by requirements from your funding source. If you are using commercial cloud storage, also consider that traffic in and out of the system might be charged.
 
 #### At the end of the project, what will happen with data in this storage solution?
 It is important to consider what will happen with data beyond the project period. This is particularly important when working with large data volumes. If applicable, indicate the termination date for the storage solution.
@@ -173,11 +175,11 @@ If the chosen storage solution has access restrictions, describe who will have a
 
 
 ### File naming and folder organisation
-Consistent file naming and folder structures are an important part of organising data in your research project. It is critical to be consistent and to make all of your project partners following the same convention.
+Consistent file naming and folder structures are important elements in organising data in your research project. It is critical to be consistent and to make all of your project partners following the same convention.
 
 It is advisable to document the chosen file naming and folder structure strategy or principles. This will make it easier to understand the data at a later timepoint or for others. This can e.g. be done in README-files.
 
-There are different strategies for file naming and folder structure. Please consult the chapters in e.g. the [RDMkit for life sciences, the CESSDA Data Management Guide, or The Turing Way handbook](support_04_store_protect#further-resources) for inspiration.
+Different strategies for file naming and folder structure exist. Please consult the chapters in e.g. the [RDMkit for life sciences, the CESSDA Data Management Guide, or The Turing Way handbook](support_04_store_protect#further-resources) for inspiration.
 
 
 ### Collaborating on files and documents
@@ -189,4 +191,4 @@ If shared documents are used, will the chosen solution allow contributors to edi
 
 
 ### Risk evaluation
-There are different risk considerations for your project you might want to carry out depending on the nature of your project. Some practises like carrying physical storage media can be associated with increased risks or violate regulation and laws. Thus project members should be informed about the risks and the risks should be mitigated where possible.
+You may want to carry out different risk considerations depending on the nature of your project. Some practises, like carrying around physical storage media, can be associated with increased risks or violate regulation and laws. Thus project members should be informed about the risks, which should be mitigated where possible.
