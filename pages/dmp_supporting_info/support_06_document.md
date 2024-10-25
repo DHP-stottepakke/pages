@@ -75,7 +75,7 @@ Further reading:
 * [FAIRCookbook: Selecting an ontology lookup service](https://w3id.org/faircookbook/FCB004)
 
 
-### How are the rights of the collected data arranged?
+### How are the rights of the collected data distributed?
 Discuss making agreements regarding usage rights and potential intellectual property rights prior to data collection. Defining rights and providing licenses to collected data will often reduce the potential for later conflicts around internal and external use (and reuse) of research data within and after the project period.
 
 Not all data are covered by The Copyright Act, and some data may be in the form of databases, and may qualify for protection. If the data counts as databases, the institutions will often hold rights to the database, this does not however exclude usage rights by the researchers. 

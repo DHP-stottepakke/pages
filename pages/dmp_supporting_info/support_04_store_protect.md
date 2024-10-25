@@ -71,7 +71,7 @@ In case you are planning computationally demanding data analysis, see also the c
 
 ### Will storage need change over time?
 ![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to data/compute heavy projects*\
-Taking changes in storage needs over time into consideration will help you with budgeting and with reducing expenses for storage space. Often, the storage need of a project will increase with project length. In some projects storage need decreases during the project or be largest in the middle of the project, as there is a need for temporary storage of intermediate results, which do not have to be stored long-term.
+Taking changes in storage needs over time into consideration will help you with budgeting and with reducing expenses for storage space. Often, the storage need of a project will increase with project length. In some projects storage need decreases during the project or becomes largest in the middle of the project, as there is a need to temporarily store intermediate results, which do not have to be stored long-term.
 
 Use the 'Explore storage needs' dialogue if you are unsure what applies to your project.
 
@@ -80,7 +80,7 @@ Use the 'Explore storage needs' dialogue if you are unsure what applies to your 
 It is important to keep track of the storage solutions used in the project. Usually, the IT department at your institution will provide information about the institutionally managed storage solutions that are available.
 
 Consider all digital data that you are expecting to handle in the course of the project, including working documents such as manuscripts or electronic lab notebooks (ELN).
-This is also a good opportunity to reflect on the data backup solution, its potentially associated costs, and whether the information security level and certification of the solution match with requirements that apply to your stored data. You should also consider how data will be organised in the chosen storage solution.
+This is also a good opportunity to reflect on the data backup solution, its possible associated costs and whether the information security level and certification of the solution match with requirements that apply to your stored data. You should also consider how data will be organised in the chosen storage solution.
 
 How easily the members of your project may access the data and how access is controlled can be crucial. The overall capacity and transfer speed of a storage solution can also be critical parameters in case you have larger amounts of data.
 
@@ -100,7 +100,7 @@ Storage solution examples (non-exhaustive):
 	* E.g. OneDrive
 * Institutionally managed data servers or network drives
 * Institutionally managed 'cold' storage (e.g. tape storage)
-	* Temporarily storing data in 'cold' storage with longer access times can be a recommended solution for your project if you produce very large data volumes or if the project is collecting data over a long time period, but where the data will be analysed later. An issue to consider here is whether data in such a storage are quick and easy to access, or if access needs to be planned in advance.
+	* Temporarily storing data in 'cold storage' with longer access times can be a recommended solution for your project if you produce very large data volumes or if the project collects data over a long time period, but where the data will be analysed later. An issue to consider here is whether data in such a storage are quick and easy to access, or if access needs to be planned in advance.
 * Trusted research environments (TREs)
 	* [TSD](https://www.uio.no/tjenester/it/forskning/sensitiv/) provided by UiO
 	* [HUNT Cloud](https://about.hdc.ntnu.no/) provided by NTNU
@@ -162,10 +162,10 @@ Here the explanation from [NFDI4Chem](https://www.nfdi4chem.de/3-2-1-rule/) [![L
 >
 > What the 3-2-1 Rule Does Not Include
 >
-> The 3-2-1 rule does not include a backup routine. However, this is just as important because the best backup is useless if it is out of date. Automations (e.g., a cron job) on your servers are best suited for this, copying your data to the secondary storage every night. An alternative is to use central services with built-in backup plans.
+> The 3-2-1 rule does not include a backup routine. However, this is just as important because the best backup is useless if it is out of date. Automations (e.g., a cron job) on your servers are best suited for this, copying your data to the secondary storage every night. Or use central services, they already have backup plans.
 
 #### Is the storage solution associated with costs?
-In case your project requires storage beyond a basic level supplied by your institution, there might be associated costs. It is often good practise to familiarize yourself with storage costs at the outset, so that they can be factored into your budget. In many cases the costs will vary depending on the needs and nature of your projectand perhaps by requirements from your funding source. If you are using commercial cloud storage, also consider that traffic in and out of the system might be charged.
+In case your project requires storage beyond a basic level supplied by your institution, there might be associated costs. It is often good practise to familiarize yourself with storage costs at the outset, so that they can be factored into your budget. In many cases the costs will vary depending on the needs and nature of your project and perhaps by requirements from your funding source. If you are using commercial cloud storage, also consider that traffic in and out of the system might be charged.
 
 #### At the end of the project, what will happen with data in this storage solution?
 It is important to consider what will happen with data beyond the project period. This is particularly important when working with large data volumes. If applicable, indicate the termination date for the storage solution.
