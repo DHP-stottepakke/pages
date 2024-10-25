@@ -70,7 +70,7 @@ In case you are planning computationally demanding data analysis, see also the c
 
 
 ### Will storage need change over time?
-*Specific to computationally demanding projects*![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400)
+![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to data/compute heavy projects*\
 Taking changes in storage needs over time into consideration will help you with budgeting and with reducing expenses for storage space. Often, the storage need of a project will increase with project length. In some projects storage need decreases during the project or be largest in the middle of the project, as there is a need for temporary storage of intermediate results, which do not have to be stored for longer time frames.
 
 Use the 'Explore storage needs' dialogue if you are unsure what applies to your project.
@@ -100,12 +100,12 @@ Storage solution examples (non-exhaustive):
 * Institutionally managed data servers or network drives
 * Institutionally managed 'cold' storage (e.g. tape storage)
 	* Temporarily storing data in 'cold' storage with longer access times can be a recommended solution for your project if you produce very large data volumes or if the project is collecting data over a long time period, but where the data will be analysed later. An issue to consider here is whether data in such a storage are quick and easy to access, or if access needs to be planned in advance.
-* Trusted research environments
+* Trusted research environments (TREs)
 	* [TSD](https://www.uio.no/tjenester/it/forskning/sensitiv/) provided by UiO
 	* [HUNT Cloud](https://about.hdc.ntnu.no/) provided by NTNU
 	* [SAFE](https://www.uib.no/en/foremployees/131011/safe) provided by UiB
 	* See also 
-* National storage infrastructure
+* National storage infrastructures
 	* E.g. [Sigma2 services](https://www.sigma2.no/services-overview) such as NIRD
 * Other cloud storage
 	* E.g. Google Drive, Dropbox
@@ -148,9 +148,7 @@ Here the explanation from [NFDI4Chem](https://www.nfdi4chem.de/3-2-1-rule/) [![L
 > * Two Different Storage Media: It is advisable to back up the data on two different storage media. This could be, for example, a local server and an external hard drive. Using different media minimizes the risk that both copies could be lost simultaneously due to the same event (such as hardware failure). Do not rely on hard drives only!
 > * One Copy at an External Location: Store this third copy at a different physical location to protect it from local disasters such as fires or floods. While cloud storage solutions are often chosen, we recommend central storage, for example, at central IT or library services of the university/institution. Because they take care of the server housing and hosting, and the backups.
 >
-> Example of a Backup Plan
-
-> A research laboratory could secure its data as follows:
+> Example of a Backup Plan - A research laboratory could secure its data as follows:
 > * Primary Copy: Store the original data on the laboratory server with regularly maintaining and backup procedures.
 > * Secondary Copy: Store a second copy on an external hard drive or a NAS (Network Attached Storage) located in another room of the building.
 > * External Copy: Store a third copy in a cloud solution or a central storage.
@@ -169,9 +167,6 @@ In case your project requires storage beyond a basic level supplied by your inst
 
 #### At the end of the project, what will happen with data in this storage solution?
 It is important to consider what will happen with data beyond the project period. This is particularly important when working with large data volumes. If applicable, indicate the termination date for the storage solution.
-
-#### At the end of the project, what will happen with data in this storage solution?
-If the chosen storage solution has access restrictions, describe who will have access and how access rights will be controlled.
 
 #### If applicable: How will access to the storage solution be controlled?
 If the chosen storage solution has access restrictions, describe who will have access and how access rights will be controlled.
