@@ -6,22 +6,22 @@ subitems:
     url: /science_europe
     subitems:
         - title: SE0 - Administrative information
-        url: /0_admin_information
+          url: /0_admin_information
         - title: SE1 - Data description
-        url: /1_data_description
+          url: /1_data_description
         - title: SE2 - Data documentation and quality
-        url: /2_documentation_quality
+          url: /2_documentation_quality
         - title: SE3 - Storage and backup
-        url: /3_storage_backup
+          url: /3_storage_backup
         - title: SE4 - Legal and ethical requirements
-        url: /4_legal_ethics
+          url: /4_legal_ethics
         - title: SE5 - Data sharing and preservation
-        url: /5_sharing_preservation
+          url: /5_sharing_preservation
         - title: SE6 - Responsibilities and resources
-        url: /6_responsibilities_resources
+          url: /6_responsibilities_resources
         - title: SE - Publishing the DMP
-        url: /publish_dmp
-   - title: Conceptual DMP reflections
+          url: /publish_dmp
+  - title: Conceptual DMP reflections
     url: /dmp_reflections
   - title: DMP policy
     url: /dmp_policy
