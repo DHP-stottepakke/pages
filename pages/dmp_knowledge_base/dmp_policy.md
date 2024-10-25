@@ -53,55 +53,54 @@ This page collects selected information about RDM and DMP requirements and polic
 ## Expectations towards institutions in national reports
 * [Forskningsrådet: Hvordan skal vi dele forskningsdata? Utredning og anbefalinger om lisensiering og tilgjengeliggjøring. (2021)](https://www.forskningsradet.no/siteassets/publikasjoner/2021/hvordan-skal-vi-dele-forskningsdata.v2.pdf)
 > Utvalgets anbefalinger til forskningsinstitusjonene: (s. 39)
-> FORSKNINGSINSTITUSJONENE
-> Utvalget anbefaler:
-> [6] at institusjonene tydeliggjør fordelingen av rettigheter til forskningsdata mellom forskeren og institusjonen, særlig med sikte på deling av forskningsdata
-> [7] at institusjonene utarbeider klare og tydelige retningslinjer for om, hvordan, hvor og når forskningsdata skal arkiveres og deles i tråd med nasjonale, regionale (europeiske) og internasjonale retningslinjer
-> [8] at institusjonene sørger for at forskningsstøttefunksjonen har juridisk kompetanse til å legge til rette for lovlig og hensiktsmessig deling, og at det opparbeides relevant kompetanse for aktuelle fagdisipliner
-> [9] at institusjonene utarbeider klare rutiner for innhenting av tilstrekkelige samtykker fra datasubjekter, for eksempel informanter i et forskningsprosjekt, hvor dette er påkrevet
+> FORSKNINGSINSTITUSJONENE. Utvalget anbefaler:\
+> * [6] at institusjonene tydeliggjør fordelingen av rettigheter til forskningsdata mellom forskeren og institusjonen, særlig med sikte på deling av forskningsdata
+> * [7] at institusjonene utarbeider klare og tydelige retningslinjer for om, hvordan, hvor og når forskningsdata skal arkiveres og deles i tråd med nasjonale, regionale (europeiske) og internasjonale retningslinjer
+> * [8] at institusjonene sørger for at forskningsstøttefunksjonen har juridisk kompetanse til å legge til rette for lovlig og hensiktsmessig deling, og at det opparbeides relevant kompetanse for aktuelle fagdisipliner
+> * [9] at institusjonene utarbeider klare rutiner for innhenting av tilstrekkelige samtykker fra datasubjekter, for eksempel informanter i et forskningsprosjekt, hvor dette er påkrevet
 
 * [SIKT: Infrastruktur og tjenester for FAIR forskningsdata – Status og forslag til videre arbeid. Sluttrapport fra utredningsgruppen (2022)](https://www.openscience.no/media/3383/download?inline)
 > Utredningsgruppen anbefaler: (s.34ff)
-> [5] Den enkelte institusjon bør prioritere å skaffe seg enten egen kompetanse eller tilgang til kompetanse for å jobbe med datahåndtering. For større institusjoner anbefales det å bygge opp kompetanse både på generisk nivå og innen de ulike fakulteter/institutter/fagområder. De institusjonene som ikke har mulighet til å ha intern kompetanse anbefales å følge arbeidet i anbefaling. Ansvarlig: Forskningsinstitusjonene
-> [6] Alle forskningsinstitusjoner bør utvikle retningslinjer som legger til rette for at forskningsmiljøene ved institusjonen som hovedregel kan håndtere sine forskningsdata i tråd med FAIR-prinsippene. Ansvarlig: Forskningsinstitusjonene
-> [7] Alle forskningsinstitusjoner bør utvikle retningslinjer som legger til rette for at forskningsmiljøene ved institusjonen som hovedregel kan håndtere sine forskningsdata i tråd med FAIR-prinsippene. Ansvarlig: Forskningsinstitusjonene
-> [9] Det anbefales at institusjonene innarbeider opplæring i FAIR datahåndtering i PhD- og master-utdanningene. God opplæring bør også gis til de som veileder kandidatene. Flere av universitetene har allerede startet dette arbeidet, og det finnes godt materiale å bygge videre på. Ansvarlig: Den enkelte institusjon
-> [14] Forskningsinstitusjonene og nasjonale aktører bør engasjere seg i arbeidet med European Open Science Cloud (EOSC) for å bidra til videre utvikling og implementering. Dette kan være gjennom å melde seg inn i EOSC-stiftelsen, (Forskningsrådet dekker inntil videre kontingenten), å engasjere seg i relevante EOSC-arbeidsgrupper eller å delta i EU-finansiert samarbeid som er relevant for EOSC. Det anbefales også at det etableres et nasjonalt EOSC-forum for relevante og interesserte aktører. Ansvarlig: Forskningsinstitusjonene og nasjonale aktører
-> [15] Forskningsinstitusjonene anbefales å oppfordre egne forskere til å melde seg inn i RDA, legge til rette for at forskere kan delta i aktiviteter i RDA for eksempel når det gjelder
+> * [5] Den enkelte institusjon bør prioritere å skaffe seg enten egen kompetanse eller tilgang til kompetanse for å jobbe med datahåndtering. For større institusjoner anbefales det å bygge opp kompetanse både på generisk nivå og innen de ulike fakulteter/institutter/fagområder. De institusjonene som ikke har mulighet til å ha intern kompetanse anbefales å følge arbeidet i anbefaling. Ansvarlig: Forskningsinstitusjonene
+> * [6] Alle forskningsinstitusjoner bør utvikle retningslinjer som legger til rette for at forskningsmiljøene ved institusjonen som hovedregel kan håndtere sine forskningsdata i tråd med FAIR-prinsippene. Ansvarlig: Forskningsinstitusjonene
+> * [7] Alle forskningsinstitusjoner bør utvikle retningslinjer som legger til rette for at forskningsmiljøene ved institusjonen som hovedregel kan håndtere sine forskningsdata i tråd med FAIR-prinsippene. Ansvarlig: Forskningsinstitusjonene
+> * [9] Det anbefales at institusjonene innarbeider opplæring i FAIR datahåndtering i PhD- og master-utdanningene. God opplæring bør også gis til de som veileder kandidatene. Flere av universitetene har allerede startet dette arbeidet, og det finnes godt materiale å bygge videre på. Ansvarlig: Den enkelte institusjon
+> * [14] Forskningsinstitusjonene og nasjonale aktører bør engasjere seg i arbeidet med European Open Science Cloud (EOSC) for å bidra til videre utvikling og implementering. Dette kan være gjennom å melde seg inn i EOSC-stiftelsen, (Forskningsrådet dekker inntil videre kontingenten), å engasjere seg i relevante EOSC-arbeidsgrupper eller å delta i EU-finansiert samarbeid som er relevant for EOSC. Det anbefales også at det etableres et nasjonalt EOSC-forum for relevante og interesserte aktører. Ansvarlig: Forskningsinstitusjonene og nasjonale aktører
+> * [15] Forskningsinstitusjonene anbefales å oppfordre egne forskere til å melde seg inn i RDA, legge til rette for at forskere kan delta i aktiviteter i RDA for eksempel når det gjelder
 utvikling av metadatastandarder, standardiserte ontologier og kontrollerte vokabularer innen disipliner der dette ikke allerede eksisterer, eller videreutvikling av eksisterende standarder, ontologier og vokabularer. Ansvarlig: Forskningsinstitusjonene
-> [18] Forskningsinstitusjonene bør sikre
+> * [18] Forskningsinstitusjonene bør sikre
 > 	* [18.1] at deres forskere har tilgang til verktøy for datahåndteringsplaner som er i tråd med FAIR-prinsippene
 > 	* [18.2] at deres forskere har tilgang til infrastrukturer for lagring av forskningsdata i den aktive perioden, med god støtte for å berike datasett med FAIR metadata.
 > 	* [18.3] at deres forskere har tilgang til infrastrukturer for arkivering og langtidsbevaring av forskningsdata i henhold til FAIR-prinsippene etter prosjektslutt
 >	* [18.4] at forskere og studenter har tilgang til relevante datahåndteringstjenester også for prosjekter med små datamengder.
 > 	* Ansvarlig: Forskningsinstitusjonene
-> [19] Utredningsgruppen støtter Datalisensutvalgets anbefaling om at det bør settes av midler til å støtte opp om og initiere tiltak for å fremme delingskultur, både gjennom deling av egne og gjenbruk av andres forskningsdata. En mulighet er en ordning med såkornsmidler til å løfte lokale initiativer, slik Nederland har gjort. Ansvarlig: KD, Forskningsrådet, institusjonene
-> [20] Forskningsinstitusjonene oppfordres til å legge til rette for at forskerne opplever det som en integrert del av forskningsarbeidet å gjøre sine data tilgjengelig for gjenbruk og
+> * [19] Utredningsgruppen støtter Datalisensutvalgets anbefaling om at det bør settes av midler til å støtte opp om og initiere tiltak for å fremme delingskultur, både gjennom deling av egne og gjenbruk av andres forskningsdata. En mulighet er en ordning med såkornsmidler til å løfte lokale initiativer, slik Nederland har gjort. Ansvarlig: KD, Forskningsrådet, institusjonene
+> * [20] Forskningsinstitusjonene oppfordres til å legge til rette for at forskerne opplever det som en integrert del av forskningsarbeidet å gjøre sine data tilgjengelig for gjenbruk og
 at slik aktivitet anses som meritterende, for eksempel ved at datadeling etter FAIR-prinsippene kan telle positivt ved vitenskapelige ansettelser, stillingsopprykk og tildeling av forskningstid. Det oppfordres til å følge arbeidet i regi av UHR med implementering av NOR-CAM30. Det samme gjelder karrierevurderinger ved tildelinger av forskningsmidler fra Norges forskningsråd og andre finansiører. Ansvarlig: Forskningsinstitusjonene
-> [22] Utredningsgruppen ønsker å støtte anbefalingen fra Datalisensutvalget om at institusjonene og deres ansatte ikke signerer avtaler som gir kommersielle aktører noen
+> * [22] Utredningsgruppen ønsker å støtte anbefalingen fra Datalisensutvalget om at institusjonene og deres ansatte ikke signerer avtaler som gir kommersielle aktører noen
 form for rettigheter til data. Institusjonene anbefales også å råde sine ansatte til ikke å lagre data i infrastrukturer direkte tilknyttet forlag eller tidsskrift, men isteden lagre data på en infrastruktur der forsker eller institusjon har kontroll over dem, og så henvise hit fra tidsskriftet. Ansvarlig: Institusjonene
-> [23] Institusjonene bør legge til rette for at forskere - dersom dette er definert for deres disiplin - bruke standardiserte ontologier og kontrollerte vokabularer for å berike sine datasett med metadata. RDA har laget en oversikt over relevante standarder innen ulike disipliner. Ansvarlig: Institusjonene
-> [24] Utdanningsinstitusjonene bør stille krav til både studenter og PhD-kandidater om redegjørelser for arkivering av forskningsdata ved innlevering av mastergrader og doktorgradsarbeider. Ansvarlig: Institusjonene
+> * [23] Institusjonene bør legge til rette for at forskere - dersom dette er definert for deres disiplin - bruke standardiserte ontologier og kontrollerte vokabularer for å berike sine datasett med metadata. RDA har laget en oversikt over relevante standarder innen ulike disipliner. Ansvarlig: Institusjonene
+> * [24] Utdanningsinstitusjonene bør stille krav til både studenter og PhD-kandidater om redegjørelser for arkivering av forskningsdata ved innlevering av mastergrader og doktorgradsarbeider. Ansvarlig: Institusjonene
 
 * [Forskningsrådet: Investering i infrastrukturer for FAIR forskningsdata og særlig relevante forvaltningsdata for forskning. Organisering og finansiering av datainfrastruktur for best mulig utnyttelse. Anbefalinger fra datainfrastrukturutvalget (2022)](https://www.forskningsradet.no/siteassets/publikasjoner/2022/rapport-fra-datainfrastrukturutvalget-2022.pdf)
 > Utvalgets anbefalinger om finansiering og organisering av datainfrastrukturer: (s.29ff)
-> [4] Forskningsinstitusjonene har selv ansvar for å tilrettelegge for FAIR deling av data der dette er påkrevet. Dette kan skje gjennom tilpassede institusjonelle tjenester eller tilgang til nasjonale eller internasjonale datainfrastrukturer. Statlige institusjoner har et særlig ansvar på dette området.
+> * [4] Forskningsinstitusjonene har selv ansvar for å tilrettelegge for FAIR deling av data der dette er påkrevet. Dette kan skje gjennom tilpassede institusjonelle tjenester eller tilgang til nasjonale eller internasjonale datainfrastrukturer. Statlige institusjoner har et særlig ansvar på dette området.
 
 
 ## Expectations towards institutions in international documents
 * [European Commission: Opinion paper on EOSC FAIR data literacy (2022)](https://data.europa.eu/doi/10.2777/716842)
 > Recommendations for EOSC implementation on institutional level: (s.6f)
-> [17] [RFOs] Implement machine actionable data management plans in the application forms along with respective guidelines.
+> * [17] [RFOs] Implement machine actionable data management plans in the application forms along with respective guidelines.
 
 * [European Commission: Six Recommendations for implementation of FAIR practice by the FAIR in practice task force of the European open science cloud FAIR working group (2020)](https://data.europa.eu/doi/10.2777/986252)
 > Recommendations for Improving FAIR Practice – Institutions (s.28f)
-> [1] Fund Awareness-raising, training, education and community-specific support
-> [5] Reward and recognise improvements of FAIR practice
-> [6] Develop and monitor adequate policies for FAIR data and research objects
+> * [1] Fund Awareness-raising, training, education and community-specific support
+> * [5] Reward and recognise improvements of FAIR practice
+> * [6] Develop and monitor adequate policies for FAIR data and research objects
 
 * [EOSC declaration (2017)](https://eosc-portal.eu/sites/default/files/eosc_declaration.pdf)
 > Data culture and FAIR data (s.1f)
-> [Data Management Plans] A key element of good data management is a Data Management Plan (DMP); the use of DMPs should become obligatory in all research projects generating or collecting publicly funded research data, based on online tools conforming to common methodologies. Funder and institutional requirements must be aligned and minimum conditions for DMPs must be defined. Researchers' host institutions have a responsibility to oversee and complete the DMPs and hand them over to data repositories.
+> * [Data Management Plans] A key element of good data management is a Data Management Plan (DMP); the use of DMPs should become obligatory in all research projects generating or collecting publicly funded research data, based on online tools conforming to common methodologies. Funder and institutional requirements must be aligned and minimum conditions for DMPs must be defined. Researchers' host institutions have a responsibility to oversee and complete the DMPs and hand them over to data repositories.
 
 
 
