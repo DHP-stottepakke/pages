@@ -134,9 +134,10 @@ Further information:
 Specifying the host institution and possible collaboration partners is important as this defines legal responsibilities and implies which guidelines are to be followed.\
 Read more about [The research-performing organisation(s).](/pages/support_03_legal_ethics#the-research-performing-organisations)
 
-We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambigously identify institutions. In case the organisation is not registered, type the name and click outside of the text box and the string will be saved.
+We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambiguously identify institutions. In case the organisation is not registered, type the name and click outside of the text box and the string will be saved.
 
-Please identify both the host institution (In multi-partner projects: coordinating institution) and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has scientific collaborators or external partners, please indicate any relevant contracts or collaboration agreements for later reference.
+Please identify both the host institution (In multi-partner projects: coordinating institution) and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has scientific collaborators or external partners, please indicate any relevant contracts or collaboration agreements for later reference. If documents to not have an unique identifier, refer e.g. to the document number in the institutional archival system.\
+Formalising collaboration in an agreement/contract is recommended. It can include who has access to and/or controls what data, assign responsibilities to project partners, and define under what license data and other projects results will be published.
 
 We assume that the localization of the host organisation (in multi-partner projects: coordinating organisation) defines the applicable legislation. If this should not apply, make sure to indicate this as a relevant agreement related to the collaboration partner.
 
