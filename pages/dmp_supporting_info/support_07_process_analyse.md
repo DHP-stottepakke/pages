@@ -14,6 +14,8 @@ cessda:
 - name: Process
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process
 rdmkit:
+- name: Processing
+  url: https://rdmkit.elixir-europe.org/processing
 - name: Data analysis
   url: https://rdmkit.elixir-europe.org/data_analysis
 turing:
@@ -58,43 +60,49 @@ If you will use federated computing in you project this should be considered ear
 ### Will the data be converted to other file format(s) before archiving?
 In some cases data has to be converted to different formats late in the project for archiving. It is important to ensure that there is sufficient computing time and software for this task.
 
-Archiving and working with data have different requirements. You want archived data to be in a form that others could open and read, also in a number of years from now. When working with the data, you need to be able to process and analyse efficiently. If the two differ, you need to plan for conversions.
-
-Complicated (binary) file formats tend to change over time, and software may not stay compatible with older versions. Also, some formats (e.g. DOC, XLS) hamper long term usability by making use of patents or being hampered by restrictive licensing. 
+Archiving and working with data have different requirements. You want archived data to be in a **persistent file format** that others can open and read without being dependent on proprietary software, also in a number of years from now. When working actively with the data, you need to be able to process and analyse efficiently and e.g. using software-specific formats can be appropriate. If the two differ, you need to plan for conversions. Complicated (binary) file formats tend to change over time, and software may not stay compatible with older versions. Also, some formats (e.g. DOC, XLS) hamper long term usability by making use of patents or being hampered by restrictive licensing. Be aware that storing data in a persistent format is not only facilitating reuse by others, but also ensures their future internal use (e.g. when loosing access to commercial software).
 
 Ideally a format should be simple, text only, completely described, not restricted by copyrights, and implemented in different software packages.
 
-*Elaborate on persistent file formats*
-*For guidance on preparing for archiving consult the prepare section of the DataverseNO deposit guidelines*
+Resources on file formats and conversions:
+* [CESSDA DMEG: File formats and data conversions](https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process/File-formats-and-data-conversion)
+* [DataverseNO: Prepare your data - Preferred file formats](https://site.uit.no/dataverseno/deposit/prepare/#preferred-file-formats)
 
 
 ### Will data processing or analysis alter metadata or produce additional metadata?
 If your processing and analysis software and workflow engines produce metadata about these steps, it is good practise to consider upfront how this metadata can be captured and archived.
 
-*Give examples*
+Generally speaking, script-based data cleaning & analysis is easier to reproduce than manual steps for analysis of quantitative data. For analysis of qualitative data, code categories should be exclusive, consistent & documented.
+
+Examples of information to be added to metadata (non-exhaustive):
+* Parameters or data coding used during data analysis
+* Using a given version of a reference dataset in data analysis
 
 
-### Will you handle different versions of files and documents?
-Version history and different set of data might be important in your project. This might be especially the case, if you are training AI-models with different datasets. You might want to consider to use [git-annex](https://git-annex.branchable.com/), [git-lfs](https://git-lfs.com/) or more specialized systems for this purpose for larger datasets.
+### Will data processing affect information security?
+In some cases data processing will affect e.g. privacy and such data security. For example, it might not longer be possible to identify individuals from aggregated data. However, in some cases only the processed data, but not the raw data might allow easy access to [sensitive information](/pages/support_03_legal_ethics#will-sensitive-information-apart-from-special-category-personal-data-be-collectedprocessed).
+
+Resources on data anonymisation:
+* [CESSDA DMEG: Anonymisation](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Anonymisation)
+* [Norwegian data protections agency: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/)
+* [Amnesia anonymisation tool by OpenAire](https://amnesia.openaire.eu/)
+
+
+### Will you handle different versions of files or documents?
+Being able to track versions of files or documents helps to understand the history of changes and why something was done in a specific way. Thereby it contributes to making data processing and analysis reproducible. Being able to review and possible restore previous versions is another aspect, particularly in collaborative projects with simultaneous changes. Approaches to version control range from establishing routines e.g. for file naming to using version control systems such as git.
+
+Version history and different set of data might be especially important, if you are training AI-models with different datasets. You might want to consider to use [git-annex](https://git-annex.branchable.com/), [git-lfs](https://git-lfs.com/) or more specialized systems for this purpose for larger datasets.
+
+Resources on version control:
+* [RDMkit: Data organisation - How do you manage file versioning?](https://rdmkit.elixir-europe.org/data_organisation#how-do-you-manage-file-versioning)
+* [The Turing Way: Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)
+* [The Turing Way: Version Control for Data](https://the-turing-way.netlify.app/reproducible-research/vcs/vcs-data.html)
+* [Software Carpentry: Version Control with Git](https://swcarpentry.github.io/git-novice/)
 
 
 ### Will you monitor data integrity once it has been collected?
 It is important to ensure that the data in your project is not corrupted through [transfer problems](https://en.wikipedia.org/wiki/Data_corruption), [data degradation (bitrot)](https://en.wikipedia.org/wiki/Data_degradation), vandalism and manipulation. One common procedure to detect data changes is to calculate checksums (e.g. [SHA256](https://confluence.wipo.int/confluence/display/dascg/e.5.-+Generate+File+Checksum+for+uploading+to+DAS)) that can be stored and compare after transfers and time.
 Another procedure might be to repeat measurements on the same samples/objects.
-
-
-### Will data processing affect information security?
-In some cases data processing will affect e.g. privacy and such data security. For example, it might not longer be possible to identify individuals from aggregated data. However, in some cases only the processed data, but not the raw data might allow easy access to [sensitive information](pages/support_03_legal_ethics#will-sensitive-information-apart-from-special-category-personal-data-be-collectedprocessed).
-
-*Refer to anonymization guide, tools*
-
-
-### Will you handle different versions of files or documents?
-*Keeping track, not necessarily git*
-
-
-### Will you monitor data integrity once it has been collected?
-*Part of data quality*
 
 Further reading:
 * [RDMkit: Data quality](https://rdmkit.elixir-europe.org/data_quality.html)
