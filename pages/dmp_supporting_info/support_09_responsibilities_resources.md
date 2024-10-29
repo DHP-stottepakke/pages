@@ -48,16 +48,20 @@ In the context of research data management this could include:
 * Legal advisors
 
 ### To execute the project, are arrangements needed to access facilities or equipment?
-Necessary arrangements to access facilities or equipment may include training project members, arranging facility access, or executing security clearance. Consider that these processes can be time-consuming, and therfore should be planned for. 
+Necessary arrangements to access facilities or equipment may include training project members, arranging facility access, or executing security clearance. Consider that these processes can be time-consuming, and therefore should be planned for.
+
+Contributors and their roles should be specified in the chapter 'About the Data Management Plan'. In educational settings, the supervisor(s) should be specified as they have formal responsibility for data management.
 
 ### Will you require hardware or software in addition to what is usually available in the institute?
-Please specify.
+Please specify whether access needs to be arranged or equipment or software needs to be purchased in order to enable the project.
 
 ### Will there be software license costs or other recurring fees to work with data or documents?
 Please specify whether you are using any commercially licensed products to keep data, software or documents available, for which a regular fee must be paid.
 
+Make sure required commercially licensed products will be kept running by the department or institute. It is advisable to also have a plan for ensuring data access when a service is discontinued, e.g. by having data copies in a non-proprietary format.
+
 ### Will data storage in the active phase of the project be associated with costs?
-Please specify whether data storage will come with a cost in the active phase. 
+Please specify whether data storage will come with a cost in the active phase.
 
 ### Will data preservation and archiving be associated with costs?
 Please specify whether data preservation and archiving beyond the project phase will be associated with costs. This may include fees for data curation.

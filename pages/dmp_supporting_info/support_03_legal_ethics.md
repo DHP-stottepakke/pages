@@ -216,6 +216,7 @@ Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/suppo
 
 
 ### Does the project require ethical pre-approval?
+![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to projects with ethical/legal considerations*\
 If the project involves health research, use of human biological material, testing on animals or similar, a pre-approval is likely needed to execute the project. The approval case numbers should be referred to in the DMP.
 
 NB! Registrations of the legal basis of procesing personal data are not the same as a research ethics assessment and should therefore not be included here, but addressed in the next question.
@@ -224,6 +225,7 @@ Read more about [Ethical approvals.](/pages//support_03_legal_ethics#ethical-app
 
 
 ### Will any data connected to a person ("personal data") be collected/processed?
+![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to projects with ethical/legal considerations*\
 <code> If personal data are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
 Personal data is any information that can be linked to living person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: Personopplysningsloven), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. The principle of data minimisation should be followed and the collection of personal information should be limited to what is directly relevant and necessary to accomplish a specified purpose.
@@ -306,6 +308,7 @@ Further information:
 
 
 ### Will sensitive information (apart from special category personal data) be collected/processed?
+![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to projects with ethical/legal considerations*\
 <code> If sensitive data (apart from special category personal data) are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
 The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary". There can be many reasons why data must be protected. Read more about [Sensitive data and legal backgrounds for handling data as sensitive.](/pages/support_03_legal_ethics#sensitive-data)

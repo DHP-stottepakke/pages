@@ -51,7 +51,7 @@ Shared workspace examples (non-exhaustive):
 
 
 ### Do you need to plan compute solutions and capacity?
-![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to data/compute heavy projects*\
+![Static Badge](https://img.shields.io/badge/DSW-HPC-%23CED4DA) *Specific to data/compute heavy projects*\
 If you require a large amount of CPU hours, I/O bandwidth or memory it is best to try estimating this in advance and to choose a computing infrastructure upfront. The infrastructure might have restrictions, require application and/or payment, and might only be able to run certain software or workflow systems.
 
 If you will use federated computing in you project this should be considered early on.

@@ -70,7 +70,7 @@ In case you are planning computationally demanding data analysis, see also the c
 
 
 ### Will storage need change over time?
-![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to data/compute heavy projects*\
+![Static Badge](https://img.shields.io/badge/DSW-HPC-%23CED4DA) *Specific to data/compute heavy projects*\
 Taking changes in storage needs over time into consideration will help you with budgeting and with reducing expenses for storage space. Often, the storage need of a project will increase with project length. In some projects storage need decreases during the project or becomes largest in the middle of the project, as there is a need to temporarily store intermediate results, which do not have to be stored long-term.
 
 Use the 'Explore storage needs' dialogue if you are unsure what applies to your project.
@@ -139,10 +139,11 @@ Indicate which data structure best describes the respective storage solution.
 	* Some applications may have their own data structure that can only be accessed through the application. Examples: some Electronic Lab Notebook (ELN) or Electronic Data Capture (EDC) applications
 
 #### Backups
-If you use institutional solutions, the institution commonly provides backup and snapshotting functionality, that allow you to restore data. Applicable information should be provided by your IT department. It is good to be aware of the backup routines and frequency, and possible limitations of these before the need to recover data appears in your project.
+If you use institutional solutions, the institution commonly provides backup and snapshotting functionality, that allow you to restore data. Information should be provided by your IT department. It is good to be aware of the backup routines and frequency, and possible limitations of these before the need to recover data appears in your project.
 
 If you use other solutions you should check the backup routines of theses solutions, or you may have to implement your own routines.
-If you are not relying on managed storage, an often suggested backup rule is 3-2-1.
+
+Relying on manual backup is not recommended but may be unavoidable in certain situations, for example during field work. If you are not relying on managed storage, an often suggested backup rule is 3-2-1.
 
 Here the explanation from [NFDI4Chem](https://www.nfdi4chem.de/3-2-1-rule/) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 > The 3-2-1 Backup Rule in Detail

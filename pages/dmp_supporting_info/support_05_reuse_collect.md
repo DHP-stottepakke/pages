@@ -101,12 +101,22 @@ Further reading:
 
 
 ### The project will capture data using measurement equipment
-If relevant for your project: Describe how data will be collected by using masurement equipment or laboratory instruments, how experimental parameters or other relevant information are documented, and how data quality will be ensured.
+If relevant for your project: Describe how data will be collected by using measurement equipment or laboratory instruments, how experimental parameters or other relevant information are documented, and how data quality will be ensured.
 
 Further reading:
 * [RDMkit: Data provenance](https://rdmkit.elixir-europe.org/data_provenance)
 * [Turing way: Electronic Lab Notebooks](https://book.the-turing-way.org/reproducible-research/rdm/rdm-elns)
 * [Turing way: Data Organisation in Spreadsheets](https://book.the-turing-way.org/reproducible-research/rdm/rdm-spreadsheets)
+
+#### How will you be keeping track of the "provenance" of the data?
+To make data understandable and reproducible, it is crucial that the data origin and relevant parameters as well as all processing and filtering steps are documented. Re-users of the data also need this information to decide whether the data can be used for their purpose.
+
+If lab traditional notebooks are used, make sure to make the notes available in electronic form along with your data.
+
+#### List data that you will acquire using measurement equipment
+The description of the acquired data also includes information about the instrumentation used, as this is a critical part of metadata and data documentation.
+
+If measurements are not carried out by project members, make sure that formal ownership of the data has been established, including who will take responsibility for data publication. Include information about relevant contracts in the chapter 'Legal and ethical aspects'.
 
 
 ### The project will collect physical samples
