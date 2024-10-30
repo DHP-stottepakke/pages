@@ -43,15 +43,17 @@ turing:
 ## About this chapter
 National legislation, institutional guidelines and international norms have implications for the handling of research data. Often there is a need to balance availability and openness with confidentially. Both researchers and research institutions are legally responsible for complying with legal and ethical requirements.
 
-### The research-performing organisation(s)
+## About this chapter
+National legislation, institutional guidelines and international norms have implications for the handling of research data. Often there is a need to balance availability and openness with confidentially. Both researchers and research institutions are legally responsible for complying with legal and ethical requirements.
+
+### The research-performing institution(s)
 The research institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed. In all research collaborations, it is important to define responsibilities and document them in agreements or contracts.
 
-Research organisations commonly have policies or guidelines for data management, sometimes as part of Open Science guidelines. There may also be specific routines or processes to be followed. Identifying such policies, guidelines, or processes will help you recognize research data management requirements and routines to be aware of.
+Research institution commonly have policies or guidelines for data management, sometimes as part of Open Science guidelines. There may also be specific routines or processes to be followed. Identifying such policies, guidelines, or processes will help you recognize research data management requirements and routines to be aware of.
 
-According to the [Act relating to the processing of personal data (The Personal Data Act, Norwegian: Personvernloven)](https://lovdata.no/dokument/NLE/lov/2018-06-15-38) the the host organisation usually is the data controller. If responsibility is to be shared between organisations, this must be contractually specified. 
+According to the [Act relating to the processing of personal data (The Personal Data Act, Norwegian: Personvernloven)](https://lovdata.no/dokument/NLE/lov/2018-06-15-38) the the host institution usually is the data controller. If responsibility is to be shared between institution, this must be contractually specified. 
 
-In projects that are regulated by [the Health Research Act (Norwegian: Helseforskningsloven)](https://lovdata.no/dokument/NL/lov/2008-06-20-44), the host organisation acts as [research-responsible entity (Norwegian: Forskningsansvarlig)](https://www.forskningsetikk.no/ressurser/fbib/lover-retningslinjer/forskningsansvarlig-ihht-helseforskningsloven/ "2024-07-17").
-
+In projects that are regulated by [the Health Research Act (Norwegian: Helseforskningsloven)](https://lovdata.no/dokument/NL/lov/2008-06-20-44), the host institution acts as [research-responsible entity (Norwegian: Forskningsansvarlig)](https://www.forskningsetikk.no/ressurser/fbib/lover-retningslinjer/forskningsansvarlig-ihht-helseforskningsloven/ "2024-07-17").
 
 ### Research Ethical Guidelines and Codes of conduct
 Ethical considerations may affect how data will be handled and shared, therefore knowledge of generic and subject-specific research ethical guidelines and codes of conduct is important. The [Act on Ethics and Integrity in Research (Norwegian: Forsknigsetikkloven)](https://lovdata.no/dokument/NL/lov/2017-04-28-23) defines responsibilities of both research institutions and individual researchers. Furthermore, it defines an advisory role of National Research Ethics Committees that provide research area-specific guidance. Health research is handled by Regional Ethics Committees.
@@ -69,7 +71,6 @@ Further information:
 * [Ethical aspects (RDMkit): Which aspects of RDM might raise ethical issues?](https://rdmkit.elixir-europe.org/ethics#which-aspects-of-rdm-might-raise-ethical-issues)
 * [Protect (CESSDA DMEG): Ethics and data protection](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Ethics-and-data-protection "2024-07-17")
 
-
 ### Ethical approvals
 For certain projects, an ethical pre-approval is needed to execute the project. The approval case numbers should be referred to in the DMP. It is the responsibility of the Researcher to make sure that the project and associated data is in agreement with current legislation and research ethical norms.
 
@@ -82,10 +83,9 @@ Research projects conducting animal experiments must seek pre-approval from the 
 * [FOTS (Forsøksdyrforvaltningens tilsyns- og søknadssystem) application portal](https://asp.gitek.no/fdu/pmws.dll/Login "2024-07-17")
 * [Animal use for scientific purposes *Norwegian only*](https://www.forsoksdyrkomiteen.no/ressurser/)
 
-While more common in other countries, in Norway institutional ethical committees currently only have been established at selected organisations and faculties. For most domains the researchers will make an ethical assessment of the research project with reference to relevant guidelines and regulations. As part of this assessment, it is necessary to consider the potential harm and risk that may arise from the research. Here consequences of sharing research data should be considered according to the principle of as open as possible as closed as necessary. For international cooperations it is advisable to consider research ethics issues before entering collaborations as perceptions and legislation may differ between countries.
+While more common in other countries, in Norway institutional ethical committees currently only have been established at selected institution and faculties. For most domains the researchers will make an ethical assessment of the research project with reference to relevant guidelines and regulations. As part of this assessment, it is necessary to consider the potential harm and risk that may arise from the research. Here consequences of sharing research data should be considered according to the principle of as open as possible as closed as necessary. For international cooperations it is advisable to consider research ethics issues before entering collaborations as perceptions and legislation may differ between countries.
 
 Contact research advisors or [research support staff](/pages/support_00_local_disc) about local routines.
-
 
 ### Personal data and data privacy
 As processing of personal data is followed by data management requirements, being specific about personal data is part of the DMP. It is the responsibility of the researcher to make sure that data processing is in agreement with the national legislation and institutional policies and routines. If personal data is to be FAIR, and available for future research or shared openly, considerations on how this can be done must be made prior to data collection.
@@ -129,18 +129,17 @@ Reasons for sensitivity (non-exhaustive):
 Further information:
 * [Report How should we share research data? (2021)](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf) 
 
-
 ## Question-specific guidance
 
-### Involved organisation(s)
+### Involved institution(s)
 Specifying the host institution and possible collaboration partners is important as this defines legal responsibilities and implies which guidelines are to be followed.\
-Read more about [The research-performing organisation(s).](/pages/support_03_legal_ethics#the-research-performing-organisations)
+Read more about [The research-performing institution(s).](/pages/support_03_legal_ethics#the-research-performing-institution)
 
-We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambigously identify institutions. In cases where the organisation is not registered, type the name and click outside of the text box and the string will be saved.
+We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambigously identify institutions. In cases where the institution is not registered, type the name and click outside of the text box and the string will be saved.
 
 Please identify both the host institution (In multi-partner projects: coordinating institution), and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has scientific collaborators or external partners, please indicate any relevant contracts or collaboration agreements for later reference. 
 
-We assume that the localization of the host organisation (in multi-partner projects: coordinating organisation) defines the applicable legislation. If this should not apply, make sure to indicate this as a relevant agreement related to the collaboration partner.
+We assume that the localization of the host institution (in multi-partner projects: coordinating institution) defines the applicable legislation. If this should not apply, make sure to indicate this as a relevant agreement related to the collaboration partner.
 
 For help with contract-related questions contact legal advisors at your institution:
 * [NTNU: Kontraksmaler og signeringsfullmakt *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Kontraktsmaler+og+signeringsfullmakt "2024-09-04")
@@ -150,7 +149,6 @@ For help with contract-related questions contact legal advisors at your institut
 
 Further information:
 * [The Research Council of Norway: Collaboration agreements](https://www.forskningsradet.no/en/financing/received-funding/collaboration-agreements/)
-
 
 ### Indicate relevant policies and guidelines for research data management or Open Science
 Specifying relevant guidelines, policies or processes will help you recognize research data management requirements and routines to be aware of.
@@ -169,7 +167,6 @@ You can select from the following list of common policies and guidelines:
 Further information:
 * [RDM resources in Norway (RDMkit): Institutional  policies on research data](https://rdmkit.elixir-europe.org/no_resources#institutional-policies-on-research-data)
 * [RDM resources in Norway (RDMkit): Funder policies on research data](https://rdmkit.elixir-europe.org/no_resources#funder-policies-on-research-data)
-
 
 ### Indicate applicable general research ethical guidelines
 All researches are to follow general research ethical guidelines and ethical considerations may affect how data will be handled and shared.
@@ -193,7 +190,6 @@ You can select from the following list of general research ethical guidelines, b
 
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
 
-
 ### Are additional ethical guidelines or codes of conduct relevant?
 Ethical considerations may affect how data will be handled and shared. Investigating if there is subject-specific research ethical guidelines and codes of conduct is therefore important.
 
@@ -209,13 +205,11 @@ Please indicate any additional ethical guidelines or codes of conducts relevant 
 * [Guidelines for the use of genetic studies of humans *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/med-helse/retningslinjer-for-bruk-av-genetiske-undersokelser-av-mennesker-i-medisinsk-og-helsefaglig-forskning/)
 * [Ethical guidelines for clinical trial of drugs *Norwegian only*](https://www.forskningsetikk.no/ressurser/publikasjoner/kliniske-utprovinger-av-legemidler/)
 
-
 Further information:
 * [Ethical aspects (RDMkit): How can I identify regulations, guidelines and laws connected to ethics in my research context?](https://rdmkit.elixir-europe.org/ethics#how-can-i-identify-regulations-guidelines-and-laws-connected-to-ethics-in-my-research-context)
 * [RDM resources in Norway (RDMkit): Relevant ethical guidelines](https://rdmkit.elixir-europe.org/no_resources#relevant-ethical-guidelines)
 
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
-
 
 ### Does the project require ethical pre-approval?
 If the project involves health research, use of human biological material, testing on animals or similar, a pre-approval is likely needed to execute the project. The approval case numbers should be referred to in the DMP.
@@ -231,17 +225,14 @@ Personal data is any information that can be linked to living person. This inclu
 
 Read more about [Personal data and data privacy.](/pages/support_03_legal_ethics#personal-data-and-data-privacy)
 
-
 Institutional privacy policies:
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy)
 * [University of Bergen (UiB)](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen)
 * [University of Oslo (UiO)](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html)
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_742141)
 
-
-
 #### Which institutional privacy routines apply?
-Privacy routines at research organisations may differ from each other, it is therefore important to make yourself familiar with the applicable policies and guidelines at your institution.
+Privacy routines at research institutions may differ from each other, it is therefore important to make yourself familiar with the applicable policies and guidelines at your institution.
 
 * Norwegian University of Science and Technology (NTNU)
 	* [Collection of personal data for research projects at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2024-07-16")
@@ -261,15 +252,14 @@ Privacy routines at research organisations may differ from each other, it is the
 
 #### Personal privacy considerations
 
-The routines regarding processing of personal data differ between institutions.  It is the researchers responsibility to make yourself familiar with the requirements at your organisation, if not listet in the prvious question, look for simiar gudiance from your organisation. 
+The routines regarding processing of personal data differ between institutions.  It is the researchers responsibility to make yourself familiar with the requirements at your institution, if not listet in the prvious question, look for simiar gudiance from your institution. 
 
 Processing of personal data affect choice of storage, and how open data can be archived or made available to others, these considerations are part of data management planning. If the data are to be used for future research this must be taken into account when legal basis for data processing is selected. Explicit information about archiving and future use should also go into the information to participants.
 
-In this question you refer to the privacy assessment(s) conducted by selecting "GDPR considerations are registered in other system" and adding a reference number to the assessment. If you are not required by your organisation to describe the compliance with personal data act in a separate system, you should choose "GDPR considerations step-by-step".
+In this question you refer to the privacy assessment(s) conducted by selecting "GDPR considerations are registered in other system" and adding a reference number to the assessment. If you are not required by your institution to describe the compliance with personal data act in a separate system, you should choose "GDPR considerations step-by-step".
 
 ##### Personal privacy considerations are registered in other system
-If you already described the processing of personal data in detail in other systems, you can refer to these registration(s). Specify the system where the respective registration system and identifier of the project registration. Questions regarding lawful processing of personal data and routines at your organisation should be directed to the respective Data Protection Officer (DPO, Norwegian: Personvernombud).
-
+If you already described the processing of personal data in detail in other systems, you can refer to these registration(s). Specify the system where the respective registration system and identifier of the project registration. Questions regarding lawful processing of personal data and routines at your institution should be directed to the respective Data Protection Officer (DPO, Norwegian: Personvernombud).
 
 * [Sikt notification form for personal data ('Sikt Meldeskjema')](https://sikt.no/en/notification-form-personal-data)
 * Other routines for privacy assessment:
@@ -277,12 +267,10 @@ If you already described the processing of personal data in detail in other syst
 	* [NTNU guidance for Data Protection Impact Assessment (DPIA)](https://i.ntnu.no/wiki/-/wiki/English/Data+protection+impact+assessment "2024-10-30")
 	* [UiO Quality assurance system for health and medical research](https://www.uio.no/english/for-employees/support/research/quality-system-for-health-research/index.html "2024-10-30")
 
-
 ##### Personal privacy considerations step-by-step
 These questions will guide you through relevant considerations concerning collecting/processing personal data in accordance with GDPR. 
 
-Be aware that you may have to register processing of personal data in additional systems as required by your organisation, you do not need to duplicate this process if you have already gone trough this.
-
+Be aware that you may have to register processing of personal data in additional systems as required by your institution, you do not need to duplicate this process if you have already gone trough this.
 
 #### How will you document participants information and/or consent?
 
@@ -319,7 +307,6 @@ Further information:
 * [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
 * [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 
-
 ### Will sensitive information (other than special category personal data) be collected/processed?
 <code> If sensitive data (other than special category personal data) are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
@@ -334,7 +321,6 @@ Reasons for sensitivity (non-exhaustive) and relevant resources:
 * Research on endagered species
 * Research on protected cultural heritage
 * Indigenous Data Governance
-
 
 Resources on export control:
 * [Norwegian Directorate for Higher Education and Skills: Export control of knowledge transfer and international sanctions](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation/export-control-of-knowledge-transfer-and-international-sanctions "2024-10-03")
