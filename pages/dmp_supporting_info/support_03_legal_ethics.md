@@ -43,9 +43,6 @@ turing:
 ## About this chapter
 National legislation, institutional guidelines and international norms have implications for the handling of research data. Often there is a need to balance availability and openness with confidentially. Both researchers and research institutions are legally responsible for complying with legal and ethical requirements.
 
-## About this chapter
-National legislation, institutional guidelines and international norms have implications for the handling of research data. Often there is a need to balance availability and openness with confidentially. Both researchers and research institutions are legally responsible for complying with legal and ethical requirements.
-
 ### The research-performing institution(s)
 The research institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed. In all research collaborations, it is important to define responsibilities and document them in agreements or contracts.
 
