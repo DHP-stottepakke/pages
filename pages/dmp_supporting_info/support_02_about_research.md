@@ -41,7 +41,7 @@ A project description/abstract can be provided in two ways: By linking to existi
 ### Did you or do you plan to apply for external project funding?
 You should list all funding that enables the project or that you applied for.
 
-Add funder by clicking the +Add button. Start typing the funder name (in English or Norwegian) in the text box to see a list of suggestions based on the Research Organization Registry (ROR). Funder names should be added from the Research Organization Registry (ROR) when possible. In case the funder is not found in the Research Organization Registry (ROR), type the full name and click outside the text box, and the string will be saved.
+Add funder by clicking the +Add button. Start typing the funder name (in English or Norwegian) in the text box to see a list of suggestions based on the Crossref funder registry. In case the funder is not found in the Crossref funder registry, type the full name and click outside the text box, and the string will be saved.
 
 #### Funding status
 Select the funding status appropriate for the current time (Planned, Applied, Granted or Rejected) and update the information when status changes. 

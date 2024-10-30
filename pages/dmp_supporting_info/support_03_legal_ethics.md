@@ -132,9 +132,10 @@ Further information:
 Specifying the host institution and possible collaboration partners is important as this defines legal responsibilities and implies which guidelines are to be followed.\
 Read more about [The research-performing institution(s).](/pages/support_03_legal_ethics#the-research-performing-institution)
 
-We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambigously identify institutions. In cases where the institution is not registered, type the name and click outside of the text box and the string will be saved.
+The questionnaire is integrated with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambiguously identify institutions. In case the organisation is not registered, type the name and click outside of the text box and the string will be saved.
 
-Please identify both the host institution (In multi-partner projects: coordinating institution), and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has scientific collaborators or external partners, please indicate any relevant contracts or collaboration agreements for later reference. 
+Please identify both the host institution (In multi-partner projects: coordinating institution) and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has scientific collaborators or external partners, please indicate any relevant contracts or collaboration agreements for later reference. If documents to not have an unique identifier, refer e.g. to the document number in the institutional archival system.\
+Formalising collaboration in an agreement/contract is recommended. It can include who has access to and/or controls what data, assign responsibilities to project partners, and define under what license data and other projects results will be published.
 
 We assume that the localization of the host institution (in multi-partner projects: coordinating institution) defines the applicable legislation. If this should not apply, make sure to indicate this as a relevant agreement related to the collaboration partner.
 
@@ -209,14 +210,17 @@ Further information:
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
 
 ### Does the project require ethical pre-approval?
+![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to projects with ethical/legal considerations*\
 If the project involves health research, use of human biological material, testing on animals or similar, a pre-approval is likely needed to execute the project. The approval case numbers should be referred to in the DMP.
 
 NB! Registrations of the legal basis of procesing personal data are not the same as a research ethics assessment. This should therefore not be included here, but addressed in the next question.
 
 Read more about [Ethical approvals.](/pages//support_03_legal_ethics#ethical-approvals)
 
-### Will any data connected to a person (personal data) be collected/processed?
-<code> If personal data are used (collected/processed) in the research project, make sure to classify information security accordingly, and select appropriate storage and backup solutions.</code>
+
+### Will any data connected to a person ("personal data") be collected/processed?
+![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to projects with ethical/legal considerations*\
+<code> If personal data are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
 Personal data is any information that can be linked to living person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: Personopplysningsloven), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. The principle of data minimisation should be followed and the collection of personal information should be limited to what is directly relevant and necessary to accomplish a specified purpose.
 
@@ -304,8 +308,10 @@ Further information:
 * [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
 * [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 
-### Will sensitive information (other than special category personal data) be collected/processed?
-<code> If sensitive data (other than special category personal data) are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
+
+### Will sensitive information (apart from special category personal data) be collected/processed?
+![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to projects with ethical/legal considerations*\
+<code> If sensitive data (apart from special category personal data) are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
 The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary". There can be many reasons why data must be protected. Read more about [Sensitive data and legal backgrounds for handling data as sensitive.](/pages/support_03_legal_ethics#sensitive-data)
 
