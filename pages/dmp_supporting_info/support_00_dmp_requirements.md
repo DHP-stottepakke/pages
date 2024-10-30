@@ -55,7 +55,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 > * Research data should be made accessible at an early stage
 > * Research data must be accompanied by standardised metadata
 > * Research data provided with a license for access, reuse, and redistribution
-> * Research data should be made accessible at the lowest possible cost <!-- I suggest leaving this out (not clear if 'charge' here is ment for archiving/publishing data, or for the access): [preferable at no charge] -->
+> * Research data should be made accessible at the lowest possible cost
 > * The management of research data must be described in a data management plan
 
 * [The Research Council of Norway. (2020). Policy for Open Science]
