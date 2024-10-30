@@ -101,6 +101,8 @@ The principle of data minimization entails limiting the amount of personal data 
 * [The Norwegian Data Protection Authority (Datatilsynet) on the Personal Data Act *Norwegian only*](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/om-personopplysningsloven-og-nar-den-gjelder/ "2024-07-17")
 * [National Research Ethics Comittees: Q&A: New legislation on personal data - what does it mean for research? *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
 
+If data are completely anonymous, they will not considered personal data, i.e. data collected anonymously and not linked to a directly or indirectly person at any stage of the research process. As long as a link exist or can be re-created the data are de-identified or pseudonymised and considered personal data. If data is anonymized during the course of the research project, the project is processing  personal data.
+
 It is a common misunderstanding that research ethics and privacy protection is the same thing, yet it is important to remember that complying with privacy legislation and conducting research ethical considerations are independent processes. Read more about the distinction between data protection and privacy by [National Research Ethics Committees: The Personal Data Act - Research ethics - far more than privacy](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/legal-statutes-and-guidelines/the-personal-data-act/ "2024-07-17")
 
 ### Sensitive data
