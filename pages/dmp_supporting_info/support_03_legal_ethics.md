@@ -183,7 +183,7 @@ You can select from the following list of general research ethical guidelines, b
 * [f. Guidelines by The Norwegian National Research Ethics Committee for medical and health research (NEM)](https://www.forskningsetikk.no/en/guidelines/medical-and-health-research/guidelines-by-nem/ "2024-07-17")
 * [g. Guidelines for Ethical Research on Human Remains by The Human Remains Committee](https://www.forskningsetikk.no/en/guidelines/human-remains/guidelines-for-research-ethics-on-human-remains/ "2024-07-17")
 * [h. Convention on Human Rights and Biomedicine (Oviedo Convention)](https://www.coe.int/en/web/bioethics/oviedo-convention "2024-07-19")
-* [e. Ethical Guidelines for the Use of Animals in Research](https://www.forskningsetikk.no/en/guidelines/science-and-technology/ethical-guidelines-for-the-use-of-animals-in-research/ "2024-07-17")
+* [i. Ethical Guidelines for the Use of Animals in Research](https://www.forskningsetikk.no/en/guidelines/science-and-technology/ethical-guidelines-for-the-use-of-animals-in-research/ "2024-07-17")
 
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
 
