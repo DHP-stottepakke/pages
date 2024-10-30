@@ -52,7 +52,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 > The Research Council’s guidelines in seven headlines:
 > * Research data must be stored/archived in a safe and secure manner
 > * Research data must be made accessible for reuse
-> * Research data should be made accessible at an early stage <!-- I suggest leaving this out: [at latest when article is published (if data yields article(s))] -->
+> * Research data should be made accessible at an early stage
 > * Research data must be accompanied by standardised metadata
 > * Research data provided with a license for access, reuse, and redistribution
 > * Research data should be made accessible at the lowest possible cost <!-- I suggest leaving this out (not clear if 'charge' here is ment for archiving/publishing data, or for the access): [preferable at no charge] -->
