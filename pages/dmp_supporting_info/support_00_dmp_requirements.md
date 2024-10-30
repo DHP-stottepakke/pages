@@ -37,7 +37,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 ## Funder policies and guidelines
 
 ### The Research Council of Norway
-* [From 2023, Open Science is assessed in grant applications](https://www.forskningsradet.no/en/financing/application-process/assessment-open-science/ "2024-09-09")
+* [From 2023, Open Science is assessed in grant applications. While a DMP is usually written at a later stage, making oneself familiar with the assessment criteria is recommended.](https://www.forskningsradet.no/en/financing/application-process/assessment-open-science/ "2024-09-09")
 
 * [The Research Council of Norway: Sharing research data (webpage)](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/ "2024-10-25")
 > * Requirements for data management plan in projects that manage data - excerpts from the linked to webpage:
