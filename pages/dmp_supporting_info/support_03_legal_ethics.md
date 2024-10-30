@@ -249,7 +249,7 @@ Privacy routines at research institutions may differ from each other, it is ther
 
 #### Personal privacy considerations
 
-The routines regarding processing of personal data differ between institutions.  It is the researchers responsibility to make yourself familiar with the requirements at your institution, if not listet in the prvious question, look for simiar gudiance from your institution. 
+The routines regarding processing of personal data differ between institutions.  It is the researchers responsibility to make oneself familiar with the requirements at their institution. If not listed in the previous question, look for similar guidance from your institution. 
 
 Processing of personal data affect choice of storage, and how open data can be archived or made available to others, these considerations are part of data management planning. If the data are to be used for future research this must be taken into account when legal basis for data processing is selected. Explicit information about archiving and future use should also go into the information to participants.
 
