@@ -134,9 +134,9 @@ Further information:
 Specifying the host institution and possible collaboration partners is important as this defines legal responsibilities and implies which guidelines are to be followed.\
 Read more about [The research-performing organisation(s).](/pages/support_03_legal_ethics#the-research-performing-organisations)
 
-We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambigously identify institutions. In case the organisation is not registered, type the name and click outside of the text box and the string will be saved.
+We use an integration with the [Research Organization Registry (ROR)](https://ror.org/search "2024-07-16") to unambigously identify institutions. In cases where the organisation is not registered, type the name and click outside of the text box and the string will be saved.
 
-Please identify both the host institution (In multi-partner projects: coordinating institution) and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has scientific collaborators or external partners, please indicate any relevant contracts or collaboration agreements for later reference.
+Please identify both the host institution (In multi-partner projects: coordinating institution), and possible collaboration partners or external parties/subcontractors contributing to the project. If your project has scientific collaborators or external partners, please indicate any relevant contracts or collaboration agreements for later reference. 
 
 We assume that the localization of the host organisation (in multi-partner projects: coordinating organisation) defines the applicable legislation. If this should not apply, make sure to indicate this as a relevant agreement related to the collaboration partner.
 
@@ -153,7 +153,7 @@ Further information:
 ### Indicate relevant policies and guidelines for research data management or Open Science
 Specifying relevant guidelines, policies or processes will help you recognize research data management requirements and routines to be aware of.
 
-Identify relevant policies, guidelines or processes applicable to your project. In addition to selecting from a list of common policies, you can manually add (additional) references. Investigate for example whether your research unit has defined own guidelines.
+Identify relevant policies, guidelines or processes applicable to your project. If your research unit has defined own guidelines, these should be consulted and referred to here. In addition to selecting from a list of common policies, you can manually add additional data management policies or guidelines to be followed.
 
 You can select from the following list of common policies and guidelines:
 * Institution: [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
@@ -179,15 +179,15 @@ Institutional resources on research ethics:
 * [UiT Research Ethics](https://en.uit.no/research/ethics)
 
 You can select from the following list of general research ethical guidelines, based on resources provided by the National Research Ethics Committees:
-* [The European Code of Conduct for Research Integrity](https://allea.org/code-of-conduct/ "2024-07-17")
-* [Ethical Principles for Medical Research Involving Human Subjects (Declaration of Helsinki)](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/ "2024-07-17")
-* [Convention on Human Rights and Biomedicine (Oviedo Convention)](https://www.coe.int/en/web/bioethics/oviedo-convention "2024-07-19")
-* [National Research Ethics Committees (FEK) - General guidelines](https://www.forskningsetikk.no/en/guidelines/general-guidelines/ "2024-07-17")
-* [Guidelines by The Norwegian National Research Ethics Committee for medical and health research (NEM)](https://www.forskningsetikk.no/en/guidelines/medical-and-health-research/guidelines-by-nem/ "2024-07-17")
-* [Guidelines for Research Ethics in the Social Sciences and the Humanities by the National Committee for Research Ethics in the Social Sciences and the Humanities (NESH)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/guidelines-nesh/guidelines-for-research-ethics-in-the-social-sciences-humanities-law-and-theology2/ "2024-07-17")
-* [Guidelines for Research Ethics in Science and Technology by The Norwegian National Committee for Research Ethics in Science and Technology (NENT)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nent/guidelines-nent/guidelines-for-research-ethics-in-science-and-technology/ "2024-07-17")
-* [Guidelines for Ethical Research on Human Remains by The Human Remains Committee](https://www.forskningsetikk.no/en/guidelines/human-remains/guidelines-for-research-ethics-on-human-remains/ "2024-07-17")
-* [Ethical Guidelines for the Use of Animals in Research](https://www.forskningsetikk.no/en/guidelines/science-and-technology/ethical-guidelines-for-the-use-of-animals-in-research/ "2024-07-17")
+* [a. The European Code of Conduct for Research Integrity](https://allea.org/code-of-conduct/ "2024-07-17")
+* [b. National Research Ethics Committees (FEK) - General guidelines](https://www.forskningsetikk.no/en/guidelines/general-guidelines/ "2024-07-17")
+* [c. Guidelines for Research Ethics in the Social Sciences and the Humanities by the National Committee for Research Ethics in the Social Sciences and the Humanities (NESH)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/guidelines-nesh/guidelines-for-research-ethics-in-the-social-sciences-humanities-law-and-theology2/ "2024-07-17")
+* [d. Guidelines for Research Ethics in Science and Technology by The Norwegian National Committee for Research Ethics in Science and Technology (NENT)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nent/guidelines-nent/guidelines-for-research-ethics-in-science-and-technology/ "2024-07-17")
+* [e. Ethical Principles for Medical Research Involving Human Subjects (Declaration of Helsinki)](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/ "2024-07-17")
+* [f. Guidelines by The Norwegian National Research Ethics Committee for medical and health research (NEM)](https://www.forskningsetikk.no/en/guidelines/medical-and-health-research/guidelines-by-nem/ "2024-07-17")
+* [g. Guidelines for Ethical Research on Human Remains by The Human Remains Committee](https://www.forskningsetikk.no/en/guidelines/human-remains/guidelines-for-research-ethics-on-human-remains/ "2024-07-17")
+* [h. Convention on Human Rights and Biomedicine (Oviedo Convention)](https://www.coe.int/en/web/bioethics/oviedo-convention "2024-07-19")
+* [e. Ethical Guidelines for the Use of Animals in Research](https://www.forskningsetikk.no/en/guidelines/science-and-technology/ethical-guidelines-for-the-use-of-animals-in-research/ "2024-07-17")
 
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
 
@@ -198,14 +198,15 @@ Ethical considerations may affect how data will be handled and shared. Investiga
 Please indicate any additional ethical guidelines or codes of conducts relevant for the project. Examples (non-exhaustive):
 * [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/care "2024-04-22")
 * [The TRUST Code – Global Code of Conduct for Equitable Research Partnerships](https://www.globalcodeofconduct.org/ "2024-04-22")
-* [Guidelines for the inclusion of adults with impaired or absent capacity to consent *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/med-helse/inklusjon-av-voksne-personer-med-manglende-eller-redusert-samtykkekompetanse/)
+* [Guidelines for Internet Research Ethics](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/guidelines-nesh/a-guide-to-internet-research-ethics/ "2024-10-30")
+* [Ethics Guidelines for Trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai "2024-04-22")
+* [Nagoya Protocol on Access to Genetic Resources and Benefit-Sharing](https://www.cbd.int/abs/default.shtml "2024-04-22")
 * [Medical and health research in low- and middle-income countries by The National Committee for Medical and Health Research Ethics (NEM)](https://www.forskningsetikk.no/en/guidelines/medical-and-health-research/medical-and-health-research-in-low--and-middle-income-countries/ "2024-07-17")
+* [Guidelines for the inclusion of adults with impaired or absent capacity to consent *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/med-helse/inklusjon-av-voksne-personer-med-manglende-eller-redusert-samtykkekompetanse/)
 * [Payment to participants in medical or health research *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/med-helse/betaling-til-deltakere-i-medisinsk-eller-helsefaglig-forskning/)
 * [Guidelines for the use of genetic studies of humans *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/med-helse/retningslinjer-for-bruk-av-genetiske-undersokelser-av-mennesker-i-medisinsk-og-helsefaglig-forskning/)
-* [Nagoya Protocol on Access to Genetic Resources and Benefit-Sharing](https://www.cbd.int/abs/default.shtml "2024-04-22")
 * [Ethical guidelines for clinical trial of drugs *Norwegian only*](https://www.forskningsetikk.no/ressurser/publikasjoner/kliniske-utprovinger-av-legemidler/)
-* [Guidelines for Internet Research Ethics *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/hum-sam/forskningsetisk-veileder-for-internettforskning/)
-* [Ethics Guidelines for Trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai "2024-04-22")
+
 
 Further information:
 * [Ethical aspects (RDMkit): How can I identify regulations, guidelines and laws connected to ethics in my research context?](https://rdmkit.elixir-europe.org/ethics#how-can-i-identify-regulations-guidelines-and-laws-connected-to-ethics-in-my-research-context)
@@ -217,10 +218,9 @@ Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/suppo
 ### Does the project require ethical pre-approval?
 If the project involves health research, use of human biological material, testing on animals or similar, a pre-approval is likely needed to execute the project. The approval case numbers should be referred to in the DMP.
 
-NB! Registrations of the legal basis of procesing personal data are not the same as a research ethics assessment and should therefore not be included here, but addressed in the next question.
+NB! Registrations of the legal basis of procesing personal data are not the same as a research ethics assessment. This should therefore not be included here, but addressed in the next question.
 
 Read more about [Ethical approvals.](/pages//support_03_legal_ethics#ethical-approvals)
-
 
 ### Will any data connected to a person ("personal data") be collected/processed?
 <code> If personal data are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
