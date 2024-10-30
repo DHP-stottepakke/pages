@@ -251,7 +251,7 @@ Privacy routines at research institutions may differ from each other, it is ther
 
 The routines regarding processing of personal data differ between institutions.  It is the researchers responsibility to make oneself familiar with the requirements at their institution. If not listed in the previous question, look for similar guidance from your institution. 
 
-Processing of personal data affect choice of storage, and how open data can be archived or made available to others, these considerations are part of data management planning. If the data are to be used for future research this must be taken into account when legal basis for data processing is selected. Explicit information about archiving and future use should also go into the information to participants.
+Processing of personal data affect choice of storage, and how open data can be archived or made available to others, these considerations are part of data management planning. If the data are to be used for future research this must be taken into account when legal basis for data processing is selected. Explicit information about archiving and future use should also be included in the information to study participants.
 
 In this question you refer to the privacy assessment(s) conducted by selecting "GDPR considerations are registered in other system" and adding a reference number to the assessment. If you are not required by your institution to describe the compliance with personal data act in a separate system, you should choose "GDPR considerations step-by-step".
 
