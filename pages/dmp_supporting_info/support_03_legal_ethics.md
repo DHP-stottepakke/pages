@@ -128,7 +128,7 @@ Further information:
 
 ## Question-specific guidance
 
-### Involved institution(s)
+### Involved institution(s)/partner(s)
 Specifying the host institution and possible collaboration partners is important as this defines legal responsibilities and implies which guidelines are to be followed.\
 Read more about [The research-performing institution(s).](/pages/support_03_legal_ethics#the-research-performing-institution)
 
