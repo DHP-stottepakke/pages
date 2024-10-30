@@ -38,31 +38,34 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 
 ### The Research Council of Norway
 * [From 2023, Open Science is assessed in grant applications](https://www.forskningsradet.no/en/financing/application-process/assessment-open-science/ "2024-09-09")
+> * You are advised to take these assessment criteria into account, when writing your DMP.
 
 * [The Research Council of Norway: Sharing research data (webpage)](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/ "2024-10-25")
-> * Requirements for data management plan in projects that manage data
+> * Requirements for data management plan in projects that manage data - excerpts from the linked to webpage:
 > 	* A good data management plan makes the research data easier to retrieve and understand for others, creates awareness of data security, costs and quality, makes the research reproducible and increases the potential for reuse. The data management plan should be a living document that is regularly updated throughout the life of the project.
 >	* The requirement for a data management plan for projects receiving funding from the Research Council of Norway was introduced in 2018.
 > 	* Projects must submit the first version of the plan when revising the grant application. An updated version is delivered together with the project's final report.
 > 	* It is the responsibility of the Project Owner to approve that the plan is in line with the institution's requirements and guidelines before it is submitted.
 > 	* Data management plans should, as far as possible, be public and published openly so that academic communities can better follow their peers' practices.
-> 	* Based on the data management plans received, accept any costs for managing data as part of the operating costs of the projects we support any costs for managing data as part of the operating costs of the projects we support.
+> 	* Based on the data management plans received, the Research Council will accept any costs for managing data as part of the operating costs of the projects we support any costs for managing data as part of the operating costs of the projects we support.
 
 * [The Research Council of Norway. (2017). Policy for Open Access to Research Data](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf "2024-09-09")
-> The Research Council’s guidelines
+> The Research Council’s guidelines in seven headlines:
 > * Research data must be stored/archived in a safe and secure manner
 > * Research data must be made accessible for reuse
-> * Research data should be made accessible at an early stage [latest at publication]
+> * Research data should be made accessible at an early stage <!-- I suggest leaving this out: [at latest when article is published (if data yields article(s))] -->
 > * Research data must be accompanied by standardised metadata
 > * Research data provided with a license for access, reuse, and redistribution
-> * Research data should be made accessible at the lowest possible cost [preferable at no charge]
+> * Research data should be made accessible at the lowest possible cost <!-- I suggest leaving this out (not clear if 'charge' here is ment for archiving/publishing data, or for the access): [preferable at no charge] -->
 > * The management of research data must be described in a data management plan
 
-* [The Research Council of Norway. (2020). Policy for Open Science](https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-09-09")
-> The Research Council will:
+* [The Research Council of Norway. (2020). Policy for Open Science]
+(https://www.forskningsradet.no/siteassets/forskningspolitisk-radgivning/apen-forskning/nfr-policy-open-science-eng.pdf "2024-10-30") <!-- Denne urlen gir ikke noe særlig info: (https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-09-09") -->
+> The Research Council will (page10):
 > * encourage adherence to the FAIR principles for data and metadata resulting from Research Council-funded projects.
 > * require that datasets are made accessible along with their accompanying protocols, methods, models, algorithms, software and source code.
 > * take steps to ensure that direct expenses associated with making data openly accessible according to the FAIR principles are clearly identified in grant applications.
+> * require that medical and health-related clinical trials involving human subjects are registered in an approved database prior to project start-up. 
 
 
 ### Horizon Europe
