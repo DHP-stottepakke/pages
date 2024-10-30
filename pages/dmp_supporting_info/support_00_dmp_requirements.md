@@ -59,7 +59,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 > * The management of research data must be described in a data management plan
 
 * [The Research Council of Norway. (2020). Policy for Open Science]
-(https://www.forskningsradet.no/siteassets/forskningspolitisk-radgivning/apen-forskning/nfr-policy-open-science-eng.pdf "2024-10-30") <!-- Denne urlen gir ikke noe særlig info: (https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-09-09") -->
+(https://www.forskningsradet.no/siteassets/forskningspolitisk-radgivning/apen-forskning/nfr-policy-open-science-eng.pdf "2024-10-30")
 > The Research Council will (page10):
 > * encourage adherence to the FAIR principles for data and metadata resulting from Research Council-funded projects.
 > * require that datasets are made accessible along with their accompanying protocols, methods, models, algorithms, software and source code.
