@@ -51,7 +51,7 @@ When planning and embarking on your project, you should familiarize yourself wit
 Most repositories for research data will implement specific standards and therefore planned use of an archive will often lead to planned use of a metadata standards.\
 "Minimal Information Standards" can be important from the [FAIRsharing registry of standards](http://fairsharing.org/).
 
-Further resources:
+Further reading:
 * [RDA metadata standards catalog](https://rdamsc.bath.ac.uk/)
 * [Digital Curation Centre: Metadata standards by discipline](https://www.dcc.ac.uk/guidance/standards/metadata)
 
@@ -86,6 +86,10 @@ If the data is owned by or copyrighted by external bodies select this one and el
 Please note that there is no Fair-use clause in the Norwegian copyright act, subsequently usage of data from secondary sources would place restriction on future sharing. This can be described in the section "Preserving and publishing data"
 
 If there is a consortium agreement or rights are arranged in another way, please make sure to list any relevant contracts or agreements.
+
+Further reading:
+* [The Norwegian copyright act](https://lovdata.no/dokument/LTI/lov/2018-06-15-40)
+* [OpenAire: Is data always subject to copyright? (section: Specifications of licensing Research Data](https://www.openaire.eu/how-do-i-license-my-research-data)
 
 
 ### Are there any use restrictions for these data?
