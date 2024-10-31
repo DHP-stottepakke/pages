@@ -48,7 +48,7 @@ The research institution has an overarching responsibility for following the app
 
 Research institution commonly have policies or guidelines for data management, sometimes as part of Open Science guidelines. There may also be specific routines or processes to be followed. Identifying such policies, guidelines, or processes will help you recognize research data management requirements and routines to be aware of.
 
-According to the [Act relating to the processing of personal data (The Personal Data Act, Norwegian: Personvernloven)](https://lovdata.no/dokument/NLE/lov/2018-06-15-38) the the host institution usually is the data controller. If responsibility is to be shared between institution, this must be contractually specified. 
+According to the [Act relating to the processing of personal data (The Personal Data Act, Norwegian: Personvernloven)](https://lovdata.no/dokument/NLE/lov/2018-06-15-38) the host institution usually is the data controller. If responsibility is to be shared between institution, this must be contractually specified. 
 
 In projects that are regulated by [the Health Research Act (Norwegian: Helseforskningsloven)](https://lovdata.no/dokument/NL/lov/2008-06-20-44), the host institution acts as [research-responsible entity (Norwegian: Forskningsansvarlig)](https://www.forskningsetikk.no/ressurser/fbib/lover-retningslinjer/forskningsansvarlig-ihht-helseforskningsloven/ "2024-07-17").
 
@@ -89,7 +89,7 @@ As processing of personal data is followed by data management requirements, bein
 
 Personal data is any information that can be linked to an identifiable person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: [Personopplysningsloven](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. Any processing of personal data requires a lawful basis. 
 
-Extra care must be taken for processing of special categories of personal data (often called sensitive personal data). Special categories include information about: Race or ethnic background; Political, philosophical, or religious beliefs; Health information and health related conditions; Sexual orientation or behavior; Membership in trade unions; Genetic and biometric information intended to identify a physical person.
+Extra care must be taken for processing of special categories of personal data (often called sensitive personal data). Special categories include information about: Race or ethnic background; Political, philosophical, or religious beliefs; Health information and health related conditions; Sexual orientation or behaviour; Membership in trade unions; Genetic and biometric information intended to identify a physical person.
 
 The principle of data minimization entails limiting the amount of personal data collected and processed to what is necessary to achieve the purpose of the data processing and should be considered whenever collection of personal data is planned.
 
@@ -157,7 +157,7 @@ You can select from the following list of common policies and guidelines:
 * Institution: [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
 * Institution: [UiB Policy for Open Science](https://www.uib.no/en/foremployees/142184/university-bergen-policy-open-science "2024-07-17")
 * Institution: [UiO Policies and guidelines for research data management](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html "2024-07-17")
-* Institution: [UiT Principles and guidelines for managment for research data](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184 "2024-07-17")
+* Institution: [UiT Principles and guidelines for management for research data](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184 "2024-07-17")
 * Funder: [The Research Council of Norway Policy for Open Science](https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-07-17")
 * Funder: [The Research Council of Norway Policy for open access to research data](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/ "2024-07-17")
 * Funder: [Horizon Europe provisions on Open Science](https://rea.ec.europa.eu/open-science_en "2024-07-17")
@@ -213,7 +213,7 @@ Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/suppo
 ![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to projects with ethical/legal considerations*\
 If the project involves health research, use of human biological material, testing on animals or similar, a pre-approval is likely needed to execute the project. The approval case numbers should be referred to in the DMP.
 
-NB! Registrations of the legal basis of procesing personal data are not the same as a research ethics assessment. This should therefore not be included here, but addressed in the next question.
+NB! Registrations of the legal basis of processing personal data are not the same as a research ethics assessment. This should therefore not be included here, but addressed in the next question.
 
 Read more about [Ethical approvals.](/pages//support_03_legal_ethics#ethical-approvals)
 
@@ -271,7 +271,7 @@ If you already described the processing of personal data in detail in other syst
 ##### Personal privacy considerations step-by-step
 These questions will guide you through relevant considerations concerning collecting/processing personal data in accordance with GDPR. 
 
-Be aware that you may have to register processing of personal data in additional systems as required by your institution, you do not need to duplicate this process if you have already gone trough this.
+Be aware that you may have to register processing of personal data in additional systems as required by your institution, you do not need to duplicate this process if you have already gone through this.
 
 #### How will you document participants information and/or consent?
 
@@ -304,7 +304,7 @@ Further information:
 * [GA4GH ethical toolkit](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/) with examples of granular consent and machine readable metadata (for human genetic data)
 * [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico)
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)
-* [National Research Ethics Commitees: Consent]8https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
+* [National Research Ethics Committees: Consent]8https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
 * [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
 * [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 
@@ -321,7 +321,7 @@ Reasons for sensitivity (non-exhaustive) and relevant resources:
 	* Investigate routines at your department in addition to institutional guidelines
 * Intellectual Property Rights (IPR), commercial issues, or confidentiality issues
 	* If you have questions, consult with technology transfer offices or legal advisors at your institution 
-* Research on endagered species
+* Research on endangered species
 * Research on protected cultural heritage
 * Indigenous Data Governance
 
