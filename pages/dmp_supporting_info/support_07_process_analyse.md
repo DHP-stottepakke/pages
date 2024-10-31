@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Processing, analysing and interpreting data
 search_exclude: false
-contributors: [Korbinian Bösl, Jenny Ostrop]
+contributors: [Korbinian Bösl, Jenny Ostrop, Ingrid Heggland]
 page_id: support_07_process_analyse
 description: Supporting DMP Information, process data, data processing, analyse data, data analysis, analyze, analyzis
 sidebar: dmp_supporting_info
@@ -123,10 +123,13 @@ Further reading:
 
 
 ### Does your computational approach require validation of results?
+![Static Badge](https://img.shields.io/badge/DSW-HPC-%23CED4DA) *Specific to data/compute heavy projects*\
 In some cases the results of computational steps cannot be considered to be deterministic, for instance due to randomness in the calculation, human inputs and possible errors or differences in the execution across infrastructures. To reduce false findings, the computational steps should be validated in these cases.
 
-This might include:
-* Improved workflow and software versioning systems to reduce human error
-* Replicating results with different tools
-* Repeating (parts of) the calculation on different computing infrastructure and architectures
-* Repeating calculation steps (for parts of) the data
+There are surprisingly many complications that can cause (slight) inconsistencies between results when workflows are run on different compute infrastructures. A good way to make sure this does not bite you is to run a subset of all jobs on all different infrastructure to check the consistency.
+
+Validation of results without a golden standard is very hard. One way of doing it is to develop two solutions for a problem (two independent workflows or two independently developed tools) to check whether the results are identical or comparable.
+
+Surrounding all tools in your data processing and analysis workflows with the 'boilerplate' code necessary on the computer system you are using is tedious and error prone. Especially if you are using the same tools in multiple different work flows and/or on multiple different computer architectures. Automated instrumentation, e.g. by using a workflow management system, can prevent many mistakes.
+
+Running a small subset of the data repeatedly can be useful to catch unexpected problems that would otherwise be very hard to detect.

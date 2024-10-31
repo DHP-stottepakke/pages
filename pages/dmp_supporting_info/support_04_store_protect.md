@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Storing and protecting data during the project
 search_exclude: false
-contributors: [Korbinian Bösl, Jenny Ostrop]
+contributors: [Korbinian Bösl, Jenny Ostrop, Ida Juhasz]
 page_id: support_04_store_protect
 description: Supporting DMP Information, data storage, data backup
 sidebar: dmp_supporting_info

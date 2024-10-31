@@ -3,9 +3,9 @@ layout: page
 <!--type: cheat_sheet-->
 title: Responsibilities and resources
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Svein Høier, Lisbeth Jahren, Jenny Ostrop]
 page_id: support_09_responsibilities_resources
-description: Supporting DMP Information, data management responisbilities, data management resources
+description: Supporting DMP Information, data management responsibilities, data management resources
 sidebar: dmp_supporting_info
 dsw:
 - name: Responsibilities and resources
