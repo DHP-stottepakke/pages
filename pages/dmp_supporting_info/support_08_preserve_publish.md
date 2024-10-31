@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Preserving and publishing data
 search_exclude: false
-contributors: [Leif Longva]
+contributors: [Leif Longva, Jenny Ostrop]
 page_id: support_08_preserve_publish
 description: Supporting DMP Information, preservation strategy, preserve data, data preservation, publish data, data publication, repository, open access, closed access, data sharing
 sidebar: dmp_supporting_info
@@ -46,6 +46,8 @@ The chapter includes both questions that should be considered at the initial sta
 ### Restricted access to research data
 *brief explanation of restricted access, examples in Norway: Sikt, FEGA, CLARINO*
 
+*mention Data Use Ontology, Data Use Conditions*
+
 ### Persistent identifiers
 *what does the term mean and why are they important*
 
@@ -80,21 +82,24 @@ Evaluate which archive(s) will be most relevant for your datasets, using the fol
 
     If none of the above applies, use a generic research data archive.
 
-In some cases it is important to contact the research data archive beforehand. *elaborate*
+In some cases it is important to contact the research data archive beforehand. 
 
+*elaborate*
+*make sure trustworthy repository is explained in terms and linked to*
 
 ### List data that you have deleted or will delete
 Determining which data are of value and should be preserved or whether data need to or can be deleted, is a decision that should be taken actively. If data(sets) are deleted, they can be listed in this question, including a brief description of the reasons for deletion.
 
 There may be legal (e.g. defined by the Health Research Act) or contractual obligations to delete data.
 
-Generally, institutions and research funders set requirements to retain data for a given period. For example, the Research Council of Norway "has stipulated as a requirement that research data must be stored in a safe and secure manner for a minimum of 10 years" [Policy for Open Science, 2020](https://www.forskningsradet.no/siteassets/forskningspolitisk-radgivning/apen-forskning/nfr-policy-open-science-eng.pdf).
+Generally, institutions and research funders set requirements to retain data for a given period. For example, the Research Council of Norway "has stipulated as a requirement that research data must be stored in a safe and secure manner for a minimum of 10 years" [(Policy for Open Science, 2020)](https://www.forskningsradet.no/siteassets/forskningspolitisk-radgivning/apen-forskning/nfr-policy-open-science-eng.pdf). On the other hand, the Research Council of Norway states that research projects "should explicitly address how research data that are not considered to have long-term value should be managed, or if relevant destroyed, after a certain period of time."[(Policy for for Open Access to Research
+Data, 2017)](https://www.forskningsradet.no/siteassets/forskningspolitisk-radgivning/apen-forskning/nfr-policy-open-science-eng.pdf)
 
 Yet, it can be worthwhile to consider which data in a project are not of value (e.g. data from failed experiments), only have intermediate value (e.g. during data analysis) and which data should be preserved long-term, particularly if storage of large amounts of data is associated with significant costs.
 
 
 ### List datasets that you have archived or will archive
-Archiving of datasets includes the deposition of datasets in a research data archive, openly or with restricted access, and equipped with a persistent identifier (PID) as well as data that should be preserved but not published. Research data should be made available at an early stage, following the principles as "as open as possible, as closed as necessary". According to the guidelines by Research Council of Norway should data underlying scientific articles be made accessible latest at publication. Other research data should be made accessible within a reasonable amount of time, and never later than three years after the project has ended [Policy for open access to research data, 2017](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf).
+Archiving of datasets includes the deposition of datasets in a research data archive, openly or with restricted access, and equipped with a persistent identifier (PID) as well as data that should be preserved but not published. Research data should be made available at an early stage, following the principles as "as open as possible, as closed as necessary". According to the guidelines by Research Council of Norway should data underlying scientific articles be made accessible latest at publication. Other research data should be made accessible within a reasonable amount of time, and never later than three years after the project has ended [(Policy for open access to research data, 2017)](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf).
 
 Several sub-questions allow to refer to information in other DMP chapters or external databases. Alternatively, it is always possible to enter a free-text answer.
 

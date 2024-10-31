@@ -38,6 +38,6 @@ toc: true
 ### Other resources
 See also examples of [discipline-rooted resources in the supporting information for users](/pages/support_00_local_disc).
 
-* [howtofair.dk/](https://howtofair.dk/)
+* [howtofair.dk](https://howtofair.dk/)
 
 

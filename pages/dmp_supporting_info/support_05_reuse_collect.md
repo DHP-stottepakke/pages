@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Reusing or collecting data
 search_exclude: false
-contributors: [Svein Høier, Jenny Ostrop]
+contributors: [Svein Høier, Jenny Ostrop, Lisbeth Jahren]
 page_id: support_05_reuse_collect
 description: Supporting DMP Information, reusing data, data reuse, data re-use, pre-existing data
 sidebar: dmp_supporting_info
@@ -48,7 +48,7 @@ What is considered a unit/set/collection of data may be structured according to 
 ## Question-specific guidance
 
 ### The project will (re)use dataset(s) or record(s) available in a repository/registry/archive
-Many research projects are based on using excisting digital sources for producing knowledge. For example, existing data is used as reference, datasets can be approached with novel questions or combined, and many published datasets contain information that was not followed up in the connected research articles. Often, pre-existing sources and data will be combined with collecting or producing own data.
+Many research projects are based on using existing digital sources for producing knowledge. For example, existing data is used as reference, datasets can be approached with novel questions or combined, and many published datasets contain information that was not followed up in the connected research articles. Often, pre-existing sources and data will be combined with collecting or producing own data.
 
 As many of the same considerations apply, also access to materials that are commonly referred to as 'records' or 'sources' rather than 'data' should be included here, such as material in public archives, media archives, legal resources, or large amounts of digital literature.
 

@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Legal and ethical aspects
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Jenny Ostrop, Live Kvale, Ingrid Heggland]
 page_id: support_03_legal_ethics
 description: Supporting DMP Information, legal requirements, ethical requirements
 sidebar: dmp_supporting_info

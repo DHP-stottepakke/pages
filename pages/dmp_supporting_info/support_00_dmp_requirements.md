@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Research Data Management and DMP requirements
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Jenny Ostrop, Leif Longva]
 page_id: support_00_dmp_requirements
 description: Supporting DMP Information, Why write a DMP, Reason, Motivation, DMP requirements, Funder requirements, Institutional requirements
 sidebar: dmp_supporting_info
