@@ -321,7 +321,7 @@ Reasons for sensitivity (non-exhaustive) and relevant resources:
 	* Investigate routines at your department in addition to institutional guidelines
 * Intellectual Property Rights (IPR), commercial issues, or confidentiality issues
 	* If you have questions, consult with technology transfer offices or legal advisors at your institution 
-* Research on endagered species
+* Research on endangered species
 * Research on protected cultural heritage
 * Indigenous Data Governance
 
