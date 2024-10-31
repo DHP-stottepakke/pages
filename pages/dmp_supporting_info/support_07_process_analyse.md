@@ -56,6 +56,9 @@ If you require a large amount of CPU hours, I/O bandwidth or memory it is best t
 
 If you will use federated computing in you project this should be considered early on.
 
+Further rsources on federated data analysis:
+* [DataShield](https://www.datashield.org/)
+
 
 ### Will the data be converted to other file format(s) before archiving?
 In some cases data has to be converted to different formats late in the project for archiving. It is important to ensure that there is sufficient computing time and software for this task.
@@ -106,13 +109,17 @@ Another procedure might be to repeat measurements on the same samples/objects.
 
 Further reading:
 * [RDMkit: Data quality](https://rdmkit.elixir-europe.org/data_quality.html)
+* [FAIRCookbook: How to create checksum files](https://faircookbook.elixir-europe.org/content/recipes/findability/checksum-create.html)
 
 
 ### Will you be integrating or linking data from different origins or different types of data?
 When you are integration data from different origins it might be necessary to unify the structure of the data. The most common structures for knowledge representation are: [flat files](https://en.wikipedia.org/wiki/Flat-file_database) (e.g. table formats including tsv, csv, ...), [tabular databases](https://en.wikipedia.org/wiki/Database) (including SQL) and [linked data](https://en.wikipedia.org/wiki/Linked_data). While the complexity of relations and knowledge that can be saved in these structures increases in this order, this might also require additional skills and effort.
 
+If possible, it is recommended to use of a common ontology to integrate data from different sources.
+
 Further reading:
 * [FAIRCookbook: Interlinking data using mappings](https://w3id.org/faircookbook/FCB016)
+* [Wikipedia: Linked data](https://en.wikipedia.org/wiki/Linked_data)
 
 
 ### Does your computational approach require validation of results?

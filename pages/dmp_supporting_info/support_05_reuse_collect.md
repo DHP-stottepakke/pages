@@ -111,26 +111,50 @@ Further reading:
 #### How will you be keeping track of the "provenance" of the data?
 To make data understandable and reproducible, it is crucial that the data origin and relevant parameters as well as all processing and filtering steps are documented. Re-users of the data also need this information to decide whether the data can be used for their purpose.
 
-If lab traditional notebooks are used, make sure to make the notes available in electronic form along with your data.
+If lab traditional lab notebooks are used, make sure to make the notes available in electronic form along with your data.
+
+Further reading:
+* [Turing way: Electronic Lab Notebooks](https://book.the-turing-way.org/reproducible-research/rdm/rdm-elns)
+
 
 #### List data that you will acquire using measurement equipment
-The description of the acquired data also includes information about the instrumentation used, as this is a critical part of metadata and data documentation.
+The description of the acquired data also includes information about the instrumentation used, as this is a critical part of the data lineage and thus needs to be included in metadata and data documentation.
 
-If measurements are not carried out by project members, make sure that formal ownership of the data has been established, including who will take responsibility for data publication. Include information about relevant contracts in the chapter 'Legal and ethical aspects'.
+If using non-standard equipment or if the technology is very much under development, you may want to come back later to understand exactly how the measurements have been made. Make sure to keep copies of any documentation and for example take pictures of the instruments for documentation.
+
+In case measurements are not carried out by project members but at a institutional or national core facility or by an external party, make sure that formal ownership of the data has been established. Agreements should include who will take responsibility for keeping raw data safe, and who will deal with data publication. Remember to include information about relevant contracts in the chapter 'Legal and ethical aspects' and if applicable, specify distribution of rights in the chapter 'Data documentation during the project'.
+
+#### Is special care needed to get the raw data ready for processing?
+Often, data is not processed at the measurement location but needs to be transferred or ingested to allow further processing. Aspects to consider include the data format to be used, whether data will be transferred via network connection or on a physical medium, and how data integrity and security will be ensured. Be aware the information security considerations also apply for file transfer.
+
+For larger data volumes, it is essential to investigate network bandwidth and the transfer protocol to be used. If a physical medium is used to transfer data, writing and reading capacity and speed are important. Consider to calculate checksums to ensure that data integrity is maintained.
+
+Further reading:
+* [RDMkit: Data transfer](https://rdmkit.elixir-europe.org/data_transfer.html)
+* [FAIRCookbook: How to create checksum files](https://faircookbook.elixir-europe.org/content/recipes/findability/checksum-create.html)
+
+#### Which quality processes will be applied?
+Which measures will be taken to ensure data quality? This may include calibrating instruments or measurements, including control samples, repeating measurements, standardizing data capture and documentation, data entry validation, or data peer review. In most research project, several choices will apply.
+
+Further reading:
+* [RDMkit: Data quality](https://rdmkit.elixir-europe.org/data_quality.html)
 
 
 ### The project will collect physical samples
-If relevant for your project: Describe how cross-referencing between physical samples and digital data will be achieved.
+If relevant for your project: Describe how cross-referencing between physical samples and digital data will be achieved. If physical samples will be preserved in a public repository (e.g. museum archive, biobank), describe where the samples will be deposited and which identifier system will be used.
+
+Further reading:
+* [RDMkit: Identifiers](https://rdmkit.elixir-europe.org/identifiers.html)
+* [Biobank Norway](https://bbmri.no/)
 
 
 ### The project will generate research software, code, computational models or simulations
-If relevant for your project: Research software, computational models and simulations are related to research data as a research output, yet more dynamic. Describe all software, code, computational models or simulations that will be generated during the research project.
+If relevant for your project: Research software, computational models and simulations are related to research data as a research output, yet more dynamic. This may be everything from a few lines of code for data analysis to a more complex project or software package. Describe all software, code, computational models or simulations that will be generated during the research project.
 
 If writing software/models is a significant part of the research project, you can consider writing a Software Management Plan (SMP) to supplement this DMP.
 * [Elixir Software Management Plan](https://smw.dsw.elixir-europe.org/wizard/knowledge-models/smw:smp:0.0.18)
 
-The FAIR for Research Software (FAIR4RS) RDA working group defines research software as "source code files, algorithms, scripts, computational workflows and executables that were created during the research process or for a research purpose" ([Gruenpeter et al. 2021, doi: 10.5281/zenodo.5504016](https://doi.org/10.5281/zenodo.5504016)).
-The FAIR for Research Software (FAIR4RS) principles have been adapted from the FAIR principles to fit the characteristics of software/code ([Barker et al. 2022, doi: 10.1038/s41597-022-01710-x](https://doi.org/10.1038/s41597-022-01710-x), [Lamprecht et al. 2020, doi: 10.3233/DS-190026](https://doi.org/10.3233/DS-190026)).
+The FAIR for Research Software (FAIR4RS) RDA working group defines research software as "source code files, algorithms, scripts, computational workflows and executables that were created during the research process or for a research purpose" ([Gruenpeter et al. 2021, doi: 10.5281/zenodo.5504016](https://doi.org/10.5281/zenodo.5504016)). The FAIR for Research Software (FAIR4RS) principles have been adapted from the FAIR principles to fit the characteristics of software/code ([Barker et al. 2022, doi: 10.1038/s41597-022-01710-x](https://doi.org/10.1038/s41597-022-01710-x), [Lamprecht et al. 2020, doi: 10.3233/DS-190026](https://doi.org/10.3233/DS-190026)).
 
 Further reading:
 * [Turing way: Version control](https://the-turing-way.netlify.app/reproducible-research/vcs.html)

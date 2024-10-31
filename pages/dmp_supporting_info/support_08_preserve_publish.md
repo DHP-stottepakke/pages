@@ -130,3 +130,11 @@ Research software as project result is related to research data, yet more dynami
 The FAIR for Research Software (FAIR4RS) principles have been adapted from the FAIR principles to fit the characteristics of software/code ([Barker et al. 2022, doi: 10.1038/s41597-022-01710-x](https://doi.org/10.1038/s41597-022-01710-x), [Lamprecht et al. 2020, doi: 10.3233/DS-190026](https://doi.org/10.3233/DS-190026)).
 
 Parts of these considerations are taken from the [Elixir Software Management Plan](https://smw.dsw.elixir-europe.org/wizard/knowledge-models/smw:smp:0.0.18) [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Further reading:
+* [fair-software.nl: Five recommendations for FAIR software](https://fair-software.nl/home/)
+* [Code Refinery: Social coding and open software - What can you do to get credit for your code and to allow reuse](https://coderefinery.github.io/social-coding/)
+* [Software Carpentry: Version control with git - Open Science](https://swcarpentry.github.io/git-novice/10-open.html)
+* [Turing way: Open source software](https://book.the-turing-way.org/reproducible-research/open/open-source)
+* [Turing way: Licensing](https://book.the-turing-way.org/reproducible-research/licensing.html)
+* [FAIRCookbook: Software Licensing](https://w3id.org/faircookbook/FCB033)
