@@ -1,14 +1,14 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: Preserving and publishing data
+title: Archiving and publishing data
 search_exclude: false
 contributors: [Leif Longva, Jenny Ostrop]
 page_id: support_08_preserve_publish
 description: Supporting DMP Information, preservation strategy, preserve data, data preservation, publish data, data publication, repository, open access, closed access, data sharing
 sidebar: dmp_supporting_info
 dsw:
-- name: Preserving and publishing data
+- name: Archiving and publishing data
   uuid: knowledge-models/elixir.no:dsw-km-bott-localization:latest/preview?questionUuid=a549d10b-aa46-4c0c-863f-30219ac5ecce
 cessda:
 - name: Archive & Publish
@@ -31,25 +31,35 @@ other:
 >> Your data is valuable – they should be available for reuse.\\
 >> Archiving data is also a way to ensure availability of data for yourself at a later time point, e.g. after switching affiliations.\\
 >> Rich metadata will make your data findable through search engines. Good documentation and structured metadata will enable others to understand the information held in your data and enable data reuse.\\
->> Comply with requirements by research funders and academic publishers to making data underlying a study available.\\
+>> Research funders and academic publishers commonly require data underlying a study to be available ('as open as possible').\\
 >> Increasingly, archiving FAIR data is viewed as equally important as publishing other research output, in the assessment of research.\\
 " %}
 
 ## About this chapter
-Research data should be archived and preserved, for the benefit of future research and to ensure research transparency. Data should be archived as open as possible and as closed as necessary, as the guiding principle of research funders and others states. This chapter will assist you in walking through the steps of making your data available in line with the FAIR principles, including selecting an archive to publish your data and providing appropriate metadata.
+Research data should be archived and preserved, for the benefit of future research and to ensure research transparency. Data should be archived as open as possible and as closed as necessary, as the guiding principle of research funders and others states. This chapter will assist you in walking through the planning steps of making your data available in line with the FAIR principles, including selecting an archive to publish your data (or, if needed, archiving with access restrictions) and providing appropriate metadata.
 
-The chapter includes both questions that should be considered at the initial stage of the DMP, and questions to be answered towards the end of the research project to document the fate of data in the project, whether they are deposited in a research data archived, will be preserved in other ways, or in certain cases be discarded.
+The chapter includes both questions that should be considered at the initial stage of the DMP, and questions to be answered towards the end of the research project to plan the fate of data in the project, whether they will be deposited in a research data archive, preserved in other ways, or in certain cases will be discarded.
 
 ### Trustworthy research data archives
-*brief introduction to discipline-specific, institutional and generic research data archives. Explain re3data and FAIRSharing.*
+An important issue is to identify the best suited archive to be used for your data. There are different types of archives you may use for your data. Some are designed to suit data from specific subject areas. These may use metadata standards and metadata schema that are best suited to capture important information on data from such a specific subject area. Then there are institutional data achives. These archives are designed to capture data from any subject area the institution handles. Have a look whether your institution offers such an archiving service. A benefit for you in chosing an institutional archive would be that your institution has good user support to ensure the quality of your archived data. Furthermore, there are 'catch all' archives, meaning archives where both scholarly publications as well as data may be archived. If you do not have access to use a data archive, you may consider to use a catch all archive like [Zenodo](https://zenodo.org/).
+
+You may browse or search for suitable archives in the [re3data registry](https://www.re3data.org/), which is a registry of data archives. The [FAIRsharing service](https://fairsharing.org/) is also a useful a searchable resource that holds information on data archives, as well as standards and data policies. You are advised to choose a so-called trustworthy archive for your data. Look for the [Core Trust Seal](https://www.coretrustseal.org/) which certifies that the archive in question operates in accordance with the Core trust Seal quality criteria, both in terms of its financial foundation and its quality assuring data curation routines.
+<!-- *brief introduction to discipline-specific, institutional and generic research data archives. Explain re3data and FAIRSharing.* -->
 
 ### Restricted access to research data
-*brief explanation of restricted access, examples in Norway: Sikt, FEGA, CLARINO*
+Some data should not be made openly available, according to law regulations (including the General Data Protection Regulation (GDPR)) and/or ethical considerations. These may be data with person identifying information, or data that are sensitive for other reasons (national security or business information). It is still important to archive such data, to ensure their long term preserving. These data thus need to be archived with restricted access. In Norway, the [Sikt archive](https://sikt.no/en/archiving-research-data) may be suitable for this. 
 
-*mention Data Use Ontology, Data Use Conditions*
+[FEGA (Federated European Genome-phenome Archive)](https://ega.elixir.no/) is another archive that may be suitable. FEGA is designed to help researchers securely store, access, and share sensitive human data across multiple countries, while adhering to local privacy regulations such as the GDPR.
+
+CLARINO may also be mentioned here. CLARINO is Norway's part of the European CLARIN infrastructure network, which stands for Common Language Resources and Technology Infrastructure. CLARINO includes a platform where researchers can store, share, and access language data in standardized formats. This also includes access with restricted access, since language research easily includes person identifying data.
+
+[Data Use Ontology](https://www.ga4gh.org/product/data-use-ontology-duo/) is a service that may be useful for data that can not be openly available. This service is especially developed for sensitive human data.
+<!-- *brief explanation of restricted access, examples in Norway: Sikt, FEGA, CLARINO* -->
+<!-- *mention Data Use Ontology, Data Use Conditions* -->
 
 ### Persistent identifiers
-*what does the term mean and why are they important*
+When deciding where to archive your data, make suere you chose an archive where your dataset is assigned a persistent identifier (PID). Two commonly used PIDs are Digital Object Identifier (DOI) and handle. With a PID assigned, you are guaranteed that your dataset may be referred to with correct identifier for findability. The (not uncommon) problem of urls that stop working for some reason is then avoided. Archives assigning DOIs is also a sign of quality, since there is minimum requirements to the metadata schema used in order to achieve a DOI.
+<!-- *what does the term mean and why are they important* -->
 
 ## Question-specific guidance
 
