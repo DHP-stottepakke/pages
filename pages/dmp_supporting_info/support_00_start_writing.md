@@ -7,9 +7,9 @@ contributors: [Jenny Ostrop, Svein Høier]
 page_id: support_00_start_writing
 description: Supporting DMP Information, DMP writing, Data Stewardship Wizard, DSW, User guide
 sidebar: dmp_supporting_info
-dsw:
-- name: About the Data Management Plan
-  uuid: knowledge-models/elixir.no:dsw-km-bott-localization:latest/preview?questionUuid=7ed9939b-b85c-48bf-87f5-2aa081bb5267
+other:
+- name: "Video: Introduction to Data Stewardship Wizard"
+  url: https://www.youtube.com/watch?v=XrI8qYtWSBw
 ---
 
 {% include callout.html type="note" content="
@@ -27,8 +27,6 @@ Your planning process will be guided by a set of questions that you answer in yo
 
 Find a description of the core steps below. For more detailed descriptions and an instructional video, see the [DSW user guidance](/pages/support_00_start_writing#further-resources).
 
-- name: "Video: Introduction to Data Stewardship Wizard"
-  url: https://www.youtube.com/watch?v=XrI8qYtWSBw
 
 ### Choose the right template for your project
 To accommodate different project needs, the questionnaire consists of different modules that can be combined and there are four standard variants of the DMP questionnaire.\
