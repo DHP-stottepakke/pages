@@ -9,7 +9,7 @@ description: Supporting DMP Information, DMP writing, Data Stewardship Wizard, D
 sidebar: dmp_supporting_info
 other:
 - name: "DSW User Guide: Questionnaire"
-  url: 'https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html#project-questionnaire'
+  url: "https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html#project-questionnaire"
 - name: "Video: Introduction to Data Stewardship Wizard"
   url: https://www.youtube.com/watch?v=XrI8qYtWSBw  
 ---
