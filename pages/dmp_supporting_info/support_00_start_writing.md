@@ -24,11 +24,12 @@ Coming soon: Short user guidance
 
 ### Choose the right template for your project
 To accommodate different project needs, the questionnaire consists of different modules that can be combined and there are 5 standard variants of the DMP questionnaire. Select the variant that fits your project best:
+* **Science Europe/RCN and ELSI** is a comprehensive questionnaire for projects with external funding and/or external partners. Handling of sensitive data or personal data or requiring ethical pre-application can be addressed or marked as not relevant to the project. This questionnaire is meeting the requirements of research funders such as the Research Council of Norway or Horizon Europe.
+* **Science Europe/RCN and HPC** is a variant adapted to computationally demanding projects yet not handling sensitive data or personal data or requiring ethical pre-application.
+* **Science Europe/RCN and ELSI and HPC** is a variant including questions on handling sensitive data or personal data or requiring ethical pre-application and questions for computationally demanding projects.
+
 * **Minimum questionnaire** covers a core set of questions adapted to less complex projects (e.g. student projects). It is suited for projects without external funding, external project partners, not handling sensitive data or personal data or requiring ethical pre-application, and not computationally demanding or handling large data volumes.
 * **Minimum and ELSI** combines the **Minimum** questionnaire with questions on handling sensitive data or personal data or requiring ethical pre-application.
-* **Science Europe/RCN and ELSI** is a comprehensive questionnaire for projects with external funding and/or external partners, and addressing handling of sensitive data or personal data or requiring ethical pre-application. This questionnaire is meeting the requirements of research funders such as the Research Council of Norway or Horizon Europe.
-* **Science Europe/RCN and HPC** is a variant adapted to computationally demanding projects that are not handling sensitive data or personal data or requiring ethical pre-application.
-* **Science Europe/RCN and ELSI and HPC** is a variant including questions on handling sensitive data or personal data or requiring ethical pre-application and questions for computationally demanding projects.
 
 For other combinations or specific needs (e.g. writing an 'umbrella DMP') or transferring answers from one questionnaire to another questionnaire variant, contact [support staff at your institution](/pages/support_00_local_disc).
 
