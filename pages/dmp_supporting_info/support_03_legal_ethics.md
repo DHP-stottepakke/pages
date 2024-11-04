@@ -36,7 +36,7 @@ turing:
 >> Legal and ethical considerations may affect data handling and sharing\\
 >> Become aware of relevant requirements, policies, and guidelines\\
 >> Be specific about sensitive data and personal data\\
->> Early approaching of processes that can be time-consuming ensures project progress\\
+>> Early consideration of processes that can be time-consuming ensures project progress\\
 >> Collect information about relevant policies, guidelines and central documents for later reference\\
 " %}
 
@@ -44,7 +44,7 @@ turing:
 National legislation, institutional guidelines and international norms have implications for the handling of research data. Often there is a need to balance availability and openness with confidentially. Both researchers and research institutions are legally responsible for complying with legal and ethical requirements.
 
 ### The research-performing institution(s)
-The research institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed. In all research collaborations, it is important to define responsibilities and document them in agreements or contracts.
+The research institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed. In all research collaborations, it is important to define roles and responsibilities and document them in agreements or contracts.
 
 Research institution commonly have policies or guidelines for data management, sometimes as part of Open Science guidelines. There may also be specific routines or processes to be followed. Identifying such policies, guidelines, or processes will help you recognize research data management requirements and routines to be aware of.
 
@@ -53,7 +53,7 @@ According to the [Act relating to the processing of personal data (The Personal 
 In projects that are regulated by [the Health Research Act (Norwegian: Helseforskningsloven)](https://lovdata.no/dokument/NL/lov/2008-06-20-44), the host institution acts as [research-responsible entity (Norwegian: Forskningsansvarlig)](https://www.forskningsetikk.no/ressurser/fbib/lover-retningslinjer/forskningsansvarlig-ihht-helseforskningsloven/ "2024-07-17").
 
 ### Research Ethical Guidelines and Codes of conduct
-Ethical considerations may affect how data will be handled and shared, therefore knowledge of generic and subject-specific research ethical guidelines and codes of conduct is important. The [Act on Ethics and Integrity in Research (Norwegian: Forsknigsetikkloven)](https://lovdata.no/dokument/NL/lov/2017-04-28-23) defines responsibilities of both research institutions and individual researchers. Furthermore, it defines an advisory role of National Research Ethics Committees that provide research area-specific guidance. Health research is handled by Regional Ethics Committees.
+Ethical considerations may affect how data will be handled and shared, therefore knowledge of generic and subject-specific research ethical guidelines and codes of conduct is important. The [Act on Ethics and Integrity in Research (Norwegian: Forskningsetikkloven)](https://lovdata.no/dokument/NL/lov/2017-04-28-23) defines responsibilities of both research institutions and individual researchers. Furthermore, it defines an advisory role of National Research Ethics Committees that provide research area-specific guidance. Health research is handled by the Regional Ethics Committees (REK).
 
 [The National Research Ethics Committees (FEK)](https://www.forskningsetikk.no/en/):
 * [National Committee for Medical and Health Research Ethics (NEM)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nem/)
@@ -69,7 +69,7 @@ Further information:
 * [Protect (CESSDA DMEG): Ethics and data protection](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Ethics-and-data-protection "2024-07-17")
 
 ### Ethical approvals
-For certain projects, an ethical pre-approval is needed to execute the project. The approval case numbers should be referred to in the DMP. It is the responsibility of the Researcher to make sure that the project and associated data is in agreement with current legislation and research ethical norms.
+For certain projects, an ethical pre-approval is needed to execute the project. The approval case numbers should be referred to in the DMP. It is the responsibility of the Researcher to make sure that the project and associated data is managed in agreement with current legislation and research ethical norms.
 
 Research projects conducting medical and health research on human beings, human biological material or personal health data must be pre-approved by the Regional committees for medical and health research ethics (REK):
 * [Regional Committees for Medical and Health Research Ethics](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/rek/)
@@ -80,27 +80,27 @@ Research projects conducting animal experiments must seek pre-approval from the 
 * [FOTS (Forsøksdyrforvaltningens tilsyns- og søknadssystem) application portal](https://asp.gitek.no/fdu/pmws.dll/Login "2024-07-17")
 * [Animal use for scientific purposes *Norwegian only*](https://www.forsoksdyrkomiteen.no/ressurser/)
 
-While more common in other countries, in Norway institutional ethical committees currently only have been established at selected institution and faculties. For most domains the researchers will make an ethical assessment of the research project with reference to relevant guidelines and regulations. As part of this assessment, it is necessary to consider the potential harm and risk that may arise from the research. Here consequences of sharing research data should be considered according to the principle of as open as possible as closed as necessary. For international cooperations it is advisable to consider research ethics issues before entering collaborations as perceptions and legislation may differ between countries.
+While institutional ethical committees are common in many countries, in Norway these have only have been established at selected institution and faculties. For most domains the researchers themselves will make an ethical assessment of the research project with reference to relevant guidelines and regulations. As part of this assessment, it is necessary to consider the potential harm and risk that may arise from the research. Here consequences of sharing research data should be considered according to the principle of "as open as possible, as closed as necessary". For international projects it is advisable to consider research ethics issues before entering collaborations as perceptions and legislation may differ between countries.
 
 Contact research advisors or [research support staff](/pages/support_00_local_disc) about local routines.
 
 ### Personal data and data privacy
-As processing of personal data is followed by data management requirements, being specific about personal data is part of the DMP. It is the responsibility of the researcher to make sure that data processing is in agreement with the national legislation and institutional policies and routines. If personal data is to be FAIR, and available for future research or shared openly, considerations on how this can be done must be made prior to data collection.
+As processing of personal data entails data management requirements, being specific about personal data is part of the DMP. It is the responsibility of the researcher to make sure that data processing is in agreement with the national legislation and institutional policies and routines. If personal data is to be FAIR, and available for future research or shared openly, considerations on how this can be done must be made prior to data collection.
 
 Personal data is any information that can be linked to an identifiable person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: [Personopplysningsloven](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. Any processing of personal data requires a lawful basis. 
 
-Extra care must be taken for processing of special categories of personal data (often called sensitive personal data). Special categories include information about: Race or ethnic background; Political, philosophical, or religious beliefs; Health information and health related conditions; Sexual orientation or behaviour; Membership in trade unions; Genetic and biometric information intended to identify a physical person.
+Extra care must be taken when processing special categories of personal data (often called sensitive personal data). Special categories include information about: Race or ethnic background; Political, philosophical, or religious beliefs; Health information and health related conditions; Sexual orientation or behaviour; Membership in trade unions; Genetic and biometric information intended to identify a physical person.
 
-The principle of data minimization entails limiting the amount of personal data collected and processed to what is necessary to achieve the purpose of the data processing and should be considered whenever collection of personal data is planned.
+The principle of data minimization entails limiting the amount of personal data collected and processed, to include only what is necessary to achieve the purpose of the data processing. This should be considered whenever collection of personal data is planned.
 
 * The Personal Data Act ([Norwegian: Lov om behandling av personopplysninger (personopplysningsloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)
 * [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
 * [The Norwegian Data Protection Authority (Datatilsynet) on the Personal Data Act *Norwegian only*](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/om-personopplysningsloven-og-nar-den-gjelder/ "2024-07-17")
 * [National Research Ethics Comittees: Q&A: New legislation on personal data - what does it mean for research? *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/)
 
-If data are completely anonymous, they will not considered personal data, i.e. data collected anonymously and not linked to a directly or indirectly person at any stage of the research process. As long as a link exist or can be re-created the data are de-identified or pseudonymised and considered personal data. If data is anonymized during the course of the research project, the project is processing  personal data.
+If data is completely anonymous, it is not considered personal data. This means that data has been collected anonymously and not linked to a directly or indirectly person at any stage of the research process. As long as a link exists or can be re-created the data is only de-identified or pseudonymised and considered personal data. If data is anonymized during the course of the research project, the project is processing  personal data.
 
-It is a common misunderstanding that research ethics and privacy protection is the same thing, yet it is important to remember that complying with privacy legislation and conducting research ethical considerations are independent processes. Read more about the distinction between data protection and privacy by [National Research Ethics Committees: The Personal Data Act - Research ethics - far more than privacy](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/legal-statutes-and-guidelines/the-personal-data-act/ "2024-07-17")
+It is a common misunderstanding that research ethics and privacy protection is the same thing. It is important to remember that complying with privacy legislation and conducting research ethical considerations are independent, although related, processes. Read more about the distinction between data protection and privacy by [National Research Ethics Committees: The Personal Data Act - Research ethics - far more than privacy](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/legal-statutes-and-guidelines/the-personal-data-act/ "2024-07-17")
 
 ### Sensitive data
 Sensitive data is data that must be protected against unwanted disclosure. Personal data is one of many reasons to take precautions when processing and storing data. The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary".
@@ -111,7 +111,7 @@ Reasons for sensitivity (non-exhaustive):
 * Export control regulations
 	* Export Control Act ([Norwegian: Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v.(eksportkontrollloven)](https://lovdata.no/dokument/NL/lov/1987-12-18-93)
 	* [Report Guidelines and tools for responsible international knowledge cooperation (2023)](https://hkdir.no/en/rapporter-undersokelser-og-statistikk/guidelines-and-tools-for-responsible-international-knowledge-cooperation-report)
-* Intellectual Property Rights (IPR), commercial issues, or confidentiality issues
+* Intellectual Property Rights (IPR), commercial issues, trade secrets or confidentiality issues
 	* Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40))
 	* Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9))
 	* Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126))
