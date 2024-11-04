@@ -89,7 +89,7 @@ As processing of personal data entails data management requirements, being speci
 
 Personal data is any information that can be linked to an identifiable person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: [Personopplysningsloven](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. Any processing of personal data requires a lawful basis. 
 
-Extra care must be taken whe processing special categories of personal data (often called sensitive personal data). Special categories include information about: Race or ethnic background; Political, philosophical, or religious beliefs; Health information and health related conditions; Sexual orientation or behaviour; Membership in trade unions; Genetic and biometric information intended to identify a physical person.
+Extra care must be taken when processing special categories of personal data (often called sensitive personal data). Special categories include information about: Race or ethnic background; Political, philosophical, or religious beliefs; Health information and health related conditions; Sexual orientation or behaviour; Membership in trade unions; Genetic and biometric information intended to identify a physical person.
 
 The principle of data minimization entails limiting the amount of personal data collected and processed, to include only what is necessary to achieve the purpose of the data processing. This should be considered whenever collection of personal data is planned.
 
