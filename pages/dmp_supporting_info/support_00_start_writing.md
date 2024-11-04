@@ -16,16 +16,15 @@ sidebar: dmp_supporting_info
 " %}
 
 ## Get started with writing your Data Management Plan in Data Stewardship Wizard
-After logging in for the first time, you will have to start by creating a project. Simply said, the different plans you have worked on for your research projects over time are listed as “projects” in DSW. So, projects are equivalents to plans that you are working on. Please start by creating a new project (plan), and use a good title for later revisions.
+After logging in for the first time, you will have to start by creating a project. Simply said, the different plans you have worked on for your research projects over time are listed as “projects” in DSW. So, projects are in some sense equivalents to plans that you are working on. Please start, as a first step, by creating a new project (plan), and use a good title for later revisions.
 
-Projects/ planning drafts are auto-saved, see under “Projects” – last edited. Management of your plans, editing, revisions, exports – it all starts here. You can think of it as a set of documents, simplified. 
+Projects/ planning drafts are auto-saved, details can be seen under “Projects” – last edited. Management of your plans, editing, revisions, exports – it all starts here. You can also think of listed projects as a set of listed documents you are working on, in a simplified sense. 
 
-Your planning process will be guided by a set of questions that you answer in your plan/ project. And when beginning to set up your plan, you can therefore choose between different forms/questionnaires that all will have a defined set of questions that will be used in your planning process. 
+The second step is to choose a proper title for your planning project, and then the next step: choosing a project template to use for your project. A project template present you with a questionnaire in the project workspace, as well as a set of default values, so you don't have to start from scratch. Select the questionnaire variant that fits your project best.   
 
 
-### Choose the right template for your project
-To accommodate different project needs, the questionnaire consists of different modules that can be combined and there are four standard variants of the DMP questionnaire.\
-Project templates are prepared projects with knowledge models, question tags, and document templates setup, so you don't have to start from scratch. Select the questionnaire variant that fits your project best.
+### Choose the right project template for your project
+To accommodate different project needs, you will have access to four different project templates in this setup. Select the questionnaire variant that fits your project best.
 
 For externally funded projects:
 * **Science Europe/RCN and ELSI** questionnaire is a comprehensive questionnaire for projects with external funding and/or external partners. Handling of sensitive data or personal data or requiring ethical pre-application can be addressed or marked as not relevant to the project. This questionnaire is in line with the Science Europe DMP guidance and thus meeting the requirements of research funders such as the Research Council of Norway or Horizon Europe.
@@ -35,12 +34,13 @@ For less complex projects:
 * **Minimum** questionnaire covers a core set of questions adapted to less complex projects (e.g. student projects). This questionnaire is suited for projects without external funding or external project partners. For less complex projects that are handling sensitive data or personal data or requiring ethical pre-application, see below.
 * **Minimum and ELSI** combines the **Minimum** questionnaire with questions on handling sensitive data or personal data or requiring ethical pre-application.
 
+### Advanced setup of questionnaire
 For other combinations or specific needs (e.g. writing an 'umbrella DMP') or transferring answers from one questionnaire to another questionnaire variant, contact [support staff at your institution](/pages/support_00_local_disc).\
 Advanced users can customize the questionnaire within the framework of the knowledge model, select questions by tags, and configure the document template and other settings.
 
 
 ### Fill out the questionnaire
-Find a description of the core steps below. For more detailed descriptions, see the [instructional video](https://www.youtube.com/watch?v=XrI8qYtWSBw ) and the [user guidance](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html) by DSW.
+You will find a description of the core steps below. For more detailed descriptions, see the [instructional video](https://www.youtube.com/watch?v=XrI8qYtWSBw ) and the [user guidance](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html) by DSW.
 
 {% include image.html file="dsw_phases.png" caption="Select project phase: Initial, midway or complete DMP" alt="Phase selection menu: Initial, midway or complete DMP" %}
 
@@ -57,13 +57,18 @@ There is different types of questions:
 * Item-select: refer to an item in another question by selecting it from the drop-down menu. This requires that the original question is filled out.
 
 
-### Navigate the planning “workspace”/ “project space”
+### Controlling what is presented in the Questionnaire tab
 **View** – note that you can control what is presented in the user interface. By default, only questions desirable the chosen project phase are visible and question tags are hidden.
 {% include image.html file="dsw_view.png" caption="View: Change visible features" alt="View menu allows to view or hide question tags and other features." %}
 
-**Tabs** - what do they mean?
-* Questionnaire: filling in the questions = defining your plan
-* Metrics – showing your metrics, connected to how much of the planned is filled out (other types FAIR/openness metrics are not supported in the current knowledge model, yet technically possible)
-* Preview – to preview your export (but what kind of export will need to be defined)
-* Documents = the place you export of document from the solution. Currently, html and pdf are supported.
-* Settings – important to set what kind of export document that is wanted for preview.
+### The Metrics tab
+This tab show your metrics, connected to how much of the planned is filled out (other types FAIR/openness metrics are not supported in the current knowledge model, yet technically possible)
+
+### The Preview tab
+Use the privew tab for previewing your finalized plan as you go along. 
+
+### The Documents tab 
+Use the Documents tab to export finalized plans in different formats. Currently, html and pdf are supported.
+
+### The settings tab
+Here you can change the document template and document format, settings that again defines your preview and function as default values for exporting finaliced plans. 
