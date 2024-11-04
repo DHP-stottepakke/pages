@@ -9,7 +9,7 @@ description: Supporting DMP Information, DMP writing, Data Stewardship Wizard, D
 sidebar: dmp_supporting_info
 dsw:
 - name: About the Data Management Plan
-  uuid: knowledge-models/elixir.no:dsw-km-bott-localization:latest/preview?questionUuid=7ed9939b-b85c-48bf-87f5-2aa081bb5267other:
+  uuid: knowledge-models/elixir.no:dsw-km-bott-localization:latest/preview?questionUuid=7ed9939b-b85c-48bf-87f5-2aa081bb5267
 ---
 
 {% include callout.html type="note" content="
@@ -64,10 +64,10 @@ There is different types of questions:
 
 
 ### Navigate the planning “workspace”/ “project space”
-View – note that you can control what is presented in the user interface. By default, only questions desirable the chosen project phase are visible and question tags are hidden.
+**View** – note that you can control what is presented in the user interface. By default, only questions desirable the chosen project phase are visible and question tags are hidden.
 {% include image.html file="dsw_view.png" caption="View: Change visible features" alt="View menu allows to view or hide question tags and other features." %}
 
-Tabs, what do they mean?
+**Tabs** - what do they mean?
 * Questionnaire: filling in the questions = defining your plan
 * Metrics – showing your metrics, connected to how much of the planned is filled out (other types FAIR/openness metrics are not supported in the current knowledge model, yet technically possible)
 * Preview – to preview your export (but what kind of export will need to be defined)
