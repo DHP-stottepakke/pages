@@ -42,11 +42,10 @@ Advanced users can customize the questionnaire within the framework of the knowl
 ### Fill out the questionnaire
 Find a description of the core steps below. For more detailed descriptions, see the [instructional video](https://www.youtube.com/watch?v=XrI8qYtWSBw ) and the [user guidance](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html) by DSW.
 
-Filling out the questionnaire is done in three steps:
-1. Choose the project phase (in the drop-down menu on top of the left navigation pane): Initial DMP (the first version), Midway DMP (revising the DMP and adding more information), or Complete DMP(concluding the project and reporting results).
-
 {% include image.html file="dsw_phases.png" caption="Select project phase: Initial, midway or complete DMP" alt="Phase selection menu: Initial, midway or complete DMP" %}
 
+Filling out the questionnaire is done in three steps:
+1. Choose the project phase (in the drop-down menu on top of the left navigation pane): Initial DMP (the first version), Midway DMP (revising the DMP and adding more information), or Complete DMP(concluding the project and reporting results).
 2. Select the chapter. There are nine DMP chapters focussing on different aspects. It is recommended to fill them out in a chronological order.
 3. Answer the questions. The navigation bar to the left can be used actively to jump between questions without scrolling. For additional information, the links in the questionnaire lead to the question-specific [Supporting Information for Users](/pages/dmp_supporting_info/).
 
