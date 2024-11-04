@@ -118,3 +118,4 @@ Further reading:
 * [OpenAIRE: How do I license my research?](https://www.openaire.eu/how-do-i-license-my-research-data)
 * [Figshare: On choosing licenses](https://help.figshare.com/article/what-is-the-most-appropriate-licence-for-my-research)
 * [ELIXIR-BE RDM: Data licences](https://rdm.elixir-belgium.org/data_licences)
+* [Ufal License selector wizard](https://ufal.github.io/public-license-selector/)
