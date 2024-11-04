@@ -8,10 +8,10 @@ page_id: support_00_start_writing
 description: Supporting DMP Information, DMP writing, Data Stewardship Wizard, DSW, User guide
 sidebar: dmp_supporting_info
 other:
-- name: "DSW User Guide: Questionnaire"
-  url: https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html%23project-questionnaire
 - name: "Video: Introduction to Data Stewardship Wizard"
-  url: https://www.youtube.com/watch?v=XrI8qYtWSBw  
+  url: https://www.youtube.com/watch?v=XrI8qYtWSBw
+- name: "DSW User Guide: Project questionnaire"
+  url: https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html
 ---
 
 {% include callout.html type="note" content="
