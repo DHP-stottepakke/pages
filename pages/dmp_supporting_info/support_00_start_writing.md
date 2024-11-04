@@ -10,8 +10,7 @@ sidebar: dmp_supporting_info
 other:
 - name: "Video: Introduction to Data Stewardship Wizard"
   url: https://www.youtube.com/watch?v=XrI8qYtWSBw
-- name: "DSW User Guide: Project questionnaire"
-  url: https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html
+
 ---
 
 {% include callout.html type="note" content="
