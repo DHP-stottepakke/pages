@@ -7,9 +7,6 @@ contributors: [Jenny Ostrop, Svein Høier]
 page_id: support_00_start_writing
 description: Supporting DMP Information, DMP writing, Data Stewardship Wizard, DSW, User guide
 sidebar: dmp_supporting_info
-other:
-- name: "Video: Introduction to Data Stewardship Wizard"
-  url: https://www.youtube.com/watch?v=XrI8qYtWSBw
 ---
 
 {% include callout.html type="note" content="
@@ -24,8 +21,6 @@ After logging in for the first time, you will have to start by creating a projec
 Projects/ planning drafts are auto-saved, see under “Projects” – last edited. Management of your plans, editing, revisions, exports – it all starts here. You can think of it as a set of documents, simplified. 
 
 Your planning process will be guided by a set of questions that you answer in your plan/ project. And when beginning to set up your plan, you can therefore choose between different forms/questionnaires that all will have a defined set of questions that will be used in your planning process. 
-
-Find a description of the core steps below. For more detailed descriptions and an instructional video, see the [DSW user guidance](/pages/support_00_start_writing#further-resources).
 
 
 ### Choose the right template for your project
@@ -45,6 +40,8 @@ Advanced users can customize the questionnaire within the framework of the knowl
 
 
 ### Fill out the questionnaire
+Find a description of the core steps below. For more detailed descriptions, see the [instructional video](https://www.youtube.com/watch?v=XrI8qYtWSBw ) and the [user guidance](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html) by DSW.
+
 Filling out the questionnaire is done in three steps:
 1. Choose the project phase (in the drop-down menu on top of the left navigation pane): Initial DMP (the first version), Midway DMP (revising the DMP and adding more information), or Complete DMP(concluding the project and reporting results).
 
