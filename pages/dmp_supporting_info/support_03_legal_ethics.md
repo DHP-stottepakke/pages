@@ -33,9 +33,8 @@ turing:
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> Legal and ethical considerations may affect data handling and sharing\\
 >> Become aware of relevant requirements, policies, and guidelines\\
->> Be specific about sensitive data and personal data\\
+>> Legal and ethical considerations may affect data handling and sharing, particularly if projects handle sensitive data or personal data\\
 >> Early consideration of processes that can be time-consuming ensures project progress\\
 >> Collect information about relevant policies, guidelines and central documents for later reference\\
 " %}
