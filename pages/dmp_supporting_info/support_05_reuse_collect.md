@@ -111,7 +111,7 @@ Further reading:
 To make data understandable and accurate, and the results reliable by transparency or reproducibility, it is crucial that the data origin and relevant parameters as well as all processing and filtering steps are documented. Re-users of the data also need this information to assess the data quality and decide whether the data can be used for their purpose.
 
 If traditional lab notebooks are used, the notes should be made available in electronic form along with your data.
-For qualitative data, consider how to enhance transparency regarding data coding and analysis trough documentation.
+For qualitative data, consider how to enhance transparency regarding data coding and analysis through documentation.\
 For historical research, consider how notes and annotations can be made available along with the (data)sources.
 
 Further reading:
