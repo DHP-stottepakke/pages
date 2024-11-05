@@ -51,10 +51,9 @@ Some data should not be made openly available, according to law regulations (inc
 
 [FEGA (Federated European Genome-phenome Archive)](https://ega.elixir.no/) is another archive that may be suitable. FEGA is designed to help researchers securely store, access, and share sensitive human data across multiple countries, while adhering to local privacy regulations such as the GDPR.
 
-CLARINO may also be mentioned here. CLARINO is Norway's part of the European CLARIN infrastructure network, which stands for Common Language Resources and Technology Infrastructure. CLARINO includes a platform where researchers can store, share, and access language data in standardized formats. This also includes access with restricted access, since language research easily includes person identifying data.
+[CLARINO](https://repo.clarino.uib.no/xmlui/) may also be mentioned here. CLARINO is Norway's part of the European CLARIN infrastructure network, which stands for Common Language Resources and Technology Infrastructure. CLARINO includes a platform where researchers can store, share, and access language data in standardized formats. This also includes access with restricted access, since language research easily includes person identifying data.
 
 [Data Use Ontology](https://www.ga4gh.org/product/data-use-ontology-duo/) is a service that may be useful for data that can not be openly available. This service is especially developed for sensitive human data.
-<!-- *brief explanation of restricted access, examples in Norway: Sikt, FEGA, CLARINO* -->
 <!-- *mention Data Use Ontology, Data Use Conditions* -->
 
 ### Persistent identifiers
@@ -75,9 +74,9 @@ If certain datasets can not be made available or only be made available under re
 This question, and its sub-questions, will assist you in finding archive(s)/repository(-ies) suitable to deposit your data.
 
 Where do you plan to archive you research data? Remember that this can also include project results that you are not immediately thinking of as 'data'.
-As archive choice often decides over metadata standards to be followed, it is advisable to investigate this question early in the project.
+As archive choice often decides over metadata standards to be followed, it is advisable to investigate this question early in the project. [Re3data](https://www.re3data.org/) and [FAIRsharing](https://fairsharing.org/) are registries that may help identifying suitable repositories.
 
-Timely archiving of datasets in trustworthy repositories is recommended. Depending on the study and the type of data, it may be appropriate to archive everything in one repository or archiving different parts in different repositories that will link to the related datasets. Re3data and FAIRsharing are registries that may help identifying suitable repositories.
+Timely archiving of datasets in [trustworthy repositories](/pages/support_08_preserve_publish#trustworthy-research-data-archives) is recommended. Depending on the study and the type of data, it may be appropriate to archive everything in one repository or archiving different parts in different repositories that will link to the related datasets. 
 
 Evaluate which archive(s) will be most relevant for your datasets, using the following the decision tree:
 
@@ -94,8 +93,8 @@ Evaluate which archive(s) will be most relevant for your datasets, using the fol
 
 In some cases it is important to contact the research data archive beforehand. 
 
-*elaborate*
-*make sure trustworthy repository is explained in terms and linked to*
+<!-- *elaborate*
+*make sure trustworthy repository is explained in terms and linked to* -->
 
 ### List data that you have deleted or will delete
 Determining which data are of value and should be preserved or whether data need to or can be deleted, is a decision that should be taken actively. If data(sets) are deleted, they can be listed in this question, including a brief description of the reasons for deletion.
@@ -114,7 +113,11 @@ Archiving of datasets includes the deposition of datasets in a research data arc
 Several sub-questions allow to refer to information in other DMP chapters or external databases. Alternatively, it is always possible to enter a free-text answer.
 
 #### Which metadata and documentation accompanies the dataset?
-*write something about standards and use of ontologies*
+Explain to the best of your knoledge what metadata (what metadata standard) is used for your dataset.
+Metadata is structured information about a dataset (or a document). _How to_ structure the information is done in various ways. Different metadata schemas are designed to capture the information, and such a schema is called a metadata standard. A metadata standard may be designed to suit a subject domain or a specific research area. There are, naturally, different information needs to describe a dataset with biological data, compared to a dataset which revolves on social sciences.
+A metadata schema may capture information by the use of controlled vocabularies. That way, information will be standardised and not be disrupted by different persons using different words or typology for same issues. Such a standardisation will preferably make use of ontologies from a subject domain, and metadata standards will thus often be subject specific. The use of controlled vocabularies and ontologies will increase the quality and findability of the archived data.
+Note that you here may reuse the answer from chapter VI: 'Data documentation during the project'.
+<!-- *write something about standards and use of ontologies* -->
 
 #### Where has the data been archived?
 *write something about preservation strategy if you are NOT using a trustworthy repository*
