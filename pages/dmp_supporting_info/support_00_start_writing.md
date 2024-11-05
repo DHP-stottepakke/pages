@@ -67,7 +67,7 @@ This tab show your metrics, connected to how much of the planned is filled out.
 Other types FAIR/openness metrics are not supported in the current knowledge model, yet technically possible.
 
 ### The Preview tab
-Use the privew tab for previewing your finalized plan as you go along. 
+Use the privew tab for previewing your finalised plan as you go along. 
 
 ### The Documents tab 
 Use the Documents tab to export finalised plans in different formats. Currently, html and pdf are supported.
