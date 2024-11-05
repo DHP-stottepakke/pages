@@ -48,7 +48,7 @@ Discuss briefly which data sharing policies, guidelines or conventions may apply
 
 Both institutions and research funders set requirements for research data management and sharing of research data. Furthermore, many research journals require that data underlying scientific articles is made available. Investigating the submissions guidelines in relevant journals in your field can therefore be a good idea. In addition, there can be disciplinary conventions on how data should be shared with the community.
 
-Read more about about requirements by institutions and research funders and find links on the page [Research data management and DMP requirements](/pages/support_00_dmp_requirements).
+Read more about requirements by institutions and research funders and find links on the page [Research data management and DMP requirements](/pages/support_00_dmp_requirements).
 
 Investigating discipline-rooted resources and disciplinary support services can be helpful for identifying relevant community conventions. For more information, see the resources under [Get local/disciplinary support](/pages/support_00_local_disc).
 
@@ -62,7 +62,7 @@ In multi-partner projects, data ownership and responsibilities should be formali
 Examples of aspects that may need consideration:
 * Collection/ processing of personal data
 	* Investigate need for Data Protection Impact Assessment (DPIA) if the project involves a "high risk" to people's personal information
-	* Investigate need for data processor agreements or joint controllership agreement in multi-partner projects
+	* Investigate need for data processor agreements or joint controllership agreements in multi-partner projects
 	* Consult privacy guidelines and routines at your institution. For questions about processing of personal data contact your local data protection officer (DPO).
 * Export control regulations
 * Confidentiality/ commercial issues
@@ -109,7 +109,7 @@ Some datasets cannot be made publicly available. Decisions to not share data sho
 If data cannot be made available openly, consider if datasets still could be made available with restricted access.
 
 #### Who else could be interested in using the data?
-What application for your data inside or outside your own research field can you foresee? Will other researchers, public administration, industry or the general public be able to (re)use your results? In short: why is your data valuable? This question relates both to general reuse possibilities for these type of data and concrete plans to reuse the data from this project.
+What application for your data inside or outside your own research field can you foresee? Will other researchers, public administration, industry or the general public be able to (re)use your results? In short: why is your data valuable? This question relates both to general reuse possibilities for this type of data and concrete plans to reuse the data from this project.
 
 
 ### Resources and responsibilities
@@ -142,7 +142,7 @@ Some aspects that could be addressed in this section:
 * If data cannot be made available openly, explain why. Describe relevant infrastructure to be used, e.g. for handling of sensitive data.
 * Familiarity with relevant guidelines and routines, e.g. institutional Open Science guidelines
 
-Since 2023, The Research Council of Norway has incorporated assessment of Open Research under two subsection of the 'Impact' criterion: "Potential impact of the proposed research" (for example including making research data FAIR) and "Communication and exploitation" (for example including which archiving solutions will be used for research data).
+Since 2023, The Research Council of Norway has incorporated assessment of Open Research under two subsections of the 'Impact' criterion: "Potential impact of the proposed research" (for example including making research data FAIR) and "Communication and exploitation" (for example including which archiving solutions will be used for research data).
 * [The Research Council of Norway: Assessment of open science in grant applications](https://www.forskningsradet.no/en/financing/application-process/assessment-open-science/ "2024-09-11")
 
 In Horizon Europe, Open Science practices are considered in the evaluation of proposals under the 'Excellence' and under the 'Quality and efficiency of implementation' assessment criterion. Open access to research outputs such as publications, data, software, models, algorithms, and workflows is considered mandatory practice and failure to address this will result in a lower evaluation score. Adoption of additional recommended Open Science practices can improve the evaluation score.
