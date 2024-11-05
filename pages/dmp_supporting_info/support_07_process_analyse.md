@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Processing, analysing and interpreting data
 search_exclude: false
-contributors: [Korbinian Bösl, Jenny Ostrop]
+contributors: [Korbinian Bösl, Jenny Ostrop, Ingrid Heggland]
 page_id: support_07_process_analyse
 description: Supporting DMP Information, process data, data processing, analyse data, data analysis, analyze, analyzis
 sidebar: dmp_supporting_info
@@ -38,7 +38,7 @@ Data processing and analysis is a central element in the research process and pa
 ## Question-specific guidance
 
 ### Do you need a shared space with your collaborators to work on data analysis?
-It might be worth to consider to have a shared work environment with collaborators to avoid the duplication of data, reduce data transfer issues and provide the same software to all project participants. If you are working with large datasets, it bandwidth to compute infrastructure or data sources might become an issue. Also consider how critical the access to the workspace is for your project or whether you can tolerate data loss and downtime. It is often best to rely on professionals to operate the infrastructure, also to avoid straining project resources my infrastructure maintenance. Also consider how data is entering and leaving the environment. Sometimes the provisioning of the environment will require active application or will take time.
+It might be worth to consider to have a shared work environment with collaborators to avoid the duplication of data, reduce data transfer issues and provide the same software to all project participants. If you are working with large datasets, bandwidth to compute infrastructure or data sources might become an issue. Also consider how critical the access to the workspace is for your project or whether you can tolerate data loss and downtime. It is often best to rely on professionals to operate the infrastructure, also to avoid straining project resources my infrastructure maintenance. Also consider how data is entering and leaving the environment. Sometimes the provisioning of the environment will require active application or will take time.
 For the workspace you should follow similar [considerations as for storage is aspects of security](pages/support_04_store_protect).
 
 Shared workspace examples (non-exhaustive):
@@ -55,6 +55,9 @@ Shared workspace examples (non-exhaustive):
 If you require a large amount of CPU hours, I/O bandwidth or memory it is best to try estimating this in advance and to choose a computing infrastructure upfront. The infrastructure might have restrictions, require application and/or payment, and might only be able to run certain software or workflow systems.
 
 If you will use federated computing in you project this should be considered early on.
+
+Further resources on federated data analysis:
+* [DataShield](https://www.datashield.org/)
 
 
 ### Will the data be converted to other file format(s) before archiving?
@@ -89,9 +92,9 @@ Resources on data anonymisation:
 
 
 ### Will you handle different versions of files or documents?
-Being able to track versions of files or documents helps to understand the history of changes and why something was done in a specific way. Thereby it contributes to making data processing and analysis reproducible. Being able to review and possible restore previous versions is another aspect, particularly in collaborative projects with simultaneous changes. Approaches to version control range from establishing routines e.g. for file naming to using version control systems such as git.
+Being able to track versions of files or documents helps to understand the history of changes and why something was done in a specific way. This contributes to making data processing and analysis reproducible. Being able to review and possibly restore previous versions is another aspect, particularly in collaborative projects with simultaneous changes. Approaches to version control range from establishing routines e.g. for file naming to using version control systems such as git.
 
-Version history and different set of data might be especially important, if you are training AI-models with different datasets. You might want to consider to use [git-annex](https://git-annex.branchable.com/), [git-lfs](https://git-lfs.com/) or more specialized systems for this purpose for larger datasets.
+Version history and different sets of data might be especially important, if you are training AI-models with different datasets. You might want to consider to use [git-annex](https://git-annex.branchable.com/), [git-lfs](https://git-lfs.com/) or more specialized systems for this purpose for larger datasets.
 
 Resources on version control:
 * [RDMkit: Data organisation - How do you manage file versioning?](https://rdmkit.elixir-europe.org/data_organisation#how-do-you-manage-file-versioning)
@@ -106,20 +109,27 @@ Another procedure might be to repeat measurements on the same samples/objects.
 
 Further reading:
 * [RDMkit: Data quality](https://rdmkit.elixir-europe.org/data_quality.html)
+* [FAIRCookbook: How to create checksum files](https://faircookbook.elixir-europe.org/content/recipes/findability/checksum-create.html)
 
 
 ### Will you be integrating or linking data from different origins or different types of data?
-When you are integration data from different origins it might be necessary to unify the structure of the data. The most common structures for knowledge representation are: [flat files](https://en.wikipedia.org/wiki/Flat-file_database) (e.g. table formats including tsv, csv, ...), [tabular databases](https://en.wikipedia.org/wiki/Database) (including SQL) and [linked data](https://en.wikipedia.org/wiki/Linked_data). While the complexity of relations and knowledge that can be saved in these structures increases in this order, this might also require additional skills and effort.
+If you are integrating data from different origins it might be necessary to unify the structure of the data. The most common structures for knowledge representation are: [flat files](https://en.wikipedia.org/wiki/Flat-file_database) (e.g. table formats including tsv, csv, ...), [tabular databases](https://en.wikipedia.org/wiki/Database) (including SQL) and [linked data](https://en.wikipedia.org/wiki/Linked_data). While the complexity of relations and knowledge that can be saved in these structures increases in this order, this might also require additional skills and effort.
+
+If possible, it is recommended to use of a common ontology to integrate data from different sources.
 
 Further reading:
 * [FAIRCookbook: Interlinking data using mappings](https://w3id.org/faircookbook/FCB016)
+* [Wikipedia: Linked data](https://en.wikipedia.org/wiki/Linked_data)
 
 
 ### Does your computational approach require validation of results?
+![Static Badge](https://img.shields.io/badge/DSW-HPC-%23CED4DA) *Specific to data/compute heavy projects*\
 In some cases the results of computational steps cannot be considered to be deterministic, for instance due to randomness in the calculation, human inputs and possible errors or differences in the execution across infrastructures. To reduce false findings, the computational steps should be validated in these cases.
 
-This might include:
-* Improved workflow and software versioning systems to reduce human error
-* Replicating results with different tools
-* Repeating (parts of) the calculation on different computing infrastructure and architectures
-* Repeating calculation steps (for parts of) the data
+There are surprisingly many complications that can cause (slight) inconsistencies between results when workflows are run on different compute infrastructures. A good way to make sure this does not occur is to run a subset of all jobs on all different infrastructure to check the consistency.
+
+Validation of results without a golden standard is very hard. One way of doing it is to develop two solutions for a problem (two independent workflows or two independently developed tools) to check whether the results are identical or comparable.
+
+Surrounding all tools in your data processing and analysis workflows with the 'boilerplate' code necessary on the computer system you are using is tedious and error prone. Especially if you are using the same tools in multiple different work flows and/or on multiple different computer architectures. Automated instrumentation, e.g. by using a workflow management system, can prevent many mistakes.
+
+Running a small subset of the data repeatedly can be useful to catch unexpected problems that would otherwise be very hard to detect.

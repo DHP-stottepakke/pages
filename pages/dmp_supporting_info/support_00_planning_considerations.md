@@ -59,7 +59,7 @@ Some processes related to legal and ethical aspects in a research project requir
 
 In multi-partner projects, data ownership and responsibilities should be formalized in contracts or collaboration agreements. In international projects, the applicable legislation needs to be specified.
 
-Examples of aspects that may need consideration:
+Highly relevant examples of aspects that may need consideration:
 * Collection/ processing of personal data
 	* Investigate need for data processor agreements or joint controllership agreements in multi-partner projects
  	* Considerations regarding informed consent from participants, in particulare in medical and health research
@@ -124,7 +124,7 @@ Will research data management (RDM) in the project require additional resources?
 
 Many research funders consider list research data management as eligible costs in applications. Have costs for RDM been included in the project budget?
 
-Please consult [RDMkit and OpenAIRE resources](support_00_planning_considerations#further-resources)for further information on RDM cost calculations.
+Please consult [RDMkit and OpenAIRE resources](support_00_planning_considerations#further-resources) for further information on RDM cost calculations.
 
 
 
