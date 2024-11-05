@@ -61,8 +61,9 @@ In multi-partner projects, data ownership and responsibilities should be formali
 
 Examples of aspects that may need consideration:
 * Collection/ processing of personal data
-	* Investigate need for Data Protection Impact Assessment (DPIA) if the project involves a "high risk" to people's personal information
 	* Investigate need for data processor agreements or joint controllership agreements in multi-partner projects
+ 	* Considerations regarding informed consent from participants, in particulare in medical and health research
+	* Investigate need for Data Protection Impact Assessment (DPIA) if the project involves a "high risk" to people's personal information
 	* Consult privacy guidelines and routines at your institution. For questions about processing of personal data contact your local data protection officer (DPO).
 * Export control regulations
 * Confidentiality/ commercial issues
@@ -70,8 +71,7 @@ Examples of aspects that may need consideration:
 	* For help with IPR aspects contact your local innovation advisor and/or technology transfer office
 * Ethical pre-approval (if e.g. conducting medical and health research, animal experiments)
 	* Investigate application routines
-* Explicit consent from human participants
-* Informed consent form participants in medical and health research
+ 	* Creation of common ethical grounds in international projects	
 * Protection of cultural heritage
 * Research on endangered species
 * Indigenous data governance
@@ -99,7 +99,7 @@ See guidance on the DMP chapter [Storing and protecting data during the project]
 #### What data will the project collect or generate?
 Briefly discuss what data the project will collect or generate.
 
-Remember that the research data is a broad term and includes all sorts of data used in research including observational and experimental data, surveys, registry data, simulations, and other data records. Also related project results such as research software/code should be included.
+Remember that research data is a broad term and includes all sorts of data used in research including observational and experimental data, surveys, registry data, simulations, and other data records. Also related project results such as research software/code should be included.
 
 Read more about identifying data and approaches to research data management under [Discipline-rooted approaches to research data management](/pages/support_00_local_disc#discipline-rooted-approaches-to-research-data-managmement)
 
