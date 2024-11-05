@@ -54,7 +54,6 @@ Some data should not be made openly available, according to law regulations (inc
 [CLARINO](https://repo.clarino.uib.no/xmlui/) may also be mentioned here. CLARINO is Norway's part of the European CLARIN infrastructure network, which stands for Common Language Resources and Technology Infrastructure. CLARINO includes a platform where researchers can store, share, and access language data in standardized formats. This also includes access with restricted access, since language research easily includes person identifying data.
 
 [Data Use Ontology](https://www.ga4gh.org/product/data-use-ontology-duo/) is a service that may be useful for data that can not be openly available. This service is especially developed for sensitive human data.
-<!-- *brief explanation of restricted access, examples in Norway: Sikt, FEGA, CLARINO* -->
 <!-- *mention Data Use Ontology, Data Use Conditions* -->
 
 ### Persistent identifiers
