@@ -77,7 +77,7 @@ This question, and its sub-questions, will assist you in finding archive(s)/repo
 Where do you plan to archive you research data? Remember that this can also include project results that you are not immediately thinking of as 'data'.
 As archive choice often decides over metadata standards to be followed, it is advisable to investigate this question early in the project. [Re3data](https://www.re3data.org/) and [FAIRsharing](https://fairsharing.org/) are registries that may help identifying suitable repositories.
 
-Timely archiving of datasets in [trustworthy repositories](https://dhp-stottepakke.github.io/pages/support_08_preserve_publish#trustworthy-research-data-archives) is recommended. Depending on the study and the type of data, it may be appropriate to archive everything in one repository or archiving different parts in different repositories that will link to the related datasets. 
+Timely archiving of datasets in [trustworthy repositories](/pages/support_08_preserve_publish#trustworthy-research-data-archives) is recommended. Depending on the study and the type of data, it may be appropriate to archive everything in one repository or archiving different parts in different repositories that will link to the related datasets. 
 
 Evaluate which archive(s) will be most relevant for your datasets, using the following the decision tree:
 
