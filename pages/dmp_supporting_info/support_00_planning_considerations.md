@@ -46,7 +46,7 @@ The guiding questions are also available as [questionnaire in Data Stewardship W
 #### Which data sharing requirements and conventions apply?
 Discuss briefly which data sharing policies, guidelines or conventions may apply for your project.
 
-Both institutions and research funders set requirements for research data management and sharing of research data. Furthermore, many research journals require that data underlying scientific articles is made available. Investigating the submissions guidelines in relevant journals in your field can therefore be a good idea. In addition, there can be disciplinary conventions on how data should be shared with the community.
+Both institutions and research funders set requirements for research data management and sharing of research data. Furthermore, many scholarly journals require that data underlying scientific articles is made available. Investigating the submissions guidelines in relevant journals in your field can therefore be a good idea. In addition, there can be disciplinary conventions on how data should be shared with the community.
 
 Read more about requirements by institutions and research funders and find links on the page [Research data management and DMP requirements](/pages/support_00_dmp_requirements).
 
@@ -55,7 +55,7 @@ Investigating discipline-rooted resources and disciplinary support services can 
 #### Will ethical or legal aspects require attention?
 Discuss briefly if there are legal or ethical aspects in the project that may require attention.
 
-Some processes related to legal and ethical aspects in a research project require early planning, have implications for data management and can be time-consuming. Not addressing them early enough may come with a risk of delaying or affecting the research project. Make sure that you are familiar with how these aspects are handled at your institution and how much time should be allowed for the respective processes.
+Some processes related to legal and ethical aspects in a research project require early planning, have implications for data management, and can be time-consuming. Not addressing them early enough may come with a risk of delaying or affecting the research project. Make sure that you are familiar with how these aspects are handled at your institution and how much time should be allowed for the respective processes.
 
 In multi-partner projects, data ownership and responsibilities should be formalized in contracts or collaboration agreements. In international projects, the applicable legislation needs to be specified.
 
