@@ -73,4 +73,4 @@ Use the privew tab for previewing your finalized plan as you go along.
 Use the Documents tab to export finalized plans in different formats. Currently, html and pdf are supported.
 
 ### The settings tab
-Here you can change the document template and document format, settings that again defines your preview and function as default values for exporting finaliced plans. 
+Here you can change the document template and document format, settings that again defines your preview and function as default values for exporting finalised plans. 
