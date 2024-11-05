@@ -62,7 +62,9 @@ There is different types of questions:
 {% include image.html file="dsw_view.png" caption="View: Change visible features" alt="View menu allows to view or hide question tags and other features." %}
 
 ### The Metrics tab
-This tab show your metrics, connected to how much of the planned is filled out (other types FAIR/openness metrics are not supported in the current knowledge model, yet technically possible)
+This tab show your metrics, connected to how much of the planned is filled out. 
+
+Other types FAIR/openness metrics are not supported in the current knowledge model, yet technically possible.
 
 ### The Preview tab
 Use the privew tab for previewing your finalized plan as you go along. 
