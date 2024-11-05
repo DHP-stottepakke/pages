@@ -155,7 +155,7 @@ Further reading:
 Research software, computational models and simulations are related to research data as a research output, yet more dynamic. Describe what will be generated during the research project. This may be everything from a few lines of code for data analysis to a more complex project or software package. 
 
 When writing code, use systems for version control and remember to document and refer to the version of the code used for the research results. By depositing the version of the code you use in a repository, you make it easy to refer to the correct version of the code in your publication(s) using a DOI. 
-For code, different licenses are used than for data and publication, if you are working on and modifying code which has already been shared by others, then best practice is to assign the same license when you share.
+For code, different licenses are used than for data and publication. If you are working on and modifying code which has already been shared by others, then best practice is to assign the same license when you share.
 
 
 If writing software/models is a significant part of the research project, you can consider writing a Software Management Plan (SMP) to supplement this DMP.
