@@ -66,7 +66,7 @@ Useful approaches to identify scientific datasets:
 * Datasets in relevant discipline-specific data archives
 	* Where do researchers in the same field publish their data? Check data availability statements in publications or publication guidelines of relevant journals.
 	* Curated research data registries that allow filtering of discipline: [re3data.org](https://www.re3data.org/), [fairsharing.org](https://fairsharing.org/)
-* Metasearch-services for datases. Different search engines have different advantages and disadvantages, it can be useful to compare results. Often the best choice to identify data in institutional and generic archives.
+* Metasearch-services for datasets. Different search engines have different advantages and disadvantages, it can be useful to compare results. Often the best choice to identify data in institutional and generic archives.
 	* Non-commercial: [DataCite Commons](https://commons.datacite.org/ "2024-10-02"), [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/), [OpenAIRE research graph, filter by type](https://explore.openaire.eu/search/advanced/research-outcomes "2024-10-02")
 	* Commercial: [Google Dataset Search](https://datasetsearch.research.google.com/), [Mendeley Data](https://data.mendeley.com/), [WOS Data Citation Index](https://clarivate.com/webofsciencegroup/solutions/webofscience-data-citation-index/), [Dimensions](https://app.dimensions.ai/)
 
@@ -108,9 +108,11 @@ Further reading:
 * [Turing way: Data Organisation in Spreadsheets](https://book.the-turing-way.org/reproducible-research/rdm/rdm-spreadsheets)
 
 #### How will you be keeping track of the "provenance" of the data?
-To make data understandable and reproducible, it is crucial that the data origin and relevant parameters as well as all processing and filtering steps are documented. Re-users of the data also need this information to decide whether the data can be used for their purpose.
+To make data understandable and accurate, and the results reliable by transparency or reproducibility, it is crucial that the data origin and relevant parameters as well as all processing and filtering steps are documented. Re-users of the data also need this information to assess the data quality and decide whether the data can be used for their purpose.
 
-If traditional lab notebooks are used, the notes should be made available in electronic form along with your data.
+If traditional lab notebooks are used, the notes should be made available in electronic form along with your data.\
+For qualitative data, consider how to enhance transparency regarding data coding and analysis through documentation.\
+For historical research, consider how notes and annotations can be made available along with the (data)sources.
 
 Further reading:
 * [Turing way: Electronic Lab Notebooks](https://book.the-turing-way.org/reproducible-research/rdm/rdm-elns)
@@ -152,6 +154,10 @@ Further reading:
 ### The project will generate research software, code, computational models or simulations
 Research software, computational models and simulations are related to research data as a research output, yet more dynamic. Describe what will be generated during the research project. This may be everything from a few lines of code for data analysis to a more complex project or software package. 
 
+When writing code, use systems for version control and remember to document and refer to the version of the code used for the research results. By depositing the version of the code you use in a repository, you make it easy to refer to the correct version of the code in your publication(s) using a DOI. 
+For code, different licenses are used than for data and publication. If you are working on and modifying code which has already been shared by others, then best practice is to assign the same license when you share.
+
+
 If writing software/models is a significant part of the research project, you can consider writing a Software Management Plan (SMP) to supplement this DMP.
 * [Elixir Software Management Plan](https://smw.dsw.elixir-europe.org/wizard/knowledge-models/smw:smp:0.0.18)
 
@@ -162,6 +168,7 @@ Further reading:
 * [Software Carpentry: Version control with git](https://swcarpentry.github.io/git-novice/)
 * [Turing way: Reproducible environments](https://book.the-turing-way.org/reproducible-research/renv)
 * [Turing way: Code quality](https://book.the-turing-way.org/reproducible-research/code-quality)
+* [GitHub integration to Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 
 
 ### Other types of data the project will gather
@@ -171,4 +178,4 @@ For some projects that handle little data, this may be the only applicable categ
 
 
 ### Who else could be interested in us in using data from this project?
-Thinking through who could be interested in the data that is used or produced in a research project, contributes to the project's impact and can motivate good data handling practices.
+Thinking through who could be interested in the data that is used or produced in a research project, contributes to the project's impact and can motivate good data management practices.
