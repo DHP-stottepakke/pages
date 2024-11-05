@@ -70,7 +70,7 @@ Other types FAIR/openness metrics are not supported in the current knowledge mod
 Use the privew tab for previewing your finalized plan as you go along. 
 
 ### The Documents tab 
-Use the Documents tab to export finalized plans in different formats. Currently, html and pdf are supported.
+Use the Documents tab to export finalised plans in different formats. Currently, html and pdf are supported.
 
 ### The settings tab
 Here you can change the document template and document format, settings that again defines your preview and function as default values for exporting finalised plans. 
