@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Get started with DMP writing
 search_exclude: false
-contributors: [Jenny Ostrop, Svein Høier]
+contributors: [Svein Høier, Jenny Ostrop]
 page_id: support_00_start_writing
 description: Supporting DMP Information, DMP writing, Data Stewardship Wizard, DSW, User guide
 sidebar: dmp_supporting_info
@@ -34,20 +34,21 @@ For less complex projects:
 * **Minimum** questionnaire covers a core set of questions adapted to less complex projects (e.g. student projects). This questionnaire is suited for projects without external funding or external project partners. For less complex projects that are handling sensitive data or personal data or requiring ethical pre-application, see below.
 * **Minimum and ELSI** combines the **Minimum** questionnaire with questions on handling sensitive data or personal data or requiring ethical pre-application.
 
+{% include image.html file="dsw_project.png" caption="Select project" alt="Screenshot project selection menu" %}
+
 #### Advanced setup of questionnaire
-For other combinations or specific needs (e.g. writing an 'umbrella DMP') or transferring answers from one questionnaire to another questionnaire variant, contact [support staff at your institution](/pages/support_00_local_disc).\
-Advanced users can customize the questionnaire within the framework of the knowledge model, select questions by tags, and configure the document template and other settings.
+For other combinations or specific needs (e.g. writing an 'umbrella DMP') or transferring answers from one questionnaire to another questionnaire variant, contact [support staff at your institution](/pages/support_00_local_disc). Advanced users can customize the questionnaire within the framework of the knowledge model, select questions by tags, and configure the document template and other settings.
 
 
 ### Fill out the questionnaire
 You will find a description of the core steps below. For more detailed descriptions, see the [instructional video](https://www.youtube.com/watch?v=XrI8qYtWSBw ) and the [user guidance](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html) by DSW.
 
-{% include image.html file="dsw_phases.png" caption="Select project phase: Initial, midway or complete DMP" alt="Phase selection menu: Initial, midway or complete DMP" %}
-
 Filling out the questionnaire is done in three steps:
 1. Choose the project phase (in the drop-down menu on top of the left navigation pane): Initial DMP (the first version), Midway DMP (revising the DMP and adding more information), or Complete DMP(concluding the project and reporting results).
 2. Select the chapter. There are nine DMP chapters focussing on different aspects. It is recommended to fill them out in a chronological order.
 3. Answer the questions. The navigation bar to the left can be used actively to jump between questions without scrolling. For additional information, the links in the questionnaire lead to the question-specific [Supporting Information for Users](/pages/dmp_supporting_info/).
+
+{% include image.html file="dsw_phases.png" caption="Select project phase: Initial, midway or complete DMP" alt="Screenshot phase selection menu: Initial, midway or complete DMP" %}
 
 There is different types of questions:
 * Free-text or values (e.g. numerical, url, date)
@@ -56,21 +57,29 @@ There is different types of questions:
 * List of items: click "+Add" for any new item. Items with their follow-up questions can be collapsed by clicking on the v arrow symbol, if several items are present they can be simultaneously collapsed or expanded. Item order can be changed and the bin symbol deletes an item.
 * Item-select: refer to an item in another question by selecting it from the drop-down menu. This requires that the original question is filled out.
 
-
-### Controlling what is presented in the Questionnaire tab
+#### Controlling what is presented in the questionnaire tab
 **View** – note that you can control what is presented in the user interface. By default, only questions desirable the chosen project phase are visible and question tags are hidden.
+
 {% include image.html file="dsw_view.png" caption="View: Change visible features" alt="View menu allows to view or hide question tags and other features." %}
 
-### The Metrics tab
-This tab show your metrics, connected to how much of the planned is filled out. 
 
+### Other tabs and export options
+Use the square button on the right hand side to hide or view the navigation pane.
+
+{% include image.html file="dsw_navigation.png" caption="The navigation pane" alt="Screenshot navigation pane" %}
+
+#### Sharing the project
+The 'Share'-button opens a dialogue to share the project (plan) with collaborators by inviting them individually with defined reading and writing rights, or providing a sharing link. The TODO- and the comment function (to the right of each question) can be used to communicate about the project.
+
+#### The Metrics tab
+This tab show your metrics, connected to how much of the planned is filled out.\
 Other types FAIR/openness metrics are not supported in the current knowledge model, yet technically possible.
 
-### The Preview tab
-Use the privew tab for previewing your finalised plan as you go along. 
+#### The Preview tab
+Use the preview tab for previewing your finalised plan as you go along. 
 
-### The Documents tab 
+#### The Documents tab 
 Use the Documents tab to export finalised plans in different formats. Currently, html and pdf are supported.
 
-### The settings tab
+#### The Settings tab
 Here you can change the document template and document format, settings that again defines your preview and function as default values for exporting finalised plans. 
