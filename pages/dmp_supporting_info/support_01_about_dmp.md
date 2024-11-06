@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: About the DMP
+title: About the Data Management Plan
 search_exclude: false
 contributors: [Live Kvale]
 page_id: support_01_about_dmp
@@ -67,7 +67,7 @@ Roles should be added to specify their contribution (following the [DataCite con
 * Work Package Leader
 * Related Person or Other can be used for others who contribute in more general terms.
 
-### This DMP is related to other DMP(s)
+### This DMP is related to other DMP(s) or formal document(s)
 If there is several data management plans within a project, this field is used to show relations. Create the "master DMP" first, and then individual sub-plans for the different parts of the project. For research centres or research consortia, often the term 'umbrella DMP' is used to describe overarching principles and routines.
 
 Also other formal documents with a relation to the DMP can be listed here, such as data collection plans for research cruises or expeditions, and Software Management Plans or other types of Output Management Plans.
@@ -83,5 +83,5 @@ You can publish the data management plan and its updates in an open repository l
 
 For projects with information security requirements (e.g. dual use research, protection of intellectual property rights and/or commercial interests), the DMP itself could contain sensitive information. If applicable, the data management plan should not be published.
 
-### Did you consult with research data management experts?
+### Did you or will you consult with research data management experts?
 Find contact points and local and disciplinary experts under [Get local/disciplinary support](/pages/support_00_local_disc).
