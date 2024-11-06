@@ -62,7 +62,7 @@ When deciding where to archive your data, make suere you chose an archive where 
 
 ## Question-specific guidance
 
-### Can all of your data become completely open over time?
+### Can all datasets become completely open over time?
 Research data should be made available at an early stage and latest at publication. However, there can be reasons to delay data publication with an embargo period or (some of) your data is of a nature that should not be made openly available. The chapter 'Legal and ethical aspects' may help to identify criteria for deciding whether part of your data need to be restricted from public access. Consider whether such parts may be anonymized or aggregated so that such a version of your data can be openly available. Data that cannot be openly available, may still be made available with restricted access. In this case it is particularly important to be aware of required steps from project start.
 
 If certain datasets can not be made available or only be made available under restricted access conditions, please explain why, clearly separating legal and contractual reasons from intentional restrictions.
