@@ -251,7 +251,6 @@ Privacy routines at research institutions may differ from each other, it is ther
 	* [Data protection/ Privacy at UiT](https://en.uit.no/om/informationsecurity#kapittel_705927 "2024-07-16")
 
 #### Personal privacy considerations
-
 The routines regarding processing of personal data differ between institutions.  It is the researchers responsibility to make oneself familiar with the requirements at their institution. If not listed in the previous question, look for similar guidance from your institution. 
 
 Processing of personal data affect choice of storage, and how open data can be archived or made available to others, these considerations are part of data management planning. If the data are to be used for future research this must be taken into account when legal basis for data processing is selected. Explicit information about archiving and future use should also be included in the information to study participants.
@@ -269,11 +268,9 @@ If you already described the processing of personal data in detail in other syst
 
 ##### Personal privacy considerations step-by-step
 These questions will guide you through relevant considerations concerning collecting/processing personal data in accordance with GDPR. 
-
-Be aware that you may have to register processing of personal data in additional systems as required by your institution, you do not need to duplicate this process if you have already gone through this.
+<code> Be aware that you may have to register processing of personal data in additional systems as required by your institution and there is currently no information exchange between systems. </code>
 
 #### How will you document participants information and/or consent?
-
 Documenting permissions form study participants to share data is crucial to making research data available, and often difficult or impossible to obtain in retrospect. It is therefore essential to include information about planned data sharing in the participant information letter and/or consent forms. 
 
 Ideally, the permission should be requested in a granular way, with distinct permission to making data available. Unfortunately, guidance on this topic and examples of consent forms that are adapted to European legislation is not easily found, and the lines of what and when is possible is still being drawn up. Consult your [institutional research data management support services](/pages/dmp_supporting_info/support_00_local_disc.md#institutional-rdm-support-alphabetical-order) if you are uncertain about formulations or need examples of how sharing and reuse of data including information about people can be possible.
