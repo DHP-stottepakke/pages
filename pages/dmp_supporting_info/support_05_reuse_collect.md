@@ -186,7 +186,7 @@ Further reading:
 * [GitHub integration to Zenodo](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 
 
-### Other types of data the project will gather
+### Other types of data the project will utilize or produce
 What other types of documents will the project utilize or produce, which have not been captured by the previous categories?
 
 For some projects that handle little data, this may be the only applicable category.
