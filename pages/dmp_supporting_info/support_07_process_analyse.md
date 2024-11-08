@@ -51,7 +51,7 @@ Shared workspace examples (non-exhaustive):
 
 
 ### Do you need to plan compute solutions and capacity?
-![Static Badge](https://img.shields.io/badge/DSW-HPC-%23CED4DA) *Specific to data/compute heavy projects*\
+![Static Badge](https://img.shields.io/badge/DSW-HPC-%238e44adff) *Specific to data/compute heavy projects*\
 If you require a large amount of CPU hours, I/O bandwidth or memory it is best to try estimating this in advance and to choose a computing infrastructure upfront. The infrastructure might have restrictions, require application and/or payment, and might only be able to run certain software or workflow systems.
 
 If you will use federated computing in you project this should be considered early on.
@@ -123,7 +123,7 @@ Further reading:
 
 
 ### Does your computational approach require validation of results?
-![Static Badge](https://img.shields.io/badge/DSW-HPC-%23CED4DA) *Specific to data/compute heavy projects*\
+![Static Badge](https://img.shields.io/badge/DSW-HPC-%238e44adff) *Specific to data/compute heavy projects*\
 In some cases the results of computational steps cannot be considered to be deterministic, for instance due to randomness in the calculation, human inputs and possible errors or differences in the execution across infrastructures. To reduce false findings, the computational steps should be validated in these cases.
 
 There are surprisingly many complications that can cause (slight) inconsistencies between results when workflows are run on different compute infrastructures. A good way to make sure this does not occur is to run a subset of all jobs on all different infrastructure to check the consistency.
