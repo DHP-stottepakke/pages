@@ -92,14 +92,14 @@ Useful resources (non-exhaustive):
 
 Most material found online have copyrights assigned to them but does not explicitly state a licence allowing or not allowing further use. This can be confusing and is one of the reasons you are advice to add a license to your own work, explicitly stating what others are allowed to do and not.
 
-Knowledge of the (Norwegian copyright act (in Norwegian))[https://lovdata.no/dokument/NL/lov/2018-06-15-40] can be helpful when using copyrighted material in research. While the copyright act has exceptions for conducting research, these do not cover re-publication of copyrighted material as research data. 
+Knowledge of the [Norwegian copyright act (in Norwegian)](https://lovdata.no/dokument/NL/lov/2018-06-15-40) can be helpful when using copyrighted material in research. While the copyright act has exceptions for conducting research, these do not cover re-publication of copyrighted material as research data. 
 
 Work in the public domain
-If you work with historical sources and the copyright holder(s) has been dead for 70 years or more, the material is in the public domain. It will then be possible to share the material as research data in an open archive, using a (public domain mark)[https://creativecommons.org/public-domain/pdm/].
+If you work with historical sources and the copyright holder(s) has been dead for 70 years or more, the material is in the public domain. It will then be possible to share the material as research data in an open archive, using a [public domain mark](https://creativecommons.org/public-domain/pdm/).
 
 Norwegian digital sources
 If you plan to collect on-line material from Norwegian sources, it might be of value to have a dialogue with the Web Archive about scarping and preserving the material. 
-Nettarkivet (the Norwegian Web Archive)[https://www.nb.no/en/collection/web-archive/] at the National Library of Norway aims to preserve websites under the .no domain according to the Legal Deposit Act (Pliktavleveringslova, (in Norwegian))[https://lovdata.no/dokument/NL/lov/1989-06-09-32?q=plikt]. Websites under foreign domains can also be harvested if their content is related to Norway or is written in Norwegian. 
+Nettarkivet [the Norwegian Web Archive](https://www.nb.no/en/collection/web-archive/) at the National Library of Norway aims to preserve websites under the .no domain according to the Legal Deposit Act [Pliktavleveringslova, (in Norwegian)](https://lovdata.no/dokument/NL/lov/1989-06-09-32?q=plikt). Websites under foreign domains can also be harvested if their content is related to Norway or is written in Norwegian. 
 
 Contacting the rightsholder
 If you plan to collect digital content from a limited number of content producers, consider contacting the rights holder and ask for permission to share the material as research data and part of your research. This is not always possible, but without permissions sharing the data openly at a later stage in the research will be difficult.
