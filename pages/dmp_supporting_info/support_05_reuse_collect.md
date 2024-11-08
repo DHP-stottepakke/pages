@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Reusing or collecting data
 search_exclude: false
-contributors: [Svein Høier, Jenny Ostrop, Lisbeth Jahren]
+contributors: [Svein Høier, Jenny Ostrop, Lisbeth Jahren, Live Kvale]
 page_id: support_05_reuse_collect
 description: Supporting DMP Information, reusing data, data reuse, data re-use, pre-existing data
 sidebar: dmp_supporting_info
@@ -88,6 +88,21 @@ Useful resources (non-exhaustive):
 * [digitaltmuseum.no](https://digitaltmuseum.no/)
 * [europeana.eu](https://www.europeana.eu/en)
 
+#### Does the data/record/source have a license assigned or clear reuse conditions?
+
+Most material found online have copyrights assigned to them but does not explicitly state a licence allowing or not allowing further use. This can be confusing and is one of the reasons you are advice to add a license to your own work, explicitly stating what others are allowed to do and not.
+
+Knowledge of the [Norwegian copyright act (in Norwegian] [https://lovdata.no/dokument/NL/lov/2018-06-15-40] can be helpful when using copyrighted material in research. While the copyright act has exceptions for conducting research, these do not cover re-publication of copyrighted material as research data. 
+
+Work in the public domain
+If you work with historical sources and the copyright holder(s) has been dead for 70 years or more, the material is in the public domain. It will then be possible to share the material as research data in an open archive, using a (public domain mark)[https://creativecommons.org/public-domain/pdm/].
+
+Norwegian digital sources
+If you plan to collect on-line material from Norwegian sources, it might be of value to have a dialogue with the Web Archive about scarping and preserving the material. 
+Nettarkivet (the Norwegian Web Archive)[ https://www.nb.no/en/collection/web-archive/] at the National Library of Norway aims to preserve websites under the .no domain according to the Legal Deposit Act (pliktavleveringslova)[ https://lovdata.no/dokument/NL/lov/1989-06-09-32?q=plikt]. Websites under foreign domains can also be harvested if their content is related to Norway or is written in Norwegian. 
+
+Contacting the rightsholder
+If you plan to collect digital content from a limited number of content producers, consider contacting the rights holder and ask for permission to share the material as research data and part of your research. This is not always possible, but without permissions sharing the data openly at a later stage in the research will be difficult.
 
 ### The project will collect data through observations, questionnaires or interviews
 Describe the types of data to be collected through observations, questionnaires or interviews, and how data quality will be ensured.
