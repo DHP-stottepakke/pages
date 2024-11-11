@@ -115,7 +115,6 @@ Explain to the best of your knowledge what metadata (what metadata standard) is 
 Metadata is structured information about a dataset (or a document). _How to_ structure the information is done in various ways. Different metadata schemas are designed to capture the information, and such a schema is called a metadata standard. A metadata standard may be designed to suit a subject domain or a specific research area. There are, naturally, different information needs to describe a dataset with biological data, compared to a dataset which revolves on social sciences.
 A metadata schema may capture information by the use of controlled vocabularies to avoid ambiguity. That way, information will be standardised and not be disrupted by different persons using different words or typology for same issues. Such a standardisation will preferably make use of ontologies from a subject domain, avoiding misunderstandings if a term is used differently in different disciplines. The use of controlled vocabularies and ontologies will increase the quality and findability of the archived data.
 Note that you here may reuse the answer from chapter VI: 'Data documentation during the project'.
-<!-- *write something about standards and use of ontologies* -->
 
 #### Where has the data been archived?
 You should already have identified suitable archives in the 'Identify archive(s)' question above. Thus, you may reuse the information you entered there.
