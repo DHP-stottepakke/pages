@@ -101,7 +101,7 @@ It will then be possible to share the material as research data in an open archi
 If you plan to collect on-line material from Norwegian sources, it might be of value to have a dialogue with the Web Archive about scarping and preserving the material.
 Nettarkivet [the Norwegian Web Archive (in Norwegian)](https://www.nb.no/en/collection/web-archive/)  at the National Library of Norway aims to preserve websites under the .no domain according to the Legal Deposit Act [Pliktavleveringslova, (in Norwegian)](https://lovdata.no/dokument/NL/lov/1989-06-09-32?q=plikt). Websites under foreign domains can also be harvested if their content is related to Norway or is written in Norwegian.
  
-Contacting the rightsholder
+**Contacting the rights holder**\
 If you plan to collect digital content from a limited number of content producers, consider contacting the rights holder and ask for permission to share the material as research data and part of your research. This is not always possible, but without permissions sharing the data openly at a later stage in the research will be difficult.
 
 
