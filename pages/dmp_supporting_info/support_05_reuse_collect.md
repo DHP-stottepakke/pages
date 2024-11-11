@@ -57,7 +57,7 @@ There can of course be a number of reasons to discard the idea of reusing data i
 You can consult the chapters on data discovery and existing data in e.g. the [RDMkit for life sciences, the CESSDA Data Management Guide, or The Turing Way handbook](support_05_reuse_collect#further-resources) for inspiration.
 
 There is a number of different strategies that can be applied to identify existing datasets or records:
-#### Scientific datasets
+**Scientific datasets**\
 Useful approaches to identify scientific datasets:
 * Data underlaying a research article or described in a data publication
 	* Use literature search engines to track relevant datasets via research articles. Data access should be described in a data availability statement.
@@ -70,7 +70,7 @@ Useful approaches to identify scientific datasets:
 	* Non-commercial: [DataCite Commons](https://commons.datacite.org/ "2024-10-02"), [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/), [OpenAIRE research graph, filter by type](https://explore.openaire.eu/search/advanced/research-outcomes "2024-10-02")
 	* Commercial: [Google Dataset Search](https://datasetsearch.research.google.com/), [Mendeley Data](https://data.mendeley.com/), [WOS Data Citation Index](https://clarivate.com/webofsciencegroup/solutions/webofscience-data-citation-index/), [Dimensions](https://app.dimensions.ai/)
 
-#### Data from the public sector including registry data
+**Data from the public sector including registry data**\
 Useful resources (non-exhaustive):
 * Norwegian public data are available from [data.norge.no](https://data.norge.no)
 * [data.europa.eu](https://data.europa.eu/en) is the official portal for European data
@@ -81,15 +81,18 @@ Useful resources (non-exhaustive):
 * Portals for national studies such as [HUNT Cloud Data](https://hunt-db.medisin.ntnu.no/hunt-db/variablelist)
 * National knowledge bases such as [artsdatabanken.no](https://www.artsdatabanken.no/search) for biodiversity or [NVE map services *Norwegian only*](https://www.nve.no/karttjenester/) for geographical data
 
-#### Data in digital archives and collections
+**Data in digital archives and collections**\
 Useful resources (non-exhaustive):
 * Library collections
+	* [NTNU Library Special collections](https://www.ntnu.edu/ub/special-collections)
+	* [UiT Universitetsbiblioteket Spesialsamlingene *Norwegian only*](https://www.uib.no/ub/spesialsamlingene)
+	* [UiO Library Special collections](https://www.ub.uio.no/english/using/digitisation/special-collections/index.html)
+	* [UiT Universitetsbiblioteket Spesialsamlinger *Norwegian only*](https://uit.no/ub/spesialsamlinger)
 * [arkivverket.no](https://www.arkivverket.no/utforsk-arkivene)
 * [digitaltmuseum.no](https://digitaltmuseum.no/)
 * [europeana.eu](https://www.europeana.eu/en)
 
 #### Does the data/record/source have a license assigned or clear reuse conditions?
-
 Most of the material found online is either copyright protected or protected through related rights, without being assigned an explicit license to allow further use. This can be confusing for those who want to reuse the material and is one of the reasons you are advised to add a license to your own work, explicitly stating what others are allowed to do and not.
 Knowledge of the [Norwegian copyright act (in Norwegian)](https://lovdata.no/dokument/NL/lov/2018-06-15-40) can be helpful when using copyrighted material in research. There is not fair use clause in Norwegian copyright law, and no general access to re-publish copyrighted material as research data. 
  
