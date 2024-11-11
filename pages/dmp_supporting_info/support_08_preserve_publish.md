@@ -95,7 +95,6 @@ Evaluate which archive(s) will be most relevant for your datasets, using the fol
 
 In some cases it is important to contact the research data archive beforehand. 
 
-*make sure trustworthy repository is explained in terms and linked to* -->
 
 ### List data that you have deleted or will delete
 Determining which data are of value and should be preserved or whether data need to or can be deleted, is a decision that should be taken actively. If data(sets) are or will be deleted, they can be listed in this question, including a brief description of the reasons for deletion. There may be legal (e.g. defined by the Health Research Act) or contractual obligations to delete data.
