@@ -97,7 +97,7 @@ Knowledge of the [Norwegian copyright act (in Norwegian)](https://lovdata.no/dok
 If you work with historical sources where the copyright holder(s) has been dead for 70 years or more, the material is in the public domain. There are exceptions for some material, including databases (15 years) and photos not considered to have a threshold of originality (50 years).
 It will then be possible to share the material as research data in an open archive, using a [public domain mark](https://creativecommons.org/public-domain/pdm/).
  
-Norwegian digital sources
+**Norwegian digital sources**\
 If you plan to collect on-line material from Norwegian sources, it might be of value to have a dialogue with the Web Archive about scarping and preserving the material.
 Nettarkivet [the Norwegian Web Archive (in Norwegian)](https://www.nb.no/en/collection/web-archive/)  at the National Library of Norway aims to preserve websites under the .no domain according to the Legal Deposit Act [Pliktavleveringslova, (in Norwegian)](https://lovdata.no/dokument/NL/lov/1989-06-09-32?q=plikt). Websites under foreign domains can also be harvested if their content is related to Norway or is written in Norwegian.
  
