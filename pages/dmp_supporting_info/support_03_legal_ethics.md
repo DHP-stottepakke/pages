@@ -209,7 +209,7 @@ Further information:
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
 
 ### Does the project require ethical pre-approval?
-![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to projects with ethical/legal considerations*\
+![Static Badge](https://img.shields.io/badge/DSW-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 If the project involves health research, use of human biological material, testing on animals or similar, a pre-approval is likely needed to execute the project. The approval case numbers should be referred to in the DMP.
 
 NB! Registrations of the legal basis of processing personal data are not the same as a research ethics assessment. This should therefore not be included here, but addressed in the next question.
@@ -217,8 +217,8 @@ NB! Registrations of the legal basis of processing personal data are not the sam
 Read more about [Ethical approvals.](/pages//support_03_legal_ethics#ethical-approvals)
 
 
-### Will any data connected to a person ("personal data") be collected/processed?
-![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to projects with ethical/legal considerations*\
+### Will any personal data be collected/processed?
+![Static Badge](https://img.shields.io/badge/DSW-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 <code> If personal data are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
 Personal data is any information that can be linked to living person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: Personopplysningsloven), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. The principle of data minimisation should be followed and the collection of personal information should be limited to what is directly relevant and necessary to accomplish a specified purpose.
@@ -250,30 +250,28 @@ Privacy routines at research institutions may differ from each other, it is ther
 	* [Processing of personal data in research projects](https://en.uit.no/research/ethics/art?p_document_id=754184 "2024-07-16")
 	* [Data protection/ Privacy at UiT](https://en.uit.no/om/informationsecurity#kapittel_705927 "2024-07-16")
 
-#### Personal privacy considerations
-
-The routines regarding processing of personal data differ between institutions.  It is the researchers responsibility to make oneself familiar with the requirements at their institution. If not listed in the previous question, look for similar guidance from your institution. 
+#### Privacy considerations
+The routines regarding processing of personal data differ between institutions. It is the researchers responsibility to make oneself familiar with the requirements at their institution. If not listed in the previous question, look for similar guidance from your institution. 
 
 Processing of personal data affect choice of storage, and how open data can be archived or made available to others, these considerations are part of data management planning. If the data are to be used for future research this must be taken into account when legal basis for data processing is selected. Explicit information about archiving and future use should also be included in the information to study participants.
 
-In this question you refer to the privacy assessment(s) conducted by selecting "GDPR considerations are registered in other system" and adding a reference number to the assessment. If you are not required by your institution to describe the compliance with personal data act in a separate system, you should choose "GDPR considerations step-by-step".
+In this question you refer to the privacy assessment(s) conducted by selecting "Processing of personal data is registered in other system" and adding a reference number to the assessment. If you are not required by your institution to describe the compliance with personal data act in a separate system, you should choose "Privacy considerations step-by-step".
 
-##### Personal privacy considerations are registered in other system
-If you already described the processing of personal data in detail in other systems, you can refer to these registration(s). Specify the system where the respective registration system and identifier of the project registration. Questions regarding lawful processing of personal data and routines at your institution should be directed to the respective Data Protection Officer (DPO, Norwegian: Personvernombud).
+##### Processing of personal data is registered in other system
+If you already described the processing of personal data in detail in other systems including local registration of personal data processing, the Sikt notification form for personal data, or executing and registering a Data Protection Impact assessment (DPIA), you can refer to these registration(s). Specify the system where the respective registration system and identifier of the project registration. Questions regarding lawful processing of personal data and routines at your institution should be directed to the respective Data Protection Officer (DPO, Norwegian: Personvernombud).
 
-* [Sikt notification form for personal data ('Sikt Meldeskjema')](https://sikt.no/en/notification-form-personal-data)
-* Other routines for privacy assessment:
+* Institutional routines for privacy assessment:
 	* [RETTE at UiB](https://rette.app.uib.no/)
 	* [NTNU guidance for Data Protection Impact Assessment (DPIA)](https://i.ntnu.no/wiki/-/wiki/English/Data+protection+impact+assessment "2024-10-30")
 	* [UiO Quality assurance system for health and medical research](https://www.uio.no/english/for-employees/support/research/quality-system-for-health-research/index.html "2024-10-30")
+* [Sikt notification form for personal data ('Sikt Meldeskjema')](https://sikt.no/en/notification-form-personal-data)
 
-##### Personal privacy considerations step-by-step
-These questions will guide you through relevant considerations concerning collecting/processing personal data in accordance with GDPR. 
+##### Privacy considerations step-by-step
+<code> Be aware that you might have to register processing of personal data in additional systems as required by your institution and there is currently no information exchange between systems. </code>
 
-Be aware that you may have to register processing of personal data in additional systems as required by your institution, you do not need to duplicate this process if you have already gone through this.
+These questions will guide you through relevant considerations concerning collecting/processing personal data in accordance with privacy legislation.
 
 #### How will you document participants information and/or consent?
-
 Documenting permissions form study participants to share data is crucial to making research data available, and often difficult or impossible to obtain in retrospect. It is therefore essential to include information about planned data sharing in the participant information letter and/or consent forms. 
 
 Ideally, the permission should be requested in a granular way, with distinct permission to making data available. Unfortunately, guidance on this topic and examples of consent forms that are adapted to European legislation is not easily found, and the lines of what and when is possible is still being drawn up. Consult your [institutional research data management support services](/pages/dmp_supporting_info/support_00_local_disc.md#institutional-rdm-support-alphabetical-order) if you are uncertain about formulations or need examples of how sharing and reuse of data including information about people can be possible.
@@ -303,13 +301,13 @@ Further information:
 * [GA4GH ethical toolkit](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/) with examples of granular consent and machine readable metadata (for human genetic data)
 * [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico)
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)
-* [National Research Ethics Committees: Consent]8https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
+* [National Research Ethics Committees: Consent](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
 * [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
 * [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 
 
 ### Will sensitive information (apart from special category personal data) be collected/processed?
-![Static Badge](https://img.shields.io/badge/DSW-ELSI-%23D35400) *Specific to projects with ethical/legal considerations*\
+![Static Badge](https://img.shields.io/badge/DSW-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 <code> If sensitive data (apart from special category personal data) are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
 The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary". There can be many reasons why data must be protected. Read more about [Sensitive data and legal backgrounds for handling data as sensitive.](/pages/support_03_legal_ethics#sensitive-data)
@@ -334,7 +332,7 @@ Institutional IPR policies:
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
 * [University of Bergen (UiB)](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-07-19")
 * [University of Oslo (UiO)](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-07-19")
-* [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-07-19"))
+* [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-07-19")
 
 Technology transfer and innovation contact points:
 * [NTNU Technology Transfer as](https://www.ntnutto.no/)

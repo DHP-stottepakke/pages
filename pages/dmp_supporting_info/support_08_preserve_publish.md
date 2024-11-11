@@ -44,21 +44,21 @@ The chapter includes both questions that should be considered at the initial sta
 An important issue is to identify the best suited archive to be used for your data. There are different types of archives you may use for your data. Some are designed to suit data from specific subject areas. These may use metadata standards and metadata schema that are best suited to capture important information on data from such a specific subject area. Then there are institutional data achives. These archives are designed to capture data from any subject area the institution handles. Have a look whether your institution offers such an archiving service. A benefit for you in chosing an institutional archive would be that your institution has good user support to ensure the quality of your archived data. Furthermore, there are 'catch all' archives, meaning archives where both scholarly publications as well as data may be archived. If you do not have access to use a data archive, you may consider to use a catch all archive like [Zenodo](https://zenodo.org/).
 
 You may browse or search for suitable archives in the [re3data registry](https://www.re3data.org/), which is a registry of data archives. The [FAIRsharing service](https://fairsharing.org/) is also a useful a searchable resource that holds information on data archives, as well as standards and data policies. You are advised to choose a so-called trustworthy archive for your data. Look for the [Core Trust Seal](https://www.coretrustseal.org/) which certifies that the archive in question operates in accordance with the Core trust Seal quality criteria, both in terms of its financial foundation and its quality assuring data curation routines.
-<!-- *brief introduction to discipline-specific, institutional and generic research data archives. Explain re3data and FAIRSharing.* -->
 
 ### Restricted access to research data
-Some data should not be made openly available, according to law regulations (including the General Data Protection Regulation (GDPR)) and/or ethical considerations. These may be data with person identifying information, or data that are sensitive for other reasons (national security or business information). It is still important to archive such data, to ensure their long term preserving. These data thus need to be archived with restricted access. In Norway, the [Sikt archive](https://sikt.no/en/archiving-research-data) may be suitable for this. 
+Some data should not be made openly available, according to law regulations (including the General Data Protection Regulation (GDPR)) and/or ethical considerations. These may be data with person identifying information, or data that are sensitive for other reasons (national security or business information). It is still important to archive such data, to ensure their long term preserving. These data thus need to be archived with restricted access.
 
-[FEGA (Federated European Genome-phenome Archive)](https://ega.elixir.no/) is another archive that may be suitable. FEGA is designed to help researchers securely store, access, and share sensitive human data across multiple countries, while adhering to local privacy regulations such as the GDPR.
+In Norway, the [Sikt archive](https://sikt.no/en/archiving-research-data) may be suitable for this. 
+
+[FEGA (Federated European Genome-phenome Archive)](https://ega.elixir.no/) is another archive that may be suitable. FEGA is designed to help researchers securely store, access, and share sensitive human data across multiple countries, while adhering to local privacy regulations.
 
 [CLARINO](https://repo.clarino.uib.no/xmlui/) may also be mentioned here. CLARINO is Norway's part of the European CLARIN infrastructure network, which stands for Common Language Resources and Technology Infrastructure. CLARINO includes a platform where researchers can store, share, and access language data in standardized formats. This also includes access with restricted access, since language research easily includes person identifying data.
 
 [Data Use Ontology](https://www.ga4gh.org/product/data-use-ontology-duo/) is a service that may be useful for data that can not be openly available. This service is especially developed for sensitive human data.
-<!-- *mention Data Use Ontology, Data Use Conditions* -->
 
 ### Persistent identifiers
 When deciding where to archive your data, make suere you chose an archive where your dataset is assigned a persistent identifier (PID). Two commonly used PIDs are Digital Object Identifier (DOI) and handle. With a PID assigned, you are guaranteed that your dataset may be referred to with correct identifier for findability. The (not uncommon) problem of urls that stop working for some reason is then avoided. Archives assigning DOIs is also a sign of quality, since there is minimum requirements to the metadata schema used in order to achieve a DOI.
-<!-- *what does the term mean and why are they important* -->
+
 
 ## Question-specific guidance
 
@@ -104,6 +104,7 @@ Data, 2017)](https://www.forskningsradet.no/contentassets/6ccb7b14c18a48ee974acd
 
 So, it can be worthwhile to consider which data in a project are not of value (e.g. data from failed experiments), only have intermediate value (e.g. during data analysis) and which data should be preserved long-term. This is particularly important if storage of large amounts of data is associated with significant costs. However, take into consideration that data not considered to be of any value for your present need, may turn out to be of value to others, or even to yourself, some time into the future.
 
+
 ### List datasets that you have archived or will archive
 Archiving of datasets includes the deposition of datasets in a research data archive, openly or with restricted access, and equipped with a persistent identifier (PID) as well as data that should be preserved but not published. As mentioned above, research data should be made available at an early stage, following the principles "as open as possible, as closed as necessary". Funders and research institutions may specify more exact guidelines for this. E.g. the guidelines from the Research Council of Norway states that data underlying scientific articles should be made accessible latest at publication. Other research data should be made accessible within a reasonable amount of time, and never later than three years after the project has ended [(Policy for open access to research data, 2017)](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf).
 
@@ -132,6 +133,7 @@ See also the information on licensing in the chapter [Data documentation during 
 CC0 (No rights reserved) is a permissive license often used for data. CC BY (Attribution) is a license also much used. CC BY requires referring to the author(s) of a dataset for its reuse. Be ware that the BY clause may unintentionally restrict dataset reuse, if someone wants to include large amounts of data, from numerous datasets in some analysis. In such a case referring correctly to all the authors may be an insurmountable challenge. And even if data is licensed CC0, referring correctly to the dataset, if practically possible, is what corresponds to good scientific norms. 
 
 For information on CC licenses, see [https://creativecommons.org/](https://creativecommons.org/).
+
 
 ### FAIR data checklist
 No matter whether your data may be published openly or not, it is always a question of making your data FAIR - or rather as FAIR as possible. FAIR is an acronym for Findable, Accessible, Interoperable, Reusable and the [FAIR principles (2016)](/pages/support_08_preserve_publish#further-resources] describe a set of criteria to be met.\
