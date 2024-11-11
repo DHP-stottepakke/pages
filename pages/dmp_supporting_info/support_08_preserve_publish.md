@@ -131,7 +131,6 @@ See also the information on licensing in the chapter [Data documentation during 
 CC0 (No rights reserved) is a permissive license often used for data. CC BY (Attribution) is a license also much used. CC BY requires referring to the author(s) of a dataset for its reuse. Be ware that the BY clause may unintentionally restrict dataset reuse, if someone wants to include large amounts of data, from numerous datasets in some analysis. In such a case referring correctly to all the authors may be an insurmountable challenge. And even if data is licensed CC0, referring correctly to the dataset, if practically possible, is what corresponds to good scientific norms. 
 
 For information on CC licenses, see [https://creativecommons.org/](https://creativecommons.org/).
-<!-- *write something about license selection* -->
 
 ### FAIR data checklist
 No matter whether your data may be published openly or not, it is always a question of making your data FAIR - or rather as FAIR as possible. FAIR is an acronym for Findable, Accessible, Interoperable, Reusable and the [FAIR principles (2016)](/pages/support_08_preserve_publish#further-resources] describe a set of criteria to be met.\
