@@ -70,7 +70,7 @@ In case you are planning computationally demanding data analysis, see also the c
 
 
 ### Will storage need change over time?
-![Static Badge](https://img.shields.io/badge/DSW-HPC-%23CED4DA) *Specific to data/compute heavy projects*\
+![Static Badge](https://img.shields.io/badge/DSW-HPC-%238e44adff) *Specific to data/compute heavy projects*\
 Taking changes in storage needs over time into consideration will help you with budgeting and with reducing expenses for storage space. Often, the storage need of a project will increase with project length. In some projects storage need decreases during the project or becomes largest in the middle of the project, as there is a need to temporarily store intermediate results, which do not have to be stored long-term.
 
 Use the 'Explore storage needs' dialogue if you are unsure what applies to your project.
