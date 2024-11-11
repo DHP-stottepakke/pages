@@ -93,7 +93,7 @@ Useful resources (non-exhaustive):
 Most of the material found online is either copyright protected or protected through related rights, without being assigned an explicit license to allow further use. This can be confusing for those who want to reuse the material and is one of the reasons you are advised to add a license to your own work, explicitly stating what others are allowed to do and not.
 Knowledge of the [Norwegian copyright act (in Norwegian)](https://lovdata.no/dokument/NL/lov/2018-06-15-40) can be helpful when using copyrighted material in research. There is not fair use clause in Norwegian copyright law, and no general access to re-publish copyrighted material as research data. 
  
-Work in the public domain
+**Work in the public domain**\
 If you work with historical sources where the copyright holder(s) has been dead for 70 years or more, the material is in the public domain. There are exceptions for some material, including databases (15 years) and photos not considered to have a threshold of originality (50 years).
 It will then be possible to share the material as research data in an open archive, using a [public domain mark](https://creativecommons.org/public-domain/pdm/).
  
