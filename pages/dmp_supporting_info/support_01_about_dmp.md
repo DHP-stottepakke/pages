@@ -68,12 +68,12 @@ Roles should be added to specify their contribution (following the [DataCite con
 * Related Person or Other can be used for others who contribute in more general terms.
 
 ### This DMP is related to other DMP(s) or formal document(s)
-If there is several data management plans within a project, this field is used to show relations. Create the "master DMP" first, and then individual sub-plans for the different parts of the project. For research centres or research consortia, often the term 'umbrella DMP' is used to describe overarching principles and routines.
+If there are several data management plans within a project, this field is used to show relations. Create the "master DMP" first, and then individual sub-plans for the different parts of the project. For research centres or research consortia, often the term 'umbrella DMP' is used to describe overarching principles and routines.
 
 Also other formal documents with a relation to the DMP can be listed here, such as data collection plans for research cruises or expeditions, and Software Management Plans or other types of Output Management Plans.
 
 ### Have your made plans for revisions of this DMP?
-For the data management plan to function as a project tool, the plan should be updated as the project evolves, and changes or issues occur. By planning for revisions and assigning responsibility for revisions you contribute to safeguarding the data collected or produces during the project.
+For the data management plan to function as a project tool, the plan should be updated as the project evolves, and changes or issues occur. By planning for revisions and assigning responsibility for revisions you contribute to safeguarding the data collected or produced during the project.
 
 It is recommended to schedule revisions at given dates, at regular intervals or connected to milestones in the project.
 Responsibility for DMP revisions can be specified based on the contributor list.
