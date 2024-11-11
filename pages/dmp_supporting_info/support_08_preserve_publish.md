@@ -95,7 +95,6 @@ Evaluate which archive(s) will be most relevant for your datasets, using the fol
 
 In some cases it is important to contact the research data archive beforehand. 
 
-<!-- *elaborate*
 *make sure trustworthy repository is explained in terms and linked to* -->
 
 ### List data that you have deleted or will delete
