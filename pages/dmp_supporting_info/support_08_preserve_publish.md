@@ -123,6 +123,8 @@ As mentioned above, archives to use should be 'trustworthy'. If you for some rea
 
 In case data is not deposited to an archive but should be preserved locally beyond the project period, it is very important to define a preservation plan and who will be responsible.
 
+In case data is not deposited to an archive but should be preserved locally beyond the project period, it is very important to define a preservation plan and who will be responsible.
+
 #### Under what license will the dataset be made available?
 As mentioned above, the preferred choice is to archive data 'as open as possible', where open refers to both accessibility and reusability. So, you should archive your data with an open license and thus as few restrictions as possible added. Even if in doubt if a dataset will be considered 'original' work, assigning a license is good practice to clarify reuse terms.\
 See also the information on licensing in the chapter [Data documentation during the project](/pages/support_06_document#will-a-license-be-assigned-to-your-data-as-early-as-possible).
