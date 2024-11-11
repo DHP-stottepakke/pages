@@ -90,7 +90,7 @@ Useful resources (non-exhaustive):
 
 #### Does the data/record/source have a license assigned or clear reuse conditions?
 
-Most of the material found online is either copyright protected or protected through related rights, without having an explicit licence allowing further use. This can be confusing for those who want to reuse the material and is one of the reasons you are advised to add a license to your own work, explicitly stating what others are allowed to do and not.
+Most of the material found online is either copyright protected or protected through related rights, without being assigned an explicit license to allow further use. This can be confusing for those who want to reuse the material and is one of the reasons you are advised to add a license to your own work, explicitly stating what others are allowed to do and not.
 Knowledge of the [Norwegian copyright act (in Norwegian)](https://lovdata.no/dokument/NL/lov/2018-06-15-40) can be helpful when using copyrighted material in research. There is not fair use clause in Norwegian copyright law, and no general access to re-publish copyrighted material as research data. 
  
 Work in the public domain
