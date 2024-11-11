@@ -118,7 +118,7 @@ Note that you here may reuse the answer from chapter VI: 'Data documentation dur
 <!-- *write something about standards and use of ontologies* -->
 
 #### Where has the data been archived?
-You should already have identified actual archives in the 'Identify archive(s)' question above. Thus, you may reuse the information you entered there.
+You should already have identified suitable archives in the 'Identify archive(s)' question above. Thus, you may reuse the information you entered there.
 
 As mentioned above, archives to use should be 'trustworthy'. If you for some reason decide to use an archive not qualified as trustworthy, please consider closely what preservation policy the archive follows. Look for information on this in the 'About' section of the archive, and contact the archive if still in doubt.
 <!-- *write something about preservation strategy if you are NOT using a trustworthy repository* -->
