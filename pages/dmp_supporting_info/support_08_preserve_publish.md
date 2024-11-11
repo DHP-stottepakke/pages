@@ -123,7 +123,6 @@ You should already have identified suitable archives in the 'Identify archive(s)
 As mentioned above, archives to use should be 'trustworthy'. If you for some reason decide to use an archive not qualified as trustworthy, please consider closely what preservation policy the archive follows. Look for information on this in the 'About' section of the archive, and contact the archive if still in doubt.
 
 In case data is not deposited to an archive but should be preserved locally beyond the project period, it is very important to define a preservation plan and who will be responsible.
-<!-- *write something about preservation strategy if you are NOT using a trustworthy repository* -->
 
 #### Under what license will the dataset be made available?
 As mentioned above, the preferred choice is to archive data 'as open as possible', where open refers to both accessibility and reuseability. So, you should archive your data with an open license and thus as few restrictions as possible added. CC0 (or some other license corresponding to this) is often used for data. CC BY is a license also much used. CC BY requires referring to the author(s) of a dataset for its reuse. The BY clause may restrict the reuse, if someone wants to include large amounts of data, from numerous datasets in some analysis. In such a case referring correctly to all the authors may be an insurmountable challenge. And even if data is licensed CC0, referring correctly to the dataset, if practically possible, is what corresponds to good scientific norms. 
