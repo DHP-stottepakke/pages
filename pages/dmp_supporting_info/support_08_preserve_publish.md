@@ -121,6 +121,8 @@ Note that you here may reuse the answer from chapter VI: 'Data documentation dur
 You should already have identified suitable archives in the 'Identify archive(s)' question above. Thus, you may reuse the information you entered there.
 
 As mentioned above, archives to use should be 'trustworthy'. If you for some reason decide to use an archive not qualified as trustworthy, please consider closely what preservation policy the archive follows. Look for information on this in the 'About' section of the archive, and contact the archive if still in doubt.
+
+In case data is not deposited to an archive but should be preserved locally beyond the project period, it is very important to define a preservation plan and who will be responsible.
 <!-- *write something about preservation strategy if you are NOT using a trustworthy repository* -->
 
 #### Under what license will the dataset be made available?
