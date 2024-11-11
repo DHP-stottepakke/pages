@@ -85,7 +85,7 @@ This is also a good opportunity to reflect on the data backup solution, its poss
 How easily the members of your project may access the data and how access is controlled can be crucial. The overall capacity and transfer speed of a storage solution can also be critical parameters in case you have larger amounts of data.
 
 
-#### How will you name files and organise folders?
+#### Where will you store data and documents?
 Usually, your storage solution(s) will be selected from the solutions recommended in your institution's storage guide. If applicable, provide a link to the description of the storage solution for later reference.
 
 Consult institutional storage guides and information about institutionally managed storage provided by the respective IT departments:
