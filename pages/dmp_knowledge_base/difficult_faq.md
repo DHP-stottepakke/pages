@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Frequently asked difficult questions
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Illimar Rekand, Jenny Ostrop]
 page_id: difficult_faq
 description: Frequently asked difficult questions
 affiliations: 
