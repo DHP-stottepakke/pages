@@ -143,7 +143,7 @@ See also the information on licensing in the chapter [Data documentation during 
 Note that the CC BY clause may unintentionally restrict reuse of data if someone wants to include large amounts of data from numerous datasets. In such a case referring correctly to all the authors may be an insurmountable challenge. 
 For research referring correctly to the dataset, also if data is licensed CC0 or Public Domain Mark, corresponds to good scientific norms. 
 
-For information on Creative Common licenses, see [https://creativecommons.org/](https://creativecommons.org/).
+For information on Creative Commons licenses, see [https://creativecommons.org/](https://creativecommons.org/).
 
 
 ### FAIR data checklist
