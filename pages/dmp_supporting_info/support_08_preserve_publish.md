@@ -30,7 +30,7 @@ other:
 **Why is this topic important**\\
 >> Research data is valuable – they should be available for reuse.\\
 >> Archiving ensures availability of data for yourself at a later time point, e.g. after switching affiliations.\\
->> Rich metadata and usage of trustworthy data archies will make the data findable through search engines. 
+>> Rich metadata and usage of trustworthy data archives will make the data findable through search engines. 
 >> Good documentation, structured metadata and a license will enable others to understand the information held in the data and enable data reuse.\\
 >> Research funders and academic publishers commonly require data underlying a study to be available ('as open as possible').\\
 >> Increasingly, archiving FAIR data is viewed as equally important as publishing other research output, in the assessment of research.\\
@@ -79,7 +79,7 @@ If certain datasets cannot be made available or only be made available under res
 
 This question, and its sub-questions, will assist you in finding archive(s) suitable to deposit the data.
 
-Where do you plan to archive the research data? Remember that this can also include project results, or background material that you not immediately are thinking of as 'data'. As archive choice often decides what metadata standards to be followed, it is advisable to investigate this question early in the project. When identifying alternative archives to use, have a look at the metadata schema they use, to see if it is suitable to describe the data. [Re3data](https://www.re3data.org/) and [FAIRsharing](https://fairsharing.org/) are registries that may help you identify suitable repositories.
+Where do you plan to archive the research data? Remember that this can also include project results, or background material that you not immediately are thinking of as 'data'. As archive choice often decides what metadata standards to be followed, it is advisable to investigate this question early in the project. When identifying alternative archives to use, have a look at the metadata schema they use, to see if it is suitable to describe the data.
 
 Timely archiving of datasets in [trustworthy repositories](/pages/support_08_preserve_publish#trustworthy-research-data-archives) is recommended. Depending on the study and the type of data, it may be appropriate to archive everything in one repository or archiving different parts in different repositories that will link to the related datasets. 
 
@@ -94,9 +94,11 @@ Evaluate which archive(s) will be most relevant for the datasets, using the foll
     3) Can you use an institutional archive?
     [If yes, use your institutional archive.]
 
-    If none of the above applies, use a generic research data archive, or possibly a multipurpose archive accepting both data and other type of outputs.
+    If none of the above applies, use a generic research data archive, or possibly a multipurpose archive accepting both data and other type of outputs.\
+	
+[Re3data](https://www.re3data.org/) and [FAIRsharing](https://fairsharing.org/) are registries that may help you identify suitable repositories. For multipurpose repositories, see the [Generalist Repository Comparison Chart](https://doi.org/10.5281/zenodo.7946938).
 
-In some cases, it is important to contact the research data archive beforehand. 
+In some cases, it is important to contact the research data archive beforehand. If dataset submission needs to be clarified with the repository, this should be done well ahead of data deposition.
 
 
 ### List data that you have deleted or will delete
