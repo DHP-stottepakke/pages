@@ -49,7 +49,7 @@ Select the funding status appropriate for the current time (Planned, Applied, Gr
 #### Grant number
 It will be important to provide the unique identificator for the grant while reporting your project results. If applicable, add a link to the project in the funders project database.
 
-* The Research Council of Norway usually assigns 6-digit project numbers which is registered in the [prosjektbanken](https://prosjektbanken.forskningsradet.no/)
+* The Research Council of Norway usually assigns a 6-digit project number which is registered in [prosjektbanken](https://prosjektbanken.forskningsradet.no/)
 * The Health Regions assign grant numbers through [ihelse - forskningsprosjekter](https://forskningsprosjekter.ihelse.net/)
 * EU projects are registered in the [CORDIS - EU research results](https://cordis.europa.eu/search) database
 * [Dimensions](https://www.dimensions.ai) is a commerical service collecting data from research project databases and CRIS systems, providing it e.g. to ORCID
