@@ -59,7 +59,7 @@ _Supplementary info: When unsure about relevant metadata standards within your f
 
 
 ### Will you use existing vocabularies/ontologies/terminologies to describe the data?
-Please consider which controlled vocabularies, ontologies or terminologies have relevance within your field of research, and apply these to heighten precision when describing your research data. Specifying the applied vocabularies/ontologies/terminologies in the metadata or data documentation is important to avoid ambiguity.
+Please consider which controlled vocabularies, ontologies or terminologies have relevance within your field of research, and apply these to heighten precision when describing the research data. Specifying the applied vocabularies/ontologies/terminologies in the metadata or data documentation is important to avoid ambiguity.
 
 Vocabularies/ontologies/terminologies can be important from the [FAIRsharing registry of standards](http://fairsharing.org/).
 
