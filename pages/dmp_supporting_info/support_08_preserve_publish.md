@@ -60,7 +60,7 @@ In Norway, the [Sikt archive](https://sikt.no/en/archiving-research-data) may be
 [Data Use Ontology](https://www.ga4gh.org/product/data-use-ontology-duo/) is a service that may be useful for data that cannot be openly available. This service is especially developed for sensitive human data.
 
 ### Persistent identifiers
-When deciding where to archive the data, make shure you chose an archive where the dataset is assigned a persistent identifier (PID). Two commonly used PIDs are Digital Object Identifier (DOI) and handle. With a PID assigned, you are guaranteed that the dataset may be referred to with correct identifier for findability. The (not uncommon) problem of URLs that stop working for some reason is then avoided. Archives assigning DOIs is also a sign of quality, since there is minimum requirements to the metadata schema used in order to achieve a DOI.
+When deciding where to archive the data, make shure you chose an archive where the dataset is assigned a persistent identifier (PID). Two commonly used PIDs are Digital Object Identifier (DOI) and handle. With a PID assigned, you are guaranteed that the dataset may be referred to with correct identifier for findability. The (not uncommon) problem of URLs that stop working for some reason is then avoided. Archives assigning DOIs is also a sign of quality, since there is minimum requirements to the metadata schema used in order to acquire a DOI.
 
 
 ## Question-specific guidance
@@ -137,7 +137,7 @@ See also the information on licensing in the chapter [Data documentation during 
 
 * [CC0 (No rights reserved)](https://creativecommons.org/public-domain/cc0/) is a permissive license often used for data. 
 * [CC BY (Attribution)](https://creativecommons.org/share-your-work/cclicenses/) is a license also much used. CC BY requires referring to the author(s) of a dataset for its reuse. 
-* [Public domain mark](https://creativecommons.org/public-domain/pdm/) should be uses if the data are public domain material, typically very old material. This expresses that there are no known copyright to the material.
+* [Public Domain Mark (PDM)](https://creativecommons.org/public-domain/pdm/) should be uses if the data are public domain material, typically very old material. This expresses that there are no known copyright to the material.
 * [NLOD Norwegian Licence for Open Government Data](https://data.norge.no/nlod/en/2.0) is not an international license, and therefore less suitable for research data. If you use data licenses with NLOD these can be re-published under CC BY, attributing the original licensor.
 
 Note that the CC BY clause may unintentionally restrict reuse of data if someone wants to include large amounts of data from numerous datasets. In such a case referring correctly to all the authors may be an insurmountable challenge. 
