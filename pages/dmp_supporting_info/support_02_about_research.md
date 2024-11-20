@@ -52,4 +52,4 @@ It will be important to provide the unique identificator for the grant while rep
 * The Research Council of Norway usually assigns 6-digit project numbers which is registered in the [prosjektbanken](https://prosjektbanken.forskningsradet.no/)
 * The Health Regions assign grant numbers through [ihelse - forskningsprosjekter](https://forskningsprosjekter.ihelse.net/)
 * EU projects are registered in the [CORDIS - EU research results](https://cordis.europa.eu/search) database
-* [Dimensions](https://www.dimensions.ai) is a commerical service collecting data from research project databases and CRIS systems, providing it e.g. also to ORCID
+* [Dimensions](https://www.dimensions.ai) is a commerical service collecting data from research project databases and CRIS systems, providing it e.g. to ORCID
