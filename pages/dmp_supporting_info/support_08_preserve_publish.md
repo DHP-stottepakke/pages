@@ -28,24 +28,25 @@ other:
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
->> Your data is valuable – they should be available for reuse.\\
->> Archiving data is also a way to ensure availability of data for yourself at a later time point, e.g. after switching affiliations.\\
->> Rich metadata will make your data findable through search engines. Good documentation and structured metadata will enable others to understand the information held in your data and enable data reuse.\\
+>> Research data is valuable – they should be available for reuse.\\
+>> Archiving ensures availability of data for yourself at a later time point, e.g. after switching affiliations.\\
+>> Rich metadata and usage of trustworthy data archies will make the data findable through search engines. 
+>> Good documentation, structured metadata and a license will enable others to understand the information held in the data and enable data reuse.\\
 >> Research funders and academic publishers commonly require data underlying a study to be available ('as open as possible').\\
 >> Increasingly, archiving FAIR data is viewed as equally important as publishing other research output, in the assessment of research.\\
 " %}
 
 ## About this chapter
-Research data should be archived and preserved, for the benefit of future research and to ensure research transparency. Data should be archived as open as possible and as closed as necessary, as the guiding principle of research funders and others states. This chapter will assist you in walking through the planning steps of making your data available in line with the FAIR principles, including selecting an archive to publish your data (or, if needed, archiving with access restrictions) and providing appropriate metadata.
+Research data should be archived and preserved, for the benefit of future research and to ensure research transparency. Data should be archived as open as possible and as closed as necessary, as the guiding principle commonly referred to by research funders states. This chapter will assist you in walking through the planning steps of making the data available in line with the FAIR principles, including selecting an archive to publish the data (or, if needed, archiving with access restrictions) and providing appropriate metadata.
 
 The chapter includes both questions that should be considered at the initial stage of the DMP, and questions to be answered towards the end of the research project to plan the fate of data in the project, whether they will be deposited in a research data archive, preserved in other ways, or in certain cases will be discarded.
 
 ### Trustworthy research data archives
-An important issue is to identify the best suited archive to be used for your data. There are different types of archives you may use for your data. Disciplinary archives are designed to suit data from specific subject areas. These may use metadata standards and metadata schema that are best suited to capture important information on data from such a specific subject area. Then there are institutional data archives. These archives are designed to capture data from any subject area the institution handles. Have a look whether your institution offers such an archiving service. A benefit for you in choosing an institutional archive would be that your institution has good user support to ensure the quality of your archived data. Furthermore, there are 'catch all' archives, meaning archives where both scholarly publications as well as data may be archived. If you do not have access to use a data archive, you may consider to use a catch all archive like [Zenodo](https://zenodo.org/).
+An important issue is to identify the best suited archive to be used for the data. There are different types of archives you may use for research data. Disciplinary archives are designed to suit data from specific subject areas. These may use metadata standards and metadata schema that are best suited to capture important information on data from such a specific subject area. Then there are institutional data archives. These archives are designed to capture data from any subject area the institution handles. Have a look whether your institution offers such an archiving service. A benefit for you in choosing an institutional archive would be that your institution has good user support to ensure the quality of the archived data. Furthermore, there are 'catch all' archives, meaning archives where both scholarly publications as well as data may be archived. If you do not have access to use a data archive, you may consider using a catch all archive like [Zenodo](https://zenodo.org/).
 
 You may browse or search for suitable archives in the [re3data registry](https://www.re3data.org/), which is a registry of data archives. The [FAIRsharing service](https://fairsharing.org/) is also a useful a searchable resource that holds information on data archives, as well as standards and data policies. Both resources have filtering functions.
 
-You are advised to choose a so-called [trustworthy archive](/pages/support_00_rdm_terms#trustworthy-repository-trustworthy-archive) for your data that meets minimum criteria on provision of persistent and unique identifiers (PIDs), metadata, data access and usage licenses, and data preservation. A common certification is the [Core Trust Seal](https://www.coretrustseal.org/) which certifies that the archive in question operates in accordance with the Core Trust Seal quality criteria, both in terms of its financial foundation and its quality assuring data curation routines.
+You are advised to choose a so-called [trustworthy archive](/pages/support_00_rdm_terms#trustworthy-repository-trustworthy-archive) for the data that meets minimum criteria on provision of persistent and unique identifiers (PIDs), metadata, data access and usage licenses, and data preservation. A common certification is the [Core Trust Seal](https://www.coretrustseal.org/) which certifies that the archive in question operates in accordance with the Core Trust Seal quality criteria, both in terms of its financial foundation and its quality assuring data curation routines.
 
 ### Restricted access to research data
 Some data should not be made openly available, according to law regulations (including the General Data Protection Regulation (GDPR)) and/or ethical considerations. These may be data with person identifying information, or data that are sensitive for other reasons (national security or business information). It is still important to archive such data, to ensure their long term preserving. These data thus need to be archived with restricted access.
@@ -56,35 +57,35 @@ In Norway, the [Sikt archive](https://sikt.no/en/archiving-research-data) may be
 
 [CLARINO](https://repo.clarino.uib.no/xmlui/) may also be mentioned here. CLARINO is Norway's part of the European CLARIN infrastructure network, which stands for Common Language Resources and Technology Infrastructure. CLARINO includes a platform where researchers can store, share, and access language data in standardized formats. This also includes access with restricted access, since language research easily includes person identifying data.
 
-[Data Use Ontology](https://www.ga4gh.org/product/data-use-ontology-duo/) is a service that may be useful for data that can not be openly available. This service is especially developed for sensitive human data.
+[Data Use Ontology](https://www.ga4gh.org/product/data-use-ontology-duo/) is a service that may be useful for data that cannot be openly available. This service is especially developed for sensitive human data.
 
 ### Persistent identifiers
-When deciding where to archive your data, make suere you chose an archive where your dataset is assigned a persistent identifier (PID). Two commonly used PIDs are Digital Object Identifier (DOI) and handle. With a PID assigned, you are guaranteed that your dataset may be referred to with correct identifier for findability. The (not uncommon) problem of urls that stop working for some reason is then avoided. Archives assigning DOIs is also a sign of quality, since there is minimum requirements to the metadata schema used in order to achieve a DOI.
+When deciding where to archive the data, make shure you chose an archive where the dataset is assigned a persistent identifier (PID). Two commonly used PIDs are Digital Object Identifier (DOI) and handle. With a PID assigned, you are guaranteed that the dataset may be referred to with correct identifier for findability. The (not uncommon) problem of URLs that stop working for some reason is then avoided. Archives assigning DOIs is also a sign of quality, since there is minimum requirements to the metadata schema used in order to acquire a DOI.
 
 
 ## Question-specific guidance
 
-### Can all of your data become completely open over time?
+### Can all of the data become completely open over time?
 As discussed above, research data should be made available, and preferably at an early stage, unless there are legal or ethical reasons for limiting the access. So, one of the first issues to clarify, is whether the data, all of it or part of it, can be made openly available, or if there need to be set an embargo period before opening access to the data. If no such legal or ethical considerations are valid, data should be archived as open as possible and as closed as necessary, and also as early as possible.\
 If the data is background data for a scientific publication, normally it should be made available no later than at the time of publishing the article.
 
-The chapter 'Legal and ethical aspects' may help to identify criteria for deciding whether (part of) your data needs to be restricted from public access. You should consider whether such parts may be anonymized or aggregated so that such a version of your data can be openly available. Data that cannot be openly available, may still be made available with restricted access. In this case it is particularly important to be aware of required steps from project start.
+The chapter 'Legal and ethical aspects' may help to identify criteria for deciding whether (part of) the data needs to be restricted from public access. You should consider whether such parts may be anonymized or aggregated so that such a version of the data can be openly available. Data that cannot be openly available, may still be made available with restricted access. In this case it is particularly important to be aware of required steps from project start.
 
-If certain datasets can not be made available or only be made available under restricted access conditions, please explain why, clearly separating legal and contractual reasons from intentional restrictions.
+If certain datasets cannot be made available or only be made available under restricted access conditions, please explain why, clearly separating legal and contractual reasons from intentional restrictions.
 
 
 ### Identify archive(s) for publishing datasets
 *add figure for flow chart*
 
-This question, and its sub-questions, will assist you in finding archive(s) suitable to deposit your data.
+This question, and its sub-questions, will assist you in finding archive(s) suitable to deposit the data.
 
-Where do you plan to archive you research data? Remember that this can also include project results, or background material that you not immediately are thinking of as 'data'. As archive choice often decides what metadata standards to be followed, it is advisable to investigate this question early in the project. When identifying alternative archives to use, have a look at the metadata schema they use, to see if it is suitable to describe your data. [Re3data](https://www.re3data.org/) and [FAIRsharing](https://fairsharing.org/) are registries that may help you identify suitable repositories.
+Where do you plan to archive the research data? Remember that this can also include project results, or background material that you not immediately are thinking of as 'data'. As archive choice often decides what metadata standards to be followed, it is advisable to investigate this question early in the project. When identifying alternative archives to use, have a look at the metadata schema they use, to see if it is suitable to describe the data. [Re3data](https://www.re3data.org/) and [FAIRsharing](https://fairsharing.org/) are registries that may help you identify suitable repositories.
 
 Timely archiving of datasets in [trustworthy repositories](/pages/support_08_preserve_publish#trustworthy-research-data-archives) is recommended. Depending on the study and the type of data, it may be appropriate to archive everything in one repository or archiving different parts in different repositories that will link to the related datasets. 
 
-Evaluate which archive(s) will be most relevant for your datasets, using the following the decision tree:
+Evaluate which archive(s) will be most relevant for the datasets, using the following the decision tree:
 
-    1) Does your dataset contain personal data or sensitive information?
+    1) Does the dataset contain personal data or sensitive information?
     [If yes, investigate discipline-specific or generic archives with restricted access.]
 
     2) Do journals or funders require that specific archives will be used or is there disciplinary conventions regarding the choice of archive?
@@ -93,9 +94,9 @@ Evaluate which archive(s) will be most relevant for your datasets, using the fol
     3) Can you use an institutional archive?
     [If yes, use your institutional archive.]
 
-    If none of the above applies, use a generic research data archive, or possibly a multi purpose archive accepting both data and other type of outputs.
+    If none of the above applies, use a generic research data archive, or possibly a multipurpose archive accepting both data and other type of outputs.
 
-In some cases it is important to contact the research data archive beforehand. 
+In some cases, it is important to contact the research data archive beforehand. 
 
 
 ### List data that you have deleted or will delete
@@ -104,19 +105,21 @@ Determining which data are of value and should be preserved or whether data need
 Generally, institutions and research funders set requirements to retain data for a given period. For example, the Research Council of Norway "has stipulated as a requirement that research data must be stored in a safe and secure manner for a minimum of 10 years" [(Policy for Open Science, 2020)](https://www.forskningsradet.no/siteassets/forskningspolitisk-radgivning/apen-forskning/nfr-policy-open-science-eng.pdf). On the other hand, the Research Council of Norway states that research projects "should explicitly address how research data that are not considered to have long-term value should be managed, or if relevant destroyed, after a certain period of time." [(Policy for for Open Access to Research
 Data, 2017)](https://www.forskningsradet.no/contentassets/6ccb7b14c18a48ee974acd78fc64efba/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf)
 
-So, it can be worthwhile to consider which data in a project are not of value (e.g. data from failed experiments), only have intermediate value (e.g. during data analysis) and which data should be preserved long-term. This is particularly important if storage of large amounts of data is associated with significant costs. However, take into consideration that data not considered to be of any value for your present need, may turn out to be of value to others, or even to yourself, some time into the future.
+So, it can be worthwhile to consider which data in a project are not of value (e.g. data from failed experiments), only have intermediate value (e.g. during data analysis) and which data should be preserved long-term. This is particularly important if storage of large amounts of data is associated with significant costs. However, take into consideration that data not considered to be of any value for your present need, may turn out to be of value to others, or even to yourself, sometime into the future.
 
 
 ### List datasets that you have archived or will archive
-Archiving of datasets includes the deposition of datasets in a research data archive, openly or with restricted access, and equipped with a persistent identifier (PID) as well as data that should be preserved but not published. As mentioned above, research data should be made available at an early stage, following the principles "as open as possible, as closed as necessary". Funders and research institutions may specify more exact guidelines for this. E.g. the guidelines from the Research Council of Norway states that data underlying scientific articles should be made accessible latest at publication. Other research data should be made accessible within a reasonable amount of time, and never later than three years after the project has ended [(Policy for open access to research data, 2017)](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf).
+Archiving of datasets includes the deposition of datasets in a research data archive, openly or with restricted access. Open data as well as data that should be archived with access restrictions should be equipped with a persistent identifier (PID). As mentioned above, research data should be made available at an early stage, following the principles "as open as possible, as closed as necessary". Funders and research institutions may specify more exact guidelines for this. E.g. the guidelines from the Research Council of Norway states that data underlying scientific articles should be made accessible latest at publication. Other research data should be made accessible within a reasonable amount of time, and never later than three years after the project has ended [(Policy for open access to research data, 2017)](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf).
 
-Several of the sub-questions here let you refer to information in other chapters of your DMP or in external databases. Alternatively, it is always possible to enter a free-text answer.
+Several of the sub-questions here let you refer to information in other chapters of your DMP or in external databases. When relevant, you can enter a free-text answer.
 
 #### Which metadata and documentation accompanies the dataset?
-Explain to the best of your knowledge what metadata (what metadata standard) is used for your dataset. Here you may reuse information from the metadata standard question in the 'Data documentation' chapter.
+Explain to the best of your knowledge what metadata (what metadata standard) is used for the dataset. Here you may reuse information from the metadata standard question in the 'Data documentation' chapter.
+
+Metadata are an essential part of a dataset and provide the contextual information that is needed to understand the dataset. In many cases, deciding for a research data archive will also decide over the metadata standard used. 
 
 Metadata is structured information about a dataset (or a document). _How to_ structure the information is done in various ways. Different metadata schemas are designed to capture the information, and such a schema is called a metadata standard. A metadata standard may be designed to suit a subject domain or a specific research area. There are, naturally, different information needs to describe a dataset with biological data, compared to a dataset which revolves on social sciences.
-A metadata schema may capture information by the use of controlled vocabularies to avoid ambiguity. That way, information will be standardised and not be disrupted by different persons using different words or typology for same issues. Such a standardisation will preferably make use of ontologies from a subject domain, avoiding misunderstandings if a term is used differently in different disciplines. The use of controlled vocabularies and ontologies will increase the quality and findability of the archived data.
+A metadata schema may capture information using controlled vocabularies or ontologies to avoid ambiguity. That way, information will be standardised and not be disrupted by different persons using different words or typology for same issues. Such a standardisation will preferably refer to ontologies from a given subject domain, which also helps to avoid misunderstandings if a term is used differently in different disciplines. The use of controlled vocabularies and ontologies will increase the quality and findability of the archived data.
 Note that you here may reuse the answer from chapter VI: 'Data documentation during the project'.
 
 #### Where has the data been archived?
@@ -128,17 +131,23 @@ In case data is not deposited to an archive but should be preserved locally beyo
 
 In case data is not deposited to an archive but should be preserved locally beyond the project period, it is very important to define a preservation plan and who will be responsible.
 
-#### Under what license will the dataset be made available?
-As mentioned above, the preferred choice is to archive data 'as open as possible', where open refers to both accessibility and reusability. So, you should archive your data with an open license and thus as few restrictions as possible added. Even if in doubt if a dataset will be considered 'original' work, assigning a license is good practice to clarify reuse terms.\
-See also the information on licensing in the chapter [Data documentation during the project](/pages/support_06_document#will-a-license-be-assigned-to-your-data-as-early-as-possible).
+#### Under which license will the dataset be made available?
+As mentioned above, the preferred choice is to archive data 'as open as possible', where open refers to both accessibility and reusability. So, you should archive the data with an open license and thus as few restrictions as possible added. Even if in doubt if a dataset will be considered 'original' work, assigning a license is best practice to clarify reuse terms.\
+See also the information on licensing in the chapter [Data documentation during the project](/pages/support_06_document#will-a-license-be-assigned-to-the-data-as-early-as-possible).
 
-CC0 (No rights reserved) is a permissive license often used for data. CC BY (Attribution) is a license also much used. CC BY requires referring to the author(s) of a dataset for its reuse. Be ware that the BY clause may unintentionally restrict dataset reuse, if someone wants to include large amounts of data, from numerous datasets in some analysis. In such a case referring correctly to all the authors may be an insurmountable challenge. And even if data is licensed CC0, referring correctly to the dataset, if practically possible, is what corresponds to good scientific norms. 
+* [CC0 (No rights reserved)](https://creativecommons.org/public-domain/cc0/) is a permissive license often used for data. 
+* [CC BY (Attribution)](https://creativecommons.org/share-your-work/cclicenses/) is a license also much used. CC BY requires referring to the author(s) of a dataset for its reuse. 
+* [Public Domain Mark (PDM)](https://creativecommons.org/public-domain/pdm/) should be uses if the data are public domain material, typically very old material. This expresses that there are no known copyright to the material.
+* [NLOD Norwegian Licence for Open Government Data](https://data.norge.no/nlod/en/2.0) is not an international license, and therefore less suitable for research data. If you use data licenses with NLOD these can be re-published under CC BY, attributing the original licensor.
 
-For information on CC licenses, see [https://creativecommons.org/](https://creativecommons.org/).
+Note that the CC BY clause may unintentionally restrict reuse of data if someone wants to include large amounts of data from numerous datasets. In such a case referring correctly to all the authors may be an insurmountable challenge. 
+For research referring correctly to the dataset, also if data is licensed CC0 or Public Domain Mark, corresponds to good scientific norms. 
+
+For information on Creative Commons licenses, see [https://creativecommons.org/](https://creativecommons.org/).
 
 
 ### FAIR data checklist
-No matter whether your data may be published openly or not, it is always a question of making your data FAIR - or rather as FAIR as possible. FAIR is an acronym for Findable, Accessible, Interoperable, Reusable and the [FAIR principles (2016)](/pages/support_08_preserve_publish#further-resources] describe a set of criteria to be met.\
+No matter whether the data may be published openly or not, it is always a question of making the research data FAIR - or rather as FAIR as possible. FAIR is an acronym for Findable, Accessible, Interoperable, Reusable and the [FAIR principles (2016)](/pages/support_08_preserve_publish#further-resources] describe a set of criteria to be met.\
 The checklist can assist you in remembering the relevant elements:
 * Archived datasets have persistent identifiers
 * Archived datasets are indexed and findable in search engines
