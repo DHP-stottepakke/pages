@@ -45,7 +45,7 @@ Please consult the chapters in e.g. the [RDMkit for life sciences, the CESSDA Da
 _Supplementary info: Almost all computer systems will provide some system metadata embedded in files, and provide info on creation date and who has editor or read-only access to the file, for example. Most systems will also provide users with possibilities of adding user metadata that can be embedded in files, such as descriptive tags._
 
 
-### Do suitable metadata standards exist for your data?
+### Do suitable metadata standards exist for the data?
 When planning and embarking on your project, you should familiarize yourself with, and choose, a suitable metadata standard if one exists. Many research fields have agreed upon, established and adopted a metadata standard suitable for discipline-specific needs. If available, applying a domain/dicipline-specific standard ensures that all necessary information facilitating data use and reuse is included. In addition to domain-specific standards, domain-agnostic standards also exist. The "Minimal Information Standard" describes a defined minimal set of metadata. A metadata standard can also include optional values.
 
 Most research data repositories will implement specific standards. That is why the use of a particular archive often will lead to the use of a particular metadata standard.\
@@ -58,7 +58,7 @@ Further reading:
 _Supplementary info: When unsure about relevant metadata standards within your field, the Dublin Core standard defines a minimum set of values and is embedded in many more comprehensive standards._
 
 
-### Will you use existing vocabularies/ontologies/terminologies to describe your data?
+### Will you use existing vocabularies/ontologies/terminologies to describe the data?
 Please consider which controlled vocabularies, ontologies or terminologies have relevance within your field of research, and apply these to heighten precision when describing your research data. Specifying the applied vocabularies/ontologies/terminologies in the metadata or data documentation is important to avoid ambiguity.
 
 Vocabularies/ontologies/terminologies can be important from the [FAIRsharing registry of standards](http://fairsharing.org/).
@@ -105,7 +105,7 @@ Further reading:
 * Article: Alter, G., Gonzalez-Beltran, A., Ohno-Machado, L., & Rocca-Serra, P. (2020). The Data Tags Suite (DATS) model for discovering data access and use requirements. GigaScience, 9(2), giz165. [doi: 10.1093/gigascience/giz165](https://doi.org/10.1093/gigascience/giz165)
 
 
-### Will a license be assigned to your data as early as possible? 
+### Will a license be assigned to the data as early as possible? 
 It is not always clear to everyone in the project (and beyond) what can and cannot be done with a data set. Being clear about reuse conditions and assigning data a license is one requirement of the FAIR principles.
 
 It is helpful to associate each data set with a license as early as possible in the project, and the license should be stored together with the data at all times. A data license should ideally be as free as possible: any restriction like 'only for non-commercial use' or 'attribution required' may have undesired implications, may reduce reusability and thereby the number of citations. If possible, use a computer-readable and computer actionable license.
