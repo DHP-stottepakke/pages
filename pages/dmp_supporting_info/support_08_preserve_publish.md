@@ -111,7 +111,7 @@ So, it can be worthwhile to consider which data in a project are not of value (e
 ### List datasets that you have archived or will archive
 Archiving of datasets includes the deposition of datasets in a research data archive, openly or with restricted access. Open data as well as data that should be archived with access restrictions whould be equipped with a persistent identifier (PID). As mentioned above, research data should be made available at an early stage, following the principles "as open as possible, as closed as necessary". Funders and research institutions may specify more exact guidelines for this. E.g. the guidelines from the Research Council of Norway states that data underlying scientific articles should be made accessible latest at publication. Other research data should be made accessible within a reasonable amount of time, and never later than three years after the project has ended [(Policy for open access to research data, 2017)](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf).
 
-Several of the sub-questions here let you refer to information in other chapters of your DMP or in external databases. When relevant you can enter a free-text answer.
+Several of the sub-questions here let you refer to information in other chapters of your DMP or in external databases. When relevant, you can enter a free-text answer.
 
 #### Which metadata and documentation accompanies the dataset?
 Explain to the best of your knowledge what metadata (what metadata standard) is used for the dataset. Here you may reuse information from the metadata standard question in the 'Data documentation' chapter.
