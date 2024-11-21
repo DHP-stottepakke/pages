@@ -13,12 +13,14 @@ toc: true
 ## General questions on DMPs
 
 ### Where can a DMP be published?
-* [Zenodo](https://zenodo.org/) is an agnostic research archive (operated by CERN) which allows you to share all sorts of research outputs including data managment plans. Zenodo also allows versioning and will create a unique DOI for your DMP versions.
+* [Zenodo](https://zenodo.org/) is an agnostic research archive (operated by CERN) which allows you to share all sorts of research outputs including data management plans. Zenodo also allows versioning and will create a unique DOI for your DMP versions.
+* In Norway, [The National Research Archive (Nasjonalt vitenarkiv, NVA)](https://nva.sikt.no/) is under development, and this might also be a possible repository for DMP archiving and/or publication.
+
 
 ### Who will evaluate my DMP?
 Practices for DMP evaluation (first draft/as part of the final reporting) are still under establishment and routines may vary between different research funders and institutions. DMP evaluation may be carried out as part of administrative routines, as part of the scientific proposal evaluation, or by designated data management experts.
 
-Science Europe, an organisation of European funders (incl. RCN) has created a [rubic for reviewers](https://scienceeurope.org/media/22hpslfl/se-rdm-template-5-guidance-on-the-evaluation-of-data-management-plans.docx&ved=2ahUKEwiYo4uJur2IAxWkHBAIHZPOLLUQFnoECAwQAQ&usg=AOvVaw1hIpNDQG9JQ-kQM-PUwKwh) on minimal DMP requirements.
+Science Europe, an organisation of European funders has created a [rubric for reviewers](https://scienceeurope.org/media/22hpslfl/se-rdm-template-5-guidance-on-the-evaluation-of-data-management-plans.docx&ved=2ahUKEwiYo4uJur2IAxWkHBAIHZPOLLUQFnoECAwQAQ&usg=AOvVaw1hIpNDQG9JQ-kQM-PUwKwh) on minimal DMP requirements.
 
 In the Horizon Europe funding scheme, a brief outline of data management (1-page DMP) is required at proposal stage and included the scientific proposal evaluation.
 * [Horizon Europe - briefing slides for evaluators](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/experts/standard-briefing-slides-for-experts_he_en.pdf)
@@ -51,7 +53,7 @@ See also the [Horizon Europe FAQ: Under Horizon Europe, does a Data Management P
 Researchers and research advisors can be referred to the section [Considerations pre-start/pre-award.](/pages/support_00_planning_considerations)
 
 ### A research centre/research consortium needs a DMP
-There is currently no accepted standard for how a DMP for a research centre or consortium (e.g. Centre of Excellence (Norwegian: Senter for fremfragende forskning), large EU project) can deviate from DMPs for individual research projects. An appropriate approach could be the definition of common data management principles, shared practices or guidelines and responsibilities for a centre or consortium in an 'umbrella DMP' or 'master DMP', including guidelines on how DMPs for individual projects or work packages should be developed. Cross-referencing between such an 'umbrella DMP' and related DMPs is recommended.
+There is currently no accepted standard for how a DMP for a research centre or consortium (e.g. Centre of Excellence/Senter for fremragende forskning, large EU project) can deviate from DMPs for individual research projects. An appropriate approach could be the definition of common data management principles, shared practices or guidelines and responsibilities for a centre or consortium in an 'umbrella DMP' or 'master DMP', including guidelines on how DMPs for individual projects or work packages should be developed. Cross-referencing between such an 'umbrella DMP' and related DMPs is recommended.
 
 Relevant literature:
 * David, R., Richard, A. S., Connellan, C., Lauer, K. B., Chiusano, M. L., Goble, C., Houde, M., Kemmer, I., Keppler, A., Lieutaud, P., Ohmann, C., Panagiotopoulou, M., Khan, S. R., Rybina, A., Soiland-Reyes, S., Wit, C., Wittner, R., Buono, R. A., Marsh, S. A., … Ewbank, J. (2023). Umbrella Data Management Plans to Integrate FAIR Data: Lessons From the ISIDORe and BY-COVID Consortia for Pandemic Preparedness. Data Science Journal, 22(1). [doi: 10.5334/dsj-2023-035](https://doi.org/10.5334/dsj-2023-035)
@@ -76,13 +78,38 @@ Research data repositories commonly have guides/help-pages which makes it easier
 You should consider a format which is common to the research discipline you are working in, which also adheres to [Open Science standards.](https://opendatahandbook.org/guide/en/appendices/file-formats/)
 
 ### What metadata should I consider collecting in my reseach project?
-If you choose to share your data in a long term archive, it is highly likely this archive has a set of guidelines, wherein the necessary metadata are described. Making yourself familiar with relevant metadata schemes early in the project is recommened.
+If you choose to share your data in a long term archive, it is highly likely this archive has a set of guidelines, wherein the necessary metadata are described. Making yourself familiar with relevant metadata schemes early in the project is recommended.
 
 If you are unsure about which metadata to collect, a minimal set is provided in [The Dublin Core Metadata standard](https://www.dublincore.org/), which originally comprosed of a [collection of 15 "essential" terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/#section-3).
 
 
 ## Questions on research ethics & restrictions to data sharing
-* Is my data still personal if it has been pseudonymized and the key has been deleted/is stored in a safe system
-* My project is in collaboration with a Greek/British/US/Indian/Chinese/Iranian partner. Are there restrictions on data sharing?
-* I am moving to a new position. Who owns the research data?
-* How should the CARE principles be implemented in practice? Is there Norwegian resources?
+
+### My project is in collaboration with a Greek/British/US/Indian/Chinese/Iranian partner. Are there restrictions on data sharing?
+Norway is member of the European Research Area (ERA) which has the objective to ensure free flow of knowledge and technology across national borders in Europe. In addition, Norway is participating in a number of bilateral research cooperations. International research collaborations can e.g. be affected by national security interests and export control regulations.
+
+Further reading:
+* [Norwegian Directorate for Higher Education and Skills: Guidelines and tools for responsible international knowledge cooperation](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation "2024-11-20")
+* [Government.no: Research cooperation](https://www.regjeringen.no/en/topics/education/innsikt/internasjonalt-kunnskapssamarbeid/forskningssamarbeid/id2353797/)
+
+Institutional resources on export control:
+* [NTNU: Control of knowledge transfer](https://i.ntnu.no/wiki/-/wiki/English/Control+of+knowledge+transfer "2024-11-20")
+* [UiB: Responsible International Knowledge Cooperation](https://www.uib.no/en/udir/173813/responsible-international-knowledge-cooperation "2024-11-20")
+* [UiO: Research Security](https://www.uio.no/english/for-employees/support/international-cooperation/responsibility/research-security/ "2024-11-20")
+
+### I am moving to a new position. Who owns the research data?
+IPR policies may vary between institutions. One way to ensure that data and other research outputs can be worked with also after changing affiliation is to make them available in a research archive.
+
+Institutional resources on IPR:
+* [NTNU: Intellectual property rights - IPR](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-11-20")
+* [UiB: Regulation on handling employees’ rights to the results of work and research at the University of Bergen](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-11-20")
+* [UiO: Policy for intellectual property rights at the University of Oslo](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-11-20")
+* [UiT: Regulations for securing and management of work results at UiT](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-11-20")
+
+### Is my data still personal if it has been pseudonymised and the key has been deleted/is stored in a safe system
+Useful resources:
+* [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/en/regulations-and-tools/reports-on-specific-subjects/anonymisation/ "2024-11-20")
+
+### How should the CARE principles be implemented in practice? Is there Norwegian resources?
+For research data generated by or about the Sámi people and Sámi society: 
+* [GIDA-Sápmi network - Sámi Research Data Governance](https://uit.no/research/sshf-no/project?pid=788403&p_document_id=674134 "2024-11-20")
