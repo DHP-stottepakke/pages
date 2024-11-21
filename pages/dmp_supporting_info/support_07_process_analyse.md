@@ -5,7 +5,7 @@ title: Processing, analysing and interpreting data
 search_exclude: false
 contributors: [Korbinian Bösl, Jenny Ostrop, Ingrid Heggland]
 page_id: support_07_process_analyse
-description: Supporting DMP Information, process data, data processing, analyse data, data analysis, analyze, analyzis
+description: Supporting DMP Information, process data, data processing, analyse data, data analysis, analyze, analysis
 sidebar: dmp_supporting_info
 dsw:
 - name: Processing, analysing and interpreting data

@@ -49,13 +49,12 @@ You may browse or search for suitable archives in the [re3data registry](https:/
 You are advised to choose a so-called [trustworthy archive](/pages/support_00_rdm_terms#trustworthy-repository-trustworthy-archive) for the data that meets minimum criteria on provision of persistent and unique identifiers (PIDs), metadata, data access and usage licenses, and data preservation. A common certification is the [Core Trust Seal](https://www.coretrustseal.org/) which certifies that the archive in question operates in accordance with the Core Trust Seal quality criteria, both in terms of its financial foundation and its quality assuring data curation routines.
 
 ### Restricted access to research data
-Some data should not be made openly available, according to law regulations (including the General Data Protection Regulation (GDPR)) and/or ethical considerations. These may be data with person identifying information, or data that are sensitive for other reasons (national security or business information). It is still important to archive such data, to ensure their long term preserving. These data thus need to be archived with restricted access.
+Some data should not be made openly available, according to law regulations (including the General Data Protection Regulation (GDPR) and/or ethical considerations. These may be data with person identifying information, or data that are sensitive for other reasons (national security or business information). It may still be important to ensure their long term preservation and regulate data access beyond the project period. In many cases data can be archived with restricted access, enabling access only to eligible actors.
 
-In Norway, the [Sikt archive](https://sikt.no/en/archiving-research-data) may be suitable for this. 
-
-[FEGA (Federated European Genome-phenome Archive)](https://ega.elixir.no/) is another archive that may be suitable. FEGA is designed to help researchers securely store, access, and share sensitive human data across multiple countries, while adhering to local privacy regulations.
-
-[CLARINO](https://repo.clarino.uib.no/xmlui/) may also be mentioned here. CLARINO is Norway's part of the European CLARIN infrastructure network, which stands for Common Language Resources and Technology Infrastructure. CLARINO includes a platform where researchers can store, share, and access language data in standardized formats. This also includes access with restricted access, since language research easily includes person identifying data.
+Archives with restricted access in Norway:
+* [Sikt archive](https://sikt.no/en/archiving-research-data) for data about people and society
+* [FEGA (Federated European Genome-phenome Archive)](https://ega.elixir.no/) is designed to help researchers securely store, access, and share sensitive human data across multiple countries, while adhering to local privacy regulations
+* [CLARINO](https://repo.clarino.uib.no/xmlui/) is Norway's part of the European CLARIN infrastructure network, which stands for Common Language Resources and Technology Infrastructure. CLARINO includes a platform where researchers can store, share, and access language data in standardized formats. This also includes access with restricted access, since language research easily includes person identifying data.
 
 [Data Use Ontology](https://www.ga4gh.org/product/data-use-ontology-duo/) is a service that may be useful for data that cannot be openly available. This service is especially developed for sensitive human data.
 
@@ -75,8 +74,6 @@ If certain datasets cannot be made available or only be made available under res
 
 
 ### Identify archive(s) for publishing datasets
-*add figure for flow chart*
-
 This question, and its sub-questions, will assist you in finding archive(s) suitable to deposit the data.
 
 Where do you plan to archive the research data? Remember that this can also include project results, or background material that you not immediately are thinking of as 'data'. As archive choice often decides what metadata standards to be followed, it is advisable to investigate this question early in the project. When identifying alternative archives to use, have a look at the metadata schema they use, to see if it is suitable to describe the data.

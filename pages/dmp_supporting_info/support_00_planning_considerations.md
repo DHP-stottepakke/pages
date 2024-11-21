@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Pre-start/Pre-award planning considerations
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Jenny Ostrop, Svein Høier, Live Kvale]
 page_id: support_00_planning_considerations
 description: Supporting DMP Information, planning considerations, pre-start, pre-award, before you start
 affiliations:
