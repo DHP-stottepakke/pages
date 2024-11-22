@@ -4,7 +4,7 @@ github_repo: https://github.com/DHP-stottepakke/pages
 
 github_branch: main
 
-site_url: https://dhp-stottepakke.github.io/pages/
+site_url: https://plan.research-data.no
 
 github_edit_url: "{{ site_url }}/edit/{{ github_branch }}/"
 
