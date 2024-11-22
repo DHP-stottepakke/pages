@@ -59,7 +59,7 @@ Archives with restricted access in Norway:
 [Data Use Ontology](https://www.ga4gh.org/product/data-use-ontology-duo/) is a service that may be useful for data that cannot be openly available. This service is especially developed for sensitive human data.
 
 ### Persistent identifiers
-When deciding where to archive the data, make shure you chose an archive where the dataset is assigned a persistent identifier (PID). Two commonly used PIDs are Digital Object Identifier (DOI) and handle. With a PID assigned, you are guaranteed that the dataset may be referred to with correct identifier for findability. The (not uncommon) problem of URLs that stop working for some reason is then avoided. Archives assigning DOIs is also a sign of quality, since there is minimum requirements to the metadata schema used in order to acquire a DOI.
+When deciding where to archive the data, make sure you chose an archive where the dataset is assigned a persistent identifier (PID). Two commonly used PIDs are Digital Object Identifier (DOI) and handle. With a PID assigned, you are guaranteed that the dataset may be referred to with correct identifier for findability. The (not uncommon) problem of URLs that stop working for some reason is then avoided. Archives assigning DOIs is also a sign of quality, since there is minimum requirements to the metadata schema used in order to acquire a DOI.
 
 
 ## Question-specific guidance
@@ -73,8 +73,8 @@ The chapter 'Legal and ethical aspects' may help to identify criteria for decidi
 If certain datasets cannot be made available or only be made available under restricted access conditions, please explain why, clearly separating legal and contractual reasons from intentional restrictions.
 
 
-### Identify archive(s) for publishing datasets
-This question, and its sub-questions, will assist you in finding archive(s) suitable to deposit the data.
+### Identify archive(s) for depositing datasets
+This question, and its sub-questions, will assist you in finding archive(s) suitable to deposit (publish) the data.
 
 Where do you plan to archive the research data? Remember that this can also include project results, or background material that you not immediately are thinking of as 'data'. As archive choice often decides what metadata standards to be followed, it is advisable to investigate this question early in the project. When identifying alternative archives to use, have a look at the metadata schema they use, to see if it is suitable to describe the data.
 
