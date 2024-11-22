@@ -130,7 +130,7 @@ Many research funders consider list research data management as eligible costs i
 Please consult [RDMkit and OpenAIRE resources](support_00_planning_considerations#further-resources) for further information on RDM cost calculations.
 
 
-
+---
 ## Addressing research data management in grant proposals
 Some research funders ask about Open Science and/ or data management planning already in grant applications. In this section you should demonstrate that you have reflected on how your research results can be made available including some practical aspects and how this will strengthen the impact of your project. You are not required to have a complete DMP at the proposal stage.
 
