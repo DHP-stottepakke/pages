@@ -46,10 +46,10 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 > * Projects must submit the first version of the plan when revising the grant application. An updated version is delivered together with the project's final report.
 > * It is the responsibility of the Project Owner to approve that the plan is in line with the institution's requirements and guidelines before it is submitted.
 > * Data management plans should, as far as possible, be public and published openly so that academic communities can better follow their peers' practices.
-> * Based on the data management plans received, the Research Council will accept any costs for managing data as part of the operating costs of the projects we support any costs for managing data as part of the operating costs of the projects we support.
+> * Based on the data management plans received, the Research Council will accept any costs for managing data as part of the operating costs of the projects we support.
 
 * [The Research Council of Norway. (2017). Policy for Open Access to Research Data](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf "2024-09-09")
-> The Research Council’s guidelines in seven headlines (page 6ff):
+> The Research Council’s guidelines in seven headlines (page 6f):
 > * Research data must be stored/archived in a safe and secure manner
 > * Research data must be made accessible for reuse
 > * Research data should be made accessible at an early stage
