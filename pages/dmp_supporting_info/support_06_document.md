@@ -24,9 +24,9 @@ turing:
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
 >> Understanding, analysing and reusing data depends on how said data has been documented, structured, named and in other ways described\\
->> The inclusion of metadata, providing data about the data used in a project, secures that data can be properly utilized, both within and beyond your own project\\
+>> The inclusion of metadata - providing data about the data used in a project - secures that data can be properly utilized, both within and beyond your own project\\
 >> Interpretation of project results requires an understanding of the data provenance/data lineage, i.e. where the data originates from and how it has been processed\\
->> Data documentation should start as early as possible, and in the form of accompanied structured metadata, ensures that data is accessible\\
+>> Data documentation should start as early as possible, ideally in the form of accompanied structured metadata and ensuring that data is accessible\\
 " %}
 
 ## About this chapter
@@ -49,7 +49,7 @@ _Supplementary info: Almost all computer systems will provide some system metada
 When planning and embarking on your project, you should familiarize yourself with, and choose, a suitable metadata standard if one exists. Many research fields have agreed upon, established and adopted a metadata standard suitable for discipline-specific needs. If available, applying a domain/discipline-specific standard ensures that all necessary information facilitating data use and reuse is included. In addition to domain-specific standards, domain-agnostic standards also exist. The "Minimal Information Standard" describes a defined minimal set of metadata. A metadata standard can also include optional values.
 
 Most research data repositories will implement specific standards. That is why the use of a particular archive often will lead to the use of a particular metadata standard.\
-"Minimal Information Standards" can be important from the [FAIRsharing registry of standards](http://fairsharing.org/).
+"Minimal Information Standards" can be imported from the [FAIRsharing registry of standards](http://fairsharing.org/).
 
 Further reading:
 * [RDA metadata standards catalog](https://rdamsc.bath.ac.uk/)
@@ -61,9 +61,9 @@ _Supplementary info: When unsure about relevant metadata standards within your f
 ### Will you use existing vocabularies/ontologies/terminologies to describe the data?
 Please consider which controlled vocabularies, ontologies or terminologies have relevance within your field of research, and apply these to heighten precision when describing the research data. Specifying the applied vocabularies/ontologies/terminologies in the metadata or data documentation is important to avoid ambiguity.
 
-Vocabularies/ontologies/terminologies can be important from the [FAIRsharing registry of standards](http://fairsharing.org/).
+Vocabularies/ontologies/terminologies can be imported from the [FAIRsharing registry of standards](http://fairsharing.org/).
 
-For some disciplines, look-up services to help identify relevant vocabularies/ontologies/terminologies exist. When in doubt of relevance, please look for usage by others within your field, like in published published journal articles or connected to published datasets.
+For some disciplines, look-up services can help identify relevant vocabularies/ontologies/terminologies. When in doubt of relevance, please look for usage by others within your field, like in published journal articles or connected to published datasets.
 * [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/dataset/lov/)
 * [EMBL-EBI Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols4/index)
 * [CESSDA and service providers: European Language Social Science Thesaurus (ELSST)](https://elsst.cessda.eu)
