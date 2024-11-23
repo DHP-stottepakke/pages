@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   viewBox="0 0 433.96094 324.25977"
+   version="1.1"
+   sodipodi:docname="map_icon.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   width="433.96094"
+   height="324.25977"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.4106115"
+     inkscape:cx="221.62068"
+     inkscape:cy="152.21201"
+     inkscape:window-width="1912"
+     inkscape:window-height="1534"
+     inkscape:window-x="3840"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4014" />
+  <g
+     id="layer1"
+     transform="translate(-164.21938,-286.66469)">
+    <g
+       id="g4014">
+      <path
+         id="path3793"
+         style="fill:#676767;fill-opacity:1"
+         d="M 164.21938,286.66469 V 610.92445 L 295.53969,582.6393 V 314.94789 Z m 44.14648,114.69726 26.91406,4.09571 26.91602,4.09765 -17.00391,21.25977 -17.00586,21.26172 z m -5.5957,1.00196 34.84179,89.14648 -8.65039,3.38086 -34.84179,-89.14648 z m 77.2539,82.69336 6.37891,14.6289 -17.91016,7.8086 -6.37695,-14.62891 z m -28.28711,13.63086 6.37891,14.6289 -17.9082,7.8086 -6.37891,-14.62891 z" />
+      <path
+         id="path3793-4"
+         style="fill:#676767;fill-opacity:1"
+         d="m 446.86,286.66469 -131.32031,28.2832 V 582.6393 L 446.86,610.92445 V 506.09438 l -15.73437,-4.36329 4.26367,-15.3789 11.4707,3.18164 z m -96.30469,169.08203 19.53711,0.13867 -0.11328,15.95703 -19.53516,-0.13672 z m 32.55078,2.03906 17.91602,7.79297 -6.36719,14.63477 -17.91406,-7.79493 z m -46.33398,0.0527 6.37891,14.6289 -17.90821,7.8086 -6.3789,-14.62891 z m 74.02344,13.16211 16.69336,10.14843 -8.28907,13.63672 -16.69336,-10.14844 z"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccc" />
+      <path
+         id="path3793-4-0"
+         style="fill:#676767;fill-opacity:1"
+         d="M 466.86,286.66469 V 610.92445 L 598.18031,582.6393 V 314.94789 Z m 95.2793,167.73828 13.13086,10.13476 -21.92774,26.93165 19.78321,15.26953 -13.13086,16.1289 -19.78516,-15.26953 -20.49805,25.17578 -13.13086,-10.13672 20.49805,-25.17382 -22.64258,-17.47657 13.13086,-16.1289 22.64453,17.47656 z m -83.56836,39.38672 h 19.53515 v 15.95898 h -19.53515 z"
+         sodipodi:nodetypes="ccccccccccccccccccccccc" />
+      <g
+         id="g3856"
+         fill="#225500"
+         transform="matrix(1,-0.22818,0,1,123.78,486.41)" />
+      <g
+         id="g3869"
+         fill="#225500"
+         transform="matrix(0.93139,-0.36402,0.36402,0.93139,-303.21,509.13)" />
+    </g>
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Map icon</dc:title>
+        <dc:date>2013-05-21T04:11:18</dc:date>
+        <dc:description>map style windows 8</dc:description>
+        <dc:source>https://openclipart.org/detail/178411/map-icon-by-fabiovaleggia-178411</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>fabiovaleggia</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>map</rdf:li>
+            <rdf:li>mappa</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -65,18 +65,21 @@ Highly relevant examples of aspects that may need consideration:
  	* Considerations regarding informed consent from participants, in particular in medical and health research
 	* Investigate need for Data Protection Impact Assessment (DPIA) if the project involves a "high risk" to people's personal information
 	* Consult privacy guidelines and routines at your institution. For questions about processing of personal data contact your local data protection officer (DPO).
+* Ethical pre-approval (if e.g. conducting medical and health research, animal experiments)
+	* Investigate application routines
+ 	* Creation of common ethical grounds in international projects	
 * Export control regulations
 * Confidentiality/ commercial issues
 * Intellectual Property Rights/ IPR (including planned patenting, commercialization)
 	* For help with IPR aspects contact your local innovation advisor and/or technology transfer office
-* Ethical pre-approval (if e.g. conducting medical and health research, animal experiments)
-	* Investigate application routines
- 	* Creation of common ethical grounds in international projects	
+* Animal welfare
 * Protection of cultural heritage
 * Research on endangered species
 * Indigenous data governance
 * Responsible use of artificial intelligence
 * Consortium agreements or collaboration agreements in multi-partner projects
+	* Data Ownership and responsibilities should be formalized
+	* In international projects, the applicable legislation needs to be specified (usually by localization of the coordinating institution)
 	* For contract-related questions contact local research advisors or legal advisors at your institution
 
 See guidance on the DMP chapter [Legal and ethical aspects](/pages/support_03_legal_ethics) for additional information and links to institutional resources.
@@ -103,7 +106,7 @@ Remember that research data is a broad term and includes all sorts of data used 
 
 Read more about identifying data and approaches to research data management under [Discipline-rooted approaches to research data management](/pages/support_00_local_disc#discipline-rooted-approaches-to-research-data-managmement)
 
-#### Can all results be made (openly) available?
+#### Can all project results be made (openly) available?
 Some datasets cannot be made publicly available. Decisions to not share data should follow the principle "as open as possible, as closed as necessary". Reasons may include protection of sensitive data, export control regulations, and intellectual property rights/confidentiality issues.
 
 If data cannot be made available openly, consider if datasets still could be made available with restricted access.
@@ -127,7 +130,7 @@ Many research funders consider list research data management as eligible costs i
 Please consult [RDMkit and OpenAIRE resources](support_00_planning_considerations#further-resources) for further information on RDM cost calculations.
 
 
-
+---
 ## Addressing research data management in grant proposals
 Some research funders ask about Open Science and/ or data management planning already in grant applications. In this section you should demonstrate that you have reflected on how your research results can be made available including some practical aspects and how this will strengthen the impact of your project. You are not required to have a complete DMP at the proposal stage.
 

@@ -48,7 +48,8 @@ Depending on the discipline and specifics of a project, a data unit may already 
 ### The project will (re)use datasets or records available in a repository/registry/archive
 Many research projects are using existing digital sources for producing knowledge. For example, existing data can be used as reference, be combined with other data, and datasets can be approached with novel questions. Often, pre-existing data will be combined with novel data collected or produced in a project.
 
-As many of the same considerations apply, also access to materials that are commonly referred to as 'records' or 'sources' rather than 'data' should be included here, such as material in public archives, media archives, legal resources, or large amounts of digital literature.
+As many of the same considerations apply, also access to materials that are commonly referred to as 'records' or 'sources' rather than 'data' should be included here, such as material in public archives, media archives, legal resources, or large amounts of digital literature.\
+If digital sources are not persistent, additional considerations on versioning and preserving a copy should be taken.
 
 Not all data from conducted research within your research field will be open and unrestricted. But very often, even restricted and closed data(sets) of relevance can be findable by reference in publications, or by searchable metadata within registers and the like.
 
@@ -102,7 +103,7 @@ It will then be possible to share the material as research data in an open archi
  
 **Norwegian digital sources**\
 If you plan to collect on-line material from Norwegian sources, it might be of value to have a dialogue with the Web Archive about scarping and preserving the material.
-Nettarkivet [the Norwegian Web Archive (in Norwegian)](https://www.nb.no/en/collection/web-archive/)  at the National Library of Norway aims to preserve websites under the .no domain according to the Legal Deposit Act [Pliktavleveringslova, (in Norwegian)](https://lovdata.no/dokument/NL/lov/1989-06-09-32?q=plikt). Websites under foreign domains can also be harvested if their content is related to Norway or is written in Norwegian.
+Nettarkivet [the Norwegian Web Archive (in Norwegian)](https://www.nb.no/en/collection/web-archive/)  at the National Library of Norway aims to preserve websites under the .no domain according to the Legal Deposit Act [Pliktavleveringslova, (in Norwegian)](https://lovdata.no/dokument/NL/lov/1989-06-09-32). Websites under foreign domains can also be harvested if their content is related to Norway or is written in Norwegian.
  
 **Contacting the rights holder**\
 If you plan to collect digital content from a limited number of content producers, consider contacting the rights holder and ask for permission to share the material as research data and part of your research. This is not always possible, but without permissions sharing the data openly at a later stage in the research will be difficult.

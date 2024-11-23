@@ -34,6 +34,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 > The researcher must set up a Data Management Plan at an early phase of the project and preferably within six months after start-up.
 
 
+---
 ## Funder policies and guidelines
 
 ### The Research Council of Norway

@@ -34,7 +34,7 @@ For less complex projects:
 * **Minimum** questionnaire covers a core set of questions adapted to less complex projects (e.g. student projects). This questionnaire is suited for projects without external funding or external project partners. For less complex projects that are handling sensitive data or personal data or requiring ethical pre-application, see below.
 * **Minimum and ELSI** combines the **Minimum** questionnaire with questions on handling sensitive data or personal data or requiring ethical pre-application.
 
-{% include image.html file="dsw_project.png" caption="Select project" alt="Screenshot project selection menu" %}
+{% include image.html file="dsw_project.png" caption="Select project template" alt="Screenshot project template selection menu" %}
 
 #### Advanced setup of questionnaire
 For other combinations or specific needs (e.g. writing an 'umbrella DMP') or transferring answers from one questionnaire to another questionnaire variant, contact [support staff at your institution](/pages/support_00_local_disc). Advanced users can customize the questionnaire within the framework of the knowledge model, select questions by tags, and configure the document template and other settings.
@@ -48,7 +48,7 @@ Answering the questionnaire is done in three steps:
 2. Select the chapter. There are nine DMP chapters focussing on different aspects. It is recommended to fill in chapters in a chronological order.
 3. Answer the questions. The navigation bar to the left can be used actively to jump between questions without scrolling. For additional information, the links in the questionnaire lead to the question-specific [Supporting Information for Users](/pages/dmp_supporting_info/).
 
-{% include image.html file="dsw_phases.png" caption="Select project phase: Initial, midway or complete DMP" alt="Screenshot phase selection menu: Initial, midway or complete DMP" %}
+{% include image.html file="dsw_phases.png" caption="1. Select project phase: Initial, midway or complete DMP, 2. Select the chapter, 3. Answer questions" alt="Screenshot with 1. Phase selection menu: Initial, midway or complete DMP, 2. Chapter selection, 3. Questionnaire" %}
 
 There is different types of questions:
 * Free-text or values (e.g. numerical, url, date)

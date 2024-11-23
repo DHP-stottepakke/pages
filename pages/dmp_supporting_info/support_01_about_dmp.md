@@ -31,8 +31,6 @@ rdmkit:
 ## About this chapter
 This chapter collects administrative information about the data management plan (DMP) itself. It makes it clear who contributes to data management in the research project and how responsibilities are assigned in the research group (e.g. between the project leader, research staff, and technical staff), which also is useful information when making data accessible. A DMP should be a living document and plans and responsibilities for undertaking DMP revisions should be noted in this chapter.
 
-Questions in this chapter include the following aspects:
-
 ### DMP as a living document
 A DMP should be considered a living document and be revised as the project develops. When the first draft is written some aspects may not be in place but become evident as the project progresses. It is therefore recommended to schedule updates of the DMP and assign a responsible person for its updating. When a project is completed, the DMP should be updated with all research outputs produced.
 

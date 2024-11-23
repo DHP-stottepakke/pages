@@ -1,11 +1,9 @@
 subitems:
   - title: Main
     url: /index
-  - title: Knowledge Base for Support Staff
-    url: /dmp_knowledge_base
-  #- title: DMP Questionnaire
-    #url: /dmp_template
   - title: DMP Supporting Information
     url: /dmp_supporting_info
-  - title: Contribute
+  - title: Background knowledge
+    url: /dmp_knowledge_base
+  - title: About
     url: /contribute

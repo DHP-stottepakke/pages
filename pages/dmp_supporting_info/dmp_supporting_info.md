@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: Supporting Information for Users
+title: DMP Supporting Information
 permalink: /dmp_supporting_info/
 search_exclude: false
 contributors: [Jenny Ostrop, Korbinian Bösl, Ida Juhasz, Live Kvale, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]

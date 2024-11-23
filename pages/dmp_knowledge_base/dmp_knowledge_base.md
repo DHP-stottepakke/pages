@@ -1,7 +1,7 @@
 ---
 layout: page
 <!--type: cheat_sheet-->
-title: DMP Knowledge Base
+title: DMP Knowledge Base for support staff
 permalink: /dmp_knowledge_base/
 search_exclude: false
 contributors: [Jenny Ostrop, Korbinian Bösl, Illimar Rekand, Ida Juhasz, Live Kvale, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]
@@ -11,7 +11,7 @@ affiliations:
 sidebar: dmp_knowledge_base
 ---
 
-This section collects useful information about data management plans (DMP) for support personnel.
+This section collects useful information about data management plans (DMP) targeting personnel in support roles.
 
 The core part of the knowledge base is an annotation of the DMP guidance by Science Europe:
 - [Science Europe DMP Guidance - annotated](/pages/science_europe)

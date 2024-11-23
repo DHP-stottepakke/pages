@@ -8,7 +8,7 @@ site_url: https://plan.research-data.no
 
 github_edit_url: "{{ site_url }}/edit/{{ github_branch }}/"
 
-title: "DMP Support Package"
+title: "Norwegian DMP Support Package"
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 topnav_title: ''
