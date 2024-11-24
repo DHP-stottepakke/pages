@@ -7,6 +7,12 @@ contributors: [Svein Høier, Jenny Ostrop]
 page_id: support_00_start_writing
 description: Supporting DMP Information, DMP writing, Data Stewardship Wizard, DSW, User guide
 sidebar: dmp_supporting_info
+dsw:
+- name: About the Data Management Plan
+  uuid: knowledge-models/elixir.no:dsw-km-no-localization:latest/preview
+other:
+- name: DSW User Guidance
+  url: https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html
 ---
 
 {% include callout.html type="note" content="
@@ -23,7 +29,8 @@ Projects/ planning drafts are auto-saved, details can be seen under “Projects�
 The second step is to choose a proper title for your planning project, and then the defining step: choosing a project template to use for your project. A project template present you with a questionnaire in the project workspace, as well as a set of default values, so you don't have to start from scratch. Select the questionnaire variant that fits your project best.   
 
 ### Choose the right project template for your project
-<code> The described setup refers to the pre-defined templates in the [ELXIR Norway DSW testing instance](https://dsw-test.elixir.no/). If using another instance, see section Advanced setup. </code>
+<code> The described setup refers to the pre-defined templates in the ELXIR Norway DSW testing instance. If using another DSW instance, see section Advanced setup. </code>
+
 To accommodate different project needs, you will have access to four different project templates in this setup. Select the questionnaire variant that fits your project best.
 
 For externally funded projects:
