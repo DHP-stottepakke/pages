@@ -22,8 +22,8 @@ Projects/ planning drafts are auto-saved, details can be seen under â€œProjectsâ
 
 The second step is to choose a proper title for your planning project, and then the defining step: choosing a project template to use for your project. A project template present you with a questionnaire in the project workspace, as well as a set of default values, so you don't have to start from scratch. Select the questionnaire variant that fits your project best.   
 
-
 ### Choose the right project template for your project
+<code> The described setup refers to the pre-defined templates in the [ELXIR Norway DSW testing instance](https://dsw-test.elixir.no/). If using another instance, see section Advanced setup. </code>
 To accommodate different project needs, you will have access to four different project templates in this setup. Select the questionnaire variant that fits your project best.
 
 For externally funded projects:

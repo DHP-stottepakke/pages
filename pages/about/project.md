@@ -25,7 +25,7 @@ The project [Data management plans: support package for Norwegian university lib
 ## Project outputs
 Project results were archived in November 2024, documenting the conclusion of the active project period.
 * Text resources: 
-* DMP questionnaires (DSW Knowledge Model): 
+* DMP questionnaires (DSW Knowledge Model): [https://doi.org/10.5281/zenodo.14210840](https://doi.org/10.5281/zenodo.14210840)
 
 Working papers:
 * Mapping of DMP stakeholders and user needs in the project 'Data Management Plans: Support package for Norwegian higher education libraries'. Working paper. [https://doi.org/10.5281/zenodo.10836868](https://doi.org/10.5281/zenodo.10836868)
