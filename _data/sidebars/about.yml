@@ -8,7 +8,13 @@ subitems:
     url: /contributors
   - title: How to contribute
     url: /contribute
-  - title: Copyright Guidelines
-    url: /copyright
-  - title: Styleguide
-    url: /styleguide
+    subitems:
+    - title: Contribute through GitHub
+      url: /github
+    - title: Contribute through git (advanced)
+      url: /git
+    - title: Styleguide
+      url: /styleguide  
+    - title: Copyright Guidelines
+      url: /copyright
+
