@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Annotated Science Europe DMP guidance
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Jenny Ostrop, Korbinian Bösl, Illimar Rekand, Ida Juhasz, Live Kvale, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]
 page_id: science_europe
 description: annotated guidance, Science Europe
 affiliations: 

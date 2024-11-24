@@ -8,7 +8,7 @@ site_url: https://plan.research-data.no
 
 github_edit_url: "{{ site_url }}/edit/{{ github_branch }}/"
 
-title: "Norwegian DMP Support Package"
+title: "plan.research-data.no"
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 topnav_title: ''
@@ -64,9 +64,9 @@ defaults:
     path: "pages/contribute"
     type: "contribute"
   values:
-    permalink: /contribute/main
+    permalink: /contribute
     layout: "page"
-    sidebar: contribute
+    sidebar: main
     topnav: topnav
 
 plugins:
