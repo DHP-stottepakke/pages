@@ -41,7 +41,6 @@ Before starting editing on GitHub:
 ### Submit your first draft
 
 1. When you are happy with your first draft, go to the “Propose changes” section at the end of the page and write a title and a brief explanation of your changes.
-    {% include image.html file="propose_changes_github.png" inline=true alt="Propose changes on GitHub" %}
 2. Click “Propose changes”. 
 3. Create a pull request following [GitHub's documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 4. In the description of your pull request, link the issue related to this change by typing a hashtag # and the issue number. Suggestions will appear.

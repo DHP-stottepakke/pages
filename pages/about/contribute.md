@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to contribute
-permalink: /contribute/
+permalink: /contribute
 search_exclude: false
 page_id: contribute
 description: Contribute, contribution
@@ -26,7 +26,7 @@ If you wish to contribute, please remember the following:
 There are different ways to contribute:
 * Contact us by mail via [research-data@uib.no](mailto: research-data@uib.no)
 * [Create an issue](https://github.com/DHP-stottepakke/pages/issues/new/choose) on GitHub and describe what should be changed (zero experience required)
-* You can make a suggestion through [GitHub](/pages/github). Please remember to also describe it in an [issue](https://github.com/DHP-stottepakke/pages/issues/new/choose).
+* You can make a suggestion through [GitHub](pages/github). Please remember to also describe it in an [issue](https://github.com/DHP-stottepakke/pages/issues/new/choose).
 * You can make a pull request with [git and GitHub](/pages/git). Please remember to also describe it in an [issue](https://github.com/DHP-stottepakke/pages/issues/new/choose).
 
 ## Acknowledgement and ownership of content
