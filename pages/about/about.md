@@ -15,4 +15,4 @@ The resources originate in the 1-year project [Data Management Plans: Support pa
 ## How to cite it
 To cite **plan.research-data.no**, please use the following format: 
 
-*plan.research-data.no. DMP Support Package for Norwegian Higher Education Libraries. URL: [https://plan.research-data.no](https://github.com/DHP-stottepakke)*
+*plan.research-data.no. DMP Support Package for Norwegian Higher Education Libraries. URL: [https://plan.research-data.no](https://plan.research-data.no)*
