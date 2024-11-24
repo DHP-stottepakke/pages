@@ -1,0 +1,14 @@
+title: About
+title_url: /about
+
+subitems:
+  - title: Project background
+    url: /project  
+  - title: Contributors
+    url: /contributors
+  - title: How to contribute
+    url: /contribute
+  - title: Copyright Guidelines
+    url: /copyright
+  - title: Styleguide
+    url: /styleguide

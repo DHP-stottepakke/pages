@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Requirements and policy documents
 search_exclude: false
-contributors: [Jenny Ostrop]
+contributors: [Jenny Ostrop, Leif Longva]
 page_id: dmp_policy
 description: DMP requirements, policy, strategy
 affiliations: 

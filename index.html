@@ -8,17 +8,38 @@ layout: none
 {% include head.html %}
 
 <body>
-    {% include topnav.html search=true %}
+    {% include topnav.html search=false %}
 		
 	<div class="landingpage">
         <section class="container mb-5">
             <div>
-                <p class="text-center lead"> research-data.no is a knowledge resource for research data management in Norway. It has resulted from the 1-year project (October 2023-2024) <a href="https://www.uib.no/en/ub/166135/data-management-plans-support-package-norwegian-higher-education-libraries" > Data Management Plans: Support package for Norwegian higher education libraries.</a> All project results are available under an open license and text resources are maintained through an open contribution and maintenance process. A translation of the user-directed resources to Norwegian is planned.
+                <p class="text-center lead"> <b>plan.research-data.no</b> is a knowledge resource to support Data Management planning at Norwegian research institutions.
                 </p>
             </div>
         </section>
-
-		<!-- deliverables -->
+		
+		<section id="search-section" class="bg-light py-5">
+            <div class="container">
+                <div class="row">
+                    <h2 class="no-anchor text-center mb-3">What can we help you find?</h2>
+                    <div class="position-relative">
+                        <div class="d-flex justify-content-center">
+                            <form role="search" class="input-group">
+                                <span class="input-group-text" id="search-label"><i
+                                        class="fa-solid fa-magnifying-glass"></i></span>
+                                <input type="search" id="search-input"
+                                    class="search-input form-control form-control-lg bg-white" tabindex="0"
+                                    placeholder="Search using a keyword" aria-label="Search using a keyword"
+                                    autocomplete="off">
+                            </form>
+                            <div id="search-results" class="search-results"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+		
+		<!-- intro -->
 		<section class="bg-light pb-5">
                   <div class="container">
                       <h2 class="no-anchor text-center mb-3"> About data management planning </h2>
@@ -54,11 +75,24 @@ layout: none
                         </div>
                     </div>
 
+					<!-- terms -->
+                    <div class="col">
+                        <div class="card border bg-white h-100">
+                            <div class="card-body text-center">
+                                <a href="/pages/support_00_rdm_terms" class="stretched-link">
+                                     <img src="assets/img/section-icons/book_icon.svg" class="card-img-top h-icon-5 mx-auto" alt="book icon">
+                                    <h3 class="card-title no-anchor text-primary"> Glossary </h3>
+                                </a>
+                                <p class="card-text"> Terms used in the context of data management plans and research data management explained. </p>
+                            </div>
+                        </div>
+                    </div>
+					
                  </div>
             </div>
         </section>
 
-		<!-- deliverables -->
+		<!-- researchers -->
 		<section class="bg-light pb-5">
                   <div class="container">
                       <h2 class="no-anchor text-center mb-3">For researchers writing a DMP </h2>
@@ -72,9 +106,9 @@ layout: none
                             <div class="card-body text-center">
                                 <a href="/pages/support_00_local_disc" class="stretched-link">
                                     <img src="assets/img/section-icons/expert_icon.svg" class="card-img-top h-icon-5 mx-auto" alt="expert icon">
-                                    <h3 class="card-title no-anchor text-primary"> Find local and discipline-specific experts</h3>
+                                    <h3 class="card-title no-anchor text-primary"> Find local and discipline-specific experts </h3>
                                 </a>
-                                <p class="card-text"> Get support from local experts and get inspired by discipline-rooted resources.</p>
+                                <p class="card-text"> Get support from local experts and get inspired by discipline-rooted resources. </p>
                             </div>
                         </div>
                     </div>
@@ -111,7 +145,7 @@ layout: none
             </div>
         </section>
 
-		<!-- deliverables -->
+		<!-- support staff -->
 		<section class="bg-light pb-5">
                   <div class="container">
                       <h2 class="no-anchor text-center mb-3"> For supporting staff </h2>
@@ -119,7 +153,7 @@ layout: none
                       <!-- {%- assign sidebar = site.data.sidebars[page.sidebar] %} -->
                       <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
 					  
-					<!-- 1 - knowledge base -->
+					<!-- d1 - knowledge base -->
                     <div class="col">
                         <div class="card border bg-white h-100">
                             <div class="card-body text-center">
@@ -127,7 +161,7 @@ layout: none
                                      <img src="assets/img/section-icons/book_icon.svg" class="card-img-top h-icon-5 mx-auto" alt="book icon">
                                     <h3 class="card-title no-anchor text-primary"> DMP Background knowledge</h3>
                                 </a>
-                                <p class="card-text"> The knowledge base for support personnel includes annotation of the Science Europe Practical Guide to the International Alignment of Research Data Management in the Norwegian context.</p>
+                                <p class="card-text"> The knowledge base for support personnel includes the annotation of the Science Europe DMP guidance in the Norwegian context.</p>
                             </div>
                         </div>
                     </div>
@@ -147,8 +181,21 @@ layout: none
 					
                  </div>
             </div>
+		
+		<!-- feedback -->
+        <!--
+		<section class="container mb-5">
+             <div class="card border border-primary text-primary text-center">
+                <div class="card-body">
+                    <h5 class="card-title fs-3">For feedback and/or any query, please don't hesitate to <a
+                            href="https://github.com/DHP-stottepakke/pages/issues">open an issue on GitHub</a> or
+                        you can also contact us by mail via <a
+                            href="mailto:research-data@uib.no">research-data@uib.no</a>.</h5>
+                </div>
+            </div>
+		-->
         </section>
- 
+		
 		<!-- contribute -->
 		<section class="py-5">
             <div class="container">
@@ -159,7 +206,7 @@ layout: none
                     </div>
                     <div class="col-lg-7">
                         <h2>We welcome your contributions!</h2>
-                        <p><a href="https://www.uib.no/en/ub/166135/data-management-plans-support-package-norwegian-higher-education-libraries" > plan.research-data.no </a> is an open resource created by the University libraries at UiB, NTNU, UiO, UiT, ELIXIR Norway and PhD-on-Track. Everyone is welcome to contribute to this community project or suggest improvements! To cite plan.research-data.no, please use the following format:
+                        <p> <b> plan.research-data.no </b> is an open resource created by the University libraries at UiB, NTNU, UiO, UiT, ELIXIR Norway and PhD-on-Track. Everyone is welcome to contribute to this community project or suggest improvements! To cite plan.research-data.no, please use the following format:
                             <div class="card border-1 my-4">
                               <div class="card-body">
                                 <p class="card-text"><i>plan.research-data.no. DMP Support Package for Norwegian Higher Education Libraries. URL: <a href="https://plan.research-data.no" > https://plan.research-data.no</a></i></p>

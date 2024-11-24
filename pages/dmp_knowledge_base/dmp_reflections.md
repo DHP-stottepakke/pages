@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Conceptual DMP reflections
 search_exclude: false
-contributors:
+contributors: [Jenny Ostrop, Korbinian Bösl, Illimar Rekand, Ida Juhasz, Live Kvale, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]
 page_id: dmp_reflections
 description: DMP reflections, conceptual view, stakeholders, stakeholder motivations
 affiliations: 

@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: DMP training plans
 search_exclude: false
-contributors:
+contributors: [Jenny Ostrop]
 page_id: dmp_training
 description: DMP training plan, train-the-trainer, lesson plan
 affiliations: 
