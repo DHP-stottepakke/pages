@@ -28,7 +28,7 @@ Working papers:
 * Datahåndteringsplaner: Støttepakke for norske UH-bibliotek - Oppsummering Innspillsverksted 29.05.2024. [https://doi.org/10.5281/zenodo.11518316](https://doi.org/10.5281/zenodo.11518316)
 
 Project results were archived ahead of the public launch of the resources in November 2024, documenting the conclusion of the active project period.
-* Text resources: 
+* Text resources: [https://doi.org/10.5281/zenodo.14218847](https://doi.org/10.5281/zenodo.14218847)
 * DMP questionnaires (DSW Knowledge Model): [https://doi.org/10.5281/zenodo.14210840](https://doi.org/10.5281/zenodo.14210840)
 
 
