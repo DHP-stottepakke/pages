@@ -265,6 +265,7 @@ If you already described the processing of personal data in detail in other syst
 	* [NTNU guidance for Data Protection Impact Assessment (DPIA)](https://i.ntnu.no/wiki/-/wiki/English/Data+protection+impact+assessment "2024-10-30")
 	* [UiO Quality assurance system for health and medical research](https://www.uio.no/english/for-employees/support/research/quality-system-for-health-research/index.html "2024-10-30")
 * [Sikt notification form for personal data ('Sikt Meldeskjema')](https://sikt.no/en/notification-form-personal-data)
+* For agreements on data processing you can find inspiration in the [Data Agreement Wizard](https://dawid.elixir-luxembourg.org/) - - make sure to clarify the agreement(s) with your insitutional legal person as well.
 
 ##### Privacy considerations step-by-step
 <code> Be aware that you might have to register processing of personal data in additional systems as required by your institution and there is currently no information exchange between systems. </code>
@@ -301,6 +302,7 @@ Further information:
 * [GA4GH ethical toolkit](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/) with examples of granular consent and machine readable metadata (for human genetic data)
 * [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico)
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)
+* For Arts and humanities you can get inspiration for consent forms from the [DARIAH ELDAH Consent Form Wizard (CFW)](https://consent.dariah.eu/) - make sure to clarify the form with your insitutional legal person as well
 * [National Research Ethics Committees: Consent](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
 * [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
 * [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
