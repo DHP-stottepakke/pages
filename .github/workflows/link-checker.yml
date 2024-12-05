@@ -55,7 +55,7 @@ jobs:
             # Don't fail action on broken links
             fail: false
       - name: Add repository URL
-          run: |
+        run: |
             DEPLOY_URL=`https://plan.research-data.no/pages/` && \
             sed -i "s|_site\/|${DEPLOY_URL}|g" ./lychee/out.md && \
             cat ./lychee/out.md
