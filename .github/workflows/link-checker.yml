@@ -58,7 +58,7 @@ jobs:
       - name: Add page URL
         run: |
             DEPLOY_URL="https://plan.research-data.no/pages/" && \
-            sed -i "s|### Errors in _site\/|${DEPLOY_URL}|g" ./lychee/out.md && \
+            sed -i "s|\\#\\#\\# Errors in _site\/|${DEPLOY_URL}|g" ./lychee/out.md && \
             cat ./lychee/out.md
             
       - name: Create Issue From File
