@@ -54,13 +54,12 @@ jobs:
             args: _site/ --fallback-extensions .html
             # Don't fail action on broken links
             fail: false
-      - name: Add repository URL
+            
+      - name: Add page URL
         run: |
             DEPLOY_URL=`https://plan.research-data.no/pages/` && \
             sed -i "s|_site\/|${DEPLOY_URL}|g" ./lychee/out.md && \
-            cat ./lychee/out.md
-      
-      REPOSITORY_GITHUB_URL
+            cat ./lychee/out.m
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
