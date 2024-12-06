@@ -116,7 +116,7 @@ Examples:
 > Personal data that has been de-identified, encrypted or **pseudonymised** but can be used to re-identify a person remains personal data and falls within the scope of the GDPR.
 > Personal data that has been rendered **anonymous** in such a way that the individual is not or no longer identifiable is no longer considered personal data. For data to be truly anonymised, the anonymisation must be irreversible.
 > The GDPR protects personal data **regardless of the technology used for processing that data** – it’s technology neutral and applies to both automated and manual processing, provided the data is organised in accordance with pre-defined criteria (for example alphabetical order). It also doesn’t matter how the data is stored – in an IT system, through video surveillance, or on paper; in all cases, personal data is subject to the protection requirements set out in the GDPR.
-[European Commission: What is personal data?](https://commission.europa.eu/law/law-topic/data-protection/reform/what-personal-data_en)
+[European Commission: What is personal data?](https://commission.europa.eu/law/law-topic/data-protection/data-protection-explained_en#what-is-personal-data)
 
 ### Provenance, data lineage
  > Provenance: A type of historical information or metadata about the origin, location or the source of something, or the history of the ownership or location of an object or resource including digital objects. For example, information about the Principal Investigator who recorded the data, and the information concerning its storage, handling, and migration.

@@ -27,14 +27,14 @@ For the legal details in Norway, please consult:
 - Personal Data Act ([Personopplysningsloven](https://lovdata.no/dokument/RFA/lov/2000-04-14-31))
 - Regulations on the processing of personal data ([Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876))
 - Transitional rules on the processing of personal data ([Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877))
-- [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
+- [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-og-ytrings--og-informasjonsfrihet/)
 - [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
 
 If conducting health research, consult the [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44) and the [Health Registry Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43).
 
 In this context also the following laws and regulations might be relevant:
 - [Regulations on the organisation of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
-- [Comments to health research legislative work by the Norwegian government](http://www.regjeringen.no/nb/dep/hod/dok/lover_regler/forskrifter/2009/helseforskningsloven.html?id=570542)
+- [Comments to health research legislative work by the Norwegian government](https://www.regjeringen.no/globalassets/upload/hod/hra/veileder-til-helseforskningsloven.pdf)
 - [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
 - [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
 - [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
@@ -92,7 +92,7 @@ If the data should be available for future research contact the archive you wish
 \\
 **Relevant PID**\\
 * REK ID, ID SIKT personverntjenester\\
-* Ontology terms reflecting data protection (e.g. [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico), [Data Use Ontology](Data Use Ontology), [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)\\
+* Ontology terms reflecting data protection (e.g. [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico), [Data Use Ontology](https://github.com/EBISPOT/DUO), [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/)\\
 \\
 **Interested stakeholder**\\
 * Level 1: Host institution/data owner (information security, risk reduction)\\
@@ -233,7 +233,7 @@ Does the material contain confidential information (e.g. personal data and data 
 #### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Each research institution must ensure that research at their institution is in accordance with recognised research ethical norms. It is therefore important that researchers are familiar with, and comply with, relevant and recognised research ethical guidelines. Note that in interdisciplinary projects it may be relevant to refer to guidelines for several subject areas. For more information about the ethical responsibilities of research and research institutions, see the Research Ethics Act.
 
-#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Legal and ethical requirements, codes of conduct – covers the steps that you will take to ensure the legal and ethical requirements for your data are followed.**
 
 If your project uses personal data, describe how you will ensure compliance with legislation on personal data and security - you should include how you plan to obtain consent, how you will manage the data (e.g. anonymisation of the data, access, transfer - if applicable, and destruction). You should include documentation on approved procedures that you plan to adopt.
@@ -388,7 +388,7 @@ Missing:
 - Research on protected cultural heritage
 	- Cultural Heritage Act ([Norwegian: Lov om kulturminner (kulturminneloven)](https://lovdata.no/dokument/NL/lov/1978-06-09-50)
 - Indigenous Data Governance
-	- United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter)](https://www.regjeringen.no/no/tema/urfolk-og-minoriteter/urfolkryddemappe/fns-erklaring-om-urfolks-rettigheter1/id629670/)
+	- United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter)](https://fn.no/avtaler/urfolk/fns-erklaering-om-urfolks-rettigheter)
 
 #### Institutional IPR policies:
 * [University of Bergen (UiB)](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-07-19")

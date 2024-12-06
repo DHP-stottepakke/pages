@@ -39,7 +39,7 @@ Data processing and analysis is a central element in the research process and pa
 
 ### Do you need a shared space with your collaborators to work on data analysis?
 It might be worth to consider to have a shared work environment with collaborators to avoid the duplication of data, reduce data transfer issues and provide the same software to all project participants. If you are working with large datasets, bandwidth to compute infrastructure or data sources might become an issue. Also consider how critical the access to the workspace is for your project or whether you can tolerate data loss and downtime. It is often best to rely on professionals to operate the infrastructure, also to avoid straining project resources my infrastructure maintenance. Also consider how data is entering and leaving the environment. Sometimes the provisioning of the environment will require active application or will take time.
-For the workspace you should follow similar [considerations as for storage is aspects of security](pages/support_04_store_protect).
+For the workspace you should follow similar [considerations as for storage is aspects of security](/pages/support_04_store_protect).
 
 Shared workspace examples (non-exhaustive):
 * [NIRD](https://www.sigma2.no/service/nird-service-platform) provided by Sigma2

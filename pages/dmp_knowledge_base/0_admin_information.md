@@ -119,7 +119,7 @@ Describe the research questions, issues and hypotheses that are addressed in the
 
 The institution responsible for research project has overall responsibility and must ensure that research at the institution takes place in accordance with recognised research ethical norms. It must also ensure compliance with relevant legislation and regulations when carrying out the project. If institution responsible for the research has an service agreement with us for the Plan Archive service, then administrative staff with user rights will have read-only access to your data management plan once it created. The Plan Archive provides the institution an overview of all data management plans where their institution is listed as the institution responsible for the research project.
 
-#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Administrative information – covering the project that will produce or use the data. The project can be located on NIRD storage (in which case it will have a project
 number).**
 

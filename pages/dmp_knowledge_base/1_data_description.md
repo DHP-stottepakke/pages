@@ -124,7 +124,7 @@ Visit the research data topic page at NTNU Innsida to see a list of places to se
 What standards and methods will be used for data collection/generating?
 Are there any existing data (internal or external) on the topic? If yes, how can they be integrated and reused in the project?
 
-#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Data description and collection or reuse of existing data – this section covers how you plan to use or produce your project’s data including the amount of data you expect the project will produce or need access to.**
 
 Describe how you plan to collect new or use existing data – this should cover the methodologies and soYware that you plan to use and any constraints thedata are subject to. Also, include how you plan to document the provenance of the data. If data exists, please include a reason why the existing data is not sufficient.
