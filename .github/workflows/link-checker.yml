@@ -53,7 +53,7 @@ jobs:
             args: _site/ --fallback-extensions html
             # Don't fail action on broken links
             fail: false
-            lycheeVersion: 0.16.1
+            lycheeVersion: 0.17
             
       - name: Add page URL
         run: |
