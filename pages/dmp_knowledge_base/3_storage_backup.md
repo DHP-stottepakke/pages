@@ -123,7 +123,7 @@ Based on the outcome of the security classification carried out earlier in the p
 
 Based on the outcome of the security classification carried out earlier in the plan, you will be provided with a list of file transfer services as these are stated in the guidelines of your institution. If your institution has not published its policy in the Data Policy Manager, suggested guidelines are listed as default.
 
-#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Storage and backup during the research process – covers how you plan to store your data and the back-up procedures you plan to use to ensure your data remains accessible.**
 
 Describe how you will store and back-up your data during your project - you should describe where your data will be stored and backed-up and the number of replicas. If you do not plan to use instututional or national storage you can refer to your project’s or group’s procedures for back-up and replication. You should consider robust, managed storage for your data (laptops and personal USB drives should be avoided).

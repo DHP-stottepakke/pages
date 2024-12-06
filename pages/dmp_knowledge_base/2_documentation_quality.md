@@ -160,7 +160,7 @@ You can find examples of guidelines and procedures for naming conventions at Cam
 
 Describe other measures and processes that are implemented to document collection methods and processes during the project. If you do not intend to use a metadata standard, or there are no relevant metadata standards tailored to your research, describe what other strategies (e.g. whether you will use free-text documents, code syntaxes, etc.) will be applied to document the data.
 
-#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Documentation and data quality – covers how the data will be described (ie what metadata standards are used to describe the data) and how you will measure and record the quality of your data.**
 
 Describe how you will organise and document your data – this should include what metadata standards you plan to use, what data will be covered and how the arrangement of your data will help others to find and use your data. You should also describe any addiDonal documentation (such as electronic logbooks and user-guides or examples of how to use the data), how it will be captured and where it will be stored.

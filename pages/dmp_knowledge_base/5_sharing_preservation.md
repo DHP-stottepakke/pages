@@ -152,7 +152,7 @@ According to the National strategy on access to and sharing of research data and
 
 Research data should be shared as open as possible and closed as necessary. See National Strategy for Accessing and Sharing Research Data.
 
-#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Data sharing and long-term preservation – covers what steps you will take to ensure your data are accessible and reusable by interested groups.**
 
 Describe how and when you will share your data including data you intend to preserve - you should describe how you plan to make the data discoverable (e.g. by depositing the data into a trustworthy data repository).

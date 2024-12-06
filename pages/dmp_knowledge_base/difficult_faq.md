@@ -20,7 +20,7 @@ toc: true
 ### Who will evaluate my DMP?
 Practices for DMP evaluation (first draft/as part of the final reporting) are still under establishment and routines may vary between different research funders and institutions. DMP evaluation may be carried out as part of administrative routines, as part of the scientific proposal evaluation, or by designated data management experts.
 
-Science Europe, an organisation of European funders has created a [rubric for reviewers](https://scienceeurope.org/media/22hpslfl/se-rdm-template-5-guidance-on-the-evaluation-of-data-management-plans.docx&ved=2ahUKEwiYo4uJur2IAxWkHBAIHZPOLLUQFnoECAwQAQ&usg=AOvVaw1hIpNDQG9JQ-kQM-PUwKwh) on minimal DMP requirements.
+Science Europe, an organisation of European funders has created a [rubric for reviewers](https://scienceeurope.org/media/22hpslfl/se-rdm-template-5-guidance-on-the-evaluation-of-data-management-plans.docx) on minimal DMP requirements.
 
 In the Horizon Europe funding scheme, a brief outline of data management (1-page DMP) is required at proposal stage and included the scientific proposal evaluation.
 * [Horizon Europe - briefing slides for evaluators](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/experts/standard-briefing-slides-for-experts_he_en.pdf)

@@ -69,7 +69,7 @@ Useful approaches to identify scientific datasets:
 	* Curated research data registries that allow filtering of discipline: [re3data.org](https://www.re3data.org/), [fairsharing.org](https://fairsharing.org/)
 * Metasearch-services for datasets. Different search engines have different advantages and disadvantages, it can be useful to compare results. Often the best choice to identify data in institutional and generic archives.
 	* Non-commercial: [DataCite Commons](https://commons.datacite.org/ "2024-10-02"), [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/), [OpenAIRE research graph, filter by type](https://explore.openaire.eu/search/advanced/research-outcomes "2024-10-02")
-	* Commercial: [Google Dataset Search](https://datasetsearch.research.google.com/), [Mendeley Data](https://data.mendeley.com/), [WOS Data Citation Index](https://clarivate.com/webofsciencegroup/solutions/webofscience-data-citation-index/), [Dimensions](https://app.dimensions.ai/)
+	* Commercial: [Google Dataset Search](https://datasetsearch.research.google.com/), [Mendeley Data](https://data.mendeley.com/), [WOS Data Citation Index](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/data-citation-index), [Dimensions](https://app.dimensions.ai/)
 
 **Data from the public sector including registry data**\
 Useful resources (non-exhaustive):
@@ -80,7 +80,7 @@ Useful resources (non-exhaustive):
 * [microdata.no](https://www.microdata.no/) and [sikt.no/surveybanken](https://sikt.no/surveybanken) are Sikt services to access register data and survey data, respectively
 * [helsedata.no](https://www.helsedata.no) gives access to both open health data and datasets with restricted access
 * Portals for national studies such as [HUNT Cloud Data](https://hunt-db.medisin.ntnu.no/hunt-db/variablelist)
-* National knowledge bases such as [artsdatabanken.no](https://www.artsdatabanken.no/search) for biodiversity or [NVE map services *Norwegian only*](https://www.nve.no/karttjenester/) for geographical data
+* National knowledge bases such as [artsdatabanken.no](https://www.artsdatabanken.no/search/front?q=&all=1) for biodiversity or [NVE map services *Norwegian only*](https://www.nve.no/karttjenester/) for geographical data
 
 **Data in digital archives and collections**\
 Useful resources (non-exhaustive):

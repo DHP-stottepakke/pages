@@ -108,7 +108,7 @@ Some funders consider costs related to research data management as a legitimate 
 #### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 Who has the right to manage the data? (Usually several members of the project group, but not necessarily all members. Manage means collect, structure, revise, process, etc.)
 
-#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 **Describe who will be responsible for the management of your data**
 
 You should consider the roles and responsibilities (naming individuals if possible) for data management/ stewardship actvities for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. For collaborative projects, explain the coordination of data management responsibilities across partners. Indicate who is responsible for implementing the DMP, and for ensuring it is reviewed and, if necessary, revised. You should consider regular updates of the DMP.

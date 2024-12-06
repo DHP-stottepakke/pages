@@ -120,7 +120,7 @@ Reasons for sensitivity (non-exhaustive):
 * Research on protected cultural heritage
 	* Cultural Heritage Act ([Norwegian: Lov om kulturminner (kulturminneloven)](https://lovdata.no/dokument/NL/lov/1978-06-09-50))
 * Indigenous Data Governance
-	* United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter)](https://www.regjeringen.no/no/tema/urfolk-og-minoriteter/urfolkryddemappe/fns-erklaring-om-urfolks-rettigheter1/id629670/)
+	* United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter)](https://fn.no/avtaler/urfolk/fns-erklaering-om-urfolks-rettigheter)
 
 Further information:
 * [Report How should we share research data? (2021)](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf) 
@@ -177,7 +177,7 @@ Institutional resources on research ethics:
 You can select from the following list of general research ethical guidelines, based on resources provided by the National Research Ethics Committees:
 * [a. The European Code of Conduct for Research Integrity](https://allea.org/code-of-conduct/ "2024-07-17")
 * [b. National Research Ethics Committees (FEK) - General guidelines](https://www.forskningsetikk.no/en/guidelines/general-guidelines/ "2024-07-17")
-* [c. Guidelines for Research Ethics in the Social Sciences and the Humanities by the National Committee for Research Ethics in the Social Sciences and the Humanities (NESH)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/guidelines-nesh/guidelines-for-research-ethics-in-the-social-sciences-humanities-law-and-theology2/ "2024-07-17")
+* [c. Guidelines for Research Ethics in the Social Sciences and the Humanities by the National Committee for Research Ethics in the Social Sciences and the Humanities (NESH)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/guidelines-nesh/guidelines-for-research-ethics-in-the-social-sciences-and-the-humanities/ "2024-12-06")
 * [d. Guidelines for Research Ethics in Science and Technology by The Norwegian National Committee for Research Ethics in Science and Technology (NENT)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nent/guidelines-nent/guidelines-for-research-ethics-in-science-and-technology/ "2024-07-17")
 * [e. Ethical Principles for Medical Research Involving Human Subjects (Declaration of Helsinki)](https://www.wma.net/policies-post/wma-declaration-of-helsinki-ethical-principles-for-medical-research-involving-human-subjects/ "2024-07-17")
 * [f. Guidelines by The Norwegian National Research Ethics Committee for medical and health research (NEM)](https://www.forskningsetikk.no/en/guidelines/medical-and-health-research/guidelines-by-nem/ "2024-07-17")
@@ -197,7 +197,7 @@ Please indicate any additional ethical guidelines or codes of conducts relevant 
 * [Ethics Guidelines for Trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai "2024-04-22")
 * [Nagoya Protocol on Access to Genetic Resources and Benefit-Sharing](https://www.cbd.int/abs/default.shtml "2024-04-22")
 * [Medical and health research in low- and middle-income countries by The National Committee for Medical and Health Research Ethics (NEM)](https://www.forskningsetikk.no/en/guidelines/medical-and-health-research/medical-and-health-research-in-low--and-middle-income-countries/ "2024-07-17")
-* [Guidelines for the inclusion of adults with impaired or absent capacity to consent *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/med-helse/inklusjon-av-voksne-personer-med-manglende-eller-redusert-samtykkekompetanse/)
+* [Guidelines for the inclusion of adults with impaired or absent capacity to consent *Norwegian only*](https://www.forskningsetikk.no/globalassets/dokumenter/4-publikasjoner-som-pdf/redusert-samtykkekompetanse-i-helsefaglig-forskning-2005.pdf)
 * [Payment to participants in medical or health research *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/med-helse/betaling-til-deltakere-i-medisinsk-eller-helsefaglig-forskning/)
 * [Guidelines for the use of genetic studies of humans *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/med-helse/retningslinjer-for-bruk-av-genetiske-undersokelser-av-mennesker-i-medisinsk-og-helsefaglig-forskning/)
 * [Ethical guidelines for clinical trial of drugs *Norwegian only*](https://www.forskningsetikk.no/ressurser/publikasjoner/kliniske-utprovinger-av-legemidler/)
@@ -301,7 +301,7 @@ Institutional resources on participant information and consent:
 Further information:
 * [GA4GH ethical toolkit](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/) with examples of granular consent and machine readable metadata (for human genetic data)
 * [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico)
-* [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/dpv/)
+* [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/)
 * For Arts and humanities you can get inspiration for consent forms from the [DARIAH ELDAH Consent Form Wizard (CFW)](https://consent.dariah.eu/) - make sure to clarify the form with your insitutional legal person as well
 * [National Research Ethics Committees: Consent](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
 * [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
