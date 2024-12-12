@@ -83,12 +83,12 @@ Not all data are covered by The Copyright Act. Some data may be in the form of d
 If intellectual property rights are defined through a contract/agreement, make sure to refer to it in relation to the involved organisations in the chapter 'Legal and ethical aspects'.
 
 If the data is owned by, or copyrighted by, external bodies select this one and elaborate in the follow-up question, and the next question on "use restrictions".\
-Please note that there is no Fair Use-clause in the Norwegian Copyright Act, so subsequent usage of data from secondary sources would restrict future sharing. This can be described in the section "Preserving and publishing data"
+Please note that there is no Fair Use-clause in the Norwegian Copyright Act, so subsequent usage of data from secondary sources would restrict future sharing. This can be described in the chapter 'Archiving and publishing data'.
 
 If there is a consortium agreement or rights are arranged in another way, please make sure to list any relevant contracts or agreements.
 
 Further reading:
-* [The Norwegian copyright act](https://lovdata.no/dokument/LTI/lov/2018-06-15-40)
+* [The Norwegian Copyright Act (Norwegian: Åndsverkloven)](https://lovdata.no/dokument/LTI/lov/2018-06-15-40)
 * [OpenAire: Is data always subject to copyright? (section: Specifications of licensing Research Data](https://www.openaire.eu/how-do-i-license-my-research-data)
 
 
