@@ -74,5 +74,5 @@ We also recommend assigning your data management plan a persistent identifier, s
 <!--recycling possible?-->
 ### Existing sources that can be reused
 
-#### [Open Science Toolbox](http://openscience.prototyp.io/node/56) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [Open Science Toolbox](https://www.ntnu.no/ub/prosjekter/ostoolbox) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 Forskningsrådet og andre finansiører oppfordrer til åpen publisering av datahåndteringsplaner. Da planene endres underveis, kan det gjerne publiseres flere versjoner etter hvert som de oppdateres. Mange prosjekt publiserer ulike versjoner av sin datahåndteringsplan i arkiv som Zenodo.
