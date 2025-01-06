@@ -164,14 +164,14 @@ Missing:
 - [Personal Data Act ([Personopplysningsloven](https://lovdata.no/dokument/RFA/lov/2000-04-14-31))
 - Regulations on the processing of personal data [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
 - Transitional rules on the processing of personal data [Overgangsregler om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-877)
-- [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-vs.-ytringsfrihet/)
+- [The Norwegian Data Protection Agency: Journalistic, academic, artistic and literary purposes](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/personvern-og-ytrings--og-informasjonsfrihet/)
 - [The Norwegian Data Protection Agency: Code of Conduct on Information Security and Internal Control](https://www.datatilsynet.no/regelverk-og-verktoy/atferdsnorm/)
 - [Policy on information security and data protection in higher education and research *Norwegian only*](https://www.regjeringen.no/no/dokumenter/f-04-20-policy-for-informasjonssikkerhet-og-personvern-i-hoyere-utdanning-og-forskning/id2769629/)
 
 ##### Health research data
 - [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44)
 - [Regulations on the organization of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
-- [Comments to health research legislative work by the Norwegian government](http://www.regjeringen.no/nb/dep/hod/dok/lover_regler/forskrifter/2009/helseforskningsloven.html?id=570542)
+- [Comments to health research legislative work by the Norwegian government](https://www.regjeringen.no/globalassets/upload/hod/hra/veileder-til-helseforskningsloven.pdf)
 - [Health Register Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43)
 - [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
 - [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
@@ -184,7 +184,7 @@ Missing:
 ##### Other laws of potential relevance
 - [Archive Act](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
 - [Research Ethics Act](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
-- [Act on Universities and Colleges Act](https://lovdata.no/dokument/NL/lov/2005-04-01-15)
+- [Act on Universities and Colleges Act](https://lovdata.no/dokument/NL/lov/2024-03-08-9)
 
 #### Data Minimization
 - [EDPS glossary: Data minimization](https://www.edps.europa.eu/data-protection/data-protection/glossary/d_en)
@@ -425,7 +425,7 @@ How will the data be licensed for reuse? (According to section 4.5 in the UiT gu
 #### [SIKT DMP](https://sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 Generally, the rights to project results should be transferred from the researchers (and possibly others who have helped create such results) to the institution(s) where the researchers are employed. This is in accordance with the Employees’ Inventions Act, and in accordance with the objectives of the Act relating to universities and university colleges (see in particular §1-5, Academic freedom and responsibility). See also the Norwegian Research Council’s Policy on Intellectual Property Rights.
 
-#### [EasyDMP](https://www.sigma2.no/data-planning) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+#### [EasyDMP](https://www.sigma2.no/service/data-management-plan) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 Describe how you plan to address other legal issues such as intellectual property rights and ownership - you should describe who will own the data (who has access rights) and intellectual property rights and what license you will apply to the data. You should consider an internationally recognised license to maximise data reuse. If you are reusing data, you should describe any restrictions imposed by this data.
 
 #### [SND - Checklist DMP](https://zenodo.org/records/6424769) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
