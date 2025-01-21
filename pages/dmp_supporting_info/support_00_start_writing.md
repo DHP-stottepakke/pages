@@ -26,16 +26,20 @@ The DMP questionnaire is implemented in the DMP tool Data Stewardship Wizard (DS
 * Researchers at NTNU, UiB, UiO og UiT can use the pilot instance [FAIR Wizard Norway](https://norway.fair-wizard.com/). The direct links on this web resource are linking to this instance. For support, contact your [local research data support](/pages/support_00_local_disc).
 * Life Science Researchers at all Norwegian institutions can use the [DSW instance provided by ELIXIR Norway](https://elixir.no/services-2/data-stewardship-wizard). To use the template, follow the advanced setup instructions. For support, contact the [ELIXIR Norway helpdesk](https://elixir.no/helpdesk).
 
-After logging in for the first time, you will have to start by creating a project. Simply said, the different plans you have worked on for your research projects over time are listed as “projects” in Data Stewardship Wizard/ FAIR Wizard. So, projects are in some sense equivalents to plans that you are working on. Please start, as a first step, by creating a new project (plan), and use a good title for later revisions.
+### Start with a new DMP
+Simply said, the different plans you have worked on for your research projects over time are listed as “projects” in Data Stewardship Wizard/ FAIR Wizard. So, projects are in some sense equivalents to DMPs that you are working on.
 
-Projects/ planning drafts are auto-saved, details can be seen under “Projects” – last edited. Management of your plans, editing, revisions, exports – it all starts here. You can also think of listed projects as a set of listed documents you are working on, in a simplified sense. 
+After logging in for the first time, you will have to start by creating a project: Use the 'Start your DMP' shortcut or start from the Projects menu.
+It is recommended to choose a descriptive title for the project that makes it easy to identify it for later revisions. 
 
-The second step is to choose a proper title for your planning project, and then the defining step: choosing a project template to use for your project. A project template present you with a questionnaire in the project workspace, as well as a set of default values, so you don't have to start from scratch. Select the questionnaire variant that fits your project best.   
+{% include image.html file="dsw_start.png" caption="Create a project: Use the 'Start your DMP' shortcut or start from the Projects menu. " alt="Screenshot side navigation" %}
 
-### Choose the right project template for your project
-<code> The described setup refers to the pre-defined templates (questionnaires) in the [FAIR Wizard Norway](https://norway.fair-wizard.com/). If using the the ELIXIR Norway DSW instance, see the instructions for advanced questionnaire setup.</code>
+Projects/ planning drafts are auto-saved, details can be seen under “Projects” – last edited. Management of your plans, editing, revisions, exports – it all starts here.
 
-To accommodate different project needs, you have by default access to four different project templates, in addition to a [pre-project/ pre-award questionnaire](/pages/support_00_planning_considerations). Select the questionnaire variant that fits your project best.
+### Choose the right project template
+<code> The described setup refers to the pre-defined templates on FAIR Wizard Norway. For the ELIXIR Norway DSW instance, see instructions for advanced questionnaire setup.</code>
+
+To accommodate different project needs, you have by default access to four different project templates, in addition to a [pre-project/ pre-award questionnaire](/pages/support_00_planning_considerations). A project template present you with a questionnaire in the project workspace, as well as a set of default values, so you don't have to start from scratch. Select the questionnaire variant that fits your project best.
 
 {% include image.html file="dsw_project.png" caption="Select project template" alt="Screenshot project template selection menu" %}
 
@@ -52,12 +56,12 @@ For less complex projects:
 Instead of starting with one of the pre-defined project templates, it is also possible to configure them and additional options based on the underlying knowledge model. Follow the instructions below if you are using the [ELIXIR Norway DSW instance]((https://elixir.no/services-2/data-stewardship-wizard).
 
 To use one of the above described templates:
-* Start with *From knowledge model* and select **Norwegian DSW Knowledge Model**
-* In the next step, select *Filter by question tags* and then combine the tags **RCN/ Science Europe** or **minimum** with **ELSI** (Ethical and legal aspects, ELSI = **E**thical, **L**egal and **S**ocial **I**mplications") and/ or **HPC** (for computationally demanding projects).
+1. Start with *From knowledge model* and select **Norwegian DSW Knowledge Model**
+2. In the next step, select *Filter by question tags* and then combine the tags **RCN/ Science Europe** or **minimum** with **ELSI** (Ethical and legal aspects, ELSI = **E**thical, **L**egal and **S**ocial **I**mplications") and/ or **HPC** (for computationally demanding projects).
 
 {% include image.html file="dsw_advanced.png" caption="View: Advanced setup" alt="Advanced setup allows to customize questionnaire based on question tags. Selected tags on the screenshot: Science Europe/RCN and ELSI." %}
 
-Advanced users can customize the questionnaire within the framework of the knowledge model, select questions by tags, and configure the document template and other settings. It is also possible to transfer ("migrate") answers between the questionnaire variants. Contact [support staff at your institution](/pages/support_00_local_disc) for support.
+Advanced users can customize the questionnaire within the framework of the knowledge model, select questions by tags, and configure the document template and other settings. It is also possible to transfer ("migrate") answers between the questionnaire variants. Contact [support staff at your institution](/pages/support_00_local_disc) for help.
 
 Other available tags for additional customization or specific needs:
 * umbrella DMP: Selection of questions for umbrella DMPs
