@@ -9,7 +9,7 @@ description: Supporting DMP Information, DMP writing, Data Stewardship Wizard, D
 sidebar: dmp_supporting_info
 dsw:
 - name: About the Data Management Plan
-  uuid: knowledge-models/elixir.no:dsw-km-no-localization:latest/preview
+  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=7ed9939b-b85c-48bf-87f5-2aa081bb5267
 other:
 - name: DSW User Guidance
   url: https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html
@@ -23,8 +23,8 @@ other:
 
 ## Get started with writing your Data Management Plan in Data Stewardship Wizard/ FAIR Wizard
 The DMP questionnaire is implemented in the DMP tool Data Stewardship Wizard (DSW)/ FAIR Wizard (DSW as software-as-a-service). It is available on the following instances:
-* Life Science Researchers at all Norwegian institutions can use the [DSW instance provided by ELIXIR Norway](https://elixir.no/services-2/data-stewardship-wizard). To use the template, follow the advanced setup instructions. For support, contact the [ELIXIR Norway helpdesk](https://elixir.no/helpdesk).
 * Researchers at NTNU, UiB, UiO og UiT can use the pilot instance [FAIR Wizard Norway](https://norway.fair-wizard.com/). The direct links on this web resource are linking to this instance. For support, contact your [local research data support](/pages/support_00_local_disc).
+* Life Science Researchers at all Norwegian institutions can use the [DSW instance provided by ELIXIR Norway](https://elixir.no/services-2/data-stewardship-wizard). To use the template, follow the advanced setup instructions. For support, contact the [ELIXIR Norway helpdesk](https://elixir.no/helpdesk).
 
 After logging in for the first time, you will have to start by creating a project. Simply said, the different plans you have worked on for your research projects over time are listed as “projects” in Data Stewardship Wizard/ FAIR Wizard. So, projects are in some sense equivalents to plans that you are working on. Please start, as a first step, by creating a new project (plan), and use a good title for later revisions.
 
@@ -33,7 +33,7 @@ Projects/ planning drafts are auto-saved, details can be seen under “Projects�
 The second step is to choose a proper title for your planning project, and then the defining step: choosing a project template to use for your project. A project template present you with a questionnaire in the project workspace, as well as a set of default values, so you don't have to start from scratch. Select the questionnaire variant that fits your project best.   
 
 ### Choose the right project template for your project
-<code> The described setup refers to the pre-defined templates (questionnaires) in the [FAIR Wizard Norway](https://norway.fair-wizard.com/). If using the the ELIXIR Norway DSW instance, see advanced setup.</code>
+<code> The described setup refers to the pre-defined templates (questionnaires) in the [FAIR Wizard Norway](https://norway.fair-wizard.com/). If using the the ELIXIR Norway DSW instance, see the instructions for advanced questionnaire setup.</code>
 
 To accommodate different project needs, you have by default access to four different project templates, in addition to a [pre-project/ pre-award questionnaire](/pages/support_00_planning_considerations). Select the questionnaire variant that fits your project best.
 
@@ -48,12 +48,18 @@ For less complex projects:
 * **Minimum and ELSI** combines the **Minimum** questionnaire with questions on handling sensitive data or personal data or requiring ethical pre-application.
 
 
-#### Advanced setup of questionnaire
-Instead of starting with one of the pre-defined project templates, it is also possible to configure them and additional options based on the underlying knowledge model. Advanced users can customize the questionnaire within the framework of the knowledge model, select questions by tags, and configure the document template and other settings. It is also possible to transfer ("migrate") answers between the questionnaire variants. Contact [support staff at your institution](/pages/support_00_local_disc) for support.
+#### Advanced questionnaire setup 
+Instead of starting with one of the pre-defined project templates, it is also possible to configure them and additional options based on the underlying knowledge model. Follow the instructions below if you are using the [ELIXIR Norway DSW instance]((https://elixir.no/services-2/data-stewardship-wizard).
 
-To use one of the above described templates, combine the tags Science Europe/RCN or Minimum with ELSI (Ethical and legal aspects, ELSI = **E**thical, **L**egal and **S**ocial **I**mplications") and/ or HPC (computationally demanding projects, HPC = High-performance computing).\
+To use one of the above described templates:
+* Start with *From knowledge model* and select **Norwegian DSW Knowledge Model**
+* In the next step, select *Filter by question tags* and then combine the tags **RCN/ Science Europe** or **minimum** with **ELSI** (Ethical and legal aspects, ELSI = **E**thical, **L**egal and **S**ocial **I**mplications") and/ or **HPC** (for computationally demanding projects).
 
-Other available tags for customization or specific needs:
+{% include image.html file="dsw_advanced.png" caption="View: Advanced setup" alt="Advanced setup allows to customize questionnaire based on question tags. Selected tags on the screenshot: Science Europe/RCN and ELSI." %}
+
+Advanced users can customize the questionnaire within the framework of the knowledge model, select questions by tags, and configure the document template and other settings. It is also possible to transfer ("migrate") answers between the questionnaire variants. Contact [support staff at your institution](/pages/support_00_local_disc) for support.
+
+Other available tags for additional customization or specific needs:
 * umbrella DMP: Selection of questions for umbrella DMPs
 * for internal use: maDMP, IT security, cross institutional project, Horizon Europe
 
