@@ -9,7 +9,7 @@ description: Supporting DMP Information, Administrative information, Research pr
 sidebar: dmp_supporting_info
 dsw:
 - name: About the research project
-  uuid: knowledge-models/elixir.no:dsw-km-no-localization:latest/preview?questionUuid=f0ef08fd-d733-465c-bc66-5de0b826c41b
+  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=f0ef08fd-d733-465c-bc66-5de0b826c41b
 ---
 
 
