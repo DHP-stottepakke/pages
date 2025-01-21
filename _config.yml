@@ -19,7 +19,7 @@ description: "Data Management Planning Support Package for Norwegian Higher Educ
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@2.5.0
 
-dsw_deep_link_prefix: https://dsw-test.elixir.no/wizard/
+dsw_deep_link_prefix: https://norway.fair-wizard.com/wizard/
 
 theme_variables:
   git_host: GitHub

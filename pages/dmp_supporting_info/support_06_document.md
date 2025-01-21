@@ -9,7 +9,7 @@ description: Supporting DMP Information, data collection, data creation, data ge
 sidebar: dmp_supporting_info
 dsw:
 - name: Responsibilities and resources
-  uuid: knowledge-models/elixir.no:dsw-km-no-localization:latest/preview?questionUuid=b1df3c74-0b1f-4574-81c4-4cc2d780c1af
+  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=b1df3c74-0b1f-4574-81c4-4cc2d780c1af
 cessda:
 - name: Documentation and metadata
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/2.-Organise-Document/Documentation-and-metadata

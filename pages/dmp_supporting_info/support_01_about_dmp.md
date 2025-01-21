@@ -9,7 +9,7 @@ description: Supporting DMP Information, administrative information, publish dmp
 sidebar: dmp_supporting_info
 dsw:
 - name: About the Data Management Plan
-  uuid: knowledge-models/elixir.no:dsw-km-no-localization:latest/preview?questionUuid=7ed9939b-b85c-48bf-87f5-2aa081bb5267
+  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=7ed9939b-b85c-48bf-87f5-2aa081bb5267
 cessda:
 - name: Planing
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan
