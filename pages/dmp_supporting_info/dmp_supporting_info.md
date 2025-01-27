@@ -27,7 +27,7 @@ The core section is structured according to our DMP template. For each chapter i
 - [5 - Reusing or collecting data](/pages/support_05_reuse_collect)
 - [6 - Data documentation during the project](/pages/support_06_document)
 - [7 - Processing, analysing and interpreting data](/pages/support_07_process_analyse)
-- [8 - Preserving and publishing data](/pages/support_08_preserve_publish)
+- [8 - Archiving and publishing data](/pages/support_08_preserve_publish)
 - [9 - Responsibilities and resources](/pages/support_09_responsibilities_resources)
 
 Finally, we explain relevant terminology:
