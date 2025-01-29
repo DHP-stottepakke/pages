@@ -53,7 +53,7 @@ For less complex projects:
 
 
 #### Advanced questionnaire setup 
-Instead of starting with one of the pre-defined project templates, it is also possible to configure them and additional options based on the underlying knowledge model. Follow the instructions below if you are using the [ELIXIR Norway DSW instance]((https://elixir.no/services-2/data-stewardship-wizard).
+Instead of starting with one of the pre-defined project templates, it is also possible to configure them and additional options based on the underlying knowledge model. Follow the instructions below if you are using the [ELIXIR Norway DSW instance](https://elixir.no/services-2/data-stewardship-wizard).
 
 To use one of the above described templates:
 1. Start with *From knowledge model* and select **Norwegian DSW Knowledge Model**
