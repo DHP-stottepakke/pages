@@ -34,4 +34,4 @@ Finally, we explain relevant terminology:
 - [Research data terms](/pages/support_00_rdm_terms) gives definitions of relevant terms used in the context of data management plans.
 
 If you find something that should be improved:
-- [Please provide feedback]((/pages/support_00_feedback) to the community resources
+- [Please provide feedback](/pages/support_00_feedback) to the community resources
