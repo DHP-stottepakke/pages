@@ -61,6 +61,8 @@ Ethical considerations may affect how data will be handled and shared, therefore
 * [National Commission for the Investigation of Research Misconduct (GRU)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/granskingsutvalget/)
 * [National Committee for Research Ethics on Human Remains, interdisciplinary (SKJ)](https://www.forskningsetikk.no/en/guidelines/human-remains/)
 
+All applicants to the Research Council of Norway must address the ethical issues in their project and describe how they will be managed. [This is included in the project description and application assessment](https://www.forskningsradet.no/en/research-policy-strategy/ethical-standards/) to assure the evaluating panel that there is a plan for handling the key ethical dilemmas in the project. The Research Council of Norway refers to [their self-evaluation list](https://www.forskningsradet.no/contentassets/ac9f24c210ab4451a9b25fb406350117/research-ethics-self-evaluation-16.12.2024.pdf) as a starting point. 
+
 In addition, subject-specific ethical guidelines and codes of conduct commonly apply.
 
 Further information:
