@@ -9,7 +9,7 @@ description: Supporting DMP Information, Provide feedback, improvements, Contrib
 sidebar: dmp_supporting_info
 ---
 
-{% include callout.html type="advice" content="
+{% include callout.html type="important" content="
 **On this page**\\
 >> Something missing, wrong or inconvenient?
 >> Please help us improve the community resources!
