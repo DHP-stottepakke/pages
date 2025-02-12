@@ -23,7 +23,7 @@ The editorial team has regular meetings and will handle all proposed changes and
 ## Feedback to the DMP questionnaire
 Do you have feedback to the [DMP questionnaire in FAIR Wizard/ Data Stewardship Wizard](/pages/support_00_start_writing)?
 
-Please fill out our **Feedback form**. Feedback is regularly evaluated by the editorial team.
+Please fill out our [**Feedback form**](https://docs.google.com/forms/d/1MJwnfI6PG9n6xSnPaF96FWARZZNVfZCZWmVLoNqpCIg/viewform?embedded=true). Feedback is systematically evaluated by the editorial team.
 
 <iframe src="https://docs.google.com/forms/d/1MJwnfI6PG9n6xSnPaF96FWARZZNVfZCZWmVLoNqpCIg/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%;" class="mt-1">Loading…</iframe> 
 
