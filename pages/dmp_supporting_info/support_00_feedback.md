@@ -15,13 +15,13 @@ sidebar: dmp_supporting_info
 " %}
 
 ## Feedback to the information resources on plan.research-data.no
-Do you have feedback to the information on [plan.research-data.no](https://plan.research-data.no/)?
+Do you have feedback on the information on [plan.research-data.no](https://plan.research-data.no/)?
 
 Please use one of the feedback ways described in the [**Contributor guide**](/pages/contribute).\
 The editorial team has regular meetings and will handle all proposed changes and feedback.
 
 ## Feedback to the DMP questionnaire
-Do you have feedback to the [DMP questionnaire in FAIR Wizard/ Data Stewardship Wizard](/pages/support_00_start_writing)?
+Do you have feedback on the [DMP questionnaire in FAIR Wizard/ Data Stewardship Wizard](/pages/support_00_start_writing)?
 
 Please fill out our [**Feedback form**](https://docs.google.com/forms/d/1MJwnfI6PG9n6xSnPaF96FWARZZNVfZCZWmVLoNqpCIg/viewform?embedded=true). Feedback is systematically evaluated by the editorial team.
 
