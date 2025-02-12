@@ -7,9 +7,6 @@ contributors: [Jenny Ostrop, Korbinian Bösl, Ida Juhasz, Live Kvale, Leif Longv
 page_id: support_00_feedback
 description: Supporting DMP Information, Provide feedback, improvements, Contribute
 sidebar: dmp_supporting_info
-other:
-- name: RDM questionnaire feedback form
-  url: https://docs.google.com/forms/d/1MJwnfI6PG9n6xSnPaF96FWARZZNVfZCZWmVLoNqpCIg/viewform?ts=678785ba&edit_requested=true
 ---
 
 {% include callout.html type="advice" content="
@@ -21,7 +18,7 @@ other:
 ## Feedback to the DMP questionnaire
 Do you have feedback to the [DMP questionnaire in FAIR Wizard/ Data Stewardship Wizard](/pages/support_00_start_writing)?
 
-Please fill out our [**Feedback form**].
+Please fill out our [**Feedback form**](https://docs.google.com/forms/d/1MJwnfI6PG9n6xSnPaF96FWARZZNVfZCZWmVLoNqpCIg/viewform?ts=678785ba&edit_requested=true).
 Feedback is regularly evaluated by the editorial team.
 
 
