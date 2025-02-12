@@ -21,6 +21,8 @@ Do you have feedback to the [DMP questionnaire in FAIR Wizard/ Data Stewardship 
 Please fill out our [**Feedback form**](https://docs.google.com/forms/d/1MJwnfI6PG9n6xSnPaF96FWARZZNVfZCZWmVLoNqpCIg/viewform?ts=678785ba&edit_requested=true).\
 Feedback is regularly evaluated by the editorial team.
 
+<iframe src="https://docs.google.com/forms/d/1MJwnfI6PG9n6xSnPaF96FWARZZNVfZCZWmVLoNqpCIg/viewform?embedded=true" width="640" height="1000" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%;" class="mt-1">Loading…</iframe> 
+
 
 ## Feedback to the information resources on plan.research-data.no
 Do you have feedback to the information on [plan.research-data.no](https://plan.research-data.no/)?
