@@ -45,10 +45,31 @@ Live Kvale:
     role: Editor
     affiliation: University of Oslo (UiO)
 
+Elisa Pierfederici:
+    git: mariapie
+    email: elisa.pierfederici@ub.uio.no
+    orcid: 0000-0002-6882-6576
+    role: Editor
+    affiliation: University of Oslo (UiO)
+
+Federico Bianchini:
+    git: bianchini88
+    email: federico.bianchini@mn.uio.no
+    orcid: 0000-0002-9016-4820
+    role: Editor
+    affiliation: University of Oslo (UiO)
+
 Leif Longva:
     git: LLongva
     email: leif.longva@uit.no
     orcid: 0000-0001-6638-8317
+    role: Editor
+    affiliation: UiT The Arctic University of Norway (UiT)
+
+Gulbrand Stålet Nilsen:
+    git: GulbrandUiT
+    email: gulbrand.s.nilsen@uit.no
+    orcid: 0009-0007-9242-0473
     role: Editor
     affiliation: UiT The Arctic University of Norway (UiT)
 
