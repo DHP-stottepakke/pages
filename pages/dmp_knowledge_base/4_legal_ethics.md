@@ -463,6 +463,8 @@ The National Research Ethics Committees ([De nasjonale forskningsetiske komiteen
 - [National Commission for the Investigation of Research Misconduct, NREC.](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/granskingsutvalget/)
 - [National Committee for Research Ethics on Human Remains, skjelettutvalget.](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/skjelettutvalget/)
 
+All applicants to the Research Council of Norway must address the ethical issues in their project and describe how they will be managed. [This is included in the project description and application assessment](https://www.forskningsradet.no/en/research-policy-strategy/ethical-standards/) to assure the evaluating panel that there is a plan for handling the key ethical dilemmas in the project. The Research Council of Norway refers to [their self-evaluation list](https://www.forskningsradet.no/contentassets/ac9f24c210ab4451a9b25fb406350117/research-ethics-self-evaluation-16.12.2024.pdf) as a starting point. 
+
 Ethical review is required for medical and health research and conducted by the different Regional Committees for Medical and Health Research Ethics ([Regionale komiteer for medisinsk og helsefaglig forskningsetikk, REK](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/rek/)).
 
 It is less common that the institutions have ethics committees.
