@@ -55,6 +55,8 @@ Investigating discipline-rooted resources and disciplinary support services can 
 #### Will ethical or legal aspects require attention?
 Discuss briefly if there are legal or ethical aspects in the project that may require attention.
 
+All applicants to the Research Council of Norway must address the ethical issues in their project and describe how they will be managed. [This is included in the project description and application assessment](https://www.forskningsradet.no/en/research-policy-strategy/ethical-standards/) to assure the evaluating panel that there is a plan for handling the key ethical dilemmas in the project. The Research Council of Norway refers to [their self-evaluation list](https://www.forskningsradet.no/contentassets/ac9f24c210ab4451a9b25fb406350117/research-ethics-self-evaluation-16.12.2024.pdf) as a starting point. 
+
 Some processes related to legal and ethical aspects in a research project require early planning, have implications for data management, and can be time-consuming. Not addressing them early enough may come with a risk of delaying or affecting the research project. Make sure that you are familiar with how these aspects are handled at your institution and how much time should be allowed for the respective processes.
 
 In multi-partner projects, data ownership and responsibilities should be formalized in contracts or collaboration agreements. In international projects, the applicable legislation needs to be specified.
