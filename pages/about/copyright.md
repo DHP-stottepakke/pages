@@ -34,4 +34,6 @@ You are welcome to create the images yourself, but please follow the [site style
 
 If you think an image would be helpful to explain your content and you cannot find the right one, then [create a new issue](https://github.com/DHP-stottepakke/pages/issues) to suggest a new image.
 
+## Icons
 
+The illustrative "line-awesome" icons on this page are licensed under the [MIT license](https://opensource.org/license/mit) from [Icons8](https://github.com/icons8).
