@@ -33,6 +33,9 @@ Project results were archived ahead of the public launch of the resources in Nov
 
 
 ## Project presentations
+* Co-creation of comprehensive Data Management Planning guidance in Norway. 19th International Digital Curation Conference (IDCC25). Poster. [https://doi.org/10.5281/zenodo.14767396](https://doi.org/10.5281/zenodo.14767396)
+* Workshop - Write a DMP with FAIR Wizard Norway 13.02.2025. Presentation. [https://doi.org/10.5281/zenodo.14864102](https://doi.org/10.5281/zenodo.14864102)
+* Aligning DMP guidance in Norway - Presentation for UiO Data Managers Network 23.01.2025. Presentation. [https://doi.org/10.5281/zenodo.14763807](https://doi.org/10.5281/zenodo.14763807)
 * Introducing the 'Support Package for Data Management Plans for Norwegian Higher Education Libraries' - workshop materials for Munin Conference on Scholarly Publishing, 28.11.2024. Presentation. [https://doi.org/10.5281/zenodo.14228644](https://doi.org/10.5281/zenodo.14228644)
 * Introducing the ‘Support Package for Data Management Plans for Norwegian Higher Education libraries’. 19th Munin Conference Conference on Scholarly Publishing. Workshop. Septentrio Conference Series. [https://septentrio.uit.no/index.php/SCS/article/view/7790](https://septentrio.uit.no/index.php/SCS/article/view/7790)
 * Supporting resources for and conceptual reflections on data management planning in Norway. 19th Munin Conference Conference on Scholarly Publishing. Poster. Septentrio Conference Series. [https://septentrio.uit.no/index.php/SCS/article/view/7791](https://septentrio.uit.no/index.php/SCS/article/view/7791)
