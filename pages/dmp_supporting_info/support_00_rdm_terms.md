@@ -81,7 +81,7 @@ To deposit data means to upload the data files to a data archive. Depositing is 
  > Definition according to CODATA: "An activity within archiving in which specific items of data are maintained over time so that they can still be accessed and understood through changes in technology."
 [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-The CODATA definition implies that data preservation is part of the objectives with data archiving. When archiving data, data files should be in preferred file formats. Preferred file formats ensures that users are able to open them long into the future. Furthermore, data should be well described including a readme-file (in a preferred file format) and also rich, describing metadata. This ensures that future users understand what information the data holds. A good description is thus also part of data preservation.
+The CODATA definition implies that data preservation is part of the objectives with data archiving. When archiving data, data files should be in persistent file formats that ensure that users are able to open them long into the future. Furthermore, data should be well described with rich metadata, following standards and possibly including a readme-file. This ensures that future users understand what information the data holds. A good description is thus also part of data preservation.
 
 Finally, backup routines is crucial in order to avoid data loss if something unforeseen happens to the dataset.
 
