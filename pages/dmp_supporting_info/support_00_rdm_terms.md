@@ -26,7 +26,7 @@ For Norwegian translations, consult the [NO-RDA Termliste for forskningsdatahån
 > Definition according to CODATA: "Engage in curation activity that ensures that records, objects, metadata and data are properly selected, stored, and can be accessed, and for which logical and physical integrity are maintained over time, including security and authenticity."
 [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Archiving includes several steps. Data first need to be deposited, see [Data deposition](/pages/support_00_rdm_terms#Data-deposition). If the archive is a trustworthy one, there is a curation process where a curator cooperates with the depositor to ensure the quality and the FAIR-ness of the dataset. Furthermore, the long term preservation of the data is ensured, including a backup service.
+Archiving includes several steps. Data first need to be deposited, see [Data deposition](/pages/support_00_rdm_terms#Data-deposition). Often, there is a curation process where a curator engages with the depositor to improve the quality and ensure the FAIRness of the dataset. Furthermore, selecting a 'trustworthy' or 'trusted' research data archive ensures the long term preservation of the data, including a backup service.
 
 ### Data archive
 Synonym: Long-term data repository. On these pages and in the affiliated data management plan template, we use the term data archive for long-term repositories. 
