@@ -23,9 +23,10 @@ For Norwegian translations, consult the [NO-RDA Termliste for forskningsdatahån
 ## Key research data management terms explained (alphabetical order, non-exhaustive)
 
 ### Archiving
-> Engage in curation activity that ensures that records, objects, metadata and data are properly selected, stored, and can be accessed, and for which logical and physical integrity are maintained over time, including security and authenticity
+> Definition according to CODATA: "Engage in curation activity that ensures that records, objects, metadata and data are properly selected, stored, and can be accessed, and for which logical and physical integrity are maintained over time, including security and authenticity."
 [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+Archiving includes several steps. Data first need to be deposited, see [Data deposition](/pages/support_00_rdm_terms#Data-deposition). Often, there is a curation process where a curator engages with the depositor to improve the quality and ensure the FAIRness of the dataset. Furthermore, selecting a 'trustworthy' or 'trusted' research data archive ensures the long term preservation of the data, including a backup service.
 
 ### Data archive
 Synonym: Long-term data repository. On these pages and in the affiliated data management plan template, we use the term data archive for long-term repositories. 
@@ -72,9 +73,25 @@ The definition given in the [Horizon Europe Annotated Grant Agreement (v1.0, p. 
 > 	* facilitate mid- and long-term preservation of the deposited material. They have mechanisms or provisions for expert curation and quality assurance for the accuracy and integrity of datasets and metadata, as well as procedures to liaise with depositors where issues are detected. They meet generally accepted international and national criteria for security to prevent unauthorized access and release of content and have different levels of security, depending on the sensitivity of the data being deposited, to maintain privacy and confidentiality.
 
 
+### Data deposition
+To deposit data means to upload the data files to a data archive. Depositing is the first step in the archiving process. Normally, depositing data includes the act of accepting a depositing agreement with the archive. So, the person doing the depositing need to have the rights (or the assigned permission) to accept the depositing agreement.
+
+
 ### Data preservation
- > Preservation: An activity within archiving in which specific items of data are maintained over time so that they can still be accessed and understood through changes in technology.
+ > Definition according to CODATA: "An activity within archiving in which specific items of data are maintained over time so that they can still be accessed and understood through changes in technology."
 [CODATA RDM Terminology (version 2023)](https://doi.org/10.5281/zenodo.10626170) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+The CODATA definition implies that data preservation is part of the objectives with data archiving. When archiving data, data files should be in persistent file formats that ensure that users are able to open them long into the future. Furthermore, data should be well described with rich metadata, following standards and possibly including a readme-file. This ensures that future users understand what information the data holds. A good description is thus also part of data preservation.
+
+Finally, backup routines is crucial in order to avoid data loss if something unforeseen happens to the dataset.
+
+
+### Data publishing
+To publish data is to make data publicly available. Data publishing is commonly the same process as data archiving, including all its steps, see [Archiving](/pages/support_00_rdm_terms#Archiving). But publishing also includes the element of making data available for access with or without some restrictions. Archiving, in contrast, may be done with access for some authorised few only.
+
+Restrictions may be defined in a license that regulates how data may be reused, like ‘non derivative’ (ND), ‘non commercial’ (NC) terms or restricting reuse to selected purpose(s) or user group(s), like e.g. ‘for research purpose only’. Or it may be in the form of an embargo meaning that the data is barred from access until some given future date.
+
+Data publishing may be accompanied by a data paper in a peer reviewed (data) journal. Data papers are not meant to replace the role of datasets in archives nor to replace the publication of the data analyses and conclusions. A data paper may rather add value to an archived dataset and a related research article by closely describing the data and how they were collected or generated. A data paper will allow elaboration on the description of the data, beyond what a readme file may do. A data paper can therefore be seen as a bridge between the dataset and the publication of the analyses and conclusions.
 
 
 ### Data repository
