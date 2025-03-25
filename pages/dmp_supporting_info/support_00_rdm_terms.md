@@ -91,7 +91,7 @@ To publish data is to make data publicly available. Data publishing is commonly 
 
 Restrictions may be defined in a license that regulates how data may be reused, like ‘non derivative’ (ND), ‘non commercial’ (NC) terms or restricting reuse to selected purpose(s) or user group(s), like e.g. ‘for research purpose only’. Or it may be in the form of an embargo meaning that the data is barred from access until some given future date.
 
-Data publishing may also be done in the form of a data paper in a peer reviewed journal. Data papers are not meant to replace the role of datasets in archives nor to replace the publication of the data analyses and conclusions. A data paper may rather add value to an archived dataset and a related research article by closely describing the data and how they were collected or generated. A data paper will allow elaboration on the description of the data, beyond what a readme file may do. A data paper can therefore be seen as a bridge between the dataset and the publication of the analyses and conclusions.
+Data publishing may be accompanied by a data paper in a peer reviewed (data) journal. Data papers are not meant to replace the role of datasets in archives nor to replace the publication of the data analyses and conclusions. A data paper may rather add value to an archived dataset and a related research article by closely describing the data and how they were collected or generated. A data paper will allow elaboration on the description of the data, beyond what a readme file may do. A data paper can therefore be seen as a bridge between the dataset and the publication of the analyses and conclusions.
 
 
 ### Data repository
