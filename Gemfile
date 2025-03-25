@@ -35,4 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "i18n", ">= 0.9.5"
 
-gem "webrick", "~> 1.7"
+gem "webrick", "~> 1.8"
