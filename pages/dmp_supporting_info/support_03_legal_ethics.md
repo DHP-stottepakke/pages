@@ -116,7 +116,7 @@ Reasons for sensitivity (non-exhaustive):
 	* Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40))
 	* Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9))
 	* Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126))
-	* Act on Universities and Colleges Act ([Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven)](https://lovdata.no/dokument/NL/lov/2005-04-01-15))
+	* Act on Universities and Colleges Act ([Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven)](https://lovdata.no/dokument/NL/lov/2024-03-08-9)
 * Research on endagered species
 	* Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100))
 * Research on protected cultural heritage
