@@ -6,7 +6,7 @@ $blue: #277ab9;
 $light: #f3f3f3;
 $light-x: #e3e1e4;
 $secondary: #5696d0;
-$dark: #595959;
+$dark: 	#333333;
 $color-gradient: linear-gradient(90deg, $primary 18%, $secondary);
 
 /*-----Custom values for Bootstrap variables-----*/
@@ -25,7 +25,7 @@ $card-cap-bg: $light;
 $input-group-addon-bg: $light;
 $link-color: $blue;
 $info: $blue;
-$link-decoration: none;
+$link-decoration: underline;
 $body-bg: $white;
 $body-color: $dark;
 $font-family-sans-serif: "Open Sans", sans-serif;
