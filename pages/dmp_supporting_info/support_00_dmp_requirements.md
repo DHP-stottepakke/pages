@@ -21,17 +21,27 @@ rdmkit:
 ## Institutional policies and guidelines
 DMP requirements, or calls for the use of DMPs, are commonly part of Open Science policies or guidelines for research data management. Here are links to current institutional policies of Norwegian Higher Education institutions. Currently, we have only included the partners of this DMP support project in the list. For other organisations, you can find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
 
-* [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
-> All research projects must have a Data Management Plan (DMP) fulfilling the requirements of the funding bodies.
+* [NTNU Guidelines for policy for Open Science](https://i.ntnu.no/wiki/-/wiki/English/Guidelines+for+policy+for+Open+Science "2025-03-04")
+> Research projects led by researchers at NTNU must have a data management plan that satisfies the requirements of any relevant funders. The data management plan should be set up early in the research project, and no later than six (6) months after commencement. As a minimum requirement, the data management plan should contain the core elements defined by Science Europe and describe the following:
+> * Data collection/generation and methods
+> * Formats, organization and metadata,
+> * Storage during the project
+> * Archiving and sharing
+> * Rights, licences, privacy and ethics
+> * Costs and responsibilities 
 
 * [UiB Policy for Open Science](https://www.uib.no/en/foremployees/142184/university-bergen-policy-open-science "2024-07-17")
 > All research projects lead by researchers at UiB will have a data management plan.
 
-* [UiO Policies and guidelines for research data management](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html "2024-07-17")
+* [UiO Policies and guidelines for research data management](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html "2025-03-04")
 > Research data shall be provided with a data management plan.
+> * The data management plan is a document that describes how the data is to be managed both during the research project and after it has been completed 
+> * The data management plan shall describe how the data should be made available in accordance with international standards
+> * The scientific staff shall have a conscious attitude as to how research data considered as not having long-term value should be managed or destroyed after a certain period of time
 
-* [UiT Principles and guidelines for managment for research data](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184 "2024-07-17")
+* [UiT Principles and guidelines for management for research data](https://uit.no/regelverk/sentraleregler#v-pills-742423 "2025-03-04")
 > The researcher must set up a Data Management Plan at an early phase of the project and preferably within six months after start-up.
+> * [Retningslinjer for oppfølging av datahåndteringsplaner](https://uit.no/regelverk/sentraleregler#v-pills-740837 "2025-03-04")
 
 
 ---
@@ -66,6 +76,11 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 > * take steps to ensure that direct expenses associated with making data openly accessible according to the FAIR principles are clearly identified in grant applications.
 > * require that medical and health-related clinical trials involving human subjects are registered in an approved database prior to project start-up. 
 
+* [The Research Council of Norway. (2025). General Terms and Conditions for R&D
+Projects](https://www.forskningsradet.no/nyheter/2025/nye-generelle-vilkar/ "2025-04-03")
+> Final reports:
+> * The Project Owner is to provide the name of the archives or data infrastructure to be used for storing the research data/output data generated in connection with the project that may be relevant for reuse, and all the necessary documentation for reuse of the data (metadata).
+> * Projects that have submitted a data management plan must append the latest version of this plan to the final report.
 
 ### Horizon Europe
 * [Directorate-General for Research and Innovation (European Commission). (2021). Horizon Europe Open Science Fact Sheet.](https://doi.org/10.2777/18252)

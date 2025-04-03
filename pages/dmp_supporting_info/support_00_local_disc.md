@@ -46,7 +46,7 @@ Helpdesk: [research-data@uio.no](mailto:research-data@uio.no)
 ### UiT - UiT The Arctic University of Norway
 [UiT Research data portal](https://en.uit.no/research/research-dataportal)
 
-Helpdesk: [researchdata@hjelp.uit.no](mailto:researchdata@hjelp.uit.no)
+Helpdesk: [researchdata@uit.no](mailto:researchdata@uit.no)
 
 
 ---
