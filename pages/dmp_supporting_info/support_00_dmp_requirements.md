@@ -81,8 +81,9 @@ Projects](https://www.forskningsradet.no/nyheter/2025/nye-generelle-vilkar/ "202
 > Reports (p. 7f):
 > * In general: The Project Owner shall store the final report and project data in a safe and secure manner for at least 10 years after the conclusion of the contract period.
 > * Final reports: The Project Owner is to provide the name of the archives or data infrastructure to be used for storing the research data/output data generated in connection with the project that may be relevant for reuse, and all the necessary documentation for reuse of the data (metadata).
-> * Final reports: Projects that have submitted a data management plan must append the latest version of this plan to the final report.\
-> Publication and archiving (p. 11f)
+> * Final reports: Projects that have submitted a data management plan must append the latest version of this plan to the final report.
+>
+> Publication and archiving (p. 11f):
 > * Publication of project results: Research-generated data must be made publicly available after the conclusion of the project, unless special circumstances indicate otherwise, or unless this is prevented by the terms and conditions of the contract or other public rules.
 > * Archiving of project results: The Project Owner shall ensure that all research- generated data, including all data that forms the basis for publications, is stored in a secure digital archive. Such archiving is to be carried out as soon as possible and at the latest two years following the conclusion of the project period. The Research Council may require that all such data, including the necessary documentation for reuse of data (metadata), is stored in designated, secure national or international archives, unless there are special reasons for otherwise, or contractual terms or public regulations prevent it.
 
