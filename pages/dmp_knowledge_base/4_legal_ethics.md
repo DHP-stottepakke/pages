@@ -310,7 +310,7 @@ Consult:
 > 4b.5\
 > Indicate whether there are any restrictions on the re-use of third-party data?
 
-Is there restrictionst to re-use in the active phase of the project? Is there restrictions to sharing project results? Data from external parties, can have restrictions on sharing. Some research data will be covered by copyright, this is relevant for reuse of copyrighted material for research purposes. 
+Is there restrictions to re-use in the active phase of the project? Is there restrictions to sharing project results? Data from external parties, can have restrictions on sharing. Some research data will be covered by copyright, this is relevant for reuse of copyrighted material for research purposes. 
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 Clearly explains, if applicable:
@@ -378,6 +378,7 @@ Missing:
 - Export control regulations
 	- Export Control Act ([Norwegian: Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v.(eksportkontrollloven)](https://lovdata.no/dokument/NL/lov/1987-12-18-93)
 	- [Report Guidelines and tools for responsible international knowledge cooperation (2023)](https://hkdir.no/en/rapporter-undersokelser-og-statistikk/guidelines-and-tools-for-responsible-international-knowledge-cooperation-report)
+	- [Norwegian Agency for Export Control and Sanctions (DEKSA)](https://deksa.no/en/ "2025-03-04")
 - Intellectual Property Rights (IPR) or confidentiality issues
 	- Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
 	- Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
