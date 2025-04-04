@@ -107,8 +107,8 @@ Projects](https://www.forskningsradet.no/nyheter/2025/nye-generelle-vilkar/ "202
 > * A DMP should be a living document, which is updated and enriched as the project evolves.
 
 #### ERC Work Programme
-* [ERC Work Programme 2024](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2024/wp_horizon-erc-2024_en.pdf)
-> Open Science - excerpts from the work programme (p.11ff):
+* [ERC Work Programme 2025](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2025/wp_horizon-erc-2025_en.pdf)
+> Open Science - excerpts from the work programme (p.10):
 > * The ERC is committed to the principle of open access to the published output of research (...). It also supports the basic principle of open access to research data and data-related products such as computer code, algorithms, software, workflows, protocols, electronic notebooks, or any other forms of research output.
 > * In addition, beneficiaries of ERC grants funded under this Work Programme will be covered by the provisions on research data management as set out in the Model Grant Agreement used for ERC actions. In particular, whenever a project generates research data, beneficiaries are required to manage it in line with the principles of findability, accessibility, interoperability, and reusability as described by the FAIR principles initiative, and establish a data management plan within the first six months of project implementation.
 
