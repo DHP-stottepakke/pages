@@ -21,6 +21,12 @@ remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@4.2.0
 
 dsw_deep_link_prefix: https://norway.fair-wizard.com/wizard/
 
+matomo: https://stats.uib.no/
+# Matomo domain where Matomo is running
+matomo_id: 93
+# Integer indicating the Matomo Website ID
+matomo_cookies: true
+
 theme_variables:
   git_host: GitHub
   back_to_top: true
