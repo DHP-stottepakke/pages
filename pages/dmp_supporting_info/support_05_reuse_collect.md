@@ -68,7 +68,7 @@ Useful approaches to identify scientific datasets:
 	* Where do researchers in the same field publish their data? Check data availability statements in publications or publication guidelines of relevant journals.
 	* Curated research data registries that allow filtering of discipline: [re3data.org](https://www.re3data.org/), [fairsharing.org](https://fairsharing.org/)
 * Metasearch-services for datasets. Different search engines have different advantages and disadvantages, it can be useful to compare results. Often the best choice to identify data in institutional and generic archives.
-	* Non-commercial: [DataCite Commons](https://commons.datacite.org/ "2024-10-02"), [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/), [OpenAIRE research graph, filter by type](https://explore.openaire.eu/search/advanced/research-outcomes "2024-10-02")
+	* Non-commercial: [DataCite Commons](https://commons.datacite.org/ "2024-10-02"), [BASE (Bielefeld Academic Search Engine)](https://www.base-search.net/), [OpenAIRE explore](https://explore.openaire.eu)
 	* Commercial: [Google Dataset Search](https://datasetsearch.research.google.com/), [Mendeley Data](https://data.mendeley.com/), [WOS Data Citation Index](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/data-citation-index), [Dimensions](https://app.dimensions.ai/)
 
 **Data from the public sector including registry data**\
