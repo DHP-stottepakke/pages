@@ -24,8 +24,8 @@ rdmkit:
   url: https://rdmkit.elixir-europe.org/data_organisation
 turing:
 - name: File Naming Conventions
-  url: https://book.the-turing-way.org/project-design/filenaming
----
+  url: https://book.the-turing-way.org/project-design/info-management/filenaming
+  ---
 
 {% include callout.html type="tip" content="
 **Why is this topic important**\\
