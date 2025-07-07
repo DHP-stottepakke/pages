@@ -264,6 +264,21 @@ i.fa-solid.fa-wrench {
     &:before {
         content: "";
     }
+
+/*----- Accessibility: Touch target improvements -----*/
+
+// Ensure minimum touch target size on More Information buttons
+a.btn.bg-white {
+    min-height: 48px;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+}
+
+// Add spacing between stacked buttons
+.d-grid.gap-2 > a.btn {
+    margin-bottom: 0.5rem;
+}
+
     width: 1.2rem;
     height: 1.2rem;
     margin-bottom: -0.25rem;
