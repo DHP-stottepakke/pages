@@ -1,27 +1,28 @@
 /*-----Theme colors-----*/
 $white: #fff;
 $primary: #023452;
-$gray-600: #73757d;
+$gray-600: #4e5054;
 $blue: #277ab9;
 $light: #f3f3f3;
 $light-x: #e3e1e4;
 $secondary: #5696d0;
-$dark: 	#333333;
+$dark: 	#222222;
 $color-gradient: linear-gradient(90deg, $primary 18%, $secondary);
 
 /*-----Custom values for Bootstrap variables-----*/
 $component-active-bg: $primary;
 $navbar-dark-color: $white;
-$navbar-dark-hover-color: $primary;
+$navbar-dark-hover-color: $light-x;
 $navbar-dark-toggler-border-color: transparent;
 $navbar-light-color: $dark;
-$navbar-light-hover-color: $primary;
+$navbar-light-hover-color: $light-x;
 $nav-link-hover-color: $primary;
 $navbar-brand-font-size: 2rem;
 $border-radius: 0.45rem;
 $btn-border-radius-sm: $border-radius;
 $card-border-width: 0;
 $card-cap-bg: $light;
+$code-color: #a11720;
 $input-group-addon-bg: $light;
 $link-color: $blue;
 $info: $blue;
