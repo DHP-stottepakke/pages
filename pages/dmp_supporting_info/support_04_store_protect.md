@@ -191,4 +191,6 @@ If shared documents are used, will the chosen solution allow contributors to edi
 
 
 ### IT security: If data is leaked, what will be the consequences?
-You may want to carry out different risk considerations depending on the nature of your project. Some practises, like carrying around physical storage media, can be associated with increased risks or violate regulation and laws. Thus project members should be informed about the risks, which should be mitigated where possible.
+You may want to carry out different risk considerations depending on the nature of your project. 
+
+Some widespread practises can be associated with increased risks or even violate regulation and laws. Project members should therefore be informed about the risks, which should be mitigated where possible. Risky practices include for example uncritical use of cloud accounts with the risk of unintended data exposure to external parties or carrying around data on physical storage media.
