@@ -57,13 +57,13 @@ Federico Bianchini:
     email: federico.bianchini@mn.uio.no
     orcid: 0000-0002-9016-4820
     role: Editor
-    affiliation: University of Oslo (UiO)
+    affiliation: University of Oslo (UiO), ELIXIR Norway
 
 Leif Longva:
     git: LLongva
     email: leif.longva@uit.no
     orcid: 0000-0001-6638-8317
-    role: Editor
+    role: Contributor
     affiliation: UiT The Arctic University of Norway (UiT)
 
 Gulbrand Stålet Nilsen:
@@ -84,7 +84,7 @@ Svein Høier:
     git: sveinho
     email: svein.hoier@ntnu.no
     orcid: 0000-0002-9261-8769
-    role: Editor
+    role: Contributor
     affiliation: Norwegian University of Science and Technology (NTNU)
 
 Ingrid Heggland:
