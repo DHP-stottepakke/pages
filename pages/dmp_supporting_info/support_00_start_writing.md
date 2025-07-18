@@ -74,16 +74,23 @@ You will find a description of the core steps below. For more detailed descripti
 Answering the questionnaire is done in three steps:
 1. Choose the project phase (in the drop-down menu on top of the left navigation pane): Initial DMP (the first version), Midway DMP (revising the DMP and adding more information), or Complete DMP (concluding the project and reporting results). NB! There are additional questions added in each phase. To see all questions, check the 'Non-desirable questions' under **View** (see below). 
 2. Select the chapter. There are nine DMP chapters focussing on different aspects. It is recommended to fill in chapters in a chronological order.
-3. Answer the questions. The navigation bar to the left can be used actively to jump between questions without scrolling. Follow-up questions and item lists can be collapsed/ expanded. For additional information, the links in the questionnaire lead to the question-specific [Supporting Information for Users](/pages/dmp_supporting_info/).
+3. Answer the questions. The navigation pane to the left can be used actively to jump between questions without scrolling. Follow-up questions and item lists can be collapsed/ expanded using the black arrow symbols in the navigation pane.
 
 {% include image.html file="dsw_phases.png" caption="1. Select project phase: Initial, midway or complete DMP, 2. Select the chapter, 3. Answer questions" alt="Screenshot with 1. Phase selection menu: Initial, midway or complete DMP, 2. Chapter selection, 3. Questionnaire" %}
 
+{% include image.html file="dsw_smart.png" caption="Use arrows in the navigation pane on the left hand side for smart navigation" alt="Screenshot of the question Contibutor(s) in the chapter 'About the DMP', with two contributors added. Contributor are named 'Contributor A' and 'Contributor B' added. The follow-up questions (Name, E-mail address, ORCID Identifier etc.) for 'Contributor A' are expanded and for 'Contributor B' minimized." %}
+
 There is different types of questions:
-* Free-text or values (e.g. numerical, url, date)
+* Free-text or values (e.g. numerical, url, date). Free-text fields can be enlarged by dragging in the lower right corner.
 * Multi-choice: select one or several choices
 * Options: select one option and answer follow-up questions, if they exist. Use "Clear answer" to remove choice. Follow-up questions can be collapsed.
-* List of items: click "+Add" for any new item. Items with their follow-up questions can be collapsed by clicking on the v arrow symbol, if several items are present they can be simultaneously collapsed or expanded. Item order can be changed and the bin symbol deletes an item.
-* Item-select: refer to an item in another question by selecting it from the drop-down menu. This requires that the original question is filled in.
+* List of items: use "+Add" button for any new item. Items with their follow-up questions can be collapsed by clicking on the v arrow symbol, if several items are present they can be simultaneously collapsed or expanded. Item order can be changed and the bin symbol deletes an item.
+* Item-select: refers to an item in a previous question by selecting it from the drop-down menu. NB! This requires that the original question is filled in.
+
+For additional information, the links in the questionnaire lead to the question-specific [Supporting Information for Users](/pages/dmp_supporting_info/).
+
+{% include image.html file="dsw_supporting.png" caption="Links to question-specific supporting information" alt="Screenshot of external link to question-specific supporting information." %}
+
 
 #### Controlling what is presented in the questionnaire tab
 **View** – note that you can control what is presented in the user interface. By default, only questions desirable the chosen project phase are visible and question tags are hidden.
@@ -91,23 +98,32 @@ There is different types of questions:
 {% include image.html file="dsw_view.png" caption="View: Change visible features" alt="View menu allows to view or hide question tags and other features." %}
 
 
-### Other tabs and export options
-Use the square button on the right hand side to hide or view the navigation pane.
+### The top navigation bar: Collaborating on the DMP and exporting documents
+Functions for exporting the DMP and collaboration are found in the top navigation bar. Use the square button on the right hand side to hide or view the navigation pane.
 
 {% include image.html file="dsw_navigation.png" caption="The navigation pane" alt="Screenshot navigation pane" %}
 
-#### Project sharing and commenting
-The 'Share'-button opens a dialogue to share the project (plan) with collaborators by inviting them individually with defined reading and writing rights, or sharing by providing a link. The TODO- and the comment function (to the right of each question) can be used to communicate about the project.
+#### Collaborating on the DMP
+The 'Share'-button opens a dialogue to share the project (plan) with collaborators. Collaborators with an account on [FAIR Wizard Norway](https://norway.fair-wizard.com/), can be searched for by name and assigned rights (Viewer/ Commenter/ Editor/ Owner). In addition, link sharing (with reading/ commenting/ editing rights) can be enabled for example to share with external collaborators.\
 
-#### The Metrics tab (disabled in FAIR Wizard Norway)
-This tab show your metrics, connected to how much of the plan that is finished.\
-Other types of FAIR/ openness metrics are not supported in the current knowledge model, yet technically possible.
+{% include image.html file="dsw_sharing.png" caption="Contributors can be invited individually or through link sharing and assigned reading, commenting or editing rights" alt="Screenshot of the 'Share'-dialogue." %}
 
-#### The Preview tab
-Use the preview tab for previewing your finalised plan as you go along. 
+The TODO- and the comment function (to the right of each question) can be used to communicate about the project. The **TODO** and **Comments tabs** (under the 'Share'-button) can be used to navigate them and get an overview.
 
-#### The Documents tab 
-Use the Documents tab to export finalised plans in different formats. Currently, html and pdf are supported.
+{% include image.html file="dsw_communicate.png" caption="TODOs and Comments can be added by using the buttons on the right hand side. They can also be navigated in the top pane. UUID links can be used to refer to a specific question." alt="Screenshot of the TODO, Comments, and UUID buttons"%}
+
+#### Exporting documents
+Use the **Preview tab** for previewing your finalised plan as you go along. The default format can be changed in the **Settings tab** (see below).
+
+Use the **Documents tab** to download finalised plans in different formats. Use the 'New document'-button for any new document. Click on the three dots on the right hand side to download or delete a document from the list.
+
+Useful: DMP versions can be named in the **Version history** tab (under the 'Share'-button).
 
 #### The Settings tab
-Here you can change the document template and document format, as well as settings that again defines your preview and function as default values for exporting finalised plans. 
+Here you can change:
+* The internal DMP name and description
+* The default export and preview format (document template)
+* Migrate to another version of the questionnaire (knowledge model)
+
+#### The Metrics tab (disabled in FAIR Wizard Norway)
+Metrics on completeness of the DMP and FAIR/ openness metrics are not supported in the current knowledge model, yet technically possible.
