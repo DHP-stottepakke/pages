@@ -74,18 +74,22 @@ You will find a description of the core steps below. For more detailed descripti
 Answering the questionnaire is done in three steps:
 1. Choose the project phase (in the drop-down menu on top of the left navigation pane): Initial DMP (the first version), Midway DMP (revising the DMP and adding more information), or Complete DMP (concluding the project and reporting results). NB! There are additional questions added in each phase. To see all questions, check the 'Non-desirable questions' under **View** (see below). 
 2. Select the chapter. There are nine DMP chapters focussing on different aspects. It is recommended to fill in chapters in a chronological order.
-3. Answer the questions. The navigation pane to the left can be used actively to jump between questions without scrolling. Follow-up questions and item lists can be collapsed/ expanded using the black arrow symbols in the navigation pane.
+3. Answer the questions.
 
-{% include image.html file="dsw_phases.png" caption="1. Select project phase: Initial, midway or complete DMP, 2. Select the chapter, 3. Answer questions" alt="Screenshot with 1. Phase selection menu: Initial, midway or complete DMP, 2. Chapter selection, 3. Questionnaire" %}
-
-{% include image.html file="dsw_smart.png" caption="Use arrows in the navigation pane on the left hand side for smart navigation" alt="Screenshot of the question Contibutor(s) in the chapter 'About the DMP', with two contributors added. Contributor are named 'Contributor A' and 'Contributor B' added. The follow-up questions (Name, E-mail address, ORCID Identifier etc.) for 'Contributor A' are expanded and for 'Contributor B' minimized." %}
-
-There is different types of questions:
+There is different **types of questions**:
 * Free-text or values (e.g. numerical, url, date). Free-text fields can be enlarged by dragging in the lower right corner.
 * Multi-choice: select one or several choices
 * Options: select one option and answer follow-up questions, if they exist. Use "Clear answer" to remove choice. Follow-up questions can be collapsed.
 * List of items: use "+Add" button for any new item. Items with their follow-up questions can be collapsed by clicking on the v arrow symbol, if several items are present they can be simultaneously collapsed or expanded. Item order can be changed and the bin symbol deletes an item.
 * Item-select: refers to an item in a previous question by selecting it from the drop-down menu. NB! This requires that the original question is filled in.
+
+{% include image.html file="dsw_phases.png" caption="1. Select project phase: Initial, midway or complete DMP, 2. Select the chapter, 3. Answer questions" alt="Screenshot with 1. Phase selection menu: Initial, midway or complete DMP, 2. Chapter selection, 3. Questionnaire" %}
+
+
+#### Smart navigation
+The navigation pane to the left can be used actively to jump between questions without scrolling. Follow-up questions and item lists can be collapsed/ expanded using the black arrow symbols in the navigation pane.
+
+{% include image.html file="dsw_smart.png" caption="Use arrows in the navigation pane on the left hand side for smart navigation" alt="Screenshot of the question Contibutor(s) in the chapter 'About the DMP', with two contributors added. Contributor are named 'Contributor A' and 'Contributor B' added. The follow-up questions (Name, E-mail address, ORCID Identifier etc.) for 'Contributor A' are expanded and for 'Contributor B' minimized." %}
 
 For additional information, the links in the questionnaire lead to the question-specific [Supporting Information for Users](/pages/dmp_supporting_info/).
 
@@ -118,6 +122,9 @@ Use the **Preview tab** for previewing your finalised plan as you go along. The 
 Use the **Documents tab** to download finalised plans in different formats. Use the 'New document'-button for any new document. Click on the three dots on the right hand side to download or delete a document from the list.
 
 Useful: DMP versions can be named in the **Version history** tab (under the 'Share'-button).
+
+{% include image.html file="dsw_export.png" caption="Different export formats can be generated from the 'Documents' tab" alt="Screenshot of document export." %}
+
 
 #### The Settings tab
 Here you can change:

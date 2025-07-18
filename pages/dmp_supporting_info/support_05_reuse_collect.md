@@ -192,14 +192,14 @@ Further reading:
 
 
 ### Other types of data the project will utilize or produce
-What other types of files or digital documents will the project utilize or produce, which have not been captured by the previous categories? Think of everything that would cause problems if lost due to technical or human error. Is specific software required?\
+What other types of files or digital documents will the project utilize or produce, which have not been captured by the previous categories? Think of everything that would cause problems if lost due to technical or human error. What data type/format will be used? Will specific software be needed? What documentation or metadata is needed to understand the data in the future?\
 For some projects that handle little data, this may be the only applicable category.
 
 Examples:
-* Notetaking documents
-* Literature databases
-* Illustrations/figures
 * Manuscripts/research articles (including all their versions)
+* Illustrations/figures
+* Literature databases
+* Notetaking documents
 
 
 ### Who else could be interested in us in using data from this project?
