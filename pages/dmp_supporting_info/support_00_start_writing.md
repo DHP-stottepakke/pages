@@ -21,20 +21,20 @@ other:
 >> Supporting information for filling out the DMP (by DMP chapter)\\
 " %}
 
-## Get started with writing your Data Management Plan in Data Stewardship Wizard/ FAIR Wizard
-The DMP questionnaire is implemented in the DMP tool Data Stewardship Wizard (DSW)/ FAIR Wizard (DSW as software-as-a-service). It is available on the following instances:
+## Write your Data Management Plan in Data Stewardship Wizard/ FAIR Wizard
+The DMP questionnaire is implemented in the DMP tool **Data Stewardship Wizard (DSW)**/ **FAIR Wizard** (DSW as software-as-a-service). It is available on the following instances:
 * Researchers at NTNU, UiB, UiO og UiT can use the pilot instance [FAIR Wizard Norway](https://norway.fair-wizard.com/). The direct links on this web resource are linking to this instance. For support, contact your [local research data support](/pages/support_00_local_disc).
 * Life Science Researchers at all Norwegian institutions can use the [DSW instance provided by ELIXIR Norway](https://elixir.no/services-2/data-stewardship-wizard). To use the template, follow the advanced setup instructions. For support, contact the [ELIXIR Norway helpdesk](https://elixir.no/helpdesk).
 
-### Start with a new DMP
-Simply said, the different plans you have worked on for your research projects over time are listed as “projects” in Data Stewardship Wizard/ FAIR Wizard. So, projects are in some sense equivalents to DMPs that you are working on.
+## Start with a new DMP
+Simply said, the different plans you have worked on for your research projects over time are listed as **Projects** in Data Stewardship Wizard/ FAIR Wizard. So, projects are in some sense equivalents to DMPs that you are working on.
 
 After logging in for the first time, you will have to start by creating a project: Use the 'Start your DMP' shortcut or start from the Projects menu.
 It is recommended to choose a descriptive title for the project that makes it easy to identify it for later revisions. 
 
 {% include image.html file="dsw_start.png" caption="Create a project: Use the 'Start your DMP' shortcut or start from the Projects menu. " alt="Screenshot side navigation" %}
 
-Projects/ planning drafts are auto-saved, details can be seen under “Projects” – last edited. Management of your plans, editing, revisions, exports – it all starts here.
+Projects/ planning drafts are auto-saved, details can be seen under **Projects** – last edited. Management of your plans, editing, revisions, exports – it all starts here.
 
 ### Choose the right project template
 <code> The described setup refers to the pre-defined templates on FAIR Wizard Norway. For the ELIXIR Norway DSW instance, see instructions for advanced questionnaire setup.</code>
@@ -50,7 +50,6 @@ For externally funded projects:
 For less complex projects:
 * **Minimum** questionnaire covers a core set of questions adapted to less complex projects (e.g. student projects). This questionnaire is suited for projects without external funding or external project partners. For less complex projects that are handling sensitive data or personal data or requiring ethical pre-application, see below.
 * **Minimum and ELSI** combines the **Minimum** questionnaire with questions on handling sensitive data or personal data or requiring ethical pre-application.
-
 
 #### Advanced questionnaire setup 
 Instead of starting with one of the pre-defined project templates, it is also possible to configure them and additional options based on the underlying knowledge model. Follow the instructions below if you are using the [ELIXIR Norway DSW instance](https://elixir.no/services-2/data-stewardship-wizard).
@@ -68,22 +67,32 @@ Other available tags for additional customization or specific needs:
 * for internal use: maDMP, IT security, cross institutional project, Horizon Europe
 
 
-### Fill out the questionnaire
+## Fill out the questionnaire
 You will find a description of the core steps below. For more detailed descriptions, see the [instructional video](https://www.youtube.com/watch?v=XrI8qYtWSBw ) and the [user guidance](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html) by DSW.
 
 Answering the questionnaire is done in three steps:
 1. Choose the project phase (in the drop-down menu on top of the left navigation pane): Initial DMP (the first version), Midway DMP (revising the DMP and adding more information), or Complete DMP (concluding the project and reporting results). NB! There are additional questions added in each phase. To see all questions, check the 'Non-desirable questions' under **View** (see below). 
 2. Select the chapter. There are nine DMP chapters focussing on different aspects. It is recommended to fill in chapters in a chronological order.
-3. Answer the questions. The navigation bar to the left can be used actively to jump between questions without scrolling. Follow-up questions and item lists can be collapsed/ expanded. For additional information, the links in the questionnaire lead to the question-specific [Supporting Information for Users](/pages/dmp_supporting_info/).
+3. Answer the questions.
+
+There is different **types of questions**:
+* Free-text or values (e.g. numerical, url, date). Free-text fields can be enlarged by dragging in the lower right corner.
+* Multi-choice: select one or several choices
+* Options: select one option and answer follow-up questions, if they exist. Use "Clear answer" to remove choice. Follow-up questions can be collapsed.
+* List of items: use "+Add" button for any new item. Items with their follow-up questions can be collapsed by clicking on the v arrow symbol, if several items are present they can be simultaneously collapsed or expanded. Item order can be changed and the bin symbol deletes an item.
+* Item-select: refers to an item in a previous question by selecting it from the drop-down menu. NB! This requires that the original question is filled in.
 
 {% include image.html file="dsw_phases.png" caption="1. Select project phase: Initial, midway or complete DMP, 2. Select the chapter, 3. Answer questions" alt="Screenshot with 1. Phase selection menu: Initial, midway or complete DMP, 2. Chapter selection, 3. Questionnaire" %}
 
-There is different types of questions:
-* Free-text or values (e.g. numerical, url, date)
-* Multi-choice: select one or several choices
-* Options: select one option and answer follow-up questions, if they exist. Use "Clear answer" to remove choice. Follow-up questions can be collapsed.
-* List of items: click "+Add" for any new item. Items with their follow-up questions can be collapsed by clicking on the v arrow symbol, if several items are present they can be simultaneously collapsed or expanded. Item order can be changed and the bin symbol deletes an item.
-* Item-select: refer to an item in another question by selecting it from the drop-down menu. This requires that the original question is filled in.
+### Smart navigation
+The chapter navigation pane to the left can be used actively to jump between questions without scrolling. Follow-up questions and item lists can be collapsed/ expanded using the black arrow symbols in the navigation pane.
+
+{% include image.html file="dsw_smart.png" caption="Use arrows in the navigation pane on the left hand side for smart navigation" alt="Screenshot of the question Contibutor(s) in the chapter 'About the DMP', with two contributors added. Contributor are named 'Contributor A' and 'Contributor B' added. The follow-up questions (Name, E-mail address, ORCID Identifier etc.) for 'Contributor A' are expanded and for 'Contributor B' minimized." %}
+
+#### Consulting additional information
+For additional information, the links in the questionnaire lead to the question-specific [Supporting Information for Users](/pages/dmp_supporting_info/).
+
+{% include image.html file="dsw_supporting.png" caption="Links to question-specific supporting information" alt="Screenshot of external link to question-specific supporting information." %}
 
 #### Controlling what is presented in the questionnaire tab
 **View** – note that you can control what is presented in the user interface. By default, only questions desirable the chosen project phase are visible and question tags are hidden.
@@ -91,23 +100,34 @@ There is different types of questions:
 {% include image.html file="dsw_view.png" caption="View: Change visible features" alt="View menu allows to view or hide question tags and other features." %}
 
 
-### Other tabs and export options
-Use the square button on the right hand side to hide or view the navigation pane.
+## Export documents and collaborate on the DMP
+Functions for exporting the DMP and collaboration are found in the top navigation bar. Use the square button on the right hand side to hide or view the navigation pane.
 
 {% include image.html file="dsw_navigation.png" caption="The navigation pane" alt="Screenshot navigation pane" %}
 
-#### Project sharing and commenting
-The 'Share'-button opens a dialogue to share the project (plan) with collaborators by inviting them individually with defined reading and writing rights, or sharing by providing a link. The TODO- and the comment function (to the right of each question) can be used to communicate about the project.
+### Collaborating on the DMP
+The 'Share'-button opens a dialogue to share the project (plan) with collaborators. Collaborators with an account on [FAIR Wizard Norway](https://norway.fair-wizard.com/), can be searched for by name and assigned rights (Viewer/ Commenter/ Editor/ Owner). In addition, link sharing (with reading/ commenting/ editing rights) can be enabled for example to share with external collaborators.\
+
+{% include image.html file="dsw_sharing.png" caption="Contributors can be invited individually or through link sharing and assigned reading, commenting or editing rights" alt="Screenshot of the 'Share'-dialogue." %}
+
+The TODO- and the comment function (to the right of each question) can be used to communicate about the project. The **TODO** and **Comments tabs** (under the 'Share'-button) can be used to navigate them and get an overview.
+
+{% include image.html file="dsw_communicate.png" caption="TODOs and Comments can be added by using the buttons on the right hand side. They can also be navigated in the top pane. UUID links can be used to refer to a specific question." alt="Screenshot of the TODO, Comments, and UUID buttons"%}
+
+### Exporting documents
+Use the **Preview tab** for previewing your finalised plan as you go along. The default format can be changed in the **Settings tab** (see below).
+
+Use the **Documents tab** to download finalised plans in different formats. Use the 'New document'-button for any new document. Click on the three dots on the right hand side to download or delete a document from the list.
+
+Useful: DMP versions can be named in the **Version history** tab (under the 'Share'-button).
+
+{% include image.html file="dsw_export.png" caption="Different export formats can be generated from the 'Documents' tab" alt="Screenshot of document export." %}
+
+### The Settings tab
+Here you can change:
+* The internal DMP name and description
+* The default export and preview format (document template)
+* Migrate to another version of the questionnaire (knowledge model)
 
 #### The Metrics tab (disabled in FAIR Wizard Norway)
-This tab show your metrics, connected to how much of the plan that is finished.\
-Other types of FAIR/ openness metrics are not supported in the current knowledge model, yet technically possible.
-
-#### The Preview tab
-Use the preview tab for previewing your finalised plan as you go along. 
-
-#### The Documents tab 
-Use the Documents tab to export finalised plans in different formats. Currently, html and pdf are supported.
-
-#### The Settings tab
-Here you can change the document template and document format, as well as settings that again defines your preview and function as default values for exporting finalised plans. 
+Metrics on completeness of the DMP and FAIR/ openness metrics are not supported in the current knowledge model, yet technically possible.
