@@ -22,19 +22,19 @@ other:
 " %}
 
 ## Write your Data Management Plan in Data Stewardship Wizard/ FAIR Wizard
-The DMP questionnaire is implemented in the DMP tool **Data Stewardship Wizard (DSW)**/ **FAIR Wizard* (DSW as software-as-a-service). It is available on the following instances:
+The DMP questionnaire is implemented in the DMP tool **Data Stewardship Wizard (DSW)**/ **FAIR Wizard** (DSW as software-as-a-service). It is available on the following instances:
 * Researchers at NTNU, UiB, UiO og UiT can use the pilot instance [FAIR Wizard Norway](https://norway.fair-wizard.com/). The direct links on this web resource are linking to this instance. For support, contact your [local research data support](/pages/support_00_local_disc).
 * Life Science Researchers at all Norwegian institutions can use the [DSW instance provided by ELIXIR Norway](https://elixir.no/services-2/data-stewardship-wizard). To use the template, follow the advanced setup instructions. For support, contact the [ELIXIR Norway helpdesk](https://elixir.no/helpdesk).
 
 ## Start with a new DMP
-Simply said, the different plans you have worked on for your research projects over time are listed as “projects” in Data Stewardship Wizard/ FAIR Wizard. So, projects are in some sense equivalents to DMPs that you are working on.
+Simply said, the different plans you have worked on for your research projects over time are listed as **Projects** in Data Stewardship Wizard/ FAIR Wizard. So, projects are in some sense equivalents to DMPs that you are working on.
 
 After logging in for the first time, you will have to start by creating a project: Use the 'Start your DMP' shortcut or start from the Projects menu.
 It is recommended to choose a descriptive title for the project that makes it easy to identify it for later revisions. 
 
 {% include image.html file="dsw_start.png" caption="Create a project: Use the 'Start your DMP' shortcut or start from the Projects menu. " alt="Screenshot side navigation" %}
 
-Projects/ planning drafts are auto-saved, details can be seen under “Projects” – last edited. Management of your plans, editing, revisions, exports – it all starts here.
+Projects/ planning drafts are auto-saved, details can be seen under **Projects** – last edited. Management of your plans, editing, revisions, exports – it all starts here.
 
 ### Choose the right project template
 <code> The described setup refers to the pre-defined templates on FAIR Wizard Norway. For the ELIXIR Norway DSW instance, see instructions for advanced questionnaire setup.</code>
@@ -129,5 +129,5 @@ Here you can change:
 * The default export and preview format (document template)
 * Migrate to another version of the questionnaire (knowledge model)
 
-### The Metrics tab (disabled in FAIR Wizard Norway)
+#### The Metrics tab (disabled in FAIR Wizard Norway)
 Metrics on completeness of the DMP and FAIR/ openness metrics are not supported in the current knowledge model, yet technically possible.
