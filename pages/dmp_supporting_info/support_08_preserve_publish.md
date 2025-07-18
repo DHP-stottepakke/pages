@@ -130,23 +130,21 @@ You should already have identified suitable archives in the 'Identify archive(s)
 
 As mentioned above, archives to use should be 'trustworthy'. If you for some reason decide to use an archive not qualified as trustworthy, please consider closely what preservation policy the archive follows. Look for information on this in the 'About' section of the archive, and contact the archive if still in doubt.
 
-In case data is not deposited to an archive but should be preserved locally beyond the project period, it is very important to define a preservation plan and who will be responsible.
-
-In case data is not deposited to an archive but should be preserved locally beyond the project period, it is very important to define a preservation plan and who will be responsible.
+In case data is not deposited to an archive but should be preserved locally beyond the project period, it is very important to define a preservation plan and who will be responsible for the data.
 
 #### Under which license will the dataset be made available?
-As mentioned above, the preferred choice is to archive data 'as open as possible', where open refers to both accessibility and reusability. So, you should archive the data with an open license and thus as few restrictions as possible added. Even if in doubt if a dataset will be considered 'original' work, assigning a license is best practice to clarify reuse terms.\
+As mentioned above, the preferred choice is to archive data 'as open as possible', where open refers to both accessibility and reusability. Therefore, archiving data under an open license and thus as few restrictions as possible, is the preferred choice. Importantly, defining clear access and reuse conditions is strongly recommended also for internal use, if a dataset is kept but not deposited in a data repository (open or with restricted access). Even if in doubt if a dataset will be considered 'original' work, assigning a license is best practice to clarify reuse terms.\
 See also the information on licensing in the chapter [Data documentation during the project](/pages/support_06_document#will-a-license-be-assigned-to-the-data-as-early-as-possible).
 
+Common choices of licenses for research data:
 * [CC0 (No rights reserved)](https://creativecommons.org/public-domain/cc0/) is a permissive license often used for data. 
-* [CC BY (Attribution)](https://creativecommons.org/share-your-work/cclicenses/) is a license also much used. CC BY requires referring to the author(s) of a dataset for its reuse. 
+* [CC BY (Attribution)](https://creativecommons.org/share-your-work/cclicenses/) requires referring to the author(s) of a dataset for its reuse.
 * [Public Domain Mark (PDM)](https://creativecommons.org/public-domain/pdm/) should be uses if the data are public domain material, typically very old material. This expresses that there are no known copyright to the material.
 * [NLOD Norwegian Licence for Open Government Data](https://data.norge.no/nlod/en/2.0) is not an international license, and therefore less suitable for research data. If you use data licenses with NLOD these can be re-published under CC BY, attributing the original licensor.
 
-Note that the CC BY clause may unintentionally restrict reuse of data if someone wants to include large amounts of data from numerous datasets. In such a case referring correctly to all the authors may be an insurmountable challenge. 
-For research referring correctly to the dataset, also if data is licensed CC0 or Public Domain Mark, corresponds to good scientific norms. 
+Note that the CC BY clause may unintentionally restrict reuse of data if someone wants to include large amounts of data from numerous datasets. In such a case referring correctly to all the authors may be an insurmountable challenge. If data is reused in other research projects, correct dataset citation corresponds to good scientific norms also if data is licensed CC0 or Public Domain Mark.
 
-For information on Creative Commons licenses, see [https://creativecommons.org/](https://creativecommons.org/).
+For more information on Creative Commons licenses, see [https://creativecommons.org/](https://creativecommons.org/).
 
 
 ### FAIR data checklist

@@ -12,6 +12,8 @@ toc: true
 ---
 
 ## DMP train-the-trainer resources & lesson plans
+* [Skills4EOSC Data Steward Curriculum: Research Data Management - Module 8: Data Management Plans](https://skills4eosc-dscurriculum.github.io/DataSteward-Training-Curriculum/latest/2%20Research%20Data%20Management/08_Data-Management-Plans/)
+* [Skills4EOSC Data Steward Curriculum: Research Software Management - Module 3: Software Management Plans](https://skills4eosc-dscurriculum.github.io/DataSteward-Training-Curriculum/latest/3%20Research%20Software%20Management/03_Software-Management-Plans/)
 * [EIFL Digital Research Literacy Training Programme Outline for Librarians (2024): Writing a data management plan](https://eifl.net/programme/digital-research-literacy/writing-data-management-plan-dmp)
 * [FAIRsFAIR FAIR teaching handbook (2021): Lesson plan DMP](https://fairsfair.gitbook.io/fair-teaching-handbook/0lessonplans/2lessonplan)
 * [Data One: Data Management Planning Skillbuilding Hub (2020): Data Management Planning](https://dataoneorg.github.io/Education/lessons/03_planning/)
@@ -39,5 +41,3 @@ toc: true
 See also examples of [discipline-rooted resources in the supporting information for users](/pages/support_00_local_disc).
 
 * [howtofair.dk](https://howtofair.dk/)
-
-

@@ -104,8 +104,12 @@ Resources on version control:
 
 
 ### Will you monitor data integrity once it has been collected?
-It is important to ensure that the data in your project is not corrupted through [transfer problems](https://en.wikipedia.org/wiki/Data_corruption), [data degradation (bitrot)](https://en.wikipedia.org/wiki/Data_degradation), vandalism and manipulation. One common procedure to detect data changes is to calculate checksums (e.g. [SHA256](https://confluence.wipo.int/confluence/display/dascg/e.5.-+Generate+File+Checksum+for+uploading+to+DAS)) that can be stored and compare after transfers and time.
-Another procedure might be to repeat measurements on the same samples/objects.
+It is important to ensure that the data in your project is not corrupted through [transfer problems](https://en.wikipedia.org/wiki/Data_corruption), [data degradation (bitrot)](https://en.wikipedia.org/wiki/Data_degradation), vandalism, or human error. This is particularly important if data is transferred between sites/machines, and in complex projects with several people involved. Is it clear what should be done if an error is detected?
+
+Examples of procedures to monitor data quality:
+* One common procedure to detect data changes is to calculate checksums (e.g. [SHA256](https://confluence.wipo.int/confluence/display/dascg/e.5.-+Generate+File+Checksum+for+uploading+to+DAS)) that can be stored and compare after transfers and time
+* Repeating measurements on the same samples/objects
+* In complex projects, it can be a good idea to define routines for if a
 
 Further reading:
 * [RDMkit: Data quality](https://rdmkit.elixir-europe.org/data_quality.html)
