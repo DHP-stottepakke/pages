@@ -88,6 +88,8 @@ Projects](https://www.forskningsradet.no/nyheter/2025/nye-generelle-vilkar/ "202
 > * Archiving of project results: The Project Owner shall ensure that all research- generated data, including all data that forms the basis for publications, is stored in a secure digital archive. Such archiving is to be carried out as soon as possible and at the latest two years following the conclusion of the project period. The Research Council may require that all such data, including the necessary documentation for reuse of data (metadata), is stored in designated, secure national or international archives, unless there are special reasons for otherwise, or contractual terms or public regulations prevent it.
 
 ### Horizon Europe
+<code> NB! Although the content is covered, our DMP questionnaire does currently not support exporting according to the Horizon Europe DMP template. Therefore, we do not recommend using it for Horizon Europe projects. The resources will still be useful. If unsure, contact your local support staff.</code>
+
 * [Directorate-General for Research and Innovation (European Commission). (2021). Horizon Europe Open Science Fact Sheet.](https://doi.org/10.2777/18252)
 > * Horizon Europe will require immediate open access to all scientific publications and responsible research data management so that data are Findable, Accessible, Interoperable and Re-usable (FAIR). Data will be made ‘as open as possible, but will be allowed to stay as closed as necessary’, safeguarding legitimate interests or constraints.
 > * The criteria for evaluating research proposals under Horizon Europe will take into account the quality and appropriateness of the open science practices in the submitted proposals.
@@ -99,7 +101,7 @@ Projects](https://www.forskningsradet.no/nyheter/2025/nye-generelle-vilkar/ "202
 > * Beneficiaries should maintain the DMP as a living document and update it over the course of the project whenever significant changes arise.
 > * The data must be deposited in a trusted repository, ensuring open access via the repository, as soon as possible and within the deadlines set out in the DMP.
 	
-* [European Commission. (Version 4.1, 01 May 2024). Horizon Europe Programme Guide: Open Science](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf "2024-09-09")
+* [European Commission. (Version 4.1, 01 May 2024). Horizon Europe Programme Guide: Open Science](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf "2025-07-18")
 > Chapter 16. Open Science - excerpts from the Programme Guide (p.40ff):
 > * Research data management (RDM) is mandatory in Horizon Europe for projects generating or reusing data. If you expect to generate or reuse data and/or other research outputs (except for publications), you are required to outline in a maximum of one page how these will be managed. Further details on this are provided in the proposal template in the relevant section on open science.
 > * Data management plans (DMPs) are a cornerstone for responsible management of research outputs, notably data and are mandatory in Horizon Europe for projects generating and/or reusing data (on requirements and the frequency of DMPs as deliverables consult [the AGA](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf) article 17.

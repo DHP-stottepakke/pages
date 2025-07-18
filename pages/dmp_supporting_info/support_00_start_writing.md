@@ -21,12 +21,12 @@ other:
 >> Supporting information for filling out the DMP (by DMP chapter)\\
 " %}
 
-## Get started with writing your Data Management Plan in Data Stewardship Wizard/ FAIR Wizard
-The DMP questionnaire is implemented in the DMP tool Data Stewardship Wizard (DSW)/ FAIR Wizard (DSW as software-as-a-service). It is available on the following instances:
+## Write your Data Management Plan in Data Stewardship Wizard/ FAIR Wizard
+The DMP questionnaire is implemented in the DMP tool **Data Stewardship Wizard (DSW)**/ **FAIR Wizard* (DSW as software-as-a-service). It is available on the following instances:
 * Researchers at NTNU, UiB, UiO og UiT can use the pilot instance [FAIR Wizard Norway](https://norway.fair-wizard.com/). The direct links on this web resource are linking to this instance. For support, contact your [local research data support](/pages/support_00_local_disc).
 * Life Science Researchers at all Norwegian institutions can use the [DSW instance provided by ELIXIR Norway](https://elixir.no/services-2/data-stewardship-wizard). To use the template, follow the advanced setup instructions. For support, contact the [ELIXIR Norway helpdesk](https://elixir.no/helpdesk).
 
-### Start with a new DMP
+## Start with a new DMP
 Simply said, the different plans you have worked on for your research projects over time are listed as “projects” in Data Stewardship Wizard/ FAIR Wizard. So, projects are in some sense equivalents to DMPs that you are working on.
 
 After logging in for the first time, you will have to start by creating a project: Use the 'Start your DMP' shortcut or start from the Projects menu.
@@ -51,7 +51,6 @@ For less complex projects:
 * **Minimum** questionnaire covers a core set of questions adapted to less complex projects (e.g. student projects). This questionnaire is suited for projects without external funding or external project partners. For less complex projects that are handling sensitive data or personal data or requiring ethical pre-application, see below.
 * **Minimum and ELSI** combines the **Minimum** questionnaire with questions on handling sensitive data or personal data or requiring ethical pre-application.
 
-
 #### Advanced questionnaire setup 
 Instead of starting with one of the pre-defined project templates, it is also possible to configure them and additional options based on the underlying knowledge model. Follow the instructions below if you are using the [ELIXIR Norway DSW instance](https://elixir.no/services-2/data-stewardship-wizard).
 
@@ -68,7 +67,7 @@ Other available tags for additional customization or specific needs:
 * for internal use: maDMP, IT security, cross institutional project, Horizon Europe
 
 
-### Fill out the questionnaire
+## Fill out the questionnaire
 You will find a description of the core steps below. For more detailed descriptions, see the [instructional video](https://www.youtube.com/watch?v=XrI8qYtWSBw ) and the [user guidance](https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html) by DSW.
 
 Answering the questionnaire is done in three steps:
@@ -85,16 +84,15 @@ There is different **types of questions**:
 
 {% include image.html file="dsw_phases.png" caption="1. Select project phase: Initial, midway or complete DMP, 2. Select the chapter, 3. Answer questions" alt="Screenshot with 1. Phase selection menu: Initial, midway or complete DMP, 2. Chapter selection, 3. Questionnaire" %}
 
-
-#### Smart navigation
-The navigation pane to the left can be used actively to jump between questions without scrolling. Follow-up questions and item lists can be collapsed/ expanded using the black arrow symbols in the navigation pane.
+### Smart navigation
+The chapter navigation pane to the left can be used actively to jump between questions without scrolling. Follow-up questions and item lists can be collapsed/ expanded using the black arrow symbols in the navigation pane.
 
 {% include image.html file="dsw_smart.png" caption="Use arrows in the navigation pane on the left hand side for smart navigation" alt="Screenshot of the question Contibutor(s) in the chapter 'About the DMP', with two contributors added. Contributor are named 'Contributor A' and 'Contributor B' added. The follow-up questions (Name, E-mail address, ORCID Identifier etc.) for 'Contributor A' are expanded and for 'Contributor B' minimized." %}
 
+#### Consulting additional information
 For additional information, the links in the questionnaire lead to the question-specific [Supporting Information for Users](/pages/dmp_supporting_info/).
 
 {% include image.html file="dsw_supporting.png" caption="Links to question-specific supporting information" alt="Screenshot of external link to question-specific supporting information." %}
-
 
 #### Controlling what is presented in the questionnaire tab
 **View** – note that you can control what is presented in the user interface. By default, only questions desirable the chosen project phase are visible and question tags are hidden.
@@ -102,12 +100,12 @@ For additional information, the links in the questionnaire lead to the question-
 {% include image.html file="dsw_view.png" caption="View: Change visible features" alt="View menu allows to view or hide question tags and other features." %}
 
 
-### The top navigation bar: Collaborating on the DMP and exporting documents
+## Export documents and collaborate on the DMP
 Functions for exporting the DMP and collaboration are found in the top navigation bar. Use the square button on the right hand side to hide or view the navigation pane.
 
 {% include image.html file="dsw_navigation.png" caption="The navigation pane" alt="Screenshot navigation pane" %}
 
-#### Collaborating on the DMP
+### Collaborating on the DMP
 The 'Share'-button opens a dialogue to share the project (plan) with collaborators. Collaborators with an account on [FAIR Wizard Norway](https://norway.fair-wizard.com/), can be searched for by name and assigned rights (Viewer/ Commenter/ Editor/ Owner). In addition, link sharing (with reading/ commenting/ editing rights) can be enabled for example to share with external collaborators.\
 
 {% include image.html file="dsw_sharing.png" caption="Contributors can be invited individually or through link sharing and assigned reading, commenting or editing rights" alt="Screenshot of the 'Share'-dialogue." %}
@@ -116,7 +114,7 @@ The TODO- and the comment function (to the right of each question) can be used t
 
 {% include image.html file="dsw_communicate.png" caption="TODOs and Comments can be added by using the buttons on the right hand side. They can also be navigated in the top pane. UUID links can be used to refer to a specific question." alt="Screenshot of the TODO, Comments, and UUID buttons"%}
 
-#### Exporting documents
+### Exporting documents
 Use the **Preview tab** for previewing your finalised plan as you go along. The default format can be changed in the **Settings tab** (see below).
 
 Use the **Documents tab** to download finalised plans in different formats. Use the 'New document'-button for any new document. Click on the three dots on the right hand side to download or delete a document from the list.
@@ -125,12 +123,11 @@ Useful: DMP versions can be named in the **Version history** tab (under the 'Sha
 
 {% include image.html file="dsw_export.png" caption="Different export formats can be generated from the 'Documents' tab" alt="Screenshot of document export." %}
 
-
-#### The Settings tab
+### The Settings tab
 Here you can change:
 * The internal DMP name and description
 * The default export and preview format (document template)
 * Migrate to another version of the questionnaire (knowledge model)
 
-#### The Metrics tab (disabled in FAIR Wizard Norway)
+### The Metrics tab (disabled in FAIR Wizard Norway)
 Metrics on completeness of the DMP and FAIR/ openness metrics are not supported in the current knowledge model, yet technically possible.
