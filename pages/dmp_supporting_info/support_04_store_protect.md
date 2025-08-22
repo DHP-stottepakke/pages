@@ -98,7 +98,7 @@ Storage solution examples (non-exhaustive):
 * Local hardware
 * Institutionally managed cloud storage
 	* Institutional OneDrive
- 	* [EduCloud](https://www.uio.no/tjenester/it/forskning/plattformer/edu-research/) provided by UiO
+	* [EduCloud](https://www.uio.no/tjenester/it/forskning/plattformer/edu-research/) provided by UiO
 * Institutionally managed data servers or network drives
 * Institutionally managed 'cold' storage (e.g. tape storage)
 	* Temporarily storing data in 'cold storage' with longer access times can be a recommended solution for your project if you produce very large data volumes or if the project collects data over a long time period, but where the data will be analysed later. An issue to consider here is whether data in such a storage are quick and easy to access, or if access needs to be planned in advance.
@@ -107,7 +107,10 @@ Storage solution examples (non-exhaustive):
 	* [HUNT Cloud](https://about.hdc.ntnu.no/) provided by NTNU
 	* [SAFE](https://www.uib.no/en/foremployees/131011/safe) provided by UiB 
 * National storage infrastructures
-	* E.g. [Sigma2 services](https://www.sigma2.no/services-overview) such as NIRD
+	* [Sigma2 services](https://www.sigma2.no/services-overview) such as NIRD
+	* [NELS](https://nels-docs.readthedocs.io/en/latest/) provided by ELIXIR Norway
+* HPC infrastructure
+	* E.g. [NREC](https://docs.nrec.no/intro.html) operated by UiB and UiO
 * Other cloud storage
 	* E.g. Google Drive, Dropbox
 * Online version control services
