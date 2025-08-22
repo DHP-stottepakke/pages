@@ -97,7 +97,8 @@ Consult institutional storage guides and information about institutionally manag
 Storage solution examples (non-exhaustive):
 * Local hardware
 * Institutionally managed cloud storage
-	* E.g. OneDrive
+	* Institutional OneDrive
+ 	* [EduCloud](https://www.uio.no/tjenester/it/forskning/plattformer/edu-research/) provided by UiO
 * Institutionally managed data servers or network drives
 * Institutionally managed 'cold' storage (e.g. tape storage)
 	* Temporarily storing data in 'cold storage' with longer access times can be a recommended solution for your project if you produce very large data volumes or if the project collects data over a long time period, but where the data will be analysed later. An issue to consider here is whether data in such a storage are quick and easy to access, or if access needs to be planned in advance.
