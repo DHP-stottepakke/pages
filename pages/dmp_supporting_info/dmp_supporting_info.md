@@ -34,10 +34,6 @@ The core section is structured according to our DMP template. For each chapter i
 Finally, we explain relevant terminology:
 - [Research data terms](/pages/support_00_rdm_terms) gives definitions of relevant terms used in the context of data management plans.
 
-<<<<<<< HEAD
 If you find something that should be improved:
 - [Please provide feedback](/pages/support_00_feedback) to the community resources
-=======
-**If you find something that should be improved**:
-- [Please provide feedback](/pages/support_00_feedback) to the community resources
->>>>>>> c95f03b78de6c73b91c23b9de4afe138095f74eb
+
