@@ -89,7 +89,7 @@ Projects](https://www.forskningsradet.no/nyheter/2025/nye-generelle-vilkar/ "202
 
 ### Horizon Europe
 +<code> NB Although the questionnaire we provide for DMPs covers the requirements from Horizon Europe, the tool does not currently support exporting the DMP
-according to the recommended template for Horizon Europe projects. We, thus, do not advise using our questionnaire for these projects, although its guidance is still relevant, including pre-award considerations. If unsure, contact your local support staff.</code>
+according to the recommended template for Horizon Europe projects (see below). We, thus, do not advise using our questionnaire for these projects, although its guidance is still relevant, including the pre-award considerations. If unsure, contact your local support staff.</code>
 
 * [Directorate-General for Research and Innovation (European Commission). (2021). Horizon Europe Open Science Fact Sheet.](https://doi.org/10.2777/18252)
 > * Horizon Europe will require immediate open access to all scientific publications and responsible research data management so that data are Findable, Accessible, Interoperable and Re-usable (FAIR). Data will be made ‘as open as possible, but will be allowed to stay as closed as necessary’, safeguarding legitimate interests or constraints.
