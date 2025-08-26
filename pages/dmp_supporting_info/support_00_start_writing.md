@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Svein Høier, Jenny Ostrop]
 page_id: support_00_start_writing
 description: Supporting DMP Information, DMP writing, Data Stewardship Wizard, DSW, User guide
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 dsw:
 - name: About the Data Management Plan
   uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=7ed9939b-b85c-48bf-87f5-2aa081bb5267

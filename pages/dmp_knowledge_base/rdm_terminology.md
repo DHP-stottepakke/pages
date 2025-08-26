@@ -7,7 +7,7 @@ contributors: [Jenny Ostrop]
 page_id: rdm_terminology
 description: How is this called in Norwegian? Hva heter det på norsk?
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 toc: true
 ---
 

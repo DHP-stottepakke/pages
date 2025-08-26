@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Svein Høier, Jenny Ostrop, Ida Juhasz]
 page_id: support_06_document
 description: Supporting DMP Information, data collection, data creation, data generation, data production
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 dsw:
 - name: Responsibilities and resources
   uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=b1df3c74-0b1f-4574-81c4-4cc2d780c1af

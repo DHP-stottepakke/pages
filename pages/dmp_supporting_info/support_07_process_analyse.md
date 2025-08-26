@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Korbinian Bösl, Jenny Ostrop, Ingrid Heggland]
 page_id: support_07_process_analyse
 description: Supporting DMP Information, process data, data processing, analyse data, data analysis, analyze, analysis
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 dsw:
 - name: Processing, analysing and interpreting data
   uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=50f9d580-3e62-434b-81ff-86daed56aca8

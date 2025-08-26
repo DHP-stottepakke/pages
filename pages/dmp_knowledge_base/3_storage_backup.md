@@ -7,7 +7,7 @@ contributors: [Lisbeth Jahren, Ingrid Heggland, Svein Høier]
 page_id: 3_storage_backup
 description: Data storage, backup
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 toc: true
 ---
 

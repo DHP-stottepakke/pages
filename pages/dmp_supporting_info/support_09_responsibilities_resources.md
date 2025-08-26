@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Svein Høier, Lisbeth Jahren, Jenny Ostrop]
 page_id: support_09_responsibilities_resources
 description: Supporting DMP Information, data management responsibilities, data management resources
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 dsw:
 - name: Responsibilities and resources
   uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=b450d1a4-b0ad-4e62-8b40-967bad5e1437

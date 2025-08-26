@@ -7,7 +7,7 @@ contributors: [Svein Høier, Jenny Ostrop]
 page_id: 5_sharing_preservation
 description: Data sharing, archiving, long-term preservation
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 toc: true
 ---
 

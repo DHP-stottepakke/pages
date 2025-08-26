@@ -3,10 +3,10 @@ layout: page
 <!--type: cheat_sheet-->
 title: Research Data Management and DMP requirements
 search_exclude: false
-contributors: [Jenny Ostrop, Leif Longva]
+contributors: [Jenny Ostrop, Leif Longva, Federico Bianchini]
 page_id: support_00_dmp_requirements
 description: Supporting DMP Information, Why write a DMP, Reason, Motivation, DMP requirements, Funder requirements, Institutional requirements
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 rdmkit:
 - name: "National resources: Norway"
   url: https://rdmkit.elixir-europe.org/no_resources
@@ -88,7 +88,8 @@ Projects](https://www.forskningsradet.no/nyheter/2025/nye-generelle-vilkar/ "202
 > * Archiving of project results: The Project Owner shall ensure that all research- generated data, including all data that forms the basis for publications, is stored in a secure digital archive. Such archiving is to be carried out as soon as possible and at the latest two years following the conclusion of the project period. The Research Council may require that all such data, including the necessary documentation for reuse of data (metadata), is stored in designated, secure national or international archives, unless there are special reasons for otherwise, or contractual terms or public regulations prevent it.
 
 ### Horizon Europe
-<code> NB! Although the content is covered, our DMP questionnaire does currently not support exporting according to the Horizon Europe DMP template, which is not mandatory yet recommended. Therefore, we do currently not recommend using our DMP questionnaire for Horizon Europe projects. The resources will still be useful, including the pre-award considerations. If unsure, contact your local support staff.</code>
++<code> NB Although the questionnaire we provide for DMPs covers the requirements from Horizon Europe, the tool does not currently support exporting the DMP
+according to the recommended template for Horizon Europe projects (see below). We, thus, do not advise using our questionnaire for these projects, although its guidance is still relevant, including the pre-award considerations. If unsure, contact your local support staff.</code>
 
 * [Directorate-General for Research and Innovation (European Commission). (2021). Horizon Europe Open Science Fact Sheet.](https://doi.org/10.2777/18252)
 > * Horizon Europe will require immediate open access to all scientific publications and responsible research data management so that data are Findable, Accessible, Interoperable and Re-usable (FAIR). Data will be made ‘as open as possible, but will be allowed to stay as closed as necessary’, safeguarding legitimate interests or constraints.
@@ -107,13 +108,13 @@ Projects](https://www.forskningsradet.no/nyheter/2025/nye-generelle-vilkar/ "202
 * [European Commission. (Version 5.0, 01 May 2025). Horizon Europe Programme Guide: Open Science](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf "2025-08-20")
 > Chapter 17. Open Science - excerpts from the Programme Guide (p.42ff):
 > * Research data management (RDM) is mandatory in Horizon Europe for projects generating or reusing data. If you expect to generate or reuse data and/or other research outputs (except for publications), please see relevant details in the proposal template.
-* For those work programmes that require the use of the European Open Science Cloud (EOSC) federated repositories, proposers should explicitly discuss the use of such repositories in their proposals.
-* RDM, in line with the FAIR principles is a requirement that should be carried out regardless of whether the data generated and re-used in the project is intended to be openly accessible, or if access restrictions are foreseen. FAIR data is not equivalent to open data (publicly available to everyone to access and reuse). Data can, and should be FAIR even when access is restricted.RDM and the FAIR principles can be applied to research outputs other than data (i.e. workflows, protocols, software, samples, etc).
+> * For those work programmes that require the use of the European Open Science Cloud (EOSC) federated repositories, proposers should explicitly discuss the use of such repositories in their proposals.
+> * RDM, in line with the FAIR principles is a requirement that should be carried out regardless of whether the data generated and re-used in the project is intended to be openly accessible, or if access restrictions are foreseen. FAIR data is not equivalent to open data (publicly available to everyone to access and reuse). Data can, and should be FAIR even when access is restricted.RDM and the FAIR principles can be applied to research outputs other than data (i.e. workflows, protocols, software, samples, etc).
 > * Data management plans (DMPs) are a cornerstone for responsible management of research outputs, notably data and are mandatory in Horizon Europe for projects generating and/or reusing data (on requirements and the frequency of DMPs as deliverables consult [the AGA](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf) article 17.
-* By exception, in cases of a public emergency and if the work programme requires so, you should submit a full DMP already with submission of proposals or at the latest by the signature of the grant agreement.
+> * By exception, in cases of a public emergency and if the work programme requires so, you should submit a full DMP already with submission of proposals or at the latest by the signature of the grant agreement.
 > * Writing a DMP is part of the methodology of the project (…). DMPs are thus a key means of support when planning and conducting a research project, and, ideally, filling in a DMP should be started prior to the beginning of the project.
 > * A DMP should be a living document, which is updated and enriched as the project evolves.
-
+>
 > How to meet the research data management and open access requirements - excerpts from the AGA (page 390ff):
 > * Beneficiaries must submit a DMP as a mandatory project deliverable (normally within 6 months after grant signature). An updated DMP deliverable must then be produced mid-project (for projects longer than twelve months) and at the end of the project (where relevant).
 > * Writing a DMP is an activity directly linked to the methodology of the research, i.e. good data management will make the work more efficient/save time, contribute to safeguarding information and to increasing the impact and the value of the data among the beneficiaries and others, during and after the research.

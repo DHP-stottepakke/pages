@@ -7,7 +7,7 @@ contributors: [Jenny Ostrop, Korbinian Bösl, Ida Juhasz, Live Kvale, Leif Longv
 page_id: support_00_rdm_terms
 description:
 affiliations:
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 ---
 
 {% include callout.html type="note" content="

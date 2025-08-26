@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Lisbeth Jahren]
 page_id: support_02_about_research
 description: Supporting DMP Information, Administrative information, Research project, Contributors, Funding
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 dsw:
 - name: About the research project
   uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=f0ef08fd-d733-465c-bc66-5de0b826c41b

@@ -7,7 +7,7 @@ contributors: [Jenny Ostrop]
 page_id: 0_admin_information
 description: Administrative information about the DMP
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 toc: true
 ---
 

@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Jenny Ostrop, Live Kvale, Ingrid Heggland]
 page_id: support_03_legal_ethics
 description: Supporting DMP Information, legal requirements, ethical requirements
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 dsw:
 - name: Legal and ethical aspects
   uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=18ae1270-b81f-4e47-bdf5-fced56a9ab23

@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Jenny Ostrop, Korbinian Bösl, Illimar Rekand, Live Kvale, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]
 page_id: support_00_dmp_purpose
 description: Supporting DMP Information, Purpose of a DMP, Why write a DMP, Reason, Motivation, What is a DMP
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 cessda:
 - name: Planning
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan

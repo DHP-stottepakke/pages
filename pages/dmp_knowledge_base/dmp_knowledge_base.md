@@ -8,7 +8,7 @@ contributors: [Jenny Ostrop, Korbinian Bösl, Illimar Rekand, Ida Juhasz, Live K
 page_id: knowledge_base
 description: Knowledge Base for Support Staff
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 ---
 
 This section collects useful information about data management plans (DMP) targeting personnel in support roles.

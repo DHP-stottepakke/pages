@@ -7,7 +7,7 @@ contributors: [Illimar Rekand, Jenny Ostrop]
 page_id: difficult_faq
 description: Frequently asked difficult questions
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 toc: true
 ---
 ## General questions on DMPs

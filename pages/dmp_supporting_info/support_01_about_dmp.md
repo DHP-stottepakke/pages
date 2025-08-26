@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Live Kvale]
 page_id: support_01_about_dmp
 description: Supporting DMP Information, administrative information, publish dmp, dmp publication, manage dmp, living document
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 dsw:
 - name: About the Data Management Plan
   uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=7ed9939b-b85c-48bf-87f5-2aa081bb5267
