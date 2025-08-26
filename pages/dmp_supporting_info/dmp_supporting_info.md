@@ -4,7 +4,7 @@ layout: page
 title: DMP Supporting Information
 permalink: /dmp_supporting_info/
 search_exclude: false
-contributors: [Jenny Ostrop, Korbinian Bösl, Ida Juhasz, Live Kvale, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]
+contributors: [Jenny Ostrop, Korbinian Bösl, Ida Juhasz, Live Kvale, Elisa Pierfederici, Federico Bianchini, Gulbrand Stålet Nilsen, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]
 page_id: dmp_supporting_info
 description: DMP supporting information, user guidance
 affiliations:
@@ -12,7 +12,8 @@ sidebar: dmp_supporting_info
 ---
 
 This section collects information that is useful when writing a Data Management Plan (DMP).
-- [Purpose of a DMP](/pages/support_00_dmp_purpose) explains what a DMP is and why you should write one for your research project. It also gives an overview about DMP requirements from funders and institutions.
+- [Purpose of a DMP](/pages/support_00_dmp_purpose) explains what a DMP is and why you should write one for your research project.
+- [Get local/disciplinary support](/pages/support_00_dmp_requirements) summarises research data management and DMP requirements from funders and institutions.
 - [Get local/disciplinary support](/pages/support_00_local_disc) refers to disciplinary data management experts and data management support staff at your institution.
 
 It is beneficial to take research data management into consideration already ahead of starting a research project, particularly if applying for external funding.
@@ -33,5 +34,5 @@ The core section is structured according to our DMP template. For each chapter i
 Finally, we explain relevant terminology:
 - [Research data terms](/pages/support_00_rdm_terms) gives definitions of relevant terms used in the context of data management plans.
 
-If you find something that should be improved:
+**If you find something that should be improved**:
 - [Please provide feedback](/pages/support_00_feedback) to the community resources
