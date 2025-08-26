@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Jenny Ostrop, Korbinian Bösl, Ida Juhasz, Live Kvale, Leif Longva, Lisbeth Jahren, Ingrid Heggland]
 page_id: support_00_feedback
 description: Supporting DMP Information, Provide feedback, improvements, Contribute
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 ---
 
 {% include callout.html type="important" content="

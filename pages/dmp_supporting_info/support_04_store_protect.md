@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Korbinian Bösl, Jenny Ostrop, Ida Juhasz]
 page_id: support_04_store_protect
 description: Supporting DMP Information, data storage, data backup
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 dsw:
 - name: Storing and protecting data during the project
   uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=b11a3987-d7fa-4e9e-9ab5-48a6f2ffc2b0

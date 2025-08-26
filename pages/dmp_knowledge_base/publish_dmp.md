@@ -7,7 +7,7 @@ contributors: [Jenny Ostrop]
 page_id: publish_dmp
 description: Publishing a DMP
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 toc: true
 ---
 

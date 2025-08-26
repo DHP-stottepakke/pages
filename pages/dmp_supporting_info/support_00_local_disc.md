@@ -7,7 +7,7 @@ contributors: [Jenny Ostrop]
 page_id: support_00_local_disc
 description:
 affiliations:
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 rdmkit:
 - name: National page for Norway
   url: https://rdmkit.elixir-europe.org/no_resources

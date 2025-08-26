@@ -7,7 +7,7 @@ contributors: [Jenny Ostrop, Svein Høier, Live Kvale]
 page_id: support_00_planning_considerations
 description: Supporting DMP Information, planning considerations, pre-start, pre-award, before you start
 affiliations:
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 dsw:
 - name: Guiding questionnaire for pre-considerations
   uuid: knowledge-models/research.data.no:norway-preaward:latest/preview

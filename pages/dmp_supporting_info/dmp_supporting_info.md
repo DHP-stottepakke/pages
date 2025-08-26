@@ -5,10 +5,10 @@ title: DMP Supporting Information
 permalink: /dmp_supporting_info/
 search_exclude: false
 contributors: [Jenny Ostrop, Korbinian Bösl, Ida Juhasz, Live Kvale, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]
-page_id: dmp_supporting_info
+page_id: dmp_supporting_information
 description: DMP supporting information, user guidance
 affiliations:
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 ---
 
 This section collects information that is useful when writing a Data Management Plan (DMP).

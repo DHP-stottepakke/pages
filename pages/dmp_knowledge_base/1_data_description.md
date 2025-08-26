@@ -7,7 +7,7 @@ contributors: [Jenny Ostrop, Leif Longva]
 page_id: 1_data_description
 description: Data description, Data types, Data reuse
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 toc: true
 ---
 

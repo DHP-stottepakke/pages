@@ -7,7 +7,7 @@ contributors: [Jenny Ostrop]
 page_id: dmp_training
 description: DMP training plan, train-the-trainer, lesson plan
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 toc: true
 ---
 

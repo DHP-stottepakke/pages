@@ -7,7 +7,7 @@ contributors: [Jenny Ostrop, Leif Longva]
 page_id: dmp_policy
 description: DMP requirements, policy, strategy
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 toc: true
 ---
 

@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Jenny Ostrop, Leif Longva]
 page_id: support_00_dmp_requirements
 description: Supporting DMP Information, Why write a DMP, Reason, Motivation, DMP requirements, Funder requirements, Institutional requirements
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 rdmkit:
 - name: "National resources: Norway"
   url: https://rdmkit.elixir-europe.org/no_resources

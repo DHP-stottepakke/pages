@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Svein Høier, Jenny Ostrop, Lisbeth Jahren, Live Kvale]
 page_id: support_05_reuse_collect
 description: Supporting DMP Information, reusing data, data reuse, data re-use, pre-existing data
-sidebar: dmp_supporting_info
+sidebar: dmp_supporting_information
 dsw:
 - name: Reusing and collecting data
   uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=43e2efe4-016c-4a20-8b94-526ae1799afa

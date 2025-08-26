@@ -7,7 +7,7 @@ contributors: [Svein Høier, Lisbeth Jahren, Leif Longva]
 page_id: 2_documentation_quality
 description: Data documentation, metadata, data quality
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 toc: true
 ---
 

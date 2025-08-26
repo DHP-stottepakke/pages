@@ -7,7 +7,7 @@ contributors: [Jenny Ostrop, Korbinian Bösl, Illimar Rekand, Ida Juhasz, Live K
 page_id: science_europe
 description: annotated guidance, Science Europe
 affiliations: 
-sidebar: dmp_knowledge_base
+sidebar: background_knowledge
 toc: true
 ---
 
