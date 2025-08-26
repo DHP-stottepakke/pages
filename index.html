@@ -9,7 +9,7 @@ layout: none
 
 <body>
     {% include topnav.html search=false %}
-		
+<a class="sr-only sr-only-focusable" href="#main">Skip to main content</a>
 	<div class="landingpage">
         <section class="container mb-5">
             <div>
@@ -21,8 +21,10 @@ layout: none
 
 		<!-- researchers -->
 		<section class="bg-light pb-5">
+	    <main>
                   <div class="container">
-                      <h2 class="no-anchor text-center mb-3">For researchers writing a DMP </h2>
+        
+					  <h2 class="no-anchor text-center mb-3">For researchers writing a DMP </h2>
 
                       <!-- {%- assign sidebar = site.data.sidebars[page.sidebar] %} -->
                       <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
@@ -70,6 +72,7 @@ layout: none
 	
                  </div>
             </div>
+		</main>			  
         </section>
 		
 		<!-- basics -->
@@ -233,3 +236,4 @@ layout: none
 </body>
 
 </html>
+
