@@ -13,7 +13,7 @@ sidebar: dmp_supporting_info
 
 This section collects information that is useful when writing a Data Management Plan (DMP).
 - [Purpose of a DMP](/pages/support_00_dmp_purpose) explains what a DMP is and why you should write one for your research project.
-- [Get local/disciplinary support](/pages/support_00_dmp_requirements) summarises research data management and DMP requirements from funders and institutions.
+- [RDM and DMP requirements](/pages/support_00_dmp_requirements) summarises research data management and DMP requirements from funders and institutions.
 - [Get local/disciplinary support](/pages/support_00_local_disc) refers to disciplinary data management experts and data management support staff at your institution.
 
 It is beneficial to take research data management into consideration already ahead of starting a research project, particularly if applying for external funding.
