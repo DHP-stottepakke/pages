@@ -2,7 +2,7 @@
 {%- assign contrib_list = page.contributors | default: EMPTY -%}
 {%- assign coord_list  = page.coordinators | default: EMPTY -%}
 {%- if contrib_list.size > 0 or coord_list.size > 0 -%}
-<span><h2> {{site.theme_variables.contributor-minitiles-page | default: 'Contributors' }} </h2>{</span>
+<span><h2> {{site.theme_variables.contributor-minitiles-page | default: 'Contributors' }} </h2></span>
 <div class="p-4 rounded mt-4 page-contributors d-flex flex-wrap gap-2">
     {%- assign contributors = site.data.CONTRIBUTORS %}
     {%- assign page_contributors = contrib_list | concat: coord_list | uniq %}
