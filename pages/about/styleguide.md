@@ -64,7 +64,14 @@ Please use the following formatting style for all hypertext links when contribut
 ```
 [display text](https://sampleurl.com "hover-over text")
 ```
-In the hover-over text, please include meaningful information about the intended link, so that the end user may easily find the content in [case of link rot.](https://en.m.wikipedia.org/wiki/Link_rot# "Wikipedia artcle on web page, accessed 2024-01-22"). In case you are referring to webpages which are often updated/changed, please include the date ("YYYY-MM-DD") of accession. 
+In the hover-over text, please include meaningful information about the intended link, so that the end user may easily find the content in [case of link rot.](https://en.m.wikipedia.org/wiki/Link_rot# "Wikipedia artcle on web page, accessed 2024-01-22"). In case you are referring to webpages which are often updated/changed, please include the date ("YYYY-MM-DD") of accession.
+
+If link titles are in another language than the default (English), specifying a language attribute improves accessibility for users of screen readers. Setting additional attributes is possible with the [kramdown syntax](https://kramdown.gettalong.org/syntax.html#links-and-images), which is the default markdown parser in Jekyll.\
+Norwegian language codes: Norwegian = "no", Bokmål = "nb", Nynorsk = "nn".
+
+```
+[display text](https://sampleurl.com){:lang="code"}
+```
 
 ## Annotating text from other sources
 
