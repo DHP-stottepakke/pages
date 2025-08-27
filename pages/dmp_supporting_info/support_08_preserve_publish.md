@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: Archiving and publishing data
 search_exclude: false
-contributors: [Leif Longva, Jenny Ostrop]
+contributors: [Leif Longva, Jenny Ostrop, Lisbeth Jahren]
 page_id: support_08_preserve_publish
 description: Supporting DMP Information, preservation strategy, preserve data, data preservation, publish data, data publication, repository, open access, closed access, data sharing
 sidebar: dmp_supporting_information
@@ -30,7 +30,7 @@ other:
 **Why is this topic important**\\
 >> Research data is valuable – they should be available for reuse.\\
 >> Archiving ensures availability of data for yourself at a later time point, e.g. after switching affiliations.\\
->> Rich metadata and usage of trustworthy data archives will make the data findable through search engines. 
+>> Rich metadata and usage of trustworthy data archives will make the data findable through search engines.\\ 
 >> Good documentation, structured metadata and a license will enable others to understand the information held in the data and enable data reuse.\\
 >> Research funders and academic publishers commonly require data underlying a study to be available ('as open as possible').\\
 >> Increasingly, archiving FAIR data is viewed as equally important as publishing other research output, in the assessment of research.\\
@@ -39,7 +39,24 @@ other:
 ## About this chapter
 Research data is valuable. Collecting or generating data may require significant effort. Making data available for reuse in an ongoing process to build new knowledge, is thus the right thing to do, economically as well as research ethically, to ensure the value of the data is maximised. It is therefore important to follow good practice in how to preserve data and make data accessible for future use. This is done by use of archives (also called repositories) where data is organised in files with formats that we trust to be accessible also long into the future. And moreover, the data need to be described well, so that there is no ambiguity to what information the data holds, including all relevant circumstances and conditions that may have had impact when the data was collected or generated. Description of the data is often done in a so called ‘README’ file entered along with the data files, in addition to attaching rich metadata that holds information on the data.
 
-This chapter will assist you in walking through the planning steps of making the data available in line with the FAIR principles, including selecting an archive to publish the data (or, if needed, archiving with access restrictions) and providing appropriate metadata. The chapter includes both questions that should be considered at the initial stage of the DMP, and questions to be answered towards the end of the research project to plan the fate of data in the project, whether they will be deposited in a research data archive, preserved in other ways, or in certain cases will be discarded.
+This chapter will guide you through the planning steps for making the data available in line with the [FAIR principles](https://www.go-fair.org/fair-principles/), including selecting an archive to publish the data (or, if needed, archiving with access restrictions) and providing appropriate metadata. The FAIR principles (acronym for Findable, Accessible, Interoperable and Reusable) provide a framework for good data management, helping to ensure that research data remain useful and accessible over time, both for humans and machines. 
+
+### FAIR data checklist
+No matter whether the data may be published openly or not, the goal is always to make it as FAIR as possible. You can use the FAIR data checklist to assess how well your dataset align with the FAIR principles:
+
+* Archived datasets have persistent identifiers
+* Archived datasets are indexed and findable in search engines
+* Rich metadata is available for the archived datasets
+* Metadata remains available even if data should be deleted
+* Conditions for accessing the archived datasets are specified
+* The file formats used in archived datasets support interoperability
+* Controlled vocabularies/ontologies are used to describe data and datasets
+* Datasets link to related information where relevant
+* Datasets are assigned a license that define conditions for reuse
+* The archive will guarantee future availability and reuse of the datasets
+
+There are also online tools available for this purpose: [FAIRAware by DANS](https://fairaware.dans.knaw.nl/)
+
 
 ### Trustworthy research data archives
 The process of selecting archive to use is therefore important, to ensure best archival practice and the quality of the data. The most important issue to look for is whether the archive is a trustworthy one, that is either certified with e.g. the CoreTrustSeal or the ISO 16363 standard or are disciplinary or domain repositories that are widely endorsed and supported by research communities and are recognized on an international scale.  Prerequisites for trusted archives include a curation procedure. Curation should be done in cooperation between archive curators and the depositing researcher to ensure the data is preserved in preferred file formats and accompanied by good description and rich metadata.
@@ -147,24 +164,6 @@ Note that the CC BY clause may unintentionally restrict reuse of data if someone
 For more information on Creative Commons licenses, see [https://creativecommons.org/](https://creativecommons.org/).
 
 
-### FAIR data checklist
-No matter whether the data may be published openly or not, it is always a question of making the research data FAIR - or rather as FAIR as possible. FAIR is an acronym for Findable, Accessible, Interoperable, Reusable and the [FAIR principles (2016)](/pages/support_08_preserve_publish#further-resources] describe a set of criteria to be met.\
-The checklist can assist you in remembering the relevant elements:
-* Archived datasets have persistent identifiers
-* Archived datasets are indexed and findable in search engines
-* Rich metadata is available for the archived datasets
-* Metadata remains available even if data should be deleted
-* Conditions for accessing the archived datasets are specified
-* The file formats used in archived datasets support interoperability
-* Controlled vocabularies/ontologies are used to describe data and datasets
-* Datasets link to related information where relevant
-* Datasets are assigned a license that define conditions for reuse
-* The archive will guarantee future availability and reuse of the datasets
-
-There are also online tools available for this purpose:
-* [FAIRAware by DANS](https://fairaware.dans.knaw.nl/)
-
-
 ### If applicable: List research software/computational models/simulations you will be publishing
 Research software as project result is related to research data, yet more dynamic. Research software can be anything from a few lines of code to a professionally developed software package.
 The FAIR for Research Software (FAIR4RS) principles have been adapted from the FAIR principles to fit the characteristics of software/code ([Barker et al. 2022, doi: 10.1038/s41597-022-01710-x](https://doi.org/10.1038/s41597-022-01710-x), [Lamprecht et al. 2020, doi: 10.3233/DS-190026](https://doi.org/10.3233/DS-190026)).
@@ -178,3 +177,4 @@ Further reading:
 * [Turing way: Open source software](https://book.the-turing-way.org/reproducible-research/open/open-source)
 * [Turing way: Licensing](https://book.the-turing-way.org/reproducible-research/licensing.html)
 * [FAIRCookbook: Software Licensing](https://w3id.org/faircookbook/FCB033)
+* [FAIR Data Maturity Model - Specification and Guidelines](https://doi.org/10.15497/rda00050)
