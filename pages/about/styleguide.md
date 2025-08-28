@@ -55,18 +55,18 @@ The style guide is adapted from the [RDMKit knowledge base style guide](https://
 
 ## Language:
 
-While the content of this webpage is intended for Norwegian research institutions, a significant portion of members in the Norwegian community have foreign backgrounds. Therefore, for the sake of accessibility, please add any contributions in English. 
-When this page will finally be deployed, the content will be translated into Norwegian
+While the content of this webpage is intended for Norwegian research institutions, a significant portion of members in the Norwegian community have foreign backgrounds and/or use English as their working language. Therefore, for the sake of accessibility, please add any contributions in English.
+We are aiming to translate the resource to Norwegian at a later timepoint.
 
-## Hyperlink styleguides:
+## Hyperlink styleguide:
 Please use the following formatting style for all hypertext links when contributing to this page:
 
 ```
 [display text](https://sampleurl.com "hover-over text")
 ```
-In the hover-over text, please include meaningful information about the intended link, so that the end user may easily find the content in [case of link rot.](https://en.m.wikipedia.org/wiki/Link_rot# "Wikipedia artcle on web page, accessed 2024-01-22"). In case you are referring to webpages which are often updated/changed, please include the date ("YYYY-MM-DD") of accession.
+In the hover-over text, please include meaningful information about the intended link, so that the end user may easily find the content in [case of link rot.](https://en.m.wikipedia.org/wiki/Link_rot# "Wikipedia article on web page, accessed 2024-01-22"). In case you are referring to webpages which are often updated/changed, please include the date ("YYYY-MM-DD") of accession.
 
-If link titles are in another language than the default (English), specifying a language attribute improves accessibility for users of screen readers. Setting additional attributes is possible with the [kramdown syntax](https://kramdown.gettalong.org/syntax.html#links-and-images), which is the default markdown parser in Jekyll.\
+If link titles are in another language than the webpage default (English), specifying a language attribute improves accessibility for users of screen readers. Setting additional attributes is possible with the [kramdown syntax](https://kramdown.gettalong.org/syntax.html#links-and-images), which is the default markdown parser in Jekyll.\
 Norwegian language codes: Norwegian = "no", Bokmål = "nb", Nynorsk = "nn".
 
 ```
