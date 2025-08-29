@@ -45,16 +45,16 @@ This chapter will guide you through the planning steps for making the data avail
 ### FAIR principles
 No matter whether the data may be published openly or not, the goal is always to make it as FAIR as possible. The [FAIR principles](https://www.go-fair.org/fair-principles/) have gained a lot of traction since their establishment, and have been applied to other research results such as [software](/pages/support_08_preserve_publish#if-applicable-list-research-softwarecomputational-modelssimulations-you-will-be-publishing). FAIR data implies that the following criteria should be fulfilled:
 
-* [x] Archived datasets have persistent identifiers
-* [x] Archived datasets are indexed and findable in search engines
-* [x] Rich metadata is available for the archived datasets
-* [x] Metadata remains available even if data should be deleted
-* [x] Conditions for accessing the archived datasets are clearly specified (particularly if access is restricted)
-* [x] The file formats used in archived datasets support interoperability
-* [x] Controlled vocabularies/ontologies are used to describe data and datasets
-* [x] Datasets link to related information where relevant
-* [x] Datasets are assigned a license that define conditions for reuse
-* [x] The archive will guarantee future availability and reuse of the datasets
+[x] Archived datasets have persistent identifiers
+[x] Archived datasets are indexed and findable in search engines
+[x] Rich metadata is available for the archived datasets
+[x] Metadata remains available even if data should be deleted
+[x] Conditions for accessing the archived datasets are clearly specified (particularly if access is restricted)
+[x] The file formats used in archived datasets support interoperability
+[x] Controlled vocabularies/ontologies are used to describe data and datasets
+[x] Datasets link to related information where relevant
+[x] Datasets are assigned a license that define conditions for reuse
+[x] The archive will guarantee future availability and reuse of the datasets
 
 There are also online tools available to check wether a dataset is FAIR: [FAIRAware by DANS](https://fairaware.dans.knaw.nl/)
 
