@@ -11,6 +11,8 @@ columns:
        url: /contributors
      - url_text: How to cite
        url: about/#how-to-cite-it
+     - url_text: Accessibility statement
+       url: https://uustatus.no/nb/erklaringer/publisert/542d9f82-7b8e-40a0-9757-7a8df2a9eebf
   - type: image
     image_width: 100%
     width: 1
