@@ -63,6 +63,7 @@ While work on FAIR maturity, metrics and automated testing is ongoing, this has 
 Further reading:
 * Article: Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3(1). [doi: 10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
 * [FAIR Data Maturity Model - Specification and Guidelines](https://doi.org/10.15497/rda00050)
+* [FAIR-IMPACT: Metrics for data](https://fair-impact.eu/metrics-data)
 * [Recommendations on FAIR metrics for EOSC](https://data.europa.eu/doi/10.2777/70791)
 
 
