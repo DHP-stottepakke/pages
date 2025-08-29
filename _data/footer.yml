@@ -7,8 +7,6 @@ columns:
     children:
      - url_text: About
        url: /about
-     - url_text: Contributors
-       url: /contributors
      - url_text: How to cite
        url: about/#how-to-cite-it
      - url_text: Accessibility statement
