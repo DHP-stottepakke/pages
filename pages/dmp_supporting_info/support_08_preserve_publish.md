@@ -30,7 +30,7 @@ other:
 **Why is this topic important**\\
 >> Research data is valuable – they should be available for reuse.\\
 >> Archiving ensures availability of data for yourself at a later time point, e.g. after switching affiliations.\\
->> Rich metadata and usage of trustworthy data archives will make the data findable through search engines.\\ 
+>> Rich metadata and usage of trustworthy data archives will make the data findable through search engines.\\
 >> Good documentation, structured metadata and a license will enable others to understand the information held in the data and enable data reuse.\\
 >> Research funders and academic publishers commonly require data underlying a study to be available ('as open as possible').\\
 >> Increasingly, archiving FAIR data is viewed as equally important as publishing other research output, in the assessment of research.\\
@@ -41,21 +41,29 @@ Research data is valuable. Collecting or generating data may require significant
 
 This chapter will guide you through the planning steps for making the data available in line with the [FAIR principles](https://www.go-fair.org/fair-principles/), including selecting an archive to publish the data (or, if needed, archiving with access restrictions) and providing appropriate metadata. The FAIR principles (acronym for Findable, Accessible, Interoperable and Reusable) provide a framework for good data management, helping to ensure that research data remain useful and accessible over time, both for humans and machines. 
 
-### FAIR data checklist
-No matter whether the data may be published openly or not, the goal is always to make it as FAIR as possible. You can use the FAIR data checklist to assess how well your dataset align with the FAIR principles:
+
+### FAIR principles
+No matter whether the data may be published openly or not, the goal is always to make it as FAIR as possible. The [FAIR principles](https://www.go-fair.org/fair-principles/) have gained a lot of traction since their establishment, and have been applied to other research results such as [software](/pages/support_08_preserve_publish#if-applicable-list-research-softwarecomputational-modelssimulations-you-will-be-publishing). FAIR data implies that the following criteria should be fulfilled:
 
 * Archived datasets have persistent identifiers
 * Archived datasets are indexed and findable in search engines
 * Rich metadata is available for the archived datasets
 * Metadata remains available even if data should be deleted
-* Conditions for accessing the archived datasets are specified
+* Conditions for accessing the archived datasets are clearly specified (particularly if access is restricted)
 * The file formats used in archived datasets support interoperability
 * Controlled vocabularies/ontologies are used to describe data and datasets
 * Datasets link to related information where relevant
 * Datasets are assigned a license that define conditions for reuse
 * The archive will guarantee future availability and reuse of the datasets
 
-There are also online tools available for this purpose: [FAIRAware by DANS](https://fairaware.dans.knaw.nl/)
+There are also online tools available to check wether a dataset is FAIR: [FAIRAware by DANS](https://fairaware.dans.knaw.nl/)
+
+While work on FAIR maturity, metrics and automated testing is ongoing, this has currently little practical relevance for researchers. FAIR metrics results will to a large extend be defined by the features of the used research data archive.
+
+Further reading:
+* Article: Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3(1). [doi: 10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+* [FAIR Data Maturity Model - Specification and Guidelines](https://doi.org/10.15497/rda00050)
+* [Recommendations on FAIR metrics for EOSC](https://data.europa.eu/doi/10.2777/70791)
 
 
 ### Trustworthy research data archives
@@ -69,6 +77,7 @@ You are advised to choose a so-called [trustworthy archive](/pages/support_00_rd
 
 Data should be archived as open as possible and as closed as necessary, as is the guiding principle commonly referred to by research funders and others. This means that data archiving does not necessarily mean to make data openly available. When archiving data in a certified archive, the data is preserved for the future according to best practice. The issue of publishing data is a separate question. Remember: Make your data as open as possible, and as closed as necessary. See [Chapter 3](/pages/support_03_legal_ethics) of these guidelines for more on the issue of data that needs protection from public access. And this too is an important issue when selecting where to archive the data: If data need access control, which archive is well suited for this?
 
+
 ### Restricted access to research data
 Some data should not be made openly available, according to law regulations (including the General Data Protection Regulation (GDPR) and/or ethical considerations. These may be data with person identifying information, or data that are [sensitive for other reasons](/pages/support_03_legal_ethics#sensitive-data) including national security or intellectual property rights. It may still be important to ensure their long term preservation and regulate data access beyond the project period. In many cases data can be archived with restricted access, enabling access only to eligible actors.
 
@@ -78,6 +87,7 @@ Archives with restricted access in Norway:
 * [CLARINO](https://repo.clarino.uib.no/xmlui/) is Norway's part of the European CLARIN infrastructure network, which stands for Common Language Resources and Technology Infrastructure. CLARINO includes a platform where researchers can store, share, and access language data in standardized formats. This also includes access with restricted access, since language research easily includes person identifying data.
 
 [Data Use Ontology](https://www.ga4gh.org/product/data-use-ontology-duo/) is a service that may be useful for data that cannot be openly available. This service is especially developed for sensitive human data.
+
 
 ### Persistent identifiers
 When deciding where to archive the data, make sure you chose an archive where the dataset is assigned a persistent identifier (PID). Two commonly used PIDs are Digital Object Identifier (DOI) and handle. With a PID assigned, you are guaranteed that the dataset may be referred to with correct identifier for findability. The (not uncommon) problem of URLs that stop working for some reason is then avoided. Archives assigning DOIs is also a sign of quality, since there is minimum requirements to the metadata schema used in order to acquire a DOI.
@@ -177,4 +187,3 @@ Further reading:
 * [Turing way: Open source software](https://book.the-turing-way.org/reproducible-research/open/open-source)
 * [Turing way: Licensing](https://book.the-turing-way.org/reproducible-research/licensing.html)
 * [FAIRCookbook: Software Licensing](https://w3id.org/faircookbook/FCB033)
-* [FAIR Data Maturity Model - Specification and Guidelines](https://doi.org/10.15497/rda00050)
