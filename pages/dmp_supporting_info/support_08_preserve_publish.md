@@ -106,13 +106,16 @@ If certain datasets cannot be made available or only be made available under res
 
 
 ### Identify archive(s) for depositing datasets
-This question, and its sub-questions, will assist you in finding archive(s) suitable to deposit (publish) the data.
+This question, and its sub-questions, will assist you in finding [archive(s)](/pages/support_00_rdm_terms#data-archive) suitable to deposit (publish) the data.
 
 Where do you plan to archive the research data? Remember that this can also include project results, or background material that you not immediately are thinking of as 'data'. As archive choice often decides what metadata standards to be followed, it is advisable to investigate this question early in the project. When identifying alternative archives to use, have a look at the metadata schema they use, to see if it is suitable to describe the data.
 
-Timely archiving of datasets in [trustworthy repositories](/pages/support_08_preserve_publish#trustworthy-research-data-archives) is recommended. Depending on the study and the type of data, it may be appropriate to archive everything in one repository or archiving different parts in different repositories that will link to the related datasets. 
+Timely archiving of datasets in [trustworthy repositories](/pages/support_08_preserve_publish#trustworthy-research-data-archives) is recommended. Depending on the study and the type of data, it may be appropriate to archive everything in one repository or archiving different parts in different repositories that will link to the related datasets.
 
-Evaluate which archive(s) will be most relevant for the datasets, using the following the decision tree:
+#### What type of archive to use?
+If a suitable domain/discipline-specific archive exists, this is the best choice for facilitating data reuse, as data will be accompanied by [metadata](/pages/support_00_rdm_terms#metadata) meeting the needs of the respective discipline. Using an institutional repository, e.g. your local [DataverseNO](https://dataverse.no/) repository, is the next best choice. Using a general purpose archive, e.g. [Zenodo](https://zenodo.org/) operated by CERN, is appropriate in some cases, yet requiring more work to ensure good metadata quality.
+
+You can use the following **decision tree** to evaluate which archive(s) will be most relevant for your data:
 
     1) Does the dataset contain personal data or sensitive information?
     [If yes, investigate discipline-specific or generic archives with restricted access.]
@@ -127,7 +130,10 @@ Evaluate which archive(s) will be most relevant for the datasets, using the foll
 	
 [Re3data](https://www.re3data.org/) and [FAIRsharing](https://fairsharing.org/) are registries that may help you identify suitable repositories. For multipurpose repositories, see the [Generalist Repository Comparison Chart](https://doi.org/10.5281/zenodo.7946938).
 
-In some cases, it is important to contact the research data archive beforehand. If dataset submission needs to be clarified with the repository, this should be done well ahead of data deposition.
+*In some cases, it is important to contact the research data archive beforehand. If dataset submission needs to be clarified with the repository, this should be done well ahead of data deposition.*
+
+#### Is it clear which metadata standard(s) will be used?
+In many cases, deciding for an archive also implies which documentation needs to accompany the data and which [metadata standard](/pages/support_00_rdm_terms#metadata-standard) will be used. Most archives will provide this information in a guide for users/deponents. Making oneself familiar with the requirements early in the project will ensure that the required values are included in the [data documentation during the project](/pages/support_06_document).
 
 
 ### List data that you have deleted or will delete
