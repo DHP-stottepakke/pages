@@ -62,9 +62,9 @@ To use one of the above described templates:
 
 Advanced users can customize the questionnaire within the framework of the knowledge model, select questions by tags, and configure the document template and other settings. It is also possible to transfer ("migrate") answers between the questionnaire variants. Contact [support staff at your institution](/pages/support_00_local_disc) for help.
 
-Other available tags for additional customization or specific needs:
-* umbrella DMP: Selection of questions for umbrella DMPs
-* for internal use: maDMP, IT security, cross institutional project, Horizon Europe
+Further tags are present in the knowledge model for additional customization or specific needs:
+* umbrella DMP: Selection of questions for [umbrella DMPs](/pages/difficult_faq#a-research-centreresearch-consortium-needs-a-dmp), overarching DMPs for large consortia/research centres [not thoroughly tested, yet]
+* for internal use within this project/ the research institution: maDMP, IT security, cross institutional project, Horizon Europe
 
 
 ## Fill out the questionnaire
