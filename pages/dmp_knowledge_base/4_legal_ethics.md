@@ -582,4 +582,4 @@ How will you manage the rights of the data you use, produce and share? (2.2) Des
 **Tips for best practices**
 - Agreements on rights of use should be made as early as possible in the project life cycle.
 - Have you gained consent for data preservation and sharing? • Follow the funder's or publisher's policies.
-- It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a [Creative Commons](https://creativecommons.org/choose/), [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) or [MIT license](https://opensource.org/licenses/MIT), or under another relevant license.
+- It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a [Creative Commons](https://creativecommons.org/choose/), [GNU](https://opensource.org/license/GPL-3.0) or [MIT license](https://opensource.org/licenses/MIT), or under another relevant license.
