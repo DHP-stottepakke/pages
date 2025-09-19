@@ -304,7 +304,7 @@ Institutional resources on participant information and consent:
 * [UiO - Open sharing: Research data and personal information](https://www.uio.no/english/for-employees/support/research/research-data-management/topics/as-open-as-possible.html)
 
 Further information:
-* [GA4GH ethical toolkit](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/) with examples of granular consent and machine readable metadata (for human genetic data)
+* [GA4GH consent toolkit](https://www.ga4gh.org/product/consent-toolkit/) with examples of granular consent and machine readable metadata (for human genetic data)
 * [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico)
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/)
 * For Arts and humanities you can get inspiration for consent forms from the [DARIAH ELDAH Consent Form Wizard (CFW)](https://consent.dariah.eu/) - make sure to clarify the form with your insitutional legal person as well
