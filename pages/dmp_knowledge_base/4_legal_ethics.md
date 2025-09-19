@@ -56,7 +56,7 @@ According to GDPR there are two options for legal bases for processing of person
 
 Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://edpb.europa.eu/our-work-tools/our-documents/opinion-art-70/opinion-32019-concerning-questions-and-answers_en) of the European data protection board.
 
-If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes as part of both the informed and specific consent. It is advisable to use standard consent clauses, which can be reflected with machine readable metadata (See e.g. the [GA4GH ethical toolkit](https://www.ga4gh.org/genomic-data-toolkit/regulatory-ethics-toolkit/) as an example for human genetic data)
+If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes as part of both the informed and specific consent. It is advisable to use standard consent clauses, which can be reflected with machine readable metadata (See e.g. the [GA4GH consent toolkit](https://www.ga4gh.org/product/consent-toolkit/) as an example for human genetic data)
 
 > 4a.3
 > * Consider anonymisation of personal data for preservation and/or sharing (truly anonymous data are no longer considered personal data).
@@ -582,4 +582,4 @@ How will you manage the rights of the data you use, produce and share? (2.2) Des
 **Tips for best practices**
 - Agreements on rights of use should be made as early as possible in the project life cycle.
 - Have you gained consent for data preservation and sharing? • Follow the funder's or publisher's policies.
-- It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a [Creative Commons](https://creativecommons.org/choose/), [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html) or [MIT license](https://opensource.org/licenses/MIT), or under another relevant license.
+- It is recommended to make all of the research data, code and software created within a research project available for reuse, e.g., under a [Creative Commons](https://creativecommons.org/choose/), [GNU](https://opensource.org/license/GPL-3.0) or [MIT license](https://opensource.org/licenses/MIT), or under another relevant license.
