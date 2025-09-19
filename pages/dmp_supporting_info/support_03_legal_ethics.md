@@ -28,7 +28,7 @@ turing:
 - name: Ethical Research
   url: https://book.the-turing-way.org/ethical-research/ethical-research
 - name: Sensitive Data Projects
-  url: https://book.the-turing-way.org/project-design/sdpw
+  url: https://book.the-turing-way.org/project-design/data-security/sdp
 ---
 
 {% include callout.html type="tip" content="
@@ -199,7 +199,6 @@ Please indicate any additional ethical guidelines or codes of conducts relevant 
 * [Ethics Guidelines for Trustworthy AI](https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai "2024-04-22")
 * [Nagoya Protocol on Access to Genetic Resources and Benefit-Sharing](https://www.cbd.int/abs/default.shtml "2024-04-22")
 * [Medical and health research in low- and middle-income countries by The National Committee for Medical and Health Research Ethics (NEM)](https://www.forskningsetikk.no/en/guidelines/medical-and-health-research/medical-and-health-research-in-low--and-middle-income-countries/ "2024-07-17")
-* [Guidelines for the inclusion of adults with impaired or absent capacity to consent *Norwegian only*](https://www.forskningsetikk.no/globalassets/dokumenter/4-publikasjoner-som-pdf/redusert-samtykkekompetanse-i-helsefaglig-forskning-2005.pdf)
 * [Payment to participants in medical or health research *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/med-helse/betaling-til-deltakere-i-medisinsk-eller-helsefaglig-forskning/)
 * [Guidelines for the use of genetic studies of humans *Norwegian only*](https://www.forskningsetikk.no/retningslinjer/med-helse/retningslinjer-for-bruk-av-genetiske-undersokelser-av-mennesker-i-medisinsk-og-helsefaglig-forskning/)
 * [Ethical guidelines for clinical trial of drugs *Norwegian only*](https://www.forskningsetikk.no/ressurser/publikasjoner/kliniske-utprovinger-av-legemidler/)
