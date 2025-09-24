@@ -17,7 +17,7 @@ toc: true
 * [EIFL Digital Research Literacy Training Programme Outline for Librarians (2024): Writing a data management plan](https://eifl.net/programme/digital-research-literacy/writing-data-management-plan-dmp)
 * [FAIRsFAIR FAIR teaching handbook (2021): Lesson plan DMP](https://fairsfair.gitbook.io/fair-teaching-handbook/0lessonplans/2lessonplan)
 * [Data One: Data Management Planning Skillbuilding Hub (2020): Data Management Planning](https://dataoneorg.github.io/Education/lessons/03_planning/)
-* [CESSDA Train-the-trainers package (2020)](https://dmeg.cessda.eu/Archived/Training/Training-Resources/Library/Training-Packages/Train-the-Trainers) which is an addition to the Data management expert guide (DMEG)
+* [CESSDA Train-the-trainers package (2020)](https://www.cessda.eu/Training/Training-Resources/TTT) which is an addition to the Data management expert guide (DMEG)
 
 
 ## Useful RDM and FAIR resources
