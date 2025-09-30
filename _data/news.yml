@@ -4,5 +4,4 @@ description: "Building on the experiences of the project [Data Management Plans:
 1st of September 2025, [Sikt](https://sikt.no/) has started a one-year national FAIR Wizard pilot, giving further organisations the opportunity to gather experiences. Under this umbrella, UiB, UiO, UiT and NTNU will continue using the joint instance [norway.fair-wizard.com pilot](https://norway.fair-wizard.com/). A revised version of the Norwegian Knowledge Model will become available October 10th, together with software version 4.22.
 - name: Public launch
   date: 2024-11-25
-  linked_pr: 162
 description: "plan.research-data.no is now publicly launched. We welcome [contributions](https://plan.research-data.no/pages/contribute) to the community resources!"
