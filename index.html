@@ -196,9 +196,20 @@ layout: none
             </div>
         </section>
 		-->
-		
+      <section class="py-5">
+            <div class="container g-lg-5">
+                <div class="row">
+                    <div class="col-lg-6 pe-lg-4">
+                    {% include news.html caption=true title=true limit=3 %}
+                    </div>
+                    <div class="col-lg-6 mt-4 mt-lg-0 ps-lg-4">
+                    {% include events.html event_type="upcoming_event" title=true %}
+                    </div>
+                </div>
+            </div>
+        </section>	
 		<!-- contribute -->
-		<section class="py-5">
+	<section class="py-5">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-2 my-auto">

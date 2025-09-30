@@ -17,4 +17,8 @@ subitems:
       url: /styleguide  
     - title: Copyright Guidelines
       url: /copyright
+  - title: News
+    url: /news
+  - title: Events
+    url: /events
 

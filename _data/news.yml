@@ -1,0 +1,7 @@
+- name: National FAIR Wizard pilot
+  date: 2025-09-01
+  description: "Building from the expierence form the project (Data Management Plans: Support package for Norwegian higher education libraries.)[https://plan.research-data.no/pages/], (SIKT)[https://sikt.no/] has now started a national pilot to test the FAIR Wizard for all users in Norway. The University of Bergen, The Norwegian University of Science and Technology (NTNU), the University of Oslo, and UiT The Arctic University of Norway share a joint [instance](https://norway.fair-wizard.com)."
+- name: Public launch
+  date: 2024-11-25
+  linked_pr: 162
+  description: "research-data.no is now publicly launched, please leave your [comments](https://plan.research-data.no/pages/contribute)."
