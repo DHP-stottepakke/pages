@@ -109,8 +109,10 @@ Storage solution examples (non-exhaustive):
 * National storage infrastructures
 	* [Sigma2 services](https://www.sigma2.no/services-overview) such as NIRD
 	* [NELS](https://nels-docs.readthedocs.io/en/latest/) provided by ELIXIR Norway
-* HPC infrastructure
-	* E.g. [NREC](https://docs.nrec.no/intro.html) operated by UiB and UiO
+* Scientific computing infrastructure
+	* [NREC](https://docs.nrec.no/intro.html) operated by UiB and UiO
+	* [Openstack at NTNU](https://www.ntnu.no/wiki/spaces/skyhigh/pages/93261214/Openstack+at+NTNU)
+	* [High-Performance Computing (HPC) resources](https://www.sigma2.no/service/high-performance-computing) provided by Sigma2
 * Other cloud storage
 	* E.g. Google Drive, Dropbox
 * Online version control services
