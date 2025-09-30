@@ -1,7 +1,12 @@
 - name: National FAIR Wizard pilot
   date: 2025-09-01
-  description: "Building on the experiences of the project [Data Management Plans: Support package for Norwegian higher education libraries](https://plan.research-data.no/pages/), the Norwegian University of Science and Technology (NTNU), the University of Bergen, the University of Oslo and UiT The Arctic University of Norway started piloting the DMP tool FAIR Wizard in December 2024 (joint instance: [norway.fair-wizard.com pilot](https://norway.fair-wizard.com/)).\
-1st of September 2025, [Sikt](https://sikt.no/) has started a one-year national FAIR Wizard pilot, giving further organisations the opportunity to gather experiences. Under this umbrella, UiB, UiO, UiT and NTNU will continue using the joint instance [norway.fair-wizard.com pilot](https://norway.fair-wizard.com/). A revised version of the Norwegian Knowledge Model will become available October 10th, together with software version 4.22.
+  description: >
+    "Building on the experiences of the project [Data Management Plans: Support package for Norwegian higher education libraries](https://plan.research-data.no/pages/),
+    the Norwegian University of Science and Technology (NTNU), the University of Bergen, the University of Oslo and UiT The Arctic University of Norway started piloting the
+    DMP tool FAIR Wizard in December 2024 (joint instance: [norway.fair-wizard.com pilot](https://norway.fair-wizard.com/)). 1st of September 2025, [Sikt](https://sikt.no/)
+    has started a one-year national FAIR Wizard pilot, giving further organisations the opportunity to gather experiences. Under this umbrella, UiB, UiO, UiT and NTNU will
+    continue using the joint instance [norway.fair-wizard.com pilot](https://norway.fair-wizard.com/). A revised version of the Norwegian Knowledge Model will become
+    available October 10th, together with software version 4.22.
 - name: Public launch
   date: 2024-11-25
-description: "plan.research-data.no is now publicly launched. We welcome [contributions](https://plan.research-data.no/pages/contribute) to the community resources!"
+  description: "plan.research-data.no is now publicly launched. We welcome [contributions](https://plan.research-data.no/pages/contribute) to the community resources!"
