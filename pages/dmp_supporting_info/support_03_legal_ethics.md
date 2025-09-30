@@ -149,24 +149,6 @@ For help with contract-related questions contact legal advisors at your institut
 Further information:
 * [The Research Council of Norway: Collaboration agreements](https://www.forskningsradet.no/en/financing/received-funding/collaboration-agreements/)
 
-### Indicate relevant policies and guidelines for research data management or Open Science
-Specifying relevant guidelines, policies or processes will help you recognize research data management requirements and routines to be aware of.
-
-Identify relevant policies, guidelines or processes applicable to your project. If your research unit has defined own guidelines, these should be consulted and referred to here. In addition to selecting from a list of common policies, you can manually add additional data management policies or guidelines to be followed.
-
-You can select from the following list of common policies and guidelines:
-* Institution: [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
-* Institution: [UiB Policy for Open Science](https://www.uib.no/en/foremployees/142184/university-bergen-policy-open-science "2024-07-17")
-* Institution: [UiO Policies and guidelines for research data management](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html "2024-07-17")
-* Institution: [UiT Principles and guidelines for management for research data](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184 "2024-07-17")
-* Funder: [The Research Council of Norway Policy for Open Science](https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-07-17")
-* Funder: [The Research Council of Norway Policy for open access to research data](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/ "2024-07-17")
-* Funder: [Horizon Europe provisions on Open Science](https://rea.ec.europa.eu/open-science_en "2024-07-17")
-
-Further information:
-* [RDM resources in Norway (RDMkit): Institutional  policies on research data](https://rdmkit.elixir-europe.org/no_resources#institutional-policies-on-research-data)
-* [RDM resources in Norway (RDMkit): Funder policies on research data](https://rdmkit.elixir-europe.org/no_resources#funder-policies-on-research-data)
-
 ### Indicate applicable general research ethical guidelines
 All researches are to follow general research ethical guidelines and ethical considerations may affect how data will be handled and shared.
 
@@ -210,7 +192,7 @@ Further information:
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
 
 ### Does the project require ethical pre-approval?
-![Static Badge](https://img.shields.io/badge/DSW-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
+![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 If the project involves health research, use of human biological material, testing on animals or similar, a pre-approval is likely needed to execute the project. The approval case numbers should be referred to in the DMP.
 
 NB! Registrations of the legal basis of processing personal data are not the same as a research ethics assessment. This should therefore not be included here, but addressed in the next question.
@@ -219,7 +201,7 @@ Read more about [Ethical approvals.](/pages//support_03_legal_ethics#ethical-app
 
 
 ### Will any personal data be collected/processed?
-![Static Badge](https://img.shields.io/badge/DSW-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
+![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 <code> If personal data are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
 Personal data is any information that can be linked to living person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: Personopplysningsloven), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. The principle of data minimisation should be followed and the collection of personal information should be limited to what is directly relevant and necessary to accomplish a specified purpose.
@@ -313,7 +295,7 @@ Further information:
 
 
 ### Will sensitive information (apart from special category personal data) be collected/processed?
-![Static Badge](https://img.shields.io/badge/DSW-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
+![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 <code> If sensitive data (apart from special category personal data) are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
 The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary". There can be many reasons why data must be protected. Read more about [Sensitive data and legal backgrounds for handling data as sensitive.](/pages/support_03_legal_ethics#sensitive-data)

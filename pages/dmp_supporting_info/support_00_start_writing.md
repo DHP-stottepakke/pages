@@ -44,19 +44,19 @@ To accommodate different project needs, you have by default access to four diffe
 {% include image.html file="dsw_project.png" caption="Select project template" alt="Screenshot project template selection menu" %}
 
 For externally funded projects:
-* **Science Europe/RCN and ELSI** questionnaire is a comprehensive questionnaire for projects with external funding and/or external partners. Handling of sensitive data or personal data or requiring ethical pre-application can be addressed or marked as not relevant to the project. This questionnaire is in line with the Science Europe DMP guidance and thus meeting the requirements of research funders such as the Research Council of Norway or Horizon Europe.
-* **Science Europe/RCN and ELSI and HPC** is a variant with additional questions for computationally demanding projects.
+* **Science Europe/RCN and ELSI** questionnaire is a comprehensive questionnaire for projects with external funding and/or external partners. Handling of sensitive data or personal data or requiring ethical pre-application can be addressed or marked as not relevant to the project. This questionnaire is in line with the Science Europe DMP guidance and thus meeting the requirements of research funders such as the Research Council of Norway. ![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff)
+* **Science Europe/RCN and ELSI and HPC** is a variant with additional questions for computationally demanding projects. ![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) ![Static Badge](https://img.shields.io/badge/Wizard-HPC-%238e44adff)
 
 For less complex projects:
 * **Minimum** questionnaire covers a core set of questions adapted to less complex projects (e.g. student projects). This questionnaire is suited for projects without external funding or external project partners. For less complex projects that are handling sensitive data or personal data or requiring ethical pre-application, see below.
-* **Minimum and ELSI** combines the **Minimum** questionnaire with questions on handling sensitive data or personal data or requiring ethical pre-application.
+* **Minimum and ELSI** combines the **Minimum** questionnaire with questions on handling sensitive data or personal data or requiring ethical pre-application. ![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff)
 
 #### Advanced questionnaire setup 
 Instead of starting with one of the pre-defined project templates, it is also possible to configure them and additional options based on the underlying knowledge model. Follow the instructions below if you are using the [ELIXIR Norway DSW instance](https://elixir.no/services-2/data-stewardship-wizard).
 
 To use one of the above described templates:
 1. Start with *From knowledge model* and select **Norwegian DSW Knowledge Model**
-2. In the next step, select *Filter by question tags* and then combine the tags **RCN/ Science Europe** or **minimum** with **ELSI** (Ethical and legal aspects, ELSI = **E**thical, **L**egal and **S**ocial **I**mplications") and/ or **HPC** (for computationally demanding projects).
+2. In the next step, select *Filter by question tags* and then combine the tags **RCN/ Science Europe** or **minimum** with **ELSI** ( ![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) Ethical and legal aspects, ELSI = **E**thical, **L**egal and **S**ocial **I**mplications") and/ or **HPC** (![Static Badge](https://img.shields.io/badge/Wizard-HPC-%238e44adff) for computationally demanding projects).
 
 {% include image.html file="dsw_advanced.png" caption="View: Advanced setup" alt="Advanced setup allows to customize questionnaire based on question tags. Selected tags on the screenshot: Science Europe/RCN and ELSI." %}
 
