@@ -178,7 +178,7 @@ Common choices of licenses for research data:
 
 Note that the CC BY clause may unintentionally restrict reuse of data if someone wants to include large amounts of data from numerous datasets. In such a case referring correctly to all the authors may be an insurmountable challenge. If data is reused in other research projects, correct dataset citation corresponds to good scientific norms also if data is licensed CC0 or Public Domain Mark.
 
-For more information on Creative Commons licenses, see [https://creativecommons.org/](https://creativecommons.org/).
+Instead of selecting a common license, you can also select a specific license from the [SPDX License List](https://spdx.org/licenses/). For more information on Creative Commons licenses, see [https://creativecommons.org/](https://creativecommons.org/).
 
 
 ### If applicable: List research software/computational models/simulations you will be publishing
