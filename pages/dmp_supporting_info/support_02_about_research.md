@@ -39,17 +39,23 @@ Providing a project description puts the DMP in context and is thus useful infor
 A project description/abstract can be provided in two ways: By linking to existing information in an external source, e.g. a project description or abstract in a funder database (be sure that the link is to information openly available). Or you can enter textual project description manually (in text box).
 
 ### Did you or do you plan to apply for external project funding?
-You should list all funding that enables the project or that you applied for.
+You should list all funding that enables the project or that you applied for. 
 
-Add funder by clicking the +Add button. Start typing the funder name (in English or Norwegian) in the text box to see a list of suggestions based on the Crossref funder registry. In case the funder is not found in the Crossref funder registry, type the full name and click outside the text box, and the string will be saved.
+#### List project funding
+Use the 'Add' button for adding new funding. You will be able to select a funder from the ROR research funder registry. Select the funding status appropriate for the current time (Planned, Applied, Granted or Rejected) and update the information when the status changes. 
 
-#### Funding status
-Select the funding status appropriate for the current time (Planned, Applied, Granted or Rejected) and update the information when the status changes. 
-
-#### Grant number
+**Grant number and Link/reference to project in funder database**
 It will be important to provide the unique identificator for the grant while reporting your project results. If applicable, add a link to the project in the funders project database.
 
 * The Research Council of Norway usually assigns a 6-digit project number which is registered in [prosjektbanken](https://prosjektbanken.forskningsradet.no/)
 * The Norwegian Health Regions assign grant numbers through [ihelse - forskningsprosjekter](https://forskningsprosjekter.ihelse.net/)
 * EU projects are registered in the [CORDIS - EU research results](https://cordis.europa.eu/search) database
 * [Dimensions](https://www.dimensions.ai) is a commerical service collecting data from research project databases and CRIS systems, providing it e.g. to ORCID
+
+#### Which research data management requirements does the funder set?
+Specifying relevant policies or guidelines will help you recognize research data management requirements and routines to be aware of. Research funders commonly have policies or guidelines for data management, sometimes as part of Open Science guidelines (see the page on [RDM and DMP requirements](/pages/support_00_dmp_requirements#funder-policies-and-guidelines))
+
+Please use the 'Add' button for adding any new policy/ guideline and specify the respective url.
+
+Further information:
+* [RDM resources in Norway (RDMkit): Funder policies on research data](https://rdmkit.elixir-europe.org/no_resources#funder-policies-on-research-data)

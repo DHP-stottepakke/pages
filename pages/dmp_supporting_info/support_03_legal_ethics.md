@@ -149,24 +149,6 @@ For help with contract-related questions contact legal advisors at your institut
 Further information:
 * [The Research Council of Norway: Collaboration agreements](https://www.forskningsradet.no/en/financing/received-funding/collaboration-agreements/)
 
-### Indicate relevant policies and guidelines for research data management or Open Science
-Specifying relevant guidelines, policies or processes will help you recognize research data management requirements and routines to be aware of.
-
-Identify relevant policies, guidelines or processes applicable to your project. If your research unit has defined own guidelines, these should be consulted and referred to here. In addition to selecting from a list of common policies, you can manually add additional data management policies or guidelines to be followed.
-
-You can select from the following list of common policies and guidelines:
-* Institution: [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
-* Institution: [UiB Policy for Open Science](https://www.uib.no/en/foremployees/142184/university-bergen-policy-open-science "2024-07-17")
-* Institution: [UiO Policies and guidelines for research data management](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html "2024-07-17")
-* Institution: [UiT Principles and guidelines for management for research data](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184 "2024-07-17")
-* Funder: [The Research Council of Norway Policy for Open Science](https://www.forskningsradet.no/en/research-policy-strategy/open-science/policy/ "2024-07-17")
-* Funder: [The Research Council of Norway Policy for open access to research data](https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/ "2024-07-17")
-* Funder: [Horizon Europe provisions on Open Science](https://rea.ec.europa.eu/open-science_en "2024-07-17")
-
-Further information:
-* [RDM resources in Norway (RDMkit): Institutional  policies on research data](https://rdmkit.elixir-europe.org/no_resources#institutional-policies-on-research-data)
-* [RDM resources in Norway (RDMkit): Funder policies on research data](https://rdmkit.elixir-europe.org/no_resources#funder-policies-on-research-data)
-
 ### Indicate applicable general research ethical guidelines
 All researches are to follow general research ethical guidelines and ethical considerations may affect how data will be handled and shared.
 
@@ -210,7 +192,7 @@ Further information:
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
 
 ### Does the project require ethical pre-approval?
-![Static Badge](https://img.shields.io/badge/DSW-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
+![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 If the project involves health research, use of human biological material, testing on animals or similar, a pre-approval is likely needed to execute the project. The approval case numbers should be referred to in the DMP.
 
 NB! Registrations of the legal basis of processing personal data are not the same as a research ethics assessment. This should therefore not be included here, but addressed in the next question.
@@ -219,7 +201,7 @@ Read more about [Ethical approvals.](/pages//support_03_legal_ethics#ethical-app
 
 
 ### Will any personal data be collected/processed?
-![Static Badge](https://img.shields.io/badge/DSW-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
+![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 <code> If personal data are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
 Personal data is any information that can be linked to living person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: Personopplysningsloven), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. The principle of data minimisation should be followed and the collection of personal information should be limited to what is directly relevant and necessary to accomplish a specified purpose.
@@ -289,12 +271,12 @@ For medical and health research projects, the requirement for obtaining informed
 Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://edpb.europa.eu/our-work-tools/our-documents/opinion-art-70/opinion-32019-concerning-questions-and-answers_en) of the European data protection board.
 
 ##### Research project using 'public interest' as legal basis
-Applying public interest as legal basis for scientific research projects is advisable. For compliance with ethical guidelines, permission to archive the data for the purpose of future research, and possibly also educational purposes should be collected and documented.
+Scientific projects at public research institutions will often rely on publich interest as legal basis legal basis for the processing of personal data. For compliance with ethical guidelines, participant permission to archive the data for the purpose of future research, and possibly also educational purposes, should be collected and documented.
 
 ##### Research project using 'consent' as legal basis
 Consent is a possible legal basis for processing of personal data under GDPR. For processing of certain types of personal data, strict requirements apply and processing needs to be based on a condition in addition to the legal basis. Explicit consent is one such possible condition, which must be freely given, specific, informed and unambiguous (GDPR article 9, article 7, and recital 32).
 
-If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes as part of both the informed and specific consent. Consult the links below, to see if you can use standard consent clauses, which can be reflected with machine readable metadata.
+If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes, as part of both the informed and specific consent. Consult the links below, to see if you can use standard consent clauses, which can be reflected with machine readable metadata.
 
 Institutional resources on participant information and consent:
 * [NTNU - Samtykke for behandling av personopplysninger *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Samtykke+for+behandling+av+personopplysninger "2024-07-19")
@@ -302,18 +284,21 @@ Institutional resources on participant information and consent:
 * [UiB - Rutiner ved oppstart av forskningsprosjekter: informasjonsplikt og samtykke *Norwegian only*](https://www.uib.no/forskningsetikk/123944/forskningsrutiner?step=2#2-3-informasjonsplikt-og-samtykke-nbsp- "2024-07-19")
 * [UiO - Open sharing: Research data and personal information](https://www.uio.no/english/for-employees/support/research/research-data-management/topics/as-open-as-possible.html)
 
-Further information:
+Resources on participant information and consent forms:
 * [GA4GH consent toolkit](https://www.ga4gh.org/product/consent-toolkit/) with examples of granular consent and machine readable metadata (for human genetic data)
 * [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico)
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/)
 * For Arts and humanities you can get inspiration for consent forms from the [DARIAH ELDAH Consent Form Wizard (CFW)](https://consent.dariah.eu/) - make sure to clarify the form with your insitutional legal person as well
-* [National Research Ethics Committees: Consent](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
-* [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
 * [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
+
+Further information:
+* [National Research Ethics Committees: Consent](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
+* sikresiden.no e-learning course [Protection of privacy (GDPR) and ethics in research](https://www.sikresiden.no/en/preventive/safetyandsecuretraining "2025-10-06")
+* [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
 
 
 ### Will sensitive information (apart from special category personal data) be collected/processed?
-![Static Badge](https://img.shields.io/badge/DSW-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
+![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 <code> If sensitive data (apart from special category personal data) are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
 The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary". There can be many reasons why data must be protected. Read more about [Sensitive data and legal backgrounds for handling data as sensitive.](/pages/support_03_legal_ethics#sensitive-data)
@@ -334,7 +319,7 @@ Resources on export control:
 * [NTNU: Control of knowledge transfer](https://i.ntnu.no/wiki/-/wiki/English/Control+of+knowledge+transfer "2024-10-03")
 * [UiB: Responsible International Knowledge Cooperation](https://www.uib.no/en/udir/173813/responsible-international-knowledge-cooperation "2025-03-04")
 * [UiO: About responsible international cooperation](https://www.uio.no/english/for-employees/support/international-cooperation/about/ "2025-03-04")
-* [UiO: About responsible international cooperation](https://www.uio.no/english/for-employees/support/international-cooperation/about/ "2025-03-04")
+* sikresiden.no e-learning course [Research security in international cooperation](https://www.sikresiden.no/en/preventive/safetyandsecuretraining "2025-10-06")
 
 Institutional IPR policies:
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
@@ -350,3 +335,4 @@ Technology transfer and innovation contact points:
 
 Resources on Indigenous Data Governance:
 * [GIDA-Sápmi - Sámi Research Data Governance](https://uit.no/research/sshf-no/project?pid=788403 "2024-07-19")
+* National Research Ethics Committees topic page on indigenous communities and national minorities [Tema: Urfolk og nasjonale minoriteter *Norwegian only*](https://www.forskningsetikk.no/ressurser/tema-urfolk-og-nasjonale-minoriteter/ "2025-10-06"){:lang="no"}

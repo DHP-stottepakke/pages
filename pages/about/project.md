@@ -33,6 +33,7 @@ Project results were archived ahead of the public launch of the resources in Nov
 
 
 ## Project presentations
+* Collaboration as catalyst: Experiences with plan.research-data.no and the FAIR Wizard Norway pilot. Danish RDM Network Virtual Lunch Meeting 07.10.2025. Presentation. [https://doi.org/10.5281/zenodo.17285330](https://doi.org/10.5281/zenodo.17285330)
 * Skriv en datadhåndteringsplan: demo av plan.research-data.no. VIRAK 2025. Presentasjon. [https://doi.org/10.5281/zenodo.15535361](https://doi.org/10.5281/zenodo.15535361)
 * Støtte til planlegging av datahåndtering i forskningsbibliotek. 9. seminar for Bibliotekenes nettverk for ph.d.-støtte. Presentasjon.[https://doi.org/10.5281/zenodo.15350121](https://doi.org/10.5281/zenodo.15350121)
 * Co-creation of comprehensive Data Management Planning guidance in Norway. 19th International Digital Curation Conference (IDCC25). Poster. [https://doi.org/10.5281/zenodo.14767396](https://doi.org/10.5281/zenodo.14767396)
@@ -45,6 +46,3 @@ Project results were archived ahead of the public launch of the resources in Nov
 * Data Management Plans: Support package for Norwegian higher education libraries - feedback workshop 29.05.2024. Presentation. [https://doi.org/10.5281/zenodo.11359230](https://doi.org/10.5281/zenodo.11359230)
 * Hvordan kan planlegging av datahåndtering bli en integrert del av forskningsprosessen? - presentasjon av prosjektet ‘DHP støttepakke’. 8. seminar for Bibliotekenes nettverk for ph.d.-støtte. Presentasjon.
 * NO-RDA Research Data Insider 05.04.2024 - Data Management Plans: Support package for Norwegian higher education libraries. Presentation. [https://doi.org/10.5281/zenodo.10930053](https://doi.org/10.5281/zenodo.10930053)
-
-
-

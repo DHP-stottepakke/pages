@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: About the Data Management Plan
 search_exclude: false
-contributors: [Live Kvale]
+contributors: [Live Kvale, Jenny Ostrop]
 page_id: support_01_about_dmp
 description: Supporting DMP Information, administrative information, publish dmp, dmp publication, manage dmp, living document
 sidebar: dmp_supporting_information
@@ -54,21 +54,35 @@ Institutional email addresses as contact email are preferred.
 Affiliations are added at an institutional level and harvested from the [ROR registry of research organizations](https://ror.org/).
 
 Roles should be added to specify their contribution (following the [DataCite contributor type](https://datacite-metadata-schema.readthedocs.io/en/4.5/appendices/appendix-1/contributorType/ "2024-09-09") definitions). Examples of roles are: 
-* Contact Person 
-* Data Collector 
-* Data Manager  
-* Project Leader 
-* Project Manager 
-* Project Member 
-* Researcher 
-* Supervisor 
+* Contact Person
+* Project Leader
+* Supervisor
+* Data Collector
+* Data Curator
+* Data Manager/ Data Steward
+* Project Manager
+* Project Member
 * Work Package Leader
-* Related Person or Other can be used for others who contribute in more general terms.
+* Other (if none of the roles above fit, for contribution in more general terms)
 
 ### This DMP is related to other DMP(s) or formal document(s)
 If there are several data management plans within a project, this field is used to show relations. Create the "master DMP" first, and then individual sub-plans for the different parts of the project. For research centres or research consortia, often the term 'umbrella DMP' is used to describe overarching principles and routines.
 
 Also other formal documents with a relation to the DMP can be listed here, such as data collection plans for research cruises or expeditions, and Software Management Plans or other types of Output Management Plans.
+
+### Which institutional policies and guidelines for research data management or Open Science apply?
+Specifying relevant policies or guidelines will help you recognize research data management requirements and routines to be aware of. Research organisations commonly have policies or guidelines for data management, sometimes as part of Open Science guidelines (see the page on [RDM and DMP requirements](/pages/support_00_dmp_requirements#institutional-policies-and-guidelines)). If your research unit has defined own guidelines, these too should be consulted and referred to here.
+
+To many projects, additional data management and DMP guidelines by research funders will be relevant. If applicable for your project, rlevant guidelines can be specifified together with project funding information in the chapter [About the research project](/pages/support_02_about_research).
+
+Please use the 'Add' button for adding any new policy/ guideline. In addition to manually entering a url, you can select from the following list of common policies and guidelines:
+* [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
+* [UiB Policy for Open Science](https://www.uib.no/en/foremployees/142184/university-bergen-policy-open-science "2024-07-17")
+* [UiO Policies and guidelines for research data management](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html "2024-07-17")
+* [UiT Principles and guidelines for management for research data](https://en.uit.no/research/research-dataportal/art?p_document_id=729171#mod_729184 "2024-07-17")
+
+Further information:
+* [RDM resources in Norway (RDMkit): Institutional policies on research data](https://rdmkit.elixir-europe.org/no_resources#institutional-policies-on-research-data)
 
 ### Have your made plans for revisions of this DMP?
 For the data management plan to function as a project tool, the plan should be updated as the project evolves, and changes or issues occur. By planning for revisions and assigning responsibility for revisions you contribute to safeguarding the data collected or produced during the project.
