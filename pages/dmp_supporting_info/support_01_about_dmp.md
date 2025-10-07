@@ -3,7 +3,7 @@ layout: page
 <!--type: cheat_sheet-->
 title: About the Data Management Plan
 search_exclude: false
-contributors: [Live Kvale]
+contributors: [Live Kvale, Jenny Ostrop]
 page_id: support_01_about_dmp
 description: Supporting DMP Information, administrative information, publish dmp, dmp publication, manage dmp, living document
 sidebar: dmp_supporting_information
@@ -72,6 +72,8 @@ Also other formal documents with a relation to the DMP can be listed here, such 
 
 ### Which institutional policies and guidelines for research data management or Open Science apply?
 Specifying relevant policies or guidelines will help you recognize research data management requirements and routines to be aware of. Research organisations commonly have policies or guidelines for data management, sometimes as part of Open Science guidelines (see the page on [RDM and DMP requirements](/pages/support_00_dmp_requirements#institutional-policies-and-guidelines)). If your research unit has defined own guidelines, these too should be consulted and referred to here.
+
+To many projects, additional data management and DMP guidelines by research funders will be relevant. If applicable for your project, rlevant guidelines can be specifified together with project funding information in the chapter [About the research project](/pages/support_02_about_research).
 
 Please use the 'Add' button for adding any new policy/ guideline. In addition to manually entering a url, you can select from the following list of common policies and guidelines:
 * [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
