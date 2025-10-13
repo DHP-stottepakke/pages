@@ -5,7 +5,7 @@
     the Norwegian University of Science and Technology (NTNU), the University of Bergen, the University of Oslo and UiT The Arctic University of Norway started piloting the
     DMP tool FAIR Wizard in December 2024 (joint instance: [norway.fair-wizard.com](https://norway.fair-wizard.com/)).
     1st of September 2025, [Sikt](https://sikt.no/) has started a one-year national FAIR Wizard pilot, giving further organisations the opportunity to gather experiences. Under this umbrella, UiB, UiO, UiT and NTNU will continue using the joint pilot instance. Users will not experience any changes. A revised version of the Norwegian Knowledge Model will become
-    available October 10th, together with software version 4.22.
+    available shortly after the release of software version 4.22.0 October 10th, 2025. It is planned to make the Knowledge Model available through the common FAIR Wizard registry.
 - name: Public launch
   date: 2024-11-25
   description: "plan.research-data.no is now publicly launched. We welcome [contributions](https://plan.research-data.no/pages/contribute) to the community resources!"
