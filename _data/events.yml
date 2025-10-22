@@ -1,6 +1,25 @@
-- name: Public launch
+- name: VIRAK 2025
+  startDate: 2025-06-04
+  endDate: 2025-06-05
+  description: "[Presentasjon 'Skriv en datadhåndteringsplan: demo av plan.research-data.no'](https://doi.org/10.5281/zenodo.15535361) på VIRAK konferansen 2025."
+  location: Drammen, Norway
+- name: BNPS 2025
+  startDate: 2025-04-24
+  endDate: 2025-04-25
+  description: "[Presentasjon 'Støtte til planlegging av datahåndtering i forskningsbibliotek'](https://doi.org/10.5281/zenodo.15350121) på 9. seminar for Bibliotekenes nettverk for ph.d.-støtte."
+  location: Bergen, Norway
+- name: IDCC25
+  startDate: 2025-02-17
+  endDate: 2025-02-19
+  description: "[Poster 'Co-creation of comprehensive Data Management Planning guidance in Norway'](https://doi.org/10.5281/zenodo.14767396) presented at 19th International Digital Curation Conference (IDCC25)."
+  location: Den Haag, Netherlands
+- name: "Love Data Week: Write a DMP with FAIR Wizard Norway"
+  startDate: 2025-02-13
+  endDate: 2025-02-13
+  description: "Online workshop introducing the FAIR Wizard Norway pilot: [Presentation](https://doi.org/10.5281/zenodo.14864102)"
+  location: online
+- name: "Munin Conference 2024: Public launch"
   startDate: 2024-11-26
   endDate: 2024-11-28
-  description: Public launch of plan.research-data.no at the 19th Munin Conference on Scholarly Publishing.
+  description: "Public launch of plan.research-data.no at the 19th Munin Conference on Scholarly Publishing: [Poster](https://septentrio.uit.no/index.php/SCS/article/view/7791) and [Workshop](https://doi.org/10.5281/zenodo.14228644)"
   location: Tromsø, Norway
-
