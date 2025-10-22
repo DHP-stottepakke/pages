@@ -42,7 +42,21 @@ A project description/abstract can be provided in two ways: By linking to existi
 You should list all funding that enables the project or that you applied for. 
 
 #### List project funding
-Use the 'Add' button for adding new funding. You will be able to select a funder from the ROR research funder registry. Select the funding status appropriate for the current time (Planned, Applied, Granted or Rejected) and update the information when the status changes. 
+Use the 'Add' button for adding new funding. You will be able to select a funder from the ROR research funder registry. Select the funding status appropriate for the current time (Planned, Applied, Granted or Rejected) and update the information when the status changes.
+
+Examples of common funders as registered in ROR:
+* The Research Council of Norway (id: [00epmv149](https://ror.org/00epmv149))
+* Norwegian Regional Health Authorities
+	* Southern and Eastern Norway Regional Health Authority (Helse Sør-Øst, id: [02qx2s478](https://ror.org/02qx2s478)))
+	* Western Norway Regional Health Authority (Helse Vest, id: [001212e83](https://ror.org/001212e83))
+	* Central Norway Regional Health Authority (Helse Midt, id: [04t838f48](https://ror.org/04t838f48))
+	* Northern Norway Regional Health Authority (Helse Nord, id: [05f6c0c45](https://ror.org/05f6c0c45))
+* Norwegian foundations
+	* Norwegian Cancer Society (id: [01925vb10](https://ror.org/01925vb10))
+	* Stiftelsen Dam (id: [02esmmc86](https://ror.org/02esmmc86))
+* European Commission (id: [00k4n6c32](https://ror.org/00k4n6c32))
+	* European Research Council (id: [0472cxd90](https://ror.org/0472cxd90))
+	* European Innovation Council (id: [05cx8cy07](https://ror.org/05cx8cy07)
 
 **Grant number and Link/reference to project in funder database**
 It will be important to provide the unique identificator for the grant while reporting your project results. If applicable, add a link to the project in the funders project database.
