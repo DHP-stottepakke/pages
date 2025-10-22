@@ -40,6 +40,11 @@ The resource originates from the project [Data management plans: support package
 
 [Bibliotekutvikling - Prosjektbank: Datahåndteringsplaner: støttepakke for norske UH-bibliotek](https://bibliotekutvikling.no/prosjektbank/prosjekt/datahandteringsplaner-stottepakke-for-norske-uh-bibliotek/)
 
+[NFR FORSKNINGSINFRA - Prosjektbanken: ELIXIR4-OpenLifeScience - Enabling Open Life Science in Norway](https://prosjektbanken.forskningsradet.no/project/FORISS/350529)
+
+[NFR FORSKNINGSINFRA - Prosjektbanken: ELIXIR3 - Strengthening the Norwegian Node of ELIXIR](https://prosjektbanken.forskningsradet.no/project/FORISS/350529)
+
+
 Project results were archived ahead of the public launch of the resources in November 2024, documenting the conclusion of the active project period.
 * Text resources: [https://doi.org/10.5281/zenodo.14218847](https://doi.org/10.5281/zenodo.14218847)
 * DMP questionnaires (DSW Knowledge Model): [https://doi.org/10.5281/zenodo.14210839](https://doi.org/10.5281/zenodo.14210839)
