@@ -12,7 +12,7 @@ This contribution guide is adapted from the [RDMKit knowledge contribution guide
 
 **plan.research-data.no** is an open resource maintained by the University libraries at UiB, NTNU, UiO, UiT, ELIXIR Norway and PhD-on-Track. Everyone is welcome to contribute to this community project or suggest improvements!
 
-This project is only possible with the many [contributors](/pages/contributors). RDMkit is an open project where everyone can contribute to the site.
+This project is only possible with the many [contributors](/pages/contributors). **plan.research-data.no** is an open project where everyone can contribute to the site.
 
 If you wish to contribute, please remember the following: 
 
