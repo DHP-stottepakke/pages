@@ -1,7 +1,7 @@
 - name: Norwegian DSW Knowledge Model v1.1.0
   date: 2025-10-22
   description: >
-    A [revised version 1.1.0](https://doi.org/10.5281/zenodo.17414282) of the Norwegian DSW Knowledge Model which is underlying the FAIR Wizard Norway [DMP questionnaires](/pages/support_00_start_writing) has been released. The new version is incorporating feedback from the first 6 month of piloting and some technical improvements. All DMP templates have been updated and users will see an 'Update available' button next to their projects. This enables a dialogue where the changes either can be reviewed per question or all changes accepted. For any question, please contact your [local support staff](/pages/support_00_local_disc#institutional-rdm-support-alphabetical-order).
+    A [revised version 1.1.0](https://doi.org/10.5281/zenodo.17414282) of the Norwegian DSW Knowledge Model which is underlying the FAIR Wizard Norway [DMP questionnaires](/pages/support_00_start_writing) has been released. The new version is incorporating feedback from the first 6 month of piloting and some technical improvements. All DMP templates have been updated and users will see an 'Update available' button next to their projects. This enables a dialogue where the changes either can be reviewed per question or all changes accepted. For a step-by-step guide, see the [FAIR Wizard user guide: Project Migration](https://guide.fair-wizard.com/en/production/applications/data-management-planner/projects/list/migration.html#creating-a-project-migration). For any question, please contact your [local support staff](/pages/support_00_local_disc#institutional-rdm-support-alphabetical-order).
 - name: National FAIR Wizard pilot
   date: 2025-09-01
   description: >
