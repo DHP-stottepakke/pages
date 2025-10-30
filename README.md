@@ -24,7 +24,7 @@ This work is licensed under a
 
 To cite research-data.no, please use the following format:
 
->Datahåndteringsplaner: støttepakke for norske UH-bibliotek. URL: https://github.com/DHP-stottepakke
+>plan.research-data.no. DMP Support Package for Norwegian Higher Education Libraries. URL: https://plan.research-data.no
 
 
 We use the [ELIXIR Toolkit Theme](https://github.com/ELIXIR-Belgium/elixir-toolkit-theme) developed by [ELIXIR Belgium](https://github.com/ELIXIR-Belgium) licensed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
