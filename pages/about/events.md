@@ -1,5 +1,6 @@
 ---
 title: Events
+sidebar: about
 github: 
     file_path: _data/events.yml
 ---
