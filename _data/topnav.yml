@@ -1,9 +1,11 @@
 subitems:
   - title: Main
     url: /index
+  - title: DMP Wizard
+    url: /dmp_wizard
   - title: DMP Supporting Information
     url: /dmp_supporting_info
-  - title: Background knowledge
+  - title: Background Knowledge
     url: /dmp_knowledge_base
   - title: About
     url: /about

@@ -39,19 +39,28 @@ Data processing and analysis is a central element in the research process and pa
 
 ### Do you need a shared space with your collaborators to work on data analysis?
 It might be worth to consider to have a shared work environment with collaborators to avoid the duplication of data, reduce data transfer issues and provide the same software to all project participants. If you are working with large datasets, bandwidth to compute infrastructure or data sources might become an issue. Also consider how critical the access to the workspace is for your project or whether you can tolerate data loss and downtime. It is often best to rely on professionals to operate the infrastructure, also to avoid straining project resources my infrastructure maintenance. Also consider how data is entering and leaving the environment. Sometimes the provisioning of the environment will require active application or will take time.
-For the workspace you should follow similar [considerations as for storage is aspects of security](/pages/support_04_store_protect).
+
+As work spaces usually will include some form of data storage, please add the work space to the [list of used storage solutions](/pages/support_04_store_protect#where-will-you-store-data-and-documents), including considerations on the aspects of information security. Then, you can add specific information on work spaces in this question.
 
 Shared workspace examples (non-exhaustive):
-* [NIRD](https://www.sigma2.no/service/nird-service-platform) provided by Sigma2
-* [NeLS](https://nels.bioinfo.no/) provided by ELIXIR-NO
+* [High-Performance Computing (HPC) resources](https://www.sigma2.no/service/high-performance-computing) provided by Sigma2
+* [NIRD Service Platform](https://www.sigma2.no/service/nird-service-platform) provided by Sigma2
+* [NeLS - Norwegian e-infrastructure for Life Science](https://nels.bioinfo.no/) provided by ELIXIR-NO
 * [educloud](https://research.educloud.no/) provided by UiO
-* [TSD](https://www.uio.no/tjenester/it/forskning/sensitiv/) provided by UiO
-* [HUNT Cloud](https://about.hdc.ntnu.no/) provided by NTNU
-* [SAFE](https://www.uib.no/en/foremployees/131011/safe) provided by UiB
+* [NREC](https://docs.nrec.no/intro.html) operated by UiB and UiO
+* [Openstack at NTNU](https://www.ntnu.no/wiki/spaces/skyhigh/pages/93261214/Openstack+at+NTNU)
+* [TSD (sensitive data)](https://www.uio.no/tjenester/it/forskning/sensitiv/) provided by UiO
+* [HUNT Cloud (sensitive data)](https://about.hdc.ntnu.no/) provided by NTNU
+* [SAFE (sensitive data)](https://www.uib.no/en/foremployees/131011/safe) provided by UiB
 
+#### Requirements for using the work space
+Some resources may require you to apply for using the work space. Make sure to investigate requirements, and if applicable application deadlines, and the expected time frame to receive an answer.
+
+Sigma2 issues calls for proposal twice a year. There is also a procedure to apply outside the regular call periods.
+* [Applying for Sigma2 e-infrastructure resources, e.g. NIRD](https://www.sigma2.no/apply-e-infrastructure-resources)
 
 ### Do you need to plan compute solutions and capacity?
-![Static Badge](https://img.shields.io/badge/DSW-HPC-%238e44adff) *Specific to data/compute heavy projects*\
+![Static Badge](https://img.shields.io/badge/Wizard-HPC-%238e44adff) *Specific to data/compute heavy projects*\
 If you require a large amount of CPU hours, I/O bandwidth or memory it is best to try estimating this in advance and to choose a computing infrastructure upfront. The infrastructure might have restrictions, require application and/or payment, and might only be able to run certain software or workflow systems.
 
 If you will use federated computing in you project this should be considered early on.
@@ -127,7 +136,7 @@ Further reading:
 
 
 ### Does your computational approach require validation of results?
-![Static Badge](https://img.shields.io/badge/DSW-HPC-%238e44adff) *Specific to data/compute heavy projects*\
+![Static Badge](https://img.shields.io/badge/Wizard-HPC-%238e44adff) *Specific to data/compute heavy projects*\
 In some cases the results of computational steps cannot be considered to be deterministic, for instance due to randomness in the calculation, human inputs and possible errors or differences in the execution across infrastructures. To reduce false findings, the computational steps should be validated in these cases.
 
 There are surprisingly many complications that can cause (slight) inconsistencies between results when workflows are run on different compute infrastructures. A good way to make sure this does not occur is to run a subset of all jobs on all different infrastructure to check the consistency.

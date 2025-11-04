@@ -1,5 +1,6 @@
 ---
 title: News
+sidebar: about
 github: 
     file_path: _data/news.yml
 ---

@@ -1,7 +1,20 @@
+- name: Norwegian DSW Knowledge Model v1.1.0
+  date: 2025-10-22
+  description: >
+    A [revised version 1.1.0](https://doi.org/10.5281/zenodo.17414282) of the Norwegian DSW Knowledge Model which is underlying the FAIR Wizard Norway [DMP questionnaires](/pages/support_00_start_writing) has been released. The new version is incorporating feedback from the first 6 month of piloting and some technical improvements. All DMP templates have been updated and users will see an 'Update available' button next to their projects. This enables a dialogue where the changes either can be reviewed per question or all changes accepted. For a step-by-step guide, see the [FAIR Wizard user guide: Project Migration](https://guide.fair-wizard.com/en/production/applications/data-management-planner/projects/list/migration.html#creating-a-project-migration). For any question, please contact your [local support staff](/pages/support_00_local_disc#institutional-rdm-support-alphabetical-order).
 - name: National FAIR Wizard pilot
   date: 2025-09-01
-  description: "Building from the expierence form the project (Data Management Plans: Support package for Norwegian higher education libraries.)[https://plan.research-data.no/pages/], (SIKT)[https://sikt.no/] has now started a national pilot to test the FAIR Wizard for all users in Norway. The University of Bergen, The Norwegian University of Science and Technology (NTNU), the University of Oslo, and UiT The Arctic University of Norway share a joint [instance](https://norway.fair-wizard.com)."
+  description: >
+    Building on the experiences of the project [Data Management Plans: Support package for Norwegian higher education libraries](/pages/project),
+    the Norwegian University of Science and Technology (NTNU), the University of Bergen, the University of Oslo and UiT The Arctic University of Norway started piloting the
+    DMP tool FAIR Wizard in December 2024 (joint instance: [norway.fair-wizard.com](https://norway.fair-wizard.com/)).
+    1st of September 2025, [Sikt](https://sikt.no/) has started a one-year national FAIR Wizard pilot, giving further organisations the opportunity to gather experiences. Under this umbrella, UiB, UiO, UiT and NTNU will continue using the joint pilot instance. Users will not experience any changes. A revised version of the Norwegian Knowledge Model will become
+    available shortly after the release of software version 4.22.0 October 10th, 2025. It is planned to make the Knowledge Model available through the common FAIR Wizard registry.
+- name: FAIR Wizard Norway pilot extended
+  date: 2025-04-01
+  description: >
+    In December 2024, the Norwegian University of Science and Technology (NTNU), the University of Bergen, the University of Oslo and UiT The Arctic University of Norway started piloting the DMP tool [FAIR Wizard Norway](https://norway.fair-wizard.com/), coordinated by NTNU. This agreement has now been extended until 01.09.2025, including an increase from 200 to 500 seats.
 - name: Public launch
   date: 2024-11-25
-  linked_pr: 162
-  description: "research-data.no is now publicly launched, please leave your [comments](https://plan.research-data.no/pages/contribute)."
+  description: >
+    plan.research-data.no is now publicly launched. We welcome [contributions](/pages/contribute) to the community resources!
