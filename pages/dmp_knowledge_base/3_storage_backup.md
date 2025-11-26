@@ -251,9 +251,10 @@ Missing:
 
 #### [NTNU - DMP Guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
 Note that all data should be classified in order to choose the correct level of security and confidentiality. See Innsida for more information on how to classify research data. Also see [Sikresiden.no](https://www.sikresiden.no/en/preventive/securinginformation) for more information about information security.
+
 **Relevant documents:**
-[NTNU Policy for information security](https://i.ntnu.no/wiki/-/wiki/English/Policy+for+information+security) 
-[NTNU Storage Guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
+- [NTNU Policy for information security](https://i.ntnu.no/wiki/-/wiki/English/Policy+for+information+security) 
+- [NTNU Storage Guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
 
 #### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 Does your data include sensitive data? (If yes, also answer the questions below.) 
@@ -270,7 +271,8 @@ If your project uses sensitive data, describe how you will take care of data pro
 Refer to the information security guidelines and policies in your university/organization and define what implications they have. What information classification level does the data material have and what security measures are needed to protect the material? Who should have access to the project data during the project and how do you plan to protect the data from unauthorised access?
 
 **Why is this important?**
-Access to the data material must be restricted so that authorised people can access it, but it is protected from unauthorised access. Secure work and storage environments can include access restriction (e.g. passwords), encryption, and virus and access protection. You may need to contact your organization’s IT security office to make sure that you have addressed all questions regarding information security before the data collection begins.]
+
+Access to the data material must be restricted so that authorised people can access it, but it is protected from unauthorised access. Secure work and storage environments can include access restriction (e.g. passwords), encryption, and virus and access protection. You may need to contact your organization’s IT security office to make sure that you have addressed all questions regarding information security before the data collection begins.
 
 #### [DMP Tuuli](https://zenodo.org/doi/10.5281/zenodo.3629371) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 What legal issues are related to your data management? (For example, GDPR and other legislation affecting data processing).
