@@ -82,7 +82,7 @@ Some disciplinary vocabularies/ontologies/terminologies examples:
 	* [Gene Ontology](https://fairsharing.org/10.25504/FAIRsharing.6xq0ee) for annotation of genes, gene products and sequences
 * Biomedical science
 	* [Medical Subject Headings (MeSH)](https://fairsharing.org/10.25504/FAIRsharing.qnkw45) are used for indexing, cataloging, and searching for biomedical and health-related information and documents
-	* [Human Phenotype Ontology](https://fairsharing.org/10.25504/FAIRsharing.kbtt7f) to describe phenotypic features encountered in human hereditary and other disease
+	* [Human Phenotype Ontology](https://doi.org/10.25504/FAIRsharing.kbtt7f) to describe phenotypic features encountered in human hereditary and other diseases
 * Geography
 	* [Marine Regions](https://fairsharing.org/10.25504/FAIRsharing.5164e7)aims to to create a standard, relational list of geographic names, coupled with information and maps of the geographic location of these features
 * Social sciences
