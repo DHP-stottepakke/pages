@@ -67,7 +67,7 @@ Further reading:
 
 
 ### Will you use existing vocabularies/ontologies/terminologies to describe the data?
-Using defined terms ensures that your data is described consistently, reducing ambiguity and enabling interoperability across systems and disciplines. Controlled vocabularies provide standardized terms, while ontologies add structure by defining hierachies and relationships between concepts. Please consider which controlled vocabularies, ontologies or terminologies have relevance within your field of research and can be applied to heighten precision when describing the research data.
+Using defined terms ensures that your data is described consistently, reducing ambiguity and enabling interoperability across systems and disciplines. Controlled vocabularies provide standardised terms, while ontologies add structure by defining hierarchies and relationships between concepts. Please consider which controlled vocabularies, ontologies, or terminologies have relevance within your field of research and can be applied to heighten precision when describing the research data.
 
 Vocabularies/ontologies/terminologies can be imported from the [FAIRsharing registry of standards](https://fairsharing.org/search?fairsharingRegistry=Standard&recordType=terminology_artefact).
 
