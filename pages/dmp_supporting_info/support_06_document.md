@@ -86,7 +86,7 @@ Some disciplinary vocabularies/ontologies/terminologies examples:
 * Geography
 	* [Marine Regions](https://doi.org/10.25504/FAIRsharing.5164e7) aims to to create a standard, relational list of geographic names, coupled with information and maps of the geographic location of these features
 * Social sciences
-	* [European Language Social Science Thesaurus (ELSST)](https://fairsharing.org/FAIRsharing.acd824)
+	* [European Language Social Science Thesaurus (ELSST)](https://doi.org/10.25504/FAIRsharing.acd824)
 
 Further reading:
 * [RDMkit: How do you find appropriate vocabularies or ontologies?](https://rdmkit.elixir-europe.org/metadata_management#how-do-you-find-appropriate-vocabularies-or-ontologies)
