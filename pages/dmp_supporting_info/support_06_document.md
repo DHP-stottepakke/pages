@@ -48,7 +48,7 @@ _Supplementary info: Almost all computer systems will provide some system metada
 ### Do suitable metadata standards exist for the data?
 A metadata standard/schema is a predefined set of attributes to describe data in a clear and consistent way. Metadata standards/schemas can be generic or discipline-specific, and research communities have worked together to define what kind of metadata is needed when research of a certain kind is performed and described. Metadata standards/schemas are structured and machine-readable. Complete metadata helps to organise data during the project, and is necessary for data archiving.
 
-Most research data repositories will implement specific standards and the use of a particular archive will often lead to the use of a particular metadata standard. Therefore it is useful to investigate suitable data repositories and respective metadata standards early in the research process.\
+Most research data repositories implement specific standards, and the use of a particular archive often leads to the use of a particular metadata standard.  It is therefore useful to investigate suitable data repositories and respective metadata standards early in the research process to make sure relevant metadata is collected when it first becomes available.\
 "Minimal Information Standards" can be imported from the [FAIRsharing registry of standards](https://fairsharing.org/search?fairsharingRegistry=Standard).
 
 Some examples of metadata standards:
