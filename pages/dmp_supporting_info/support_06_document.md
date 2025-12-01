@@ -53,7 +53,7 @@ Most research data repositories implement specific standards, and the use of a p
 
 Some examples of metadata standards:
 * DataverseNO institutional archives
-	* The metadata standard in [DataverseNO](https://site.uit.no/dataverseno/deposit/deposit-your-data/#enter-metadata) combines generic and discipline-specific elements. The User guide provides detailed guidance.
+	* The metadata standard in [DataverseNO](https://site.uit.no/dataverseno/deposit/deposit-your-data/#enter-metadata) combines generic and discipline-specific elements. The user guide provides detailed guidance.
 * Life sciences
 	* [The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/checklists) requires that all samples must conform to a defined checklist of expected metadata values, and provides checklists for different types of samples. The ELIXIR Norway helpdesk may assist with data archiving.
 * Language sciences
