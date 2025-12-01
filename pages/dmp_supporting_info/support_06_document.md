@@ -79,7 +79,7 @@ For some disciplines, look-up services can help identify relevant vocabularies/o
 Some disciplinary vocabularies/ontologies/terminologies examples:
 * Life sciences
 	* [Darwin Core](https://doi.org/10.25504/FAIRsharing.xvf5y3) to describe information about biological diversity
-	* [Gene Ontology](https://fairsharing.org/10.25504/FAIRsharing.6xq0ee) for annotation of genes, gene products and sequences
+	* [Gene Ontology](https://doi.org/10.25504/FAIRsharing.6xq0ee) for annotation of genes, gene products and sequences
 * Biomedical science
 	* [Medical Subject Headings (MeSH)](https://fairsharing.org/10.25504/FAIRsharing.qnkw45) are used for indexing, cataloging, and searching for biomedical and health-related information and documents
 	* [Human Phenotype Ontology](https://doi.org/10.25504/FAIRsharing.kbtt7f) to describe phenotypic features encountered in human hereditary and other diseases
