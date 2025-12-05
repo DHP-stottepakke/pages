@@ -57,7 +57,8 @@ Some examples of metadata standards:
 * Life sciences
 	* [The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/checklists) requires that all samples must conform to a defined checklist of expected metadata values, and provides checklists for different types of samples. The ELIXIR Norway helpdesk may assist with data archiving.
 * Language sciences
-	* [Clarino](https://repo.clarino.uib.no/xmlui/page/item-lifecycle) requires that [CMDI metadata](https://www.clarin.eu/content/cmdi-component-metadata-infrastructure) are provided. The repository may assist in producing the CMDI metadata.
+	* [Clarino](https://clarin.w.uib.no/) requires that [CMDI metadata](https://www.clarin.eu/content/cmdi-component-metadata-infrastructure) are provided. The repository may assist in producing the [CMDI metadata](https://repo.clarino.uib.no/xmlui/page/item-lifecycle).
+	* [TROLLing](https://site.uit.no/trolling/) is part of DataverseNO, with similar metadata requirements, described in the [deposit guidelines](https://site.uit.no/trolling/getting-started/how-to-archive/).
 
 _Supplementary info: When unsure about relevant metadata standards within your field, the Dublin Core standard defines a minimum set of values and is embedded in many more comprehensive standards._
 
