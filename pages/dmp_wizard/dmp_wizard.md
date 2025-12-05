@@ -21,17 +21,17 @@ If you wish your instance to be listed on this page, please [take contact](/page
 
 ## Users from NTNU, UiB, UiO, UiT
 * Shared FAIR Wizard instance: [*norway.fair-wizard.com*](https://norway.fair-wizard.com/)
-	* This instance is part of the Sikt National FAIR Wizard pilot
+	* This instance is part of the [Sikt National FAIR Wizard pilot](https://sikt.no/tiltak/nasjonal-pilot-utproving-av-nytt-verktoy-datahandteringsplanlegging-fairwizard "2025-12-05")
 	* Follow the [Default setup](/support_00_start_writing#start-with-a-new-dmp) described in the [User Guide](/support_00_start_writing)
 	* <code> NB! All direct links on this page are linking to this instance.
 
 ## Users from UiA, UiS, OsloMet, INN, Nord
 * Shared FAIR Wizard instance: [*siktnorway-uh.fair-wizard.com/*](https://siktnorway-uh.fair-wizard.com/)
-	* This instance is part of the Sikt National FAIR Wizard pilot
+	* This instance is part of the [Sikt National FAIR Wizard pilot](https://sikt.no/tiltak/nasjonal-pilot-utproving-av-nytt-verktoy-datahandteringsplanlegging-fairwizard "2025-12-05")
 	
 ## Users from NORCE, NGI, NIBIO
 * Shared FAIR Wizard instance: [*siktnorway-ri.fair-wizard.com/*](https://siktnorway-ri.fair-wizard.com/)
-	* This instance is part of the Sikt National FAIR Wizard pilot
+	* This instance is part of the [Sikt National FAIR Wizard pilot](https://sikt.no/tiltak/nasjonal-pilot-utproving-av-nytt-verktoy-datahandteringsplanlegging-fairwizard "2025-12-05")
 
 ## Users from Sintef
 * FAIR Wizard instance: [*sintef.fair-wizard.com*](https://sintef.fair-wizard.com/)
