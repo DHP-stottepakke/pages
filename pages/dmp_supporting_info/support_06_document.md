@@ -55,7 +55,7 @@ Some examples of metadata standards:
 * DataverseNO institutional archives
 	* The metadata standard in [DataverseNO](https://site.uit.no/dataverseno/deposit/deposit-your-data/#enter-metadata) combines generic and discipline-specific elements. The user guide provides detailed guidance.
 * Life sciences
-	* [The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/checklists) requires that all samples must conform to a defined checklist of expected metadata values, and provides checklists for different types of samples. The ELIXIR Norway helpdesk may assist with data archiving.
+	* [The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/) requires that all samples must conform to a defined checklist of expected metadata values, and provides [checklists](https://www.ebi.ac.uk/ena/browser/checklists) for different types of samples. The [ELIXIR Norway helpdesk](/pages/support_00_local_disc#elixir-norway---life-sciences) may assist with data archiving.
 * Language sciences
 	* [Clarino](https://clarin.w.uib.no/) requires that [CMDI metadata](https://www.clarin.eu/content/cmdi-component-metadata-infrastructure) are provided. The repository may assist in producing the [CMDI metadata](https://repo.clarino.uib.no/xmlui/page/item-lifecycle).
 	* [TROLLing](https://site.uit.no/trolling/) is part of DataverseNO, with similar metadata requirements, described in the [deposit guidelines](https://site.uit.no/trolling/getting-started/how-to-archive/).
