@@ -70,7 +70,7 @@ Further reading:
 ### Will you use existing vocabularies/ontologies/terminologies to describe the data?
 Using defined terms ensures that your data is described consistently, reducing ambiguity and enabling interoperability across systems and disciplines. Controlled vocabularies provide standardised terms, while ontologies add structure by defining hierarchies and relationships between concepts. Please consider which controlled vocabularies, ontologies, or terminologies have relevance within your field of research and can be applied to heighten precision when describing the research data.
 
-Vocabularies/ontologies/terminologies can be imported from the [FAIRsharing registry of standards](https://fairsharing.org/search?fairsharingRegistry=Standard&recordType=terminology_artefact).
+To enter information on vocabularies/ontologies/terminologies that will be applied, you can select vocabularies/ontologies/terminologies from the [FAIRsharing registry of standards](https://fairsharing.org/search?fairsharingRegistry=Standard&recordType=terminology_artefact).
 
 For some disciplines, look-up services can help identify relevant vocabularies/ontologies/terminologies. When in doubt of relevance, please look for usage by others within your field, like in published journal articles or connected to published datasets.
 * [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/dataset/lov/)
