@@ -92,7 +92,7 @@ Some disciplinary vocabularies/ontologies/terminologies examples:
 Further reading:
 * [RDMkit: How do you find appropriate vocabularies or ontologies?](https://rdmkit.elixir-europe.org/metadata_management#how-do-you-find-appropriate-vocabularies-or-ontologies)
 * [FAIR Cookbook: Introduction to terminologies and ontologies](https://w3id.org/faircookbook/FCB019)
-* [FAIRCookbook: Introduction to terminologies and ontologies](https://w3id.org/faircookbook/FCB004)
+* [FAIR Cookbook: Introduction to terminologies and ontologies](https://w3id.org/faircookbook/FCB004)
 * [FAIRCookbook: Selecting an ontology lookup service](https://w3id.org/faircookbook/FCB004)
 
 
