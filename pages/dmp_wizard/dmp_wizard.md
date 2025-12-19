@@ -33,5 +33,5 @@ If you wish your instance to be listed on this page, please [take contact](/page
 * Shared FAIR Wizard instance: [*siktnorway-ri.fair-wizard.com/*](https://siktnorway-ri.fair-wizard.com/)
 	* This instance is part of the [Sikt National FAIR Wizard pilot](https://sikt.no/tiltak/nasjonal-pilot-utproving-av-nytt-verktoy-datahandteringsplanlegging-fairwizard "2025-12-05")
 
-## Users from Sintef
+## Users from SINTEF
 * FAIR Wizard instance: [*sintef.fair-wizard.com*](https://sintef.fair-wizard.com/)
