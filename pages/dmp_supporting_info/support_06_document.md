@@ -46,33 +46,54 @@ _Supplementary info: Almost all computer systems will provide some system metada
 
 
 ### Do suitable metadata standards exist for the data?
-When planning and embarking on your project, you should familiarize yourself with, and choose, a suitable metadata standard if one exists. Many research fields have agreed upon, established and adopted a metadata standard suitable for discipline-specific needs. If available, applying a domain/discipline-specific standard ensures that all necessary information facilitating data use and reuse is included. In addition to domain-specific standards, domain-agnostic standards also exist. The "Minimal Information Standard" describes a defined minimal set of metadata. A metadata standard can also include optional values.
+A metadata standard/schema is a predefined set of attributes to describe data in a clear and consistent way. Metadata standards/schemas can be generic or discipline-specific, and research communities have worked together to define what kind of metadata is needed when research of a certain kind is performed and described. Metadata standards/schemas are structured and machine-readable. Complete metadata helps to organise data during the project, and is necessary for data archiving.
 
-Most research data repositories will implement specific standards. That is why the use of a particular archive often will lead to the use of a particular metadata standard.\
-"Minimal Information Standards" can be imported from the [FAIRsharing registry of standards](http://fairsharing.org/).
+Most research data repositories implement specific standards, and the use of a particular archive often leads to the use of a particular metadata standard.  It is therefore useful to investigate suitable data repositories and respective metadata standards (or "Minimal Information Standards") early in the research process to make sure relevant metadata is collected when it first becomes available.\
+To enter information about "Minimal Information Standards" that will be applied, standards from the [FAIRsharing registry of standards](https://fairsharing.org/search?fairsharingRegistry=Standard) can be selected in the Wizard.
+
+Some examples of metadata standards:
+* [DataverseNO](https://dataverse.no/) institutional archives
+	* The metadata standard in DataverseNO combines generic and discipline-specific elements. The [user guide](https://site.uit.no/dataverseno/deposit/deposit-your-data/#enter-metadata) provides detailed guidance.
+* Life sciences
+	* [The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/) requires that all samples must conform to a defined checklist of expected metadata values, and provides [checklists](https://www.ebi.ac.uk/ena/browser/checklists) for different types of samples. The [ELIXIR Norway helpdesk](/pages/support_00_local_disc#elixir-norway---life-sciences) may assist with data archiving.
+* Language sciences
+	* [Clarino](https://clarin.w.uib.no/) requires that [CMDI metadata](https://www.clarin.eu/content/cmdi-component-metadata-infrastructure) are provided. The repository may assist in producing the [CMDI metadata](https://repo.clarino.uib.no/xmlui/page/item-lifecycle).
+	* [TROLLing](https://site.uit.no/trolling/) is part of DataverseNO, with similar metadata requirements, described in the [deposit guidelines](https://site.uit.no/trolling/getting-started/how-to-archive/).
+
+_Supplementary info: When unsure about relevant metadata standards within your field, the Dublin Core standard defines a minimum set of values and is embedded in many more comprehensive standards._
 
 Further reading:
 * [RDA metadata standards catalog](https://rdamsc.bath.ac.uk/)
 * [Digital Curation Centre: Metadata standards by discipline](https://www.dcc.ac.uk/guidance/standards/metadata)
 
-_Supplementary info: When unsure about relevant metadata standards within your field, the Dublin Core standard defines a minimum set of values and is embedded in many more comprehensive standards._
-
 
 ### Will you use existing vocabularies/ontologies/terminologies to describe the data?
-Please consider which controlled vocabularies, ontologies or terminologies have relevance within your field of research, and apply these to heighten precision when describing the research data. Specifying the applied vocabularies/ontologies/terminologies in the metadata or data documentation is important to avoid ambiguity.
+Using defined terms ensures that your data is described consistently, reducing ambiguity and enabling interoperability across systems and disciplines. Controlled vocabularies provide standardised terms, while ontologies add structure by defining hierarchies and relationships between concepts. Please consider which controlled vocabularies, ontologies, or terminologies have relevance within your field of research and can be applied to heighten precision when describing the research data.
 
-Vocabularies/ontologies/terminologies can be imported from the [FAIRsharing registry of standards](http://fairsharing.org/).
+To enter information on vocabularies/ontologies/terminologies that will be applied, vocabularies/ontologies/terminologies from the [FAIRsharing registry of standards](https://fairsharing.org/search?fairsharingRegistry=Standard&recordType=terminology_artefact) can be selected in the Wizard.
 
 For some disciplines, look-up services can help identify relevant vocabularies/ontologies/terminologies. When in doubt of relevance, please look for usage by others within your field, like in published journal articles or connected to published datasets.
 * [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/dataset/lov/)
 * [EMBL-EBI Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols4/index)
-* [CESSDA and service providers: European Language Social Science Thesaurus (ELSST)](https://elsst.cessda.eu)
+* [CESSDA and service providers: CESSDA vocabulary service](https://vocabularies.cessda.eu/)
+
+Some disciplinary vocabularies/ontologies/terminologies examples:
+* Life sciences
+	* [Darwin Core](https://doi.org/10.25504/FAIRsharing.xvf5y3) to describe information about biological diversity
+	* [Gene Ontology](https://doi.org/10.25504/FAIRsharing.6xq0ee) for annotation of genes, gene products and sequences
+* Biomedical science
+	* [Medical Subject Headings (MeSH)](https://doi.org/10.25504/FAIRsharing.qnkw45) are used for indexing, cataloguing, and searching for biomedical and health-related information and documents
+	* [Human Phenotype Ontology](https://doi.org/10.25504/FAIRsharing.kbtt7f) to describe phenotypic features encountered in human hereditary and other diseases
+* Geography
+	* [Marine Regions](https://doi.org/10.25504/FAIRsharing.5164e7) aims to to create a standard, relational list of geographic names, coupled with information and maps of the geographic location of these features
+* Social sciences
+	* [European Language Social Science Thesaurus (ELSST)](https://doi.org/10.25504/FAIRsharing.acd824)
 
 Further reading:
 * [RDMkit: How do you find appropriate vocabularies or ontologies?](https://rdmkit.elixir-europe.org/metadata_management#how-do-you-find-appropriate-vocabularies-or-ontologies)
-* [FAIRCookbook: Introduction to terminologies and ontologies](https://w3id.org/faircookbook/FCB019)
-* [FAIRCookbook: Introduction to terminologies and ontologies](https://w3id.org/faircookbook/FCB004)
-* [FAIRCookbook: Selecting an ontology lookup service](https://w3id.org/faircookbook/FCB004)
+* [FAIR Cookbook: Introduction to terminologies and ontologies](https://w3id.org/faircookbook/FCB019)
+* [FAIR Cookbook: Introduction to terminologies and ontologies](https://w3id.org/faircookbook/FCB004)
+* [FAIR Cookbook: Selecting an ontology lookup service](https://w3id.org/faircookbook/FCB004)
 
 
 ### How are the rights to the collected data distributed?
