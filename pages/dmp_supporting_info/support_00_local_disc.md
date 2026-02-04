@@ -132,7 +132,7 @@ Helpdesk: [kontakt@sikt.no](mailto:kontakt@sikt.no)
 
 
 ---
-## Discipline-rooted approaches to research data managmement
+## Discipline-rooted approaches to research data management
 Scientific disciplines have different traditions for recognizing and handling research data. Here, we list some discipline-rooted knowledge resources and publications which may help identifying research data and select approaches to research data management in a given discipline.
 
 Sorted by research discipline (non-exhaustive):
