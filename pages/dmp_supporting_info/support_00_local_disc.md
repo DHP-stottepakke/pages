@@ -26,12 +26,32 @@ In addition, some Norwegian research infrastructures provide RDM support service
 
 ## Institutional RDM support (alphabetical order)
 
-Currently, we have only included the project partners in the list. For other organisations, find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
+Currently, we have only included selected Norwegian institutions in the list. For other organisations, find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
+
+### INN - University of Inland Norway
+[INN research data support pages](https://www.inn.no/english/library/research-support/research-data)
+
+Helpdesk: [datateam@inn.no](mailto:datateam@inn.no)
+
+### Nord University
+[Nord University research data support pages](https://www.nord.no/en/research/researchers/research-data)
+
+Helpdesk: [research-data@nord.no](mailto:research-data@nord.no)
 
 ### NTNU - Norwegian University of Science and Technology (NTNU)
 [Research Data @NTNU](https://i.ntnu.no/researchdata)
 
 Helpdesk: [research-data@ntnu.no](mailto:research-data@ntnu.no)
+
+### OsloMet - Oslo Metropolitan University
+[OsloMet research data support pages](https://ansatt.oslomet.no/en/lagring-av-forskningsdata)
+
+Helpdesk: [ub.forskningsstotte@oslomet.no](mailto:ub.forskningsstotte@oslomet.no)
+
+### UiA - University of Agder
+[UiA research data support pages](https://libguides.uia.no/Research-Data)
+
+Helpdesk: [researchsupport@uia.no](mailto:researchsupport@uia.no)
 
 ### UiB - University of Bergen
 [UiB Support services for research data](https://www.uib.no/en/researchdata)
@@ -42,6 +62,11 @@ Helpdesk: [research-data@uib.no](mailto:research-data@uib.no)
 [UiO Research Data Management](https://www.uio.no/english/for-employees/support/research/research-data-management/)
 
 Helpdesk: [research-data@uio.no](mailto:research-data@uio.no)
+
+### UiS - University of Stavanger
+[UiS research data support pages](https://www.uis.no/en/library/researchdata)
+
+Helpdesk: [datahandtering@uis.no](mailto:datahandtering@uis.no)
 
 ### UiT - UiT The Arctic University of Norway
 [UiT Research data portal](https://en.uit.no/research/research-dataportal)
