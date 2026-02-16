@@ -26,7 +26,7 @@ In addition, some Norwegian research infrastructures provide RDM support service
 
 ## Institutional RDM support (alphabetical order)
 
-Currently, we have not included all institutions in the list. For other organisations, find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
+Currently, we have only included selected Norwegian institutions in the list. For other organisations, find an overview in the [RDM resources in Norway (RDMkit): Support services](https://rdmkit.elixir-europe.org/no_resources#support-services).
 
 ### INN - University of Inland Norway
 [INN research data support pages](https://www.inn.no/english/library/research-support/research-data)
