@@ -42,6 +42,8 @@ Make a title for the data management plan which makes it clear which research pr
 * E.g. "Data Management Plan for AMAZING - A really fantastic project, 2020-2024"
 * E.g. "Data Management Plan for AMAZING - A really fantastic project, WP3 the complex data collection, 2020-2024"
 
+NB! This is independent of the project name used in FAIR Wizard, which can be changed under [Project Settings](/pages/support_00_start_writing#project-settings).
+
 ### Contributor(s)
 List all person contributing both to the DMP and the data management in the project.
 
@@ -73,9 +75,11 @@ Also other formal documents with a relation to the DMP can be listed here, such 
 ### Which institutional policies and guidelines for research data management or Open Science apply?
 Specifying relevant policies or guidelines will help you recognize research data management requirements and routines to be aware of. Research organisations commonly have policies or guidelines for data management, sometimes as part of Open Science guidelines (see the page on [RDM and DMP requirements](/pages/support_00_dmp_requirements#institutional-policies-and-guidelines)). If your research unit has defined own guidelines, these too should be consulted and referred to here.
 
-To many projects, additional data management and DMP guidelines by research funders will be relevant. If applicable for your project, rlevant guidelines can be specifified together with project funding information in the chapter [About the research project](/pages/support_02_about_research).
+To many projects, additional data management and DMP guidelines by research funders will be relevant. If applicable for your project, relevant guidelines can be specified together with project funding information in the chapter [About the research project](/pages/support_02_about_research).
 
-Please use the 'Add' button for adding any new policy/ guideline. In addition to manually entering a url, you can select from the following list of common policies and guidelines:
+Please use the 'Add' button for adding any new policy/ guideline. Selecting your institution will provide a link to recommended guidelines. You can also paste a guideline url in the search box, e.g. to add a policy/guideline specific to your research unit.
+
+Institutional research data management policies:
 * [NTNU Policy for Open Science](https://www.ntnu.edu/policy-for-open-science "2024-07-17")
 * [UiB Policy for Open Science](https://www.uib.no/en/foremployees/142184/university-bergen-policy-open-science "2024-07-17")
 * [UiO Policies and guidelines for research data management](https://www.uio.no/english/for-employees/support/research/research-data-management/policies-guidelines.html "2024-07-17")
