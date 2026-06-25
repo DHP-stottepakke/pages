@@ -9,7 +9,7 @@ description: Supporting DMP Information, data storage, data backup
 sidebar: dmp_supporting_information
 dsw:
 - name: Storing and protecting data during the project
-  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=b11a3987-d7fa-4e9e-9ab5-48a6f2ffc2b0
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview?questionUuid=b11a3987-d7fa-4e9e-9ab5-48a6f2ffc2b0
 cessda:
 - name: Data storage
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/4.-Store/Storage

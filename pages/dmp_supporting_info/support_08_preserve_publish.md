@@ -9,7 +9,7 @@ description: Supporting DMP Information, preservation strategy, preserve data, d
 sidebar: dmp_supporting_information
 dsw:
 - name: Archiving and publishing data
-  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=a549d10b-aa46-4c0c-863f-30219ac5ecce
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview?questionUuid=a549d10b-aa46-4c0c-863f-30219ac5ecce
 cessda:
 - name: Archive & Publish
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/6.-Archive-Publish

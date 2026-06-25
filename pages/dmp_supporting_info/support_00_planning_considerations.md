@@ -10,7 +10,7 @@ affiliations:
 sidebar: dmp_supporting_information
 dsw:
 - name: Guiding questionnaire for pre-considerations
-  uuid: knowledge-models/research.data.no:norway-preaward:latest/preview
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview
 other:
 - name: "OpenAIRE Guides for Researchers: How to comply with Horizon Europe mandate for research data management"
   url: https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm
