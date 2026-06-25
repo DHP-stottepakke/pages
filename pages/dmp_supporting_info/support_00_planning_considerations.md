@@ -64,12 +64,12 @@ In multi-partner projects, data ownership and responsibilities should be formali
 Highly relevant examples of aspects that may need consideration:
 * Collection/ processing of personal data
 	* Investigate need for data processor agreements or joint controllership agreements in multi-partner projects
- 	* Considerations regarding informed consent from participants, in particular in medical and health research
+	* Considerations regarding informed consent from participants, in particular in medical and health research
 	* Investigate need for Data Protection Impact Assessment (DPIA) if the project involves a "high risk" to people's personal information
 	* Consult privacy guidelines and routines at your institution. For questions about processing of personal data contact your local data protection officer (DPO).
 * Ethical pre-approval (if e.g. conducting medical and health research, animal experiments)
 	* Investigate application routines
- 	* Creation of common ethical grounds in international projects	
+	* Creation of common ethical grounds in international projects
 * Export control regulations
 * Confidentiality/ commercial issues
 * Intellectual Property Rights/ IPR (including planned patenting, commercialization)

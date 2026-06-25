@@ -56,7 +56,7 @@ The detailed user guide is available under [https://guide.fair-wizard.com/en/pro
 * Import Knowledge Model from Registry: [Norwegian DSW Knowledge Model v1.1.0](https://registry.fair-wizard.com/knowledge-models/research.data.no:norway-generic:1.1.0)
 	* [User guide](https://guide.fair-wizard.com/en/production/applications/data-management-planner/knowledge-models/list/import.html)
 	* NB! Default templates should be created by selecting tags (see below)
-	* NB! Export works currently only with default or lean Questionnaire Report (see below)
+	* NB! Export works currently only with default or lean Questionnaire Report and maDMP export (see below)
 	* NB! FAIR sharing integration requires an API key under Knowledge Model Secrets (see below)
 * Import Document Template from Registry: [Questionnaire report - lean](https://registry.fair-wizard.com/document-templates/research.data.no:questionnaire-report-lean:2.16.0)
 	* [User guide](https://guide.fair-wizard.com/en/production/applications/data-management-planner/document-templates/list/import.html#from-fair-wizard-registry)
@@ -82,7 +82,7 @@ The detailed user guide is available under [https://guide.fair-wizard.com/en/pro
 A few preparations are necessary to use some of the integrations in the *Norwegian DSW Knowledge Model*.
 
 #### Institutional resources
-To keep the resources compatible with Data Stewardship Wizard (DSW), we have chosen to maintain the list of institutional policies and resources outside of the FAIR Wizard Integration Hub. This allows updating or adding policies without touching the Knowledge Model. We are currently using a [json-file in a GitHub repository](https://github.com/DHP-stottepakke/integrations "2026-02-25"), which is planned to be replaced by an integration. To propose changes, make a pull request or [get in touch](/pages/about/#contact).
+To keep the resources compatible with Data Stewardship Wizard (DSW), we have chosen to maintain the list of institutional policies and resources as an [API](https://api.research-data.no/policies/search). To propose changes to the content, make a [pull request](https://github.com/DHP-stottepakke/integrations) or [get in touch](/pages/about/#contact).
 
 #### FAIR sharing
 The FAIR sharing integration requires an API key
