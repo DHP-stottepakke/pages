@@ -9,7 +9,7 @@ description: Supporting DMP Information, reusing data, data reuse, data re-use, 
 sidebar: dmp_supporting_information
 dsw:
 - name: Reusing and collecting data
-  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=43e2efe4-016c-4a20-8b94-526ae1799afa
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview?questionUuid=43e2efe4-016c-4a20-8b94-526ae1799afa
 cessda:
 - name: Discover
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/7.-Discover

@@ -9,7 +9,7 @@ description: Supporting DMP Information, data management responsibilities, data 
 sidebar: dmp_supporting_information
 dsw:
 - name: Responsibilities and resources
-  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=b450d1a4-b0ad-4e62-8b40-967bad5e1437
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview?questionUuid=b450d1a4-b0ad-4e62-8b40-967bad5e1437
 cessda:
 - name: Adapt your DMP
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/1.-Plan/Adapt-your-DMP-Part-1

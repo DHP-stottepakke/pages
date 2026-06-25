@@ -9,7 +9,7 @@ description: Supporting DMP Information, process data, data processing, analyse 
 sidebar: dmp_supporting_information
 dsw:
 - name: Processing, analysing and interpreting data
-  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=50f9d580-3e62-434b-81ff-86daed56aca8
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview?questionUuid=50f9d580-3e62-434b-81ff-86daed56aca8
 cessda:
 - name: Process
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process
