@@ -9,7 +9,7 @@ description: Supporting DMP Information, DMP writing, Data Stewardship Wizard, D
 sidebar: dmp_supporting_information
 dsw:
 - name: About the Data Management Plan
-  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=7ed9939b-b85c-48bf-87f5-2aa081bb5267
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview?questionUuid=7ed9939b-b85c-48bf-87f5-2aa081bb5267
 other:
 - name: DSW User Guidance
   url: https://guide.ds-wizard.org/en/latest/application/projects/list/detail/questionnaire.html
@@ -37,7 +37,8 @@ It is recommended to choose a descriptive title for the project that makes it ea
 
 Projects/ planning drafts are auto-saved, details can be seen under **Projects** – last edited. Management of your plans, editing, revisions, exports – it all starts here.
 
-### Choose the right project template
+
+## Choose the right project template
 <code> The described setup refers to the pre-defined templates on FAIR Wizard Norway. For the ELIXIR Norway DSW instance, see instructions for advanced questionnaire setup.</code>
 
 To accommodate different project needs, you have by default access to four different project templates, in addition to a [pre-project/ pre-award questionnaire](/pages/support_00_planning_considerations). A project template present you with a questionnaire in the project workspace, as well as a set of default values, so you don't have to start from scratch. Select the questionnaire variant that fits your project best.
@@ -52,11 +53,11 @@ For less complex projects:
 * **Minimum** questionnaire covers a core set of questions adapted to less complex projects (e.g. student projects). This questionnaire is suited for projects without external funding or external project partners. For less complex projects that are handling sensitive data or personal data or requiring ethical pre-application, see below.
 * **Minimum and ELSI** ![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) combines the **Minimum** questionnaire with questions on handling sensitive data or personal data or requiring ethical pre-application. 
 
-#### Advanced questionnaire setup 
+### Advanced questionnaire setup 
 Instead of starting with one of the pre-defined project templates, it is also possible to configure them and additional options based on the underlying knowledge model. Follow the instructions below if you are using the [ELIXIR Norway DSW instance](https://elixir.no/services-2/data-stewardship-wizard).
 
 To use one of the above described templates:
-1. Start with *From knowledge model* and select **Norwegian DSW Knowledge Model**
+1. Start with creating a new project *From knowledge model* and select **Norwegian DSW Knowledge Model**
 2. In the next step, select *Filter by question tags* and then combine the tags **RCN/ Science Europe** or **minimum** with **ELSI** ![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) (Ethical and legal aspects, ELSI = **E**thical, **L**egal and **S**ocial **I**mplications") and/ or **HPC** ![Static Badge](https://img.shields.io/badge/Wizard-HPC-%238e44adff) (for computationally demanding projects).
 
 {% include image.html file="dsw_advanced.png" caption="View: Advanced setup" alt="Advanced setup allows to customize questionnaire based on question tags. Selected tags on the screenshot: Science Europe/RCN and ELSI." %}
@@ -66,6 +67,19 @@ Advanced users can customize the questionnaire within the framework of the knowl
 Further tags are present in the knowledge model for additional customization or specific needs:
 * umbrella DMP: Selection of questions for [umbrella DMPs](/pages/difficult_faq#a-research-centreresearch-consortium-needs-a-dmp), overarching DMPs for large consortia/research centres [not thoroughly tested, yet]
 * for internal use within this project/ the research institution: maDMP, IT security, cross institutional project, Horizon Europe
+
+### Project migration
+Project migration is a process to move a project with all its answers to another version/ another set of questions of the questionnaire. A dialogue will allow to decide for each question with changes which version to keep. Migration requires that questionnaires are derived from the same Knowledge Model.
+
+To migrate a project to other/additional tags from a Knowledge Model, e.g. to migrate from the Minimum to the RCN/ Science Europe questionnaire while keeping the existing answers:
+1. Open the project and open the **Settings**
+2. Go through the *Create Migration* dialogue. You can see the current Knowledge Model, its version and tags on the left hand side. Select the same Knowledge Model with different tags. Click the *Create* button and go through the following dialogue.
+
+To update a project to the newest version of a knowledge model:
+1. The project migration can be triggered from the Project list or from the Project settings
+2. Go through the *Create Migration* dialogue. You can see the current Knowledge Model, its version and tags on the left hand side. Choose the newest version of the Knowledge Model, keeping the same tags. Click the *Create* button and go through the following dialogue.
+
+For more information, see the detailed [FAIR Wizard User Guide](https://guide.fair-wizard.com/en/production/applications/data-management-planner/projects/list/migration.html)
 
 
 ## Fill out the questionnaire
@@ -139,7 +153,7 @@ Useful: DMP versions can be named in the **Version history** tab (under the 'Sha
 Here you can change:
 * The internal DMP name and description
 * The default export and preview format (document template)
-* Migrate to another version of the questionnaire (knowledge model)
+* Migrate to [another version of the questionnaire (knowledge model)](/pages/support_00_start_writing#project-migration)
 
 ### The Metrics tab (disabled in FAIR Wizard Norway)
 Metrics on completeness of the DMP and FAIR/ openness metrics are not supported in the current knowledge model, yet technically possible.

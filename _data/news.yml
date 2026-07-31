@@ -1,3 +1,7 @@
+- name: Norwegian DSW Knowledge Model v1.2.1
+  date: 2026-06-16
+  description: >
+    A [revised version 1.2.1](https://doi.org/10.5281/zenodo.20834641) of the Norwegian DSW Knowledge Model which is underlying the FAIR Wizard Norway [DMP questionnaires](/pages/support_00_start_writing) has been released. The new version is incorporating technical improvements including links to related questions in the questionnaire, improved API-integrations, and machine-actionable exports according to [RDA maDMP Common Standard v1.2](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard). All DMP templates have been updated and users will see an 'Update available' button next to their projects. The structure and content of the questionnaire has not been changed and we recommend therefore to accept all changes. For a step-by-step guide, see the [FAIR Wizard user guide: Project Migration](https://guide.fair-wizard.com/en/production/applications/data-management-planner/projects/list/migration.html#creating-a-project-migration). For any question, please contact your [local support staff](/pages/support_00_local_disc#institutional-rdm-support-alphabetical-order).
 - name: Norwegian DSW Knowledge Model v1.1.0
   date: 2025-10-22
   description: >

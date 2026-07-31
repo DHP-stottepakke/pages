@@ -10,6 +10,7 @@
 #    affiliation: affiliation
 #    image_url: absolute path to image (default image from github)
 
+# Project
 Jenny Ostrop:
     git: jennyostrop
     email: jenny.ostrop@uib.no
@@ -94,3 +95,18 @@ Ingrid Heggland:
     role: Editor
     affiliation: Norwegian University of Science and Technology (NTNU)
 
+# Collaborators
+Sagnik Sengupta:
+    git: DrSSengupta
+    email: sagnik.sengupta@nord.no
+    orcid: 0000-0001-5747-3536
+    role: Contributor
+    affiliation: Nord University
+    
+Elin Stangeland:
+    git: 
+    email: elin.stangeland@uis.no
+    orcid: 0000-0002-7048-2127
+    role: Contributor
+    affiliation: University of Stavanger (UiS)
+    

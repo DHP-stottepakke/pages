@@ -9,7 +9,7 @@ description: Supporting DMP Information, data storage, data backup
 sidebar: dmp_supporting_information
 dsw:
 - name: Storing and protecting data during the project
-  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=b11a3987-d7fa-4e9e-9ab5-48a6f2ffc2b0
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview?questionUuid=b11a3987-d7fa-4e9e-9ab5-48a6f2ffc2b0
 cessda:
 - name: Data storage
   url: https://dmeg.cessda.eu/Data-Management-Expert-Guide/4.-Store/Storage
@@ -46,13 +46,13 @@ If specific storage solutions are chosen as the project proceeds with data proce
 ### Which data storage guidelines will you be following?
 Institutions commonly have a storage guide that explains available infrastructure and which data can be stored where.
 
+Please use the 'Add' button for adding any new guide. Selecting your institution will provide a link to recommended guidelines. You can also paste a policy/guideline url in the search box to add further guidelines. In collaboration projects there might be multiple relevant storage guidelines for your project.
+
 Institutional storage guides:
 * [NTNU Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
 * [UiB Storage guide](https://www.uib.no/en/foremployees/153608/storage-guide)
 * [UiO Data storage guide](https://www.uio.no/english/services/it/security/lsis/storage-guide.html)
 * [UiT Research data portal - Processing and storage](https://en.uit.no/research/research-dataportal/art?p_document_id=729174)
-
-Alternatively, you can add storage guidelines manually. In collaboration projects there might be multiple guidelines of relevance for your project.
 
 
 ### What is the expected total volume of data in the project?

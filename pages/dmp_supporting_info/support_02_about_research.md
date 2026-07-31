@@ -9,7 +9,7 @@ description: Supporting DMP Information, Administrative information, Research pr
 sidebar: dmp_supporting_information
 dsw:
 - name: About the research project
-  uuid: knowledge-models/research.data.no:norway-generic:latest/preview?questionUuid=f0ef08fd-d733-465c-bc66-5de0b826c41b
+  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview?questionUuid=f0ef08fd-d733-465c-bc66-5de0b826c41b
 ---
 
 
@@ -53,6 +53,8 @@ Examples of common funders as registered in ROR:
 	* Northern Norway Regional Health Authority (Helse Nord, id: [05f6c0c45](https://ror.org/05f6c0c45))
 * Norwegian foundations
 	* Norwegian Cancer Society (id: [01925vb10](https://ror.org/01925vb10))
+    * Trond Mohn Foundation (id: [018zj6955](https://ror.org/018zj6955))
+    * Kristian Gerhard Jebsen Foundation (ide: [021g6tq38](https://ror.org/021g6tq38))
 	* Stiftelsen Dam (id: [02esmmc86](https://ror.org/02esmmc86))
 * European Commission (id: [00k4n6c32](https://ror.org/00k4n6c32))
 	* European Research Council (id: [0472cxd90](https://ror.org/0472cxd90))

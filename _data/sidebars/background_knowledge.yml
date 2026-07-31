@@ -2,6 +2,18 @@ title: Background Knowledge
 title_url: /dmp_knowledge_base
 
 subitems:
+  - title: FW instance configuration
+    url: /fw_config
+  - title: DMP policy
+    url: /dmp_policy
+  - title: Frequently asked difficult questions
+    url: /difficult_faq
+  - title: RDM terminology
+    url: /rdm_terminology
+  - title: DMP training
+    url: /dmp_training   
+  - title: Conceptual DMP reflections
+    url: /dmp_reflections   
   - title: Annotated SE guidance
     url: /science_europe
     subitems:
@@ -21,13 +33,3 @@ subitems:
           url: /6_responsibilities_resources
         - title: SE - Publishing the DMP
           url: /publish_dmp
-  - title: Conceptual DMP reflections
-    url: /dmp_reflections
-  - title: DMP policy
-    url: /dmp_policy
-  - title: Frequently asked difficult questions
-    url: /difficult_faq
-  - title: RDM terminology
-    url: /rdm_terminology
-  - title: DMP training
-    url: /dmp_training
