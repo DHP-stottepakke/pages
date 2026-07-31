@@ -16,6 +16,9 @@ on:
   schedule:
     - cron: "00 18 * * *"
 
+env:
+  BASE_PATH: /pages
+
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
@@ -36,9 +39,8 @@ jobs:
             bundle install
 
       - name: Build with Jekyll
-          # Outputs to the './_site' directory by default
         run: |
-            bundle exec jekyll build
+            bundle exec jekyll build --baseurl "${BASE_PATH}" -d "_site${BASE_PATH}"
         env:
             PAGES_REPO_NWO: ${{ github.repository }}
             JEKYLL_BUILD_BRANCH: ${{ github.ref_name }}
@@ -48,24 +50,14 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2.9.0
         with:
-            # Pin the lychee binary too: the action's default version drifts and
-            # older binaries do not understand --root-dir.
-            lycheeVersion: v0.24.2
-            # The site is built without --baseurl, so internal links are root-relative
-            # ("/pages/..."). --root-dir tells lychee to resolve those against _site
-            # instead of the filesystem root. It must be an absolute path.
             args: >-
               --root-dir "${{ github.workspace }}/_site"
               --fallback-extensions html
               --exclude '^https://github\.com'
               --github-token ${{ secrets.GITHUB_TOKEN }}
-              _site/
-            # Don't fail the action on broken links (handled below instead)
+              "_site${{ env.BASE_PATH }}/"
             fail: false
-
-      # lychee exit codes: 0 = ok, 1 = runtime error, 2 = broken links, 3 = bad config.
-      # Without this, a lychee invocation error was swallowed by `fail: false` and the
-      # job went green while filing an empty report.
+            
       - name: Fail on link checker error
         if: steps.lychee.outputs.exit_code == 1 || steps.lychee.outputs.exit_code == 3
         run: |
@@ -75,9 +67,9 @@ jobs:
       - name: Add page URL
         if: steps.lychee.outputs.exit_code == 2
         run: |
-            DEPLOY_URL="https://plan.research-data.no/pages/"
+            DEPLOY_URL="https://plan.research-data.no${BASE_PATH}/"
             test -s ./lychee/out.md || { echo "::error::lychee produced no report"; exit 1; }
-            sed -i "s|### Errors in _site/|### Errors in ${DEPLOY_URL}|g" ./lychee/out.md
+            sed -i "s|### Errors in _site${BASE_PATH}/|### Errors in ${DEPLOY_URL}|g" ./lychee/out.md
             cat ./lychee/out.md
 
       - name: Create Issue From File
