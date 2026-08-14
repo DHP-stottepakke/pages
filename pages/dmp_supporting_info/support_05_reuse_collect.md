@@ -107,7 +107,8 @@ Examples of data assigned standard licenses:
 * [Statbank from Statistics Norway (SSB)](https://www.ssb.no/en) has licensed data and public APIs under [CC BY 4.0](https://www.ssb.no/en/diverse/lisens)
 
 Examples of data access with certain requirements to purpose and how data will be managed and access:
-* [Mikrodata from Statistics Norway (SSB)](https://www.microdata.no/en/bli-bruker/) is available to employees at Norwegian Higher Education institutions
+* The service [microdata.no](https://www.microdata.no/en/) gives access to analyze and query registry data from Statistics Norway (SSB) and other sources, without the need for applications or export of data, and is available to employees and students at [Norwegian Higher Education institutions with service agreements](https://microdata.no/user-admin/en/public-contacts).
+* Researchers can apply for [access to microdata from Statistics Norway (SSB)](https://www.ssb.no/en/data-til-forskning/utlan-av-data-til-forskere), with specific requirements for use, processing and documentation.
 * [HUNT data](https://www.ntnu.edu/hunt/data) requires a REK approval and application to the HUNT Data Access Committee
  
 **Work in the public domain**\
