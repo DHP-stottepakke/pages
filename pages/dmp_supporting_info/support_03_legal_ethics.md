@@ -320,7 +320,7 @@ Reasons for sensitivity (non-exhaustive) and relevant resources:
 Resources on export control:
 * sikresiden.no e-learning course [Research security in international cooperation](https://www.sikresiden.no/en/preventive/safetyandsecuretraining "2025-10-06")
 * [Norwegian Agency for Export Control and Sanctions (DEKSA)](https://deksa.no/en/ "2025-03-04")
-* [Norwegian Directorate for Higher Education and Skills: Export control of knowledge transfer and international sanctions](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation/export-control-of-knowledge-transfer-and-international-sanctions "2024-10-03")
+* [Norwegian Directorate for Higher Education and Skills: Export control of knowledge transfer and international sanctions](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation/export-control-of-technology-transfer-and-international-sanctions "2026-08-20")
 * [Ministry of Foreign Affairs: Guidelines for technology export (2025) *in Norwegian*](https://www.regjeringen.no/no/dokumenter/veileder-for-eksport-av-teknologi/id3116449/){:lang="no"})
 * [National Research Ethics Committees: Ethical advice on international collaboration in research](https://www.forskningsetikk.no/en/resources/ethical-advice-on-international-collaboration-in-research/ "2026-06-24")
 * [NTNU: Control of knowledge transfer](https://i.ntnu.no/wiki/-/wiki/English/Control+of+knowledge+transfer "2024-10-03")

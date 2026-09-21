@@ -73,9 +73,11 @@ Using defined terms ensures that your data is described consistently, reducing a
 To enter information on vocabularies/ontologies/terminologies that will be applied, vocabularies/ontologies/terminologies from the [FAIRsharing registry of standards](https://fairsharing.org/search?fairsharingRegistry=Standard&recordType=terminology_artefact) can be selected in the Wizard.
 
 For some disciplines, look-up services can help identify relevant vocabularies/ontologies/terminologies. When in doubt of relevance, please look for usage by others within your field, like in published journal articles or connected to published datasets.
+* [Research Vocabularies Australia (vocabs ardc)](https://vocabs.ardc.edu.au/)
 * [Linked Open Vocabularies (LOV)](https://lov.linkeddata.es/dataset)
 * [EMBL-EBI Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols4/index)
 * [CESSDA and service providers: CESSDA vocabulary service](https://vocabularies.cessda.eu/)
+* [TIB Terminology Service](https://terminology.tib.eu/ts/) hosted by Leibniz Information Center for Science and Technology and University Library
 
 Some disciplinary vocabularies/ontologies/terminologies examples:
 * Life sciences
@@ -84,10 +86,15 @@ Some disciplinary vocabularies/ontologies/terminologies examples:
 * Biomedical science
 	* [Medical Subject Headings (MeSH)](https://doi.org/10.25504/FAIRsharing.qnkw45) are used for indexing, cataloguing, and searching for biomedical and health-related information and documents
 	* [Human Phenotype Ontology](https://doi.org/10.25504/FAIRsharing.kbtt7f) to describe phenotypic features encountered in human hereditary and other diseases
+ 	* [EBRAINS knowledge graph](https://docs.kg.ebrains.eu/) for Brain research
 * Geography
 	* [Marine Regions](https://doi.org/10.25504/FAIRsharing.5164e7) aims to to create a standard, relational list of geographic names, coupled with information and maps of the geographic location of these features
 * Social sciences
 	* [European Language Social Science Thesaurus (ELSST)](https://doi.org/10.25504/FAIRsharing.acd824)
+ 	* [Humord](https://data.ub.uio.no/skosmos/humord/nb/) A Norwegian thesaurus for the humanities and social sciences with related disciplines, managed by Oslo University Library.
+* Research data management
+  	* [CODATA Research data management Terminology](https://vocabs.ardc.edu.au/viewById/685)
+   
 
 Further reading:
 * [RDMkit: How do you find appropriate vocabularies or ontologies?](https://rdmkit.elixir-europe.org/metadata_management#how-do-you-find-appropriate-vocabularies-or-ontologies)
