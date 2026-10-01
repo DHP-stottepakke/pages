@@ -7,7 +7,7 @@ search_exclude: false
 contributors: [Jenny Ostrop, Korbinian Bösl, Illimar Rekand, Ida Juhasz, Live Kvale, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]
 page_id: knowledge_base
 description: Knowledge Base for Support Staff
-affiliations: 
+supported_by: 
 sidebar: background_knowledge
 ---
 

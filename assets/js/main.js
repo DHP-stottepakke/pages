@@ -2,9 +2,7 @@
 layout: none
 permalink: assets/js/main.js
 ---
-/**
- * From https://github.com/ELIXIR-Belgium/elixir-toolkit-theme under MIT License Copyright (c) 2021 ELIXIR Belgium
- */
+
 /**
  * AnchorJS
  */
@@ -14,8 +12,8 @@ $(document).ready(function () {
     };
     anchors.add('h2:not(.no-anchor)');
     anchors.add('h3:not(.no-anchor)');
-	anchors.add('h4:not(.no-anchor)');
-	anchors.add('h5:not(.no-anchor)');	
+    anchors.add('h4:not(.no-anchor)');
+    anchors.add('h5:not(.no-anchor)');
 })
 
 /**
@@ -32,26 +30,44 @@ $(document).ready(function () {
 });
 
 /**
- * Settings for side navigation
+ * Sidebar height
  */
 $(document).ready(function () {
-    // Initialize navgoco with default options
-    $("#sidebar>nav>ul").navgoco({
-        caretHtml: '',
-        accordion: true,
-        openClass: 'active', // open
-        save: false, // leave false or nav highlighting doesn't work right
-        cookie: {
-            name: 'navgoco',
-            expires: false,
-            path: '/'
-        },
-        slide: {
-            duration: 400,
-            easing: 'swing'
-        }
-    });
+    const breakpointLg = 992; // Bootstrap's lg breakpoint in pixels
+    const main = document.getElementById('main');
+    const sideNav = document.getElementById('side-nav');
+
+    // If either element is missing, don't do anything
+    if (!main || !sideNav) return;
+
+    function getVisibleHeight(el) {
+      const rect = el.getBoundingClientRect();
+      const windowHeight = window.innerHeight || document.documentElement.clientHeight;
+
+      const visibleTop = Math.max(rect.top, 0);
+      const visibleBottom = Math.min(rect.bottom, windowHeight);
+      const visibleHeight = Math.max(0, visibleBottom - visibleTop);
+
+      return visibleHeight;
+    }
+
+    function adjustSidebarHeight() {
+        window.requestAnimationFrame(() => {
+            if (window.innerWidth < breakpointLg) {
+                sideNav.style.height = 'auto';
+            } else {
+                const visibleHeight = getVisibleHeight(main);
+                sideNav.style.height = visibleHeight + 'px';
+            }
+        });
+    }
+
+    adjustSidebarHeight();
+
+    window.addEventListener('scroll', adjustSidebarHeight);
+    window.addEventListener('resize', adjustSidebarHeight);
 });
+
 
 /**
  * Back to top button
@@ -75,6 +91,7 @@ function topFunction() {
     document.body.scrollTop = 0; // For Safari
     document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
+
 
 
 /**
@@ -130,7 +147,7 @@ $(document).ready(function () {
         code.setAttribute("id", "code" + countID);
         var btn = document.createElement('button');
         var div = document.createElement('div');
-        btn.innerHTML = '<i class="fa-regular fa-copy"></i>';
+        btn.innerHTML = '<i class="icon-copy"></i>';
         btn.className = "btn text-secondary m-1 btn-copy py-1 px-2";
         btn.title = "Copy to clipboard";
         btn.type = "button";
@@ -141,7 +158,7 @@ $(document).ready(function () {
         code.closest('div.highlight').classList.add("d-flex","justify-content-between");
         code.closest('.highlight').after(div);
         countID++;
-    });     
+    });
 });
 
 /**
@@ -174,8 +191,101 @@ $(function () {
  */
 
 $(function () {
-    var popoverTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="popover"]'))
-    var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
-        return new bootstrap.Popover(popoverTriggerEl)
-    })
-})
+    const bs = window.bootstrap;
+    // Initialize all popovers (click to open; HTML allowed; render in body)
+    $('[data-bs-toggle="popover"]').each(function () {
+        new bs.Popover(this, {
+            html: true,
+            sanitize: false,   // allow dropdown markup inside
+            container: 'body',
+            trigger: 'click'
+        });
+    });
+
+    // When a popover is shown, initialize any dropdowns inside it
+    $(document).on('shown.bs.popover', '[data-bs-toggle="popover"]', function () {
+        const tipId = $(this).attr('aria-describedby');
+        if (!tipId) return;
+        const $tip = $('#' + tipId);
+        if (!$tip.length) return;
+
+        $tip.find('[data-bs-toggle="dropdown"]').each(function () {
+            new bs.Dropdown(this);
+        });
+    });
+
+    // Prevent clicks *inside* the popover from bubbling up (so it doesn't immediately close)
+    $('body').on('click', function (e) {
+        if ($(e.target).closest('.popover').length) {
+            e.stopPropagation();
+        }
+    });
+
+    // Close popovers when clicking outside any popover/trigger
+    $(document).on('click', function (e) {
+        const $t = $(e.target);
+        const clickedTrigger = $t.closest('[data-bs-toggle="popover"]').length > 0;
+        const clickedInsidePopover = $t.closest('.popover').length > 0;
+        if (clickedTrigger || clickedInsidePopover) return;
+
+        $('[data-bs-toggle="popover"]').each(function () {
+            const inst = bs.Popover.getInstance(this);
+            if (inst) inst.hide();
+        });
+    });
+
+    // Close on ESC
+    $(document).on('keydown', function (e) {
+        if (e.key !== 'Escape') return;
+        $('[data-bs-toggle="popover"]').each(function () {
+            const inst = bs.Popover.getInstance(this);
+            if (inst) inst.hide();
+        });
+    });
+});
+
+
+/**
+ * Equalize contributor card heights in carousels and position arrows
+ */
+function equalizeContributorCardHeights() {
+    $('.carousel[id^="contributors-carousel-"]').each(function() {
+        var carousel = $(this);
+        var maxHeight = 0;
+
+        carousel.find('.contributor-cards .card').css('min-height', '');
+
+        // Measure all slides by temporarily making them active
+        carousel.find('.carousel-item').each(function() {
+            var $item = $(this);
+            var wasActive = $item.hasClass('active');
+
+            $item.addClass('active').css({'visibility': 'hidden', 'position': 'absolute'});
+            $item.find('.contributor-cards .card').each(function() {
+                maxHeight = Math.max(maxHeight, $(this).outerHeight());
+            });
+            $item.css({'visibility': '', 'position': ''});
+            if (!wasActive) $item.removeClass('active');
+        });
+
+        // Apply max height and position arrows
+        if (maxHeight > 0) {
+            carousel.find('.contributor-cards .card').css('min-height', maxHeight + 'px');
+            carousel.find('.carousel-control-prev, .carousel-control-next').css('top', (maxHeight / 2 - 24) + 'px');
+        }
+    });
+}
+
+$(document).ready(function() {
+    // Equalize heights on page load
+    equalizeContributorCardHeights();
+
+    // Re-equalize on window resize
+    var resizeTimer;
+    $(window).on('resize', function() {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(function() {
+            equalizeContributorCardHeights();
+        }, 250);
+    });
+});

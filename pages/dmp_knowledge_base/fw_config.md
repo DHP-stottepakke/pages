@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Jenny Ostrop, Elin Stangeland]
 page_id: fw_config
 description: FAIR Wizard, instance, configuration
-affiliations: 
+supported_by: 
 sidebar: background_knowledge
 toc: true
 ---

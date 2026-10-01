@@ -24,11 +24,12 @@ turing:
 ---
 
 {% include callout.html type="tip" content="
-**Why is this topic important**\\
->> What tools or infrastructure are needed for data processing and analysis?\\
->> Will data processing create additional metadata?\\
->> Do data formats need to be converted?\\
->> How will versions of files be managed?\\
+**Why is this topic important**
+
+* What tools or infrastructure are needed for data processing and analysis?
+* Will data processing create additional metadata?
+* Do data formats need to be converted?
+* How will versions of files be managed?
 " %}
 
 ## About this chapter

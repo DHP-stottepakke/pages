@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Jenny Ostrop, Korbinian Bösl, Sagnik Sengupta]
 page_id: support_00_local_disc
 description:
-affiliations:
+supported_by:
 sidebar: dmp_supporting_information
 rdmkit:
 - name: National page for Norway
@@ -14,10 +14,11 @@ rdmkit:
 ---
 
 {% include callout.html type="note" content="
-**On this page**\\
->> Find local support staff\\
->> Get help from disciplinary experts\\
->> Get inspired by discipline-rooted resources\\
+**On this page**
+
+* Find local support staff
+* Get help from disciplinary experts
+* Get inspired by discipline-rooted resources
 " %}
 
 If you have questions about research data management (RDM) or writing at data management plan (DMP), you can consult the information resources or contact the general RDM support at your institution. In addition, your unit may have research advisors who can direct you to the right resources or even dedicated data stewards who can help you hands-on.

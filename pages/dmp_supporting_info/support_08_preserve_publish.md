@@ -27,13 +27,14 @@ other:
 ---
 
 {% include callout.html type="tip" content="
-**Why is this topic important**\\
->> Research data is valuable – they should be available for reuse.\\
->> Archiving ensures availability of data for yourself at a later time point, e.g. after switching affiliations.\\
->> Rich metadata and usage of trustworthy data archives will make the data findable through search engines.\\
->> Good documentation, structured metadata and a license will enable others to understand the information held in the data and enable data reuse.\\
->> Research funders and academic publishers commonly require data underlying a study to be available ('as open as possible').\\
->> Increasingly, archiving FAIR data is viewed as equally important as publishing other research output, in the assessment of research.\\
+**Why is this topic important**
+
+* Research data is valuable – they should be available for reuse.
+* Archiving ensures availability of data for yourself at a later time point, e.g. after switching affiliations.
+* Rich metadata and usage of trustworthy data archives will make the data findable through search engines.
+* Good documentation, structured metadata and a license will enable others to understand the information held in the data and enable data reuse.
+* Research funders and academic publishers commonly require data underlying a study to be available ('as open as possible').
+* Increasingly, archiving FAIR data is viewed as equally important as publishing other research output, in the assessment of research.
 " %}
 
 ## About this chapter

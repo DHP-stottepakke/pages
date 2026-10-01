@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Jenny Ostrop, Leif Longva]
 page_id: 1_data_description
 description: Data description, Data types, Data reuse
-affiliations: 
+supported_by: 
 sidebar: background_knowledge
 toc: true
 ---
@@ -44,19 +44,22 @@ Some existing data may be thought of as natural to re-use. If such data are deci
 - Explains clearly, if applicable, why new data must be collected, instead of re-using existing data.
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* PID of reused datasets\\
-\\
-**Interested stakeholder**\\
-* Level 2: Collaboration partners exchanging data\\
-* Level 3: Stakeholders interested in reuse of their research data\\
-* Level 3: Stakeholders interested in receiving data and later governance of data within their contexts (statistics database etc.)\\
-\\
-**Relevant project phase**\\
-* pre-award: outline\\
-* planning post-award, active phase\\
+**Mappings**
+
+**Relevant PID**
+
+* PID of reused datasets
+
+**Interested stakeholder**
+
+* Level 2: Collaboration partners exchanging data
+* Level 3: Stakeholders interested in reuse of their research data
+* Level 3: Stakeholders interested in receiving data and later governance of data within their contexts (statistics database etc.)
+
+**Relevant project phase**
+
+* pre-award: outline
+* planning post-award, active phase
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -180,18 +183,21 @@ More precise numbers can be needed if shared with stakeholder, e.g. to apply for
 - NB. Information derived from previously existing data sources (namely output, processed, and analysed data) are to be considered new data under this question.
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* none?\\
-\\
-**Interested stakeholder**\\
-* Level 2: Possibly core facility?\\
-* Level 3: Research community: The reusability of the data may depend on e.g. a good description of collection method and on the use of preferred file formats.\\
-\\
-**Relevant project phase**\\
-* pre-award: outline\\
-* planning post-award, active phase\\
+**Mappings**
+
+**Relevant PID**
+
+* none?
+
+**Interested stakeholder**
+
+* Level 2: Possibly core facility?
+* Level 3: Research community: The reusability of the data may depend on e.g. a good description of collection method and on the use of preferred file formats.
+
+**Relevant project phase**
+
+* pre-award: outline
+* planning post-award, active phase
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)

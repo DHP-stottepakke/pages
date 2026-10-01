@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Lisbeth Jahren, Ingrid Heggland, Svein Høier]
 page_id: 3_storage_backup
 description: Data storage, backup
-affiliations: 
+supported_by: 
 sidebar: background_knowledge
 toc: true
 ---
@@ -38,17 +38,20 @@ or
 - Explains why institutional storage will not be used (and for what part of the data) and describes the (additional) locations, storage media, and procedures that will be used for storing and backing up data during the project.
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* none?\\
-\\
-**Interested stakeholder**\\
-* Level 2: ITA, Sigma2 if big data\\
-\\
-**Relevant project phase**\\
-* pre-award: outline (if budget-relevant)\\
-* planning post-award, active phase\\
+**Mappings**
+
+**Relevant PID**
+
+* none?
+
+**Interested stakeholder**
+
+* Level 2: ITA, Sigma2 if big data
+
+**Relevant project phase**
+
+* pre-award: outline (if budget-relevant)
+* planning post-award, active phase
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -183,18 +186,21 @@ Clearly explains:
 - Clearly describes the additional security measures (in terms of physical security, network security, and security of computer systems and files) that will be taken to ensure that stored and transferred data are safe, when sensitive data are involved (for example personal data, politically sensitive information, or trade secrets).
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* none?\\
-\\
-**Interested stakeholder**\\
-* Level 1: Institution (information security)\\
-* Level 2: DPO, REK, Sikt personverntjenester\\
-\\
-**Relevant project phase**\\
-* pre-award: outline\\
-* planning post-award, active phase\\
+**Mappings**
+
+**Relevant PID**
+
+* none?
+
+**Interested stakeholder**
+
+* Level 1: Institution (information security)
+* Level 2: DPO, REK, Sikt personverntjenester
+
+**Relevant project phase**
+
+* pre-award: outline
+* planning post-award, active phase
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)

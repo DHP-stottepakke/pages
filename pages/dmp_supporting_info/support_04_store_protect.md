@@ -28,10 +28,11 @@ turing:
 ---
 
 {% include callout.html type="tip" content="
-**Why is this topic important**\\
->> Data storage is a central part of your project and loss of data might endanger it.\\
->> The chosen data storage solution has to comply with legal requirements and local policies.\\
->> Optimised data storage and organisation can speed up your project and save costs.\\
+**Why is this topic important**
+
+* Data storage is a central part of your project and loss of data might endanger it.
+* The chosen data storage solution has to comply with legal requirements and local policies.
+* Optimised data storage and organisation can speed up your project and save costs.
 " %}
 
 ## About this chapter

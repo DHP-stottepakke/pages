@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Svein Høier, Jenny Ostrop]
 page_id: 5_sharing_preservation
 description: Data sharing, archiving, long-term preservation
-affiliations: 
+supported_by: 
 sidebar: background_knowledge
 toc: true
 ---
@@ -53,17 +53,20 @@ It is crucial to be aware of necessity of access restriction and possibilities t
 - Explains, where possible, what actions will be taken to overcome or to minimise data sharing restrictions.
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* PID of archived datasets?\\
-\\
-**Interested stakeholder**\\
-* Level 2: Core facility, data archive, research administration (statistics)\\
-\\
-**Relevant project phase**\\
-* pre-award:outline\\
-* planning post-award, active phase, final reporting\\
+**Mappings**
+
+**Relevant PID**
+
+* PID of archived datasets?
+
+**Interested stakeholder**
+
+* Level 2: Core facility, data archive, research administration (statistics)
+
+**Relevant project phase**
+
+* pre-award:outline
+* planning post-award, active phase, final reporting
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -216,16 +219,19 @@ If there is unpublished data remaining at the end of the project, a preservation
 - Provides the name of the archive or trustworthy repository – or the way to curate and preserve data – that will be used to make data available for re-use.
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* none?\\
-\\
-**Interested stakeholder**\\
-* Level 2: Core facility, data archive, research administration (statistics), CRIStin/NVA\\
-\\
-**Relevant project phase**\\
-* active phase, final reporting\\
+**Mappings**
+
+**Relevant PID**
+
+* none?
+
+**Interested stakeholder**
+
+* Level 2: Core facility, data archive, research administration (statistics), CRIStin/NVA
+
+**Relevant project phase**
+
+* active phase, final reporting
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -359,16 +365,19 @@ There is few reasons to share data outside of data repositories after completion
 - Provides information, if relevant, on any protocol to access the data (for example if authentication is needed or if there is a data access request procedure).
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* none?\\
-\\
-**Interested stakeholder**\\
-* Level 3: Research community (+Standard bodies?)\\
-\\
-**Relevant project phase**\\
-* active phase, final reporting\\
+**Mappings**
+
+**Relevant PID**
+
+* none?
+
+**Interested stakeholder**
+
+* Level 3: Research community (+Standard bodies?)
+
+**Relevant project phase**
+
+* active phase, final reporting
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -454,16 +463,19 @@ At what granularity are PIDs provided? (collection, dataset, each item in a data
 - Clearly presents the approach, and the choice of identifiers is justified and refers to international standards.
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* PID of all datasets produced\\
-\\
-**Interested stakeholder**\\
-* Level 2: Research administration (statistics), CRIStin/NVA\\
-\\
-**Relevant project phase**\\
-* active phase, final reporting\\
+**Mappings**
+
+**Relevant PID**
+
+* PID of all datasets produced
+
+**Interested stakeholder**
+
+* Level 2: Research administration (statistics), CRIStin/NVA
+
+**Relevant project phase**
+
+* active phase, final reporting
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)

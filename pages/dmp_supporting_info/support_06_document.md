@@ -22,11 +22,12 @@ turing:
 ---
 
 {% include callout.html type="tip" content="
-**Why is this topic important**\\
->> Understanding, analysing and reusing data depends on how said data has been documented, structured, named and in other ways described\\
->> The inclusion of metadata - providing data about the data used in a project - secures that data can be properly utilized, both within and beyond your own project\\
->> Interpretation of project results requires an understanding of the data provenance/data lineage, i.e. where the data originates from and how it has been processed\\
->> Data documentation should start as early as possible, ideally in the form of accompanied structured metadata and ensuring that data is accessible\\
+**Why is this topic important**
+
+* Understanding, analysing and reusing data depends on how said data has been documented, structured, named and in other ways described
+* The inclusion of metadata - providing data about the data used in a project - secures that data can be properly utilized, both within and beyond your own project
+* Interpretation of project results requires an understanding of the data provenance/data lineage, i.e. where the data originates from and how it has been processed
+* Data documentation should start as early as possible, ideally in the form of accompanied structured metadata and ensuring that data is accessible
 " %}
 
 ## About this chapter

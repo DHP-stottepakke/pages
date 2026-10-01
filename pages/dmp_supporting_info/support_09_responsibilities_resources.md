@@ -22,9 +22,10 @@ turing:
 ---
 
 {% include callout.html type="tip" content="
-**Why is this topic important**\\
->> Defining responsibilities, project involvement and cost related to research data management is highly important when planning and conducting research projects\\
->> Relevant estimates of costs for research data management should be included when applying for financing, and this chapter will help you to develop relevant estimates\\
+**Why is this topic important**
+
+* Defining responsibilities, project involvement and cost related to research data management is highly important when planning and conducting research projects
+* Relevant estimates of costs for research data management should be included when applying for financing, and this chapter will help you to develop relevant estimates
 " %}
 
 ## About this chapter

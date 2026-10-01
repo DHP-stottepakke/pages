@@ -10,8 +10,9 @@ sidebar: dmp_supporting_information
 ---
 
 {% include callout.html type="important" content="
-**Something missing, wrong or inconvenient?**\\
->> Please help us improve the community resources!\\
+**Something missing, wrong or inconvenient?**
+
+* Please help us improve the community resources!
 " %}
 
 ## Feedback to the information resources on plan.research-data.no

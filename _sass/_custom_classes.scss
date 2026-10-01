@@ -175,12 +175,6 @@ section#search-section {
 
 /*-----Accordion styles-----*/
 
-// Add a bottom border to the last accordion.
-a.info-collapse[aria-expanded="false"]:last-of-type,
-a.info-collapse[aria-expanded="true"]:last-of-type + .show {
-    border-bottom: 1px solid $border-color;
-}
-
 // Remove border hover effect.
 .info-collapse:hover,
 .info-collapse[aria-expanded="true"] {
@@ -196,6 +190,23 @@ a.info-collapse:hover h3 {
     color: rgba($link-color, 0.8) !important;
 }
 
+/*-----More information tiles-----*/
+
+// Logo tile tints for the site-specific sections in _includes/more-information-tiles.html
+.info-card {
+    .info-logo-cessda {
+        background-color: rgba(#9f0074, .08);
+    }
+
+    .info-logo-turing {
+        background-color: rgba(#03a19f, .08);
+    }
+
+    .info-logo-other {
+        background-color: rgba($primary, .08);
+    }
+}
+
 /*-----Better tools-----*/
 .tool {
     border-radius: 1rem;
@@ -205,7 +216,8 @@ a.info-collapse:hover h3 {
 /*-----New Icons-----*/
 
 // Calender
-i.far.fa-calendar {
+i.icon-calendar {
+    display: inline-block;
     background: url("../img/section-icons/calendar.svg") center no-repeat;
     width: 17px;
     height: 17px;
@@ -215,8 +227,9 @@ i.far.fa-calendar {
     }
 }
 
-i.fa-solid.fa-map-marker-alt {
-    background: url("../img/section-icons/pin.svg") center no-repeat;
+i.icon-map-pin {
+    display: inline-block;
+    background: url("../img/section-icons/map_icon.svg") center no-repeat;
     width: 17px;
     height: 17px;
     margin-bottom: -2px;
@@ -226,7 +239,8 @@ i.fa-solid.fa-map-marker-alt {
 }
 
 // Fork
-i.fa-solid.fa-code-branch {
+i.icon-git-branch {
+    display: inline-block;
     background: url("../img/section-icons/git.svg") center no-repeat;
     width: 20px;
     height: 20px;
@@ -256,21 +270,6 @@ i.fa-solid.fa-wrench {
     &:before {
         content: "";
     }
-
-/*----- Accessibility: Touch target improvements -----*/
-
-// Ensure minimum touch target size on More Information buttons
-a.btn.bg-white {
-    min-height: 48px;
-    padding-top: 0.75rem;
-    padding-bottom: 0.75rem;
-}
-
-// Add spacing between stacked buttons
-.d-grid.gap-2 > a.btn {
-    margin-bottom: 0.5rem;
-}
-
     width: 1.2rem;
     height: 1.2rem;
     margin-bottom: -0.25rem;

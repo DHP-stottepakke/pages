@@ -13,9 +13,10 @@ rdmkit:
 ---
 
 {% include callout.html type="note" content="
-**On this page**\\
->> Links to institutional policies and guidelines\\
->> Funder requirements\\
+**On this page**
+
+* Links to institutional policies and guidelines
+* Funder requirements
 " %}
 
 ## Institutional policies and guidelines

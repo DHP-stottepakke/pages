@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Jenny Ostrop]
 page_id: rdm_terminology
 description: How is this called in Norwegian? Hva heter det på norsk?
-affiliations: 
+supported_by: 
 sidebar: background_knowledge
 toc: true
 ---
