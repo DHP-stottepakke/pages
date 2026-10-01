@@ -190,23 +190,6 @@ a.info-collapse:hover h3 {
     color: rgba($link-color, 0.8) !important;
 }
 
-/*-----More information tiles-----*/
-
-// Logo tile tints for the site-specific sections in _includes/more-information-tiles.html
-.info-card {
-    .info-logo-cessda {
-        background-color: rgba(#9f0074, .08);
-    }
-
-    .info-logo-turing {
-        background-color: rgba(#03a19f, .08);
-    }
-
-    .info-logo-other {
-        background-color: rgba($primary, .08);
-    }
-}
-
 /*-----Better tools-----*/
 .tool {
     border-radius: 1rem;
