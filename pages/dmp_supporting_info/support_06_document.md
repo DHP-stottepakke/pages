@@ -112,14 +112,14 @@ Further reading:
 
 Discuss making agreements between project members on usage rights and potential intellectual property rights prior to data collection. Defining rights and providing licenses to collected data will often reduce the potential for later conflicts around internal and external use (and reuse) of research data within and after the project period.
 
-Not all data are covered by The Copyright Act. Some data may be in the form of databases, and may also qualify for protection. If the data counts as a database(s), the institution will often hold rights to the database. However, this does not exclude usage rights for the researchers.
+Some data are Intelectual Property Rights (IPR) protected. This can also be in the form of databases, which may qualify for database protection. If the data counts as a database(s), the institution may hold rights to the database. However, this does not exclude usage rights for the researchers.
 
 If intellectual property rights are defined through a contract/agreement, make sure to refer to it in relation to the involved organisations in the chapter 'Legal and ethical aspects'.
 
-If the data is owned by, or copyrighted by, external bodies select this one and elaborate in the follow-up question, and the next question on "use restrictions".\
-Please note that there is no Fair Use-clause in the Norwegian Copyright Act, so subsequent usage of data from secondary sources would restrict future sharing. This can be described in the chapter 'Archiving and publishing data'.
+If the data is or will be owned by, or copyrighted by, external bodies due to contractuall agreement select this one and elaborate in the follow-up question, and the next question on “use restrictions”.\
+Please note that there is no Fair Use-clause in the Norwegian Copyright Law, so subsequent usage of data from secondary sources would restrict future sharing. This can be described in the chapter ‘Archiving and publishing data’.
 
-If there is a consortium agreement or rights are arranged in another way, please make sure to list any relevant contracts or agreements.
+If there is a research collaboration contract or rights are arranged in another way, please make sure to list any relevant contracts or agreements.
 
 Further reading:
 
