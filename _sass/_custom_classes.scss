@@ -190,6 +190,31 @@ a.info-collapse:hover h3 {
     color: rgba($link-color, 0.8) !important;
 }
 
+/*-----Callouts-----*/
+
+// Tighter line spacing and margins so callout boxes look less bulky.
+.callout,
+blockquote:is(.note, .tip, .warning, .important, .note-title, .tip-title, .warning-title, .important-title) {
+    line-height: 1.35;
+    padding-top: $spacer * 0.75;
+    padding-bottom: $spacer * 0.75;
+
+    &::after {
+        top: $spacer * 0.45;
+    }
+
+    p,
+    ul,
+    ol {
+        margin-bottom: $spacer * 0.4;
+    }
+}
+
+// Overrides the theme's `#main ul li` spacing, hence the ID selector.
+#main :is(.callout, blockquote:is(.note, .tip, .warning, .important, .note-title, .tip-title, .warning-title, .important-title)) li {
+    margin: $spacer * 0.15 0;
+}
+
 /*-----Better tools-----*/
 .tool {
     border-radius: 1rem;
