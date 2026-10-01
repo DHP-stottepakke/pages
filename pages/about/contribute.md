@@ -14,17 +14,17 @@ This contribution guide is adapted from the [RDMKit knowledge contribution guide
 
 This project is only possible with the many [contributors](/pages/contributors). **plan.research-data.no** is an open project where everyone can contribute to the site.
 
-If you wish to contribute, please remember the following: 
+If you wish to contribute, please remember the following:
 
 * Follow our [style guide](/pages/styleguide).
 * Ensure your content respects copyright. Please follow our [Copyright guidelines](/pages/copyright).
 * Acknowledge [contributions](#acknowledgement-and-ownership-of-content) of yourself and other contributors.
 
-
 ## Ways of contributing
 
 There are different ways to contribute:
-* Contact us by mail via [research-data@uib.no](mailto: research-data@uib.no)
+
+* Contact us by mail via [research-data@uib.no](mailto:research-data@uib.no)
 * [Create an issue](https://github.com/DHP-stottepakke/pages/issues/new/choose) on GitHub and describe what should be changed (zero experience required)
 * You can make a suggestion through [GitHub](/pages/github). Please remember to also describe it in an [issue](https://github.com/DHP-stottepakke/pages/issues/new/choose).
 * You can make a pull request with [git and GitHub](/pages/git). Please remember to also describe it in an [issue](https://github.com/DHP-stottepakke/pages/issues/new/choose).
@@ -38,5 +38,3 @@ No single contributor or editor owns the site's content or has the right to dict
 Since content is periodically updated, others may change your contribution without notifying you. However, the **plan.research-data.no** editors ensure that content is only modified for good reasons, ensuring that all legitimate concerns and different points of view are accommodated and that the content reflects the most popular consensus on any given topic.
 
 If you find any content unsatisfactory, please feel free to [create an issue](https://github.com/DHP-stottepakke/pages/issues/new/choose) about it.
-
-

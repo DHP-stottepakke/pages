@@ -1,4 +1,1146 @@
-# Tools and resources shown in the "Tools and resources on this page" table.
-# Keep as an empty list ([]) until entries are added: an empty file loads as
-# false and makes the theme render an empty table on every page.
-[]
+# Tools and resources referenced in the page text with {% tool "id" %}.
+# Each page that uses a tag gets a "Tools and resources on this page" table.
+# Documentation: https://elixir-belgium.github.io/elixir-toolkit-theme/resource_table
+# and the "Tools and resources" section of pages/about/styleguide.md.
+#
+# Fields: id (kebab-case), name (shown in the text), url (https), description
+# (one sentence, no quotation marks or apostrophes), optional instance_of and
+# how_to_access, and optional registry keys: biotools (bio.tools id),
+# fairsharing (DOI suffix without "FAIRsharing."), tess (TeSS search query)
+# and europmc (PubMed ID). Keep the list sorted by id.
+
+- id: amnesia
+  name: Amnesia
+  url: https://amnesia.openaire.eu/
+  description: Data anonymisation tool from OpenAIRE that removes identifying information from datasets.
+
+- id: argos
+  name: Argos
+  url: https://argos.openaire.eu/
+  description: DMP tool from OpenAIRE for creating, publishing and exploring data management plans.
+  registry:
+    tess: Argos
+    europmc: '37919767'
+
+- id: arkivverket
+  name: Arkivverket
+  url: https://www.arkivverket.no/utforsk-arkivene
+  description: The National Archives of Norway, with services for exploring archival material.
+
+- id: artsdatabanken
+  name: Artsdatabanken
+  url: https://www.artsdatabanken.no/
+  description: Norwegian Biodiversity Information Centre, a national knowledge bank for species and habitats.
+
+- id: base
+  name: BASE (Bielefeld Academic Search Engine)
+  url: https://www.base-search.net/
+  description: Search engine for academic web resources, harvesting metadata from repositories worldwide.
+
+- id: bbmri-eric
+  name: BBMRI-ERIC
+  url: https://www.bbmri-eric.eu/
+  description: Biobanking and BioMolecular resources Research Infrastructure, the European research infrastructure for biobanking.
+  registry:
+    tess: BBMRI-ERIC
+
+- id: biobank-norway
+  name: Biobank Norway
+  url: https://bbmri.no/
+  description: Norwegian node of BBMRI-ERIC, providing the ELSI Helpdesk for Biobanking and advice on regulations and standards.
+
+- id: care-principles
+  name: CARE Principles for Indigenous Data Governance
+  url: https://www.gida-global.org/careprinciples
+  description: 'Principles from the Global Indigenous Data Alliance (GIDA): Collective benefit, Authority to control, Responsibility and Ethics.'
+  registry:
+    fairsharing: 1faf1c
+    tess: CARE principles
+    europmc: '33863927'
+
+- id: cessda
+  name: CESSDA
+  url: https://www.cessda.eu/
+  description: Consortium of European Social Science Data Archives (CESSDA ERIC), which has its main office in Norway.
+
+- id: cessda-dmeg
+  name: CESSDA Data Management Expert Guide
+  url: https://dmeg.cessda.eu/
+  description: Guide by CESSDA that helps social science researchers make their research data FAIR, following the research data life cycle.
+
+- id: cessda-vocabulary-service
+  name: CESSDA Vocabulary Service
+  url: https://vocabularies.cessda.eu/
+  description: Service from CESSDA for publishing and accessing controlled vocabularies for the social sciences in several languages.
+  registry:
+    fairsharing: 5c7cec
+
+- id: clarin
+  name: CLARIN
+  url: https://www.clarin.eu/
+  description: Common Language Resources and Technology Infrastructure (CLARIN ERIC), a European research infrastructure for language resources and tools.
+
+- id: clarino
+  name: CLARINO
+  url: https://clarin.w.uib.no/
+  description: Norwegian node of CLARIN, maintaining research data repositories, tools and services for language research.
+
+- id: clarino-repository
+  name: CLARINO Bergen Repository
+  url: https://repo.clarino.uib.no/xmlui/
+  description: Repository for language data in the CLARINO infrastructure, supporting both open and restricted access.
+  registry:
+    fairsharing: a8f816
+
+- id: cmdi
+  name: Component MetaData Infrastructure (CMDI)
+  url: https://www.clarin.eu/content/cmdi-component-metadata-infrastructure
+  description: Flexible metadata framework used in CLARIN to describe language resources.
+  registry:
+    fairsharing: '2e0599'
+
+- id: coar-vocabularies
+  name: COAR Controlled Vocabularies
+  url: https://vocabularies.coar-repositories.org/
+  description: Controlled vocabularies for repositories by the Confederation of Open Access Repositories (COAR), for example for access rights.
+
+- id: codata-rdm-terminology
+  name: CODATA RDM Terminology
+  url: https://doi.org/10.5281/zenodo.10626170
+  description: Terminology for research data management by the CODATA RDM Terminology Working Group (2023 version).
+
+- id: coderefinery
+  name: CodeRefinery
+  url: https://coderefinery.org/
+  description: Training network that teaches researchers best practices in research software development.
+  registry:
+    tess: CodeRefinery
+
+- id: cordis
+  name: CORDIS
+  url: https://cordis.europa.eu/search
+  description: Community Research and Development Information Service, the European Commission database of EU-funded research projects and results.
+
+- id: coretrustseal
+  name: CoreTrustSeal
+  url: https://www.coretrustseal.org/
+  description: Certification of trustworthy data repositories based on a core set of requirements.
+  registry:
+    fairsharing: '469e84'
+    tess: CoreTrustSeal
+
+- id: credit
+  name: CRediT Contributor Roles Taxonomy
+  url: https://credit.niso.org/
+  description: Taxonomy of 14 roles that describe the contributions of individuals to research outputs.
+  registry:
+    fairsharing: fe4816
+
+- id: dans
+  name: DANS
+  url: https://dans.knaw.nl/en/
+  description: Dutch national centre of expertise and repository for research data (Data Archiving and Networked Services).
+
+- id: dariah-consent-form-wizard
+  name: DARIAH ELDAH Consent Form Wizard
+  url: https://consent.dariah.eu/
+  description: Tool from DARIAH for creating GDPR-compliant consent forms for research in the arts and humanities.
+
+- id: darwin-core
+  name: Darwin Core
+  url: https://dwc.tdwg.org/
+  description: Standard for sharing information about biological diversity, maintained by Biodiversity Information Standards (TDWG).
+  registry:
+    fairsharing: xvf5y3
+    tess: Darwin Core
+
+- id: data-curation-centre-metadata-list
+  name: DCC metadata standards directory
+  url: https://www.dcc.ac.uk/guidance/standards/metadata
+  description: Directory of disciplinary metadata standards maintained by the Digital Curation Centre (DCC).
+
+- id: data-europa-eu
+  name: data.europa.eu
+  url: https://data.europa.eu/en
+  description: Official portal for European open data from EU institutions and national data portals.
+  registry:
+    fairsharing: d7b57d
+    tess: data.europa.eu
+
+- id: data-norge
+  name: data.norge.no
+  url: https://data.norge.no/
+  description: Norwegian national catalogue of public sector datasets, concepts and APIs.
+
+- id: data-privacy-vocabulary
+  name: Data Privacy Vocabulary (DPV)
+  url: https://w3c.github.io/dpv/
+  description: Vocabulary from the W3C Data Privacy Vocabularies and Controls Community Group for describing the processing of personal data.
+
+- id: data-stewardship-wizard
+  name: FAIR Wizard / Data Stewardship Wizard (DSW)
+  url: https://ds-wizard.org/
+  description: Open source tool for composing smart data management plans, guided by knowledge models. FAIR Wizard is its software-as-a-service version, adding modules such as Admin Center, Integration Hub and Analytics.
+  registry:
+    biotools: Data_Stewardship_Wizard
+    tess: Data Stewardship Wizard
+
+- id: data-use-conditions
+  name: Data Use Conditions (DUC)
+  url: https://doi.org/10.1038/s41597-024-03280-6
+  description: Model for describing the conditions for using data in a structured, machine-readable way.
+  registry:
+    europmc: '38719839'
+
+- id: data-use-ontology
+  name: Data Use Ontology (DUO)
+  url: https://www.ga4gh.org/product/data-use-ontology-duo/
+  description: GA4GH standard for tagging datasets with machine-readable restrictions on their use.
+  registry:
+    fairsharing: 5dnjs2
+    europmc: '34820659'
+
+- id: datacite-commons
+  name: DataCite Commons
+  url: https://commons.datacite.org/
+  description: Search interface for works, people, organisations and repositories connected through DataCite DOIs and other persistent identifiers.
+  registry:
+    fairsharing: yknezb
+
+- id: datacite-metadata-schema
+  name: DataCite Metadata Schema
+  url: https://schema.datacite.org/
+  description: Metadata schema for the citation and retrieval of research outputs registered with DataCite DOIs.
+  registry:
+    fairsharing: me4qwe
+
+- id: dataone-skillbuilding-hub
+  name: DataONE Data Management Skillbuilding Hub
+  url: https://dataoneorg.github.io/Education/
+  description: Collection of reusable training materials on research data management by DataONE.
+
+- id: datashield
+  name: DataSHIELD
+  url: https://www.datashield.org/
+  description: Open source infrastructure and software for federated analysis of sensitive data without disclosing individual-level data.
+  registry:
+    biotools: datashield
+    europmc: '25261970'
+
+- id: datatilsynet-anonymisation-guide
+  name: Datatilsynet anonymisation guide
+  url: https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download
+  description: Guide to the anonymisation of personal data by the Norwegian Data Protection Authority (Datatilsynet), 2015.
+
+- id: datatilsynet-vocabulary
+  name: Datatilsynet vocabulary
+  url: https://www.datatilsynet.no/en/regulations-and-tools/vocabulary/
+  description: English-Norwegian vocabulary of data protection terms by the Norwegian Data Protection Authority (Datatilsynet).
+
+- id: dataverseno
+  name: DataverseNO
+  url: https://dataverse.no/
+  description: National generic repository for open research data, used by many Norwegian research institutions through partner agreements.
+  registry:
+    fairsharing: 5O9YTT
+
+- id: dawid
+  name: Data Agreement Wizard (DAWID)
+  url: https://dawid.elixir-luxembourg.org/
+  description: Tool developed by ELIXIR Luxembourg to help draft data sharing agreements.
+
+- id: dcc
+  name: Digital Curation Centre (DCC)
+  url: https://www.dcc.ac.uk/
+  description: UK centre of expertise in digital curation, offering guidance and example data management plans.
+  registry:
+    tess: Digital Curation Centre
+
+- id: deic-dmp
+  name: DeiC DMP
+  url: https://dmp.deic.dk/
+  description: Danish national tool for writing data management plans, provided by the Danish e-Infrastructure Cooperation (DeiC).
+
+- id: digitaltmuseum
+  name: DigitaltMuseum
+  url: https://digitaltmuseum.no/
+  description: Database of objects, photos and art from Norwegian and Swedish museum collections.
+
+- id: dimensions
+  name: Dimensions
+  url: https://www.dimensions.ai/
+  description: Commercial research database linking grants, publications, datasets, patents and clinical trials.
+
+- id: dmptuuli-guidance
+  name: DMPTuuli guidance
+  url: https://doi.org/10.5281/zenodo.5242629
+  description: General Finnish DMP guidance (2021) by the Tuuli project, the Finnish DMPTuuli community.
+
+- id: dsw-elixir-norway
+  name: ELIXIR Norway DSW
+  url: https://norway.dsw.elixir-europe.org/
+  description: Data Stewardship Wizard instance provided by ELIXIR Norway for life science researchers at all Norwegian institutions.
+  instance_of: data-stewardship-wizard
+
+- id: dublincore
+  name: Dublin Core
+  url: https://www.dublincore.org/
+  description: Metadata standard with a small set of terms for describing resources of any kind.
+  registry:
+    fairsharing: nbh61z
+    tess: Dublin Core
+
+- id: easy-dmp
+  name: EasyDMP
+  url: https://www.sigma2.no/service/data-management-plan
+  description: DMP tool from Sigma2 with templates and guidance for writing data management plans.
+
+- id: ebrains-knowledge-graph
+  name: EBRAINS Knowledge Graph
+  url: https://docs.kg.ebrains.eu/
+  description: Metadata management system and search platform of the EBRAINS research infrastructure for brain research data.
+  registry:
+    fairsharing: XO6ppp
+
+- id: ec-ethics-decision-tree
+  name: EC ethics and data protection decision tree
+  url: https://ec.europa.eu/assets/rtd/ethics-data-protection-decision-tree/index.html
+  description: Interactive decision tree from the European Commission for identifying ethics and data protection issues in research projects.
+
+- id: ecrin
+  name: ECRIN
+  url: https://ecrin.org/
+  description: European Clinical Research Infrastructure Network (ECRIN ERIC), supporting multinational clinical research.
+
+- id: edpb-anonymisation-guidelines
+  name: EDPB Guidelines 02/2026 on Anonymisation
+  url: https://www.edpb.europa.eu/public-consultations/guidelines-022026-on-anonymisation_en
+  description: Guidelines from the European Data Protection Board on the anonymisation of personal data under the GDPR.
+
+- id: edpb-pseudonymisation-guidelines
+  name: EDPB Guidelines 01/2025 on Pseudonymisation
+  url: https://www.edpb.europa.eu/public-consultations/guidelines-012025-on-pseudonymisation_en
+  description: Guidelines from the European Data Protection Board on the pseudonymisation of personal data under the GDPR.
+
+- id: educloud-research
+  name: Educloud Research
+  url: https://www.uio.no/english/services/it/research/platforms/edu-research/
+  description: Platform from the University of Oslo IT department that provides a work environment and compute resources for research projects.
+
+- id: eifl-digital-research-literacy
+  name: EIFL Digital Research Literacy Training Programme
+  url: https://eifl.net/programmes/digital-research-literacy
+  description: Training programme outline for librarians by EIFL, with modules including writing a data management plan.
+
+- id: elixir
+  name: ELIXIR
+  url: https://elixir-europe.org/
+  description: European intergovernmental infrastructure for life science data, bringing together resources, tools and training.
+
+- id: elixir-belgium-rdm-guide
+  name: ELIXIR Belgium RDM Guide
+  url: https://rdm.elixir-belgium.org/
+  description: Research data management guide by ELIXIR Belgium, covering topics such as data licences.
+
+- id: elixir-norway
+  name: ELIXIR Norway
+  url: https://elixir.no/
+  description: Norwegian node of ELIXIR, providing data management support, e-infrastructure, tools, data resources and training for the life sciences.
+  registry:
+    tess: ELIXIR Norway
+
+- id: elixir-software-management-plan
+  name: ELIXIR Software Management Plan
+  url: https://smw.dsw.elixir-europe.org/wizard/knowledge-models/smw:smp:0.0.18
+  description: Software management plan template from ELIXIR, available as a knowledge model in the Data Stewardship Wizard.
+
+- id: elsst
+  name: European Language Social Science Thesaurus (ELSST)
+  url: https://elsst.cessda.eu/
+  description: Multilingual thesaurus for the social sciences, maintained by CESSDA.
+  registry:
+    fairsharing: acd824
+
+- id: eosc-pillar-training-catalogue
+  name: EOSC-Pillar training and support catalogue
+  url: https://eosc-pillar.d4science.org/web/eoscpillartrainingandsupport
+  description: Catalogue of training and support materials on FAIR data and open science collected by the EOSC-Pillar project.
+
+- id: eu-openscreen
+  name: EU-OPENSCREEN
+  url: https://www.eu-openscreen.eu/
+  description: European research infrastructure for chemical biology and early drug discovery (EU-OPENSCREEN ERIC).
+
+- id: eudat-licence-selector-wizard
+  name: EUDAT licence selector wizard
+  url: https://ufal.github.io/public-license-selector/
+  description: Wizard by EUDAT for finding the right licence for your data or code.
+  registry:
+    tess: license selector
+
+- id: euro-bioimaging
+  name: Euro-BioImaging
+  url: https://www.eurobioimaging.eu/
+  description: European research infrastructure for imaging technologies in the biological and biomedical sciences.
+  registry:
+    fairsharing: '5505e1'
+    tess: Euro-BioImaging
+    europmc: '35146400'
+
+- id: europe-pmc
+  name: Europe PMC
+  url: https://europepmc.org/
+  description: Repository providing access to life science articles, books, patents and clinical guidelines.
+  registry:
+    biotools: europe_pmc
+    fairsharing: cmw6mm
+    tess: Europe PMC
+    europmc: '37994696'
+
+- id: european-nucleotide-archive
+  name: European Nucleotide Archive (ENA)
+  url: https://www.ebi.ac.uk/ena/
+  description: Archive of nucleotide sequence information, from raw sequencing reads to assemblies and functional annotation.
+  registry:
+    biotools: ena
+    fairsharing: dj8nt8
+    tess: European Nucleotide Archive
+    europmc: '41335099'
+
+- id: europeana
+  name: Europeana
+  url: https://www.europeana.eu/en
+  description: European digital platform for cultural heritage from museums, libraries and archives.
+  registry:
+    fairsharing: 7a912a
+
+- id: fair-aware
+  name: FAIR-Aware
+  url: https://fairaware.dans.knaw.nl/
+  description: Online tool from DANS and FAIRsFAIR that helps researchers assess how well they know how to make their datasets FAIR.
+
+- id: fair-aware-additional-guidance
+  name: FAIR-Aware additional guidance
+  url: https://doi.org/10.5281/zenodo.6088215
+  description: FAIRsFAIR (2022). FAIR-Aware additional guidance to the Science Europe DMP assessment rubric, by Maaike Verburg and Marjan Grootveld.
+
+- id: fair-cookbook
+  name: FAIR Cookbook
+  url: https://faircookbook.elixir-europe.org/
+  description: Online resource for the life sciences with recipes that help you make and keep data Findable, Accessible, Interoperable and Reusable (FAIR).
+  registry:
+    biotools: fair_cookbook
+    tess: FAIR Cookbook
+    europmc: '37208467'
+
+- id: fair-data-maturity-model
+  name: FAIR Data Maturity Model
+  url: https://doi.org/10.15497/rda00050
+  description: Research Data Alliance specification and guidelines with indicators for evaluating how FAIR data are.
+
+- id: fair-impact
+  name: FAIR-IMPACT
+  url: https://fair-impact.eu/
+  description: EU project supporting the implementation of FAIR data and metadata in the European Open Science Cloud, including work on FAIR metrics.
+
+- id: fair-impact-catalogue
+  name: FAIR-IMPACT resource catalogue
+  url: https://catalogue.fair-impact.eu/resources
+  description: Catalogue of guidelines, training materials and other outputs on FAIR data from the FAIR-IMPACT project.
+
+- id: fair-principles
+  name: FAIR principles
+  url: https://www.go-fair.org/fair-principles/
+  description: Guiding principles to make data Findable, Accessible, Interoperable and Reusable, for both humans and machines.
+  registry:
+    tess: FAIR principles
+    europmc: '26978244'
+
+- id: fair-software-nl
+  name: fair-software.nl
+  url: https://fair-software.nl/
+  description: Five recommendations for making research software FAIR, from the Netherlands eScience Center and DANS.
+
+- id: fair-teaching-handbook
+  name: FAIR teaching handbook
+  url: https://fairsfair.gitbook.io/fair-teaching-handbook
+  description: Handbook by the FAIRsFAIR project with lesson plans for teaching the FAIR principles, including data management plans.
+
+- id: fair-wizard-norway
+  name: FAIR Wizard Norway
+  url: https://norway.fair-wizard.com/
+  description: Shared FAIR Wizard instance of the Sikt national pilot for researchers at NTNU, UiB, UiO and UiT.
+  instance_of: data-stewardship-wizard
+  how_to_access: For researchers at NTNU, UiB, UiO and UiT.
+
+- id: fair-wizard-sikt-rhf
+  name: siktnorway-rhf.fair-wizard.com
+  url: https://siktnorway-rhf.fair-wizard.com/
+  description: Shared FAIR Wizard instance of the Sikt national pilot for users at Norwegian hospitals.
+  instance_of: data-stewardship-wizard
+
+- id: fair-wizard-sikt-ri
+  name: siktnorway-ri.fair-wizard.com
+  url: https://siktnorway-ri.fair-wizard.com/
+  description: Shared FAIR Wizard instance of the Sikt national pilot for users from NORCE, NGI and NIBIO.
+  instance_of: data-stewardship-wizard
+
+- id: fair-wizard-sikt-uh
+  name: siktnorway-uh.fair-wizard.com
+  url: https://siktnorway-uh.fair-wizard.com/
+  description: Shared FAIR Wizard instance of the Sikt national pilot for users from UiA, UiS, OsloMet, INN and Nord University.
+  instance_of: data-stewardship-wizard
+
+- id: fair-wizard-sintef
+  name: sintef.fair-wizard.com
+  url: https://sintef.fair-wizard.com/
+  description: FAIR Wizard instance for users from SINTEF.
+  instance_of: data-stewardship-wizard
+
+- id: fairsfair-training-library
+  name: FAIRsFAIR training library
+  url: https://www.fairsfair.eu/competence-centre/training-library
+  description: Library of training materials on FAIR data and research data management produced by the FAIRsFAIR project.
+
+- id: fairsharing
+  name: FAIRsharing
+  url: https://fairsharing.org/
+  description: Curated registry of data and metadata standards, databases and repositories, and data policies.
+  registry:
+    fairsharing: 2abjs5
+    tess: FAIRsharing
+    europmc: '30940948'
+
+- id: fega-norway
+  name: Federated EGA Norway node
+  url: https://ega.elixir.no/
+  description: Norwegian node of the Federated European Genome-phenome Archive (FEGA) for secure storage and sharing of sensitive human data.
+  registry:
+    tess: Federated EGA
+    europmc: '40033058'
+
+- id: figshare
+  name: Figshare
+  url: https://figshare.com/
+  description: Generalist repository and data publishing platform.
+  registry:
+    fairsharing: drtwnh
+    tess: Figshare
+
+- id: fots
+  name: FOTS
+  url: https://asp.gitek.no/fdu/pmws.dll/Login
+  description: Application portal of the Norwegian Food Safety Authority for approving animal experiments.
+
+- id: ga4gh-consent-toolkit
+  name: GA4GH Consent Toolkit
+  url: https://www.ga4gh.org/product/consent-toolkit/
+  description: Toolkit from the Global Alliance for Genomics and Health with consent policies, clauses and machine-readable consent codes for genomic research.
+
+- id: gbif
+  name: Global Biodiversity Information Facility (GBIF)
+  url: https://www.gbif.org/
+  description: International network and data platform that provides open access to biodiversity data from sources worldwide.
+  registry:
+    biotools: GBIF
+    fairsharing: zv11j3
+    tess: GBIF
+
+- id: gbif-norway
+  name: GBIF Norway
+  url: https://www.gbif.no/
+  description: Norwegian node of GBIF, providing IT services and assistance with depositing biodiversity data.
+  registry:
+    fairsharing: 1gx1wq
+
+- id: gene-ontology
+  name: Gene Ontology
+  url: https://geneontology.org/
+  description: Ontology describing the functions of genes and gene products across species.
+  registry:
+    biotools: go
+    fairsharing: 6xq0ee
+    tess: Gene Ontology
+    europmc: '41413728'
+
+- id: generalist-repository-comparison-chart
+  name: Generalist Repository Comparison Chart
+  url: https://doi.org/10.5281/zenodo.7946938
+  description: Chart comparing the features of generalist data repositories (Stall et al., version 3.0, 2023).
+
+- id: git-annex
+  name: git-annex
+  url: https://git-annex.branchable.com/
+  description: Tool for managing large files with Git without checking the file contents into Git.
+
+- id: git-lfs
+  name: Git LFS
+  url: https://git-lfs.com/
+  description: Git Large File Storage, an extension that replaces large files in a Git repository with text pointers.
+
+- id: github
+  name: GitHub
+  url: https://github.com/
+  description: Platform for version control and collaboration on code, which can be linked to Zenodo to archive software releases.
+  registry:
+    fairsharing: c55d5e
+    tess: GitHub
+
+- id: google-dataset-search
+  name: Google Dataset Search
+  url: https://datasetsearch.research.google.com/
+  description: Search engine for datasets published on the web.
+
+- id: google-public-data
+  name: Google Public Data Explorer
+  url: https://www.google.com/publicdata/directory
+  description: Directory of public datasets from international organisations and statistical offices.
+
+- id: helsedata
+  name: helsedata.no
+  url: https://www.helsedata.no/
+  description: Norwegian national portal for finding and applying for access to health data, including open and restricted datasets.
+
+- id: horizon-europe-dmp-template
+  name: Horizon Europe DMP template
+  url: https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON
+  description: Data management plan template for Horizon Europe projects, available among the reference documents of the EU Funding and Tenders Portal.
+
+- id: horizon-europe-programme-guide
+  name: Horizon Europe Programme Guide
+  url: https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf
+  description: Guide from the European Commission to the Horizon Europe programme, including requirements for open science and research data management.
+
+- id: howtofair
+  name: How to FAIR
+  url: https://howtofair.dk/
+  description: Online resource from Denmark with guidance, case studies and quizzes on how to make research data FAIR.
+
+- id: human-phenotype-ontology
+  name: Human Phenotype Ontology
+  url: https://hpo.jax.org/
+  description: Standardised vocabulary of phenotypic abnormalities encountered in human disease.
+  registry:
+    biotools: hpo
+    fairsharing: kbtt7f
+    europmc: '37953324'
+
+- id: humord
+  name: Humord
+  url: https://data.ub.uio.no/skosmos/humord/nb/
+  description: Norwegian thesaurus for the humanities and social sciences, managed by the University of Oslo Library.
+
+- id: hunt-cloud
+  name: HUNT Cloud
+  url: https://about.hdc.ntnu.no/
+  description: Secure cloud environment at NTNU for storing and analysing sensitive health data.
+
+- id: hunt-data
+  name: HUNT Study data
+  url: https://www.ntnu.edu/hunt/data
+  description: Information on accessing data from the HUNT Study, a large Norwegian population-based health study.
+  how_to_access: Requires REK approval and an application to the HUNT Data Access Committee.
+
+- id: hunt-databank
+  name: HUNT Databank
+  url: https://hunt-db.medisin.ntnu.no/hunt-db/variablelist
+  description: Searchable overview of the variables collected in the HUNT Study, a large Norwegian population-based health study.
+  registry:
+    fairsharing: 37d135
+
+- id: identifiers-org
+  name: Identifiers.org
+  url: https://identifiers.org/
+  description: Resolution service providing consistent access to life science data using compact identifiers (prefix:accession).
+  registry:
+    biotools: identifiers.org
+    fairsharing: n14rc8
+    tess: Identifiers.org
+
+- id: ihelse-research-projects
+  name: ihelse forskningsprosjekter
+  url: https://forskningsprosjekter.ihelse.net/
+  description: Database of research projects funded by the Norwegian regional health authorities.
+
+- id: informed-consent-ontology
+  name: Informed Consent Ontology (ICO)
+  url: https://www.ebi.ac.uk/ols4/ontologies/ico
+  description: Ontology for informed consent and the informed consent process in the medical field.
+  registry:
+    fairsharing: b9znd5
+
+- id: liber-dmp-catalogue
+  name: LIBER DMP catalogue
+  url: https://libereurope.eu/working-group/research-data-management/plans/
+  description: Catalogue of published data management plans collected by the LIBER Research Data Management Working Group.
+
+- id: linked-open-vocabularies
+  name: Linked Open Vocabularies (LOV)
+  url: https://lov.linkeddata.es/dataset
+  description: Portal for finding reusable vocabularies for describing data on the web.
+
+- id: madmp-government-extension
+  name: maDMP extension for governments and large organisations
+  url: https://fairerdata.github.io/maDMP-Standard/
+  description: Extension of the RDA DMP Common Standard for governments and other large organisations.
+
+- id: marine-regions
+  name: Marine Regions
+  url: https://www.marineregions.org/
+  description: Standard list of marine geographic names, with information and maps of their locations.
+  registry:
+    fairsharing: '5164e7'
+
+- id: masmp
+  name: maSMP
+  url: https://zbmed-semtec.github.io/maSMPs/
+  description: Metadata schema for machine-actionable software management plans, developed by ZB MED.
+
+- id: mendeley-data
+  name: Mendeley Data
+  url: https://data.mendeley.com/
+  description: Multidisciplinary, free-to-use open repository for research data.
+  registry:
+    fairsharing: 3epmpp
+
+- id: mesh
+  name: Medical Subject Headings (MeSH)
+  url: https://www.nlm.nih.gov/mesh/
+  description: Controlled vocabulary from the US National Library of Medicine for indexing and searching biomedical and health information.
+  registry:
+    fairsharing: qnkw45
+
+- id: microdata-no
+  name: microdata.no
+  url: https://www.microdata.no/en/
+  description: Service for analysing register data from Statistics Norway and other sources without applications or data export.
+  how_to_access: Available to employees and students at Norwegian higher education institutions with a service agreement.
+
+- id: nalmin
+  name: NALMIN
+  url: https://nalmin.no/
+  description: Norwegian Advanced Light Microscopy Imaging Network, a national network of advanced light microscopy nodes.
+
+- id: napi
+  name: NAPI
+  url: https://www.napi.uio.no/
+  description: National network of Advanced Proteomics Infrastructure, combining proteomics expertise and core facilities across Norway.
+
+- id: nels
+  name: NeLS (Norwegian e-Infrastructure for Life Sciences)
+  url: https://nels.bioinfo.no/
+  description: Infrastructure provided by ELIXIR Norway where life scientists can store, share, archive and analyse their data.
+  registry:
+    biotools: nels
+    tess: Norwegian e-Infrastructure for Life Sciences
+    europmc: '30271575'
+
+- id: nettarkivet
+  name: Nettarkivet
+  url: https://www.nb.no/en/collection/web-archive/
+  description: Norwegian Web Archive at the National Library of Norway, preserving websites under the .no domain.
+
+- id: nfdi4chem
+  name: NFDI4Chem
+  url: https://www.nfdi4chem.de/
+  description: German national research data infrastructure for chemistry, offering guidance on research data management.
+  registry:
+    fairsharing: 698ae4
+    europmc: '31313429'
+
+- id: nfr-dmp-guidance
+  name: NFR guidance on sharing research data
+  url: https://www.forskningsradet.no/en/research-policy-strategy/open-science/research-data/
+  description: Guidance from the Research Council of Norway (NFR) on sharing research data, including what a data management plan should contain.
+
+- id: nird-service-platform
+  name: NIRD Service Platform
+  url: https://www.sigma2.no/service/nird-service-platform
+  description: Sigma2 platform for running services and analyses close to the data stored in NIRD, the National Infrastructure for Research Data.
+
+- id: no-rda-personal-data-guide
+  name: 'NO-RDA: Veileder for deling av forskningsdata med personopplysninger'
+  url: https://doi.org/10.18711/j7pc-7883
+  description: Guide (in Norwegian) from Research Data Alliance Norway (NO-RDA) on sharing research data that contain personal data.
+
+- id: no-rda-term-list
+  name: NO-RDA termliste for forskningsdatahåndtering
+  url: https://www.openscience.no/en/node/3544
+  description: Norwegian-English term list for research data management by Research Data Alliance Norway (NO-RDA).
+
+- id: nor-openscreen
+  name: NOR-OPENSCREEN
+  url: https://www.openscreen.uio.no/english/index.html
+  description: Norwegian node of EU-OPENSCREEN for chemical biology, offering guidance on FAIR data management.
+
+- id: norcrin
+  name: NorCRIN
+  url: https://www.norcrin.no/
+  description: Norwegian Clinical Research Infrastructure Network, advising on national procedures, good clinical practice, data management and monitoring.
+
+- id: norges-dokumentarv
+  name: Norges dokumentarv
+  url: https://www.kulturdirektoratet.no/samlinger/norges-dokumentarv
+  description: Norwegian register of documentary heritage, part of the UNESCO Memory of the World programme.
+
+- id: nrec
+  name: NREC
+  url: https://www.nrec.no/
+  description: Norwegian Research and Education Cloud, an infrastructure-as-a-service cloud operated by the Universities of Bergen and Oslo.
+
+- id: ntnu-data-storage-guide
+  name: NTNU data storage guide
+  url: https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide
+  description: Guide from NTNU for choosing storage solutions for research data based on the classification of the data.
+
+- id: ntnu-dmp-guidance
+  name: NTNU DMP guidance
+  url: https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance
+  description: Guidance from the Norwegian University of Science and Technology (NTNU) on writing a data management plan.
+
+- id: ntnu-open-science-toolbox
+  name: NTNU Open Science Toolbox
+  url: https://www.ntnu.no/ub/prosjekter/ostoolbox
+  description: Open science resources from the NTNU University Library, including guidance on data management plans (in Norwegian).
+
+- id: ntnu-special-collections
+  name: NTNU Library Special Collections
+  url: https://www.ntnu.edu/ub/special-collections
+  description: Special collections of the NTNU University Library, including manuscripts, archives and digitised material.
+
+- id: nva
+  name: Nasjonalt vitenarkiv (NVA)
+  url: https://nva.sikt.no/
+  description: The National Research Archive of Norway, run by Sikt, for registering and archiving research results.
+
+- id: nve-map-services
+  name: NVE map services
+  url: https://www.nve.no/karttjenester/
+  description: Map services and geographical data from the Norwegian Water Resources and Energy Directorate (NVE), in Norwegian.
+
+- id: odrl
+  name: Open Digital Rights Language (ODRL)
+  url: https://www.w3.org/TR/odrl-vocab/
+  description: W3C policy expression language for describing permissions, prohibitions and obligations for using content and data.
+
+- id: ontology-lookup-service
+  name: Ontology Lookup Service (OLS)
+  url: https://www.ebi.ac.uk/ols4/
+  description: EMBL-EBI portal for finding and browsing biomedical ontologies.
+  registry:
+    biotools: ols
+    fairsharing: Mkl9RR
+    tess: Ontology Lookup Service
+    europmc: '40323307'
+
+- id: open-data-handbook
+  name: Open Data Handbook
+  url: https://opendatahandbook.org/
+  description: Handbook by the Open Knowledge Foundation on the legal, social and technical aspects of open data, including file formats.
+
+- id: openaire
+  name: OpenAIRE
+  url: https://www.openaire.eu/
+  description: European infrastructure for open scholarly communication, offering services and guides for researchers on open science and research data management.
+  registry:
+    tess: OpenAIRE
+
+- id: openaire-explore
+  name: OpenAIRE Explore
+  url: https://explore.openaire.eu/
+  description: Search service for research outputs, including datasets, from the OpenAIRE Graph.
+  registry:
+    fairsharing: '812714'
+
+- id: openaire-rdm-costs-tool
+  name: OpenAIRE RDM costs tool
+  url: https://www.openaire.eu/estimating-costs-rdm-tool
+  description: Tool and guidance from OpenAIRE for estimating the costs of research data management in a project.
+
+- id: openstack-ntnu
+  name: OpenStack at NTNU
+  url: https://www.ntnu.no/wiki/spaces/skyhigh/pages/93261214/Openstack+at+NTNU
+  description: OpenStack cloud platforms at NTNU for research and education.
+
+- id: orcid
+  name: ORCID
+  url: https://orcid.org/
+  description: Open, non-profit registry of persistent identifiers for researchers, used to link researchers to their contributions.
+  registry:
+    biotools: orcid
+    fairsharing: nx58jg
+    tess: ORCID
+
+- id: ostrails-madmp-application-profile
+  name: OSTrails maDMP Application Profile
+  url: https://docs.ostrails.eu/en/latest/commons/dmp/application-profile.html
+  description: Application profile by the OSTrails project that extends the RDA DMP Common Standard for machine-actionable DMPs.
+
+- id: privacy-compliance-10-steps
+  name: 10 steps towards privacy compliance in research
+  url: https://doi.org/10.5281/zenodo.10417514
+  description: Handout from Utrecht University Research Data Management Support with steps for processing personal data in research in line with the GDPR.
+
+- id: prosjektbanken
+  name: Prosjektbanken
+  url: https://prosjektbanken.forskningsradet.no/
+  description: Database of projects funded by the Research Council of Norway.
+
+- id: qvain
+  name: Qvain
+  url: https://www.fairdata.fi/en/qvain/
+  description: Tool in the Finnish Fairdata services for describing and publishing research datasets with rich metadata.
+
+- id: rda-dmp-common-standard
+  name: RDA DMP Common Standard
+  url: https://doi.org/10.15497/rda00039
+  description: Research Data Alliance recommendation defining a common data model for machine-actionable data management plans (maDMP).
+  registry:
+    fairsharing: 6e60e5
+
+- id: rda-metadata-standards-catalog
+  name: RDA Metadata Standards Catalog
+  url: https://rdamsc.bath.ac.uk/
+  description: Catalogue of metadata standards, their extensions and tools, maintained by the Research Data Alliance.
+
+- id: rdm-lookup-norway
+  name: Norwegian Life Science RDM LookUp
+  url: https://elixir.no/rdm-lookup/
+  description: Overview of research data management resources for life science researchers in Norway, provided by ELIXIR Norway.
+
+- id: rdmkit
+  name: RDMkit
+  url: https://rdmkit.elixir-europe.org/
+  description: The ELIXIR Research Data Management Kit, a knowledge hub with practical guidance on research data management in the life sciences.
+  registry:
+    biotools: rdmkit
+    tess: RDMkit
+    europmc: '41040964'
+
+- id: re3data
+  name: re3data
+  url: https://www.re3data.org/
+  description: Registry of research data repositories across all disciplines.
+  registry:
+    fairsharing: fae0b7
+    tess: re3data
+    europmc: '37644024'
+
+- id: rek-portalen
+  name: REK-portalen
+  url: https://rekportalen.no/
+  description: Application portal of the Regional Committees for Medical and Health Research Ethics (REK).
+
+- id: research-vocabularies-australia
+  name: Research Vocabularies Australia
+  url: https://vocabs.ardc.edu.au/
+  description: Service from the Australian Research Data Commons (ARDC) for finding, accessing and reusing controlled vocabularies.
+  registry:
+    fairsharing: ACANXg
+
+- id: researchdata-se
+  name: Researchdata.se
+  url: https://researchdata.se/en
+  description: Swedish national portal with guidance on research data management, including data containing personal information.
+  registry:
+    fairsharing: 6c1caa
+
+- id: rette
+  name: RETTE
+  url: https://rette.app.uib.no/
+  description: System for risk and compliance at the University of Bergen, used to register the processing of personal data in research and student projects.
+
+- id: rio-journal
+  name: RIO Journal
+  url: https://riojournal.com/
+  description: Research Ideas and Outcomes, an open access journal that publishes outputs from all stages of research, including data management plans.
+
+- id: ror
+  name: Research Organization Registry (ROR)
+  url: https://ror.org/
+  description: Registry of open, persistent identifiers for research organisations.
+  registry:
+    fairsharing: 1jKfji
+
+- id: safe
+  name: SAFE
+  url: https://www.uib.no/en/safe
+  description: Secure access to research data and e-infrastructure, the University of Bergen solution for processing sensitive personal data in research.
+
+- id: science-europe-dmp-evaluation-rubric
+  name: Science Europe DMP evaluation rubric
+  url: https://scienceeurope.org/media/22hpslfl/se-rdm-template-5-guidance-on-the-evaluation-of-data-management-plans.docx
+  description: Science Europe template with guidance for reviewers on evaluating data management plans against minimal requirements.
+
+- id: science-europe-dmp-guidance
+  name: Science Europe DMP guidance
+  url: https://doi.org/10.5281/zenodo.4915862
+  description: Science Europe (2021). Practical Guide to the International Alignment of Research Data Management - Extended Edition, with core requirements for data management plans.
+
+- id: sigma2
+  name: Sigma2
+  url: https://www.sigma2.no/
+  description: Norwegian national e-infrastructure provider for high-performance computing and large-scale data storage.
+
+- id: sigma2-hpc
+  name: Sigma2 High-Performance Computing (HPC)
+  url: https://www.sigma2.no/service/high-performance-computing
+  description: National high-performance computing (HPC) systems for Norwegian academic research, provided by Sigma2.
+
+- id: sikresiden
+  name: Sikresiden.no
+  url: https://www.sikresiden.no/
+  description: Norwegian website on safety, security and emergency preparedness in higher education and research, with e-learning courses for researchers.
+
+- id: sikt
+  name: Sikt
+  url: https://sikt.no/en/omrade/research-data
+  description: Norwegian Agency for Shared Services in Education and Research, offering services and guidance for research data, archiving and data protection.
+
+- id: sikt-archive
+  name: Sikt archive
+  url: https://sikt.no/en/archiving-research-data
+  description: Archive run by Sikt for research data about people and society, including personal data with restricted access.
+  registry:
+    fairsharing: mKDii0
+
+- id: sikt-dmp-guidance
+  name: Sikt DMP guidance
+  url: https://sikt.no/en/study-or-research/data-management-plan
+  description: Guidance and template from Sikt for writing a data management plan.
+
+- id: sikt-filesender
+  name: Sikt FileSender
+  url: https://sikt.no/tjenester/filesender
+  description: Service from Sikt for sending large files securely.
+
+- id: sikt-notification-form
+  name: Sikt notification form (Meldeskjema)
+  url: https://sikt.no/en/notification-form-personal-data
+  description: Form for notifying Sikt about research projects that process personal data, so that the processing can be assessed.
+
+- id: skills4eosc
+  name: Skills4EOSC
+  url: https://www.skills4eosc.eu/
+  description: EU project that developed training resources and a curriculum for data stewards and researchers on open science and FAIR data.
+  registry:
+    tess: Skills4EOSC
+
+- id: snd-dmp-checklist
+  name: SND checklist for DMP
+  url: https://doi.org/10.5281/zenodo.6424769
+  description: Checklist for Data Management Plan by the Swedish National Data Service (SND), explaining why each question matters.
+
+- id: software-carpentry
+  name: Software Carpentry
+  url: https://software-carpentry.org/
+  description: Community that teaches foundational coding and data skills to researchers, for example in the lesson Version Control with Git.
+  registry:
+    tess: Software Carpentry
+    europmc: '24715981'
+
+- id: spdx-license-list
+  name: SPDX License List
+  url: https://spdx.org/licenses/
+  description: List of commonly used licences with standardised short identifiers, maintained by the Software Package Data Exchange (SPDX) project.
+  registry:
+    fairsharing: fde054
+
+- id: statistics-norway
+  name: Statistics Norway (SSB)
+  url: https://www.ssb.no/en
+  description: Norwegian national statistical institute, offering open statistics and APIs in the Statbank and access to microdata for researchers.
+
+- id: surveybanken
+  name: Surveybanken
+  url: https://sikt.no/surveybanken
+  description: Service from Sikt for finding and accessing survey data.
+
+- id: termportalen
+  name: Termportalen
+  url: https://www.termportalen.no/
+  description: Norwegian terminology portal with termbases for many subject fields, including library and information science.
+
+- id: the-turing-way
+  name: The Turing Way
+  url: https://book.the-turing-way.org/
+  description: Community-written handbook on reproducible, ethical and collaborative data science.
+  registry:
+    tess: The Turing Way
+
+- id: tib-terminology-service
+  name: TIB Terminology Service
+  url: https://terminology.tib.eu/ts/
+  description: Service from TIB, the Leibniz Information Centre for Science and Technology, for finding and using terminologies and ontologies.
+
+- id: trolling
+  name: TROLLing
+  url: https://site.uit.no/trolling/
+  description: Tromsø Repository of Language and Linguistics, a collection in DataverseNO for linguistic data and statistical code.
+  registry:
+    fairsharing: JGEjCW
+
+- id: tsd
+  name: TSD
+  url: https://www.uio.no/english/services/it/research/sensitive-data/
+  description: Services for sensitive data at the University of Oslo, a platform for collecting, storing, analysing and sharing sensitive data.
+
+- id: uib-special-collections
+  name: Spesialsamlingene ved UiB
+  url: https://www.uib.no/ub/spesialsamlingene
+  description: Special collections of the University of Bergen Library, including manuscripts, pictures and archives (in Norwegian).
+
+- id: uib-storage-guide
+  name: UiB storage guide
+  url: https://www.uib.no/en/foremployees/153608/storage-guide
+  description: Guide from the University of Bergen for choosing storage solutions for research data.
+
+- id: uio-data-storage-guide
+  name: UiO storage guide
+  url: https://www.uio.no/english/services/it/security/lsis/storage-guide.html
+  description: Guide from the University of Oslo for choosing storage solutions for research data based on the classification of the data.
+
+- id: uio-special-collections
+  name: UiO Library Special Collections
+  url: https://www.ub.uio.no/english/using/digitisation/special-collections/index.html
+  description: Special collections of the University of Oslo Library, including digitised collections.
+
+- id: uit-dmp-guidance
+  name: UiT DMP guidance
+  url: https://en.uit.no/research/research-dataportal/art?p_document_id=726373
+  description: Guidance from UiT The Arctic University of Norway on writing a data management plan.
+
+- id: uit-processing-storage-guide
+  name: UiT guide to processing and storage
+  url: https://en.uit.no/research/research-dataportal/art?p_document_id=729174
+  description: Guidance from UiT The Arctic University of Norway on processing and storing research data.
+
+- id: uit-special-collections
+  name: Spesialsamlinger ved UiT
+  url: https://uit.no/ub/spesialsamlinger
+  description: Special collections of the UiT University Library (in Norwegian).
+
+- id: univie-h2020-dmps
+  name: University of Vienna collection of Horizon 2020 DMPs
+  url: https://phaidra.univie.ac.at/search#?page=1&pagesize=10&collection=o:1140797
+  description: Curated collection of data management plans from Horizon 2020 projects in Phaidra, the repository of the University of Vienna.
+
+- id: who-data-collections
+  name: WHO data collections
+  url: https://www.who.int/data/collections
+  description: Health-related data collections of the World Health Organization.
+
+- id: wos-data-citation-index
+  name: Web of Science Data Citation Index
+  url: https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/data-citation-index
+  description: Commercial index by Clarivate of datasets and data studies from repositories, linked to the literature.
+  registry:
+    europmc: '24980647'
+
+- id: zenodo
+  name: Zenodo
+  url: https://zenodo.org/
+  description: Generalist research repository operated by CERN, where all kinds of research outputs can be published with a DOI.
+  registry:
+    fairsharing: wy4egf
+    tess: Zenodo
