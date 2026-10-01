@@ -19,14 +19,6 @@
 {%- endif %}
 {%- endfor %}
 {%- endif %}
-{%- if page.fairsharing %}
-{%- assign actual_fairsharing = nil %}
-{%- for standard in page.fairsharing %}
-{%- if standard.name %}
-{%- assign actual_fairsharing = 1 %}
-{%- endif %}
-{%- endfor %}
-{%- endif %}
 {%- if page.dsw %}
 {%- assign actual_dsw = nil %}
 {%- for question in page.dsw %}
@@ -43,6 +35,14 @@
 {%- endif %}
 {%- endfor %}
 {%- endif %}
+{%- if page.training %}
+{%- assign actual_training = nil %}
+{%- for training in page.training %}
+{%- if training.name %}
+{%- assign actual_training = 1 %}
+{%- endif %}
+{%- endfor %}
+{%- endif %}
 {%- if page.cessda %}
 {%- assign actual_cessda = nil %}
 {%- for rdmdoc in page.cessda %}
@@ -51,7 +51,7 @@
 {%- endif %}
 {%- endfor %}
 {%- endif %}
-{%- if page.turing  %}
+{%- if page.turing %}
 {%- assign actual_turing = nil %}
 {%- for rdmdoc in page.turing %}
 {%- if rdmdoc.name %}
@@ -59,7 +59,7 @@
 {%- endif %}
 {%- endfor %}
 {%- endif %}
-{%- if page.other  %}
+{%- if page.other %}
 {%- assign actual_other = nil %}
 {%- for rdmdoc in page.other %}
 {%- if rdmdoc.name %}
@@ -67,9 +67,27 @@
 {%- endif %}
 {%- endfor %}
 {%- endif %}
-{%- if actual_training or actual_faircookbook or actual_fairsharing or actual_dsw or actual_rdmkit or actual_cessda or actual_turing or actual_other %}
-<!-- More information -->
-<h2>{{site.theme_variables.headings.more-information-tiles | default: 'Further resources' }}</h2>
+{%- if page.page_id and site.theme_variables.headings.resource-table-all-collapse%}
+{%- assign tools = site.data.tool_and_resource_list | where:"related_pages", page.page_id %}
+{%- unless tools.size == 0 %}
+{%- assign actual_tools = 1 %}
+{%- endunless %}
+{%- assign country_pages = site.pages | where_exp: "item", "item.search_exclude != true" | where_exp:"item","item.national_resources != nil" %}
+{%- unless country_pages.size == 0 %}
+{%- assign tool_matches_total = 0 %}
+{%- assign query = "related_pages." | append: page.type %}
+{%- for country_page in country_pages %}
+{%- assign tool_matches = country_page.national_resources | where_exp:"resource","resource.related_pages != nil" | where: query, page.page_id %}
+{%- assign tool_matches_total = tool_matches_total | plus: tool_matches.size %}
+{%- endfor %}
+{%- endunless %}
+{%- unless tool_matches_total == 0 %}
+{%- assign actual_nat_tools = 1 %}
+{%- endunless %}
+{%- endif %}
+{%- if actual_fairsharing or actual_faircookbook or actual_dsw or actual_rdmkit or actual_dsw or actual_training or actual_cessda or actual_turing or actual_other or actual_tools or actual_nat_tools %}
+<h2 class="mb-4">{{site.theme_variables.headings.more-information-tiles | default: 'More information' }}</h2>
+{%- endif %}
 
 <div class="row row-cols-1 row-cols-md-2 g-4 mt-2">
     {%- if actual_training %}
@@ -99,6 +117,13 @@
                 </div>
             </div>
         </div>
+        <ul class="mb-0 mt-3">
+            {%- for standard in page.fairsharing %}
+            <li>
+                <a href="{{ standard.url }}">{{standard.name}}</a>
+            </li>
+            {%- endfor %}
+        </ul>
     </div>
     {%- endif %}
     {%- if actual_faircookbook or actual_fairsharing or actual_dsw or actual_rdmkit or actual_cessda or actual_turing or actual_other %}
@@ -209,7 +234,13 @@
                 </div>
             </div>
         </div>
+        <ul class="mb-0 mt-3">
+            {%- for rdmdoc in page.other %}
+            <li>
+                <a href="{{ rdmdoc.url }}">{{rdmdoc.name}}</a>
+            </li>
+            {%- endfor %}
+        </ul>
     </div>
-    {%- endif %}
 </div>
 {%- endif %}
