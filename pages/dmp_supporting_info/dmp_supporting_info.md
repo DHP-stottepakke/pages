@@ -12,14 +12,17 @@ sidebar: dmp_supporting_information
 ---
 
 This section collects information that is useful when writing a Data Management Plan (DMP).
+
 - [Purpose of a DMP](/pages/support_00_dmp_purpose) explains what a DMP is and why you should write one for your research project.
 - [RDM and DMP requirements](/pages/support_00_dmp_requirements) summarises research data management and DMP requirements from funders and institutions.
 - [Get local/disciplinary support](/pages/support_00_local_disc) refers to disciplinary data management experts and data management support staff at your institution.
 
 It is beneficial to take research data management into consideration already ahead of starting a research project, particularly if applying for external funding.
+
 - [Considerations pre-start/pre-award](/pages/support_00_planning_considerations) provides a set of guiding questions to be considered pre-start/ pre-award.
 
 The core section is structured according to our DMP template. For each chapter in the DMP, it contains general and question-specific guidance:
+
 - [Get started with DMP writing](/pages/support_00_start_writing)
 - [1 - About the DMP](/pages/support_01_about_dmp)
 - [2 - About the research project](/pages/support_02_about_research)
@@ -32,8 +35,9 @@ The core section is structured according to our DMP template. For each chapter i
 - [9 - Responsibilities and resources](/pages/support_09_responsibilities_resources)
 
 Finally, we explain relevant terminology:
+
 - [Research data terms](/pages/support_00_rdm_terms) gives definitions of relevant terms used in the context of data management plans.
 
 If you find something that should be improved:
-- [Please provide feedback](/pages/support_00_feedback) to the community resources
 
+- [Please provide feedback](/pages/support_00_feedback) to the community resources

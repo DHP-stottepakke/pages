@@ -28,5 +28,5 @@ As part of the working process, each section also contains guidance texts for re
 - [SE3 - Storage and backup during the research process](/pages/3_storage_backup)
 - [SE4 - Legal and ethical requirements, codes of conduct](/pages/4_legal_ethics)
 - [SE5 - Data sharing and long-term preservation](/pages/5_sharing_preservation)
-- [SE6 - Data management responsibilities and resources](/pages/6_responsibilities_resources) 
+- [SE6 - Data management responsibilities and resources](/pages/6_responsibilities_resources)
 - [SE - Publishing the DMP](/pages/publish_dmp)
