@@ -3,6 +3,10 @@
 {
   "default": true,
 
+  // The theme renders the front-matter title as H1, but pages choose their own starting level
+  // (e.g. github.md starts at H3). Don't treat the title as H1; still flag skipped levels within a page.
+  "MD001": { "front_matter_title": "" },
+
   // Prose paragraphs are written one per line; hard-wrapping them only adds diff noise.
   "MD013": false,
 
