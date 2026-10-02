@@ -94,7 +94,7 @@ Some disciplinary vocabularies/ontologies/terminologies examples:
     * {% tool "human-phenotype-ontology" %} to describe phenotypic features encountered in human hereditary and other diseases
     * {% tool "ebrains-knowledge-graph" %} for Brain research
 * Geography
-    * {% tool "marine-regions" %} aims to to create a standard, relational list of geographic names, coupled with information and maps of the geographic location of these features
+    * {% tool "marine-regions" %} aims to create a standard, relational list of geographic names, coupled with information and maps of the geographic location of these features
 * Social sciences
     * {% tool "elsst" %}
     * {% tool "humord" %} A Norwegian thesaurus for the humanities and social sciences with related disciplines, managed by Oslo University Library.

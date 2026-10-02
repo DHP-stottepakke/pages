@@ -126,7 +126,7 @@ _Method 2:_  Blockquote
 > This is my blockquote
 ```
 
-Use blockquotes when pasting text from other reseources, such as Science Europe. Add your own content as unformatted text.
+Use blockquotes when pasting text from other resources, such as Science Europe. Add your own content as unformatted text.
 
 _Method 3:_ Information boxes
 

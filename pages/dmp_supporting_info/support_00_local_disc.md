@@ -91,7 +91,7 @@ Several Norwegian research infrastructures including national nodes of ESFRI (Eu
 
 ### Biobank Norway - Biobanking
 
-Biobank Norway provides the ELSI Helpdesk for Biobanking and advices on regulations and standards for ethical, legal, and societal issues. Biobank Norway is the Norwgian node of the European Biobanking and BioMolecular resources Research Infrastructure ({% tool "bbmri-eric" %}).
+Biobank Norway provides the ELSI Helpdesk for Biobanking and advises on regulations and standards for ethical, legal, and societal issues. Biobank Norway is the Norwegian node of the European Biobanking and BioMolecular resources Research Infrastructure ({% tool "bbmri-eric" %}).
 
 Homepage: {% tool "biobank-norway" %}
 

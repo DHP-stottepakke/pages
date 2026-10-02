@@ -72,7 +72,7 @@ It will be important to provide the unique identificator for the grant while rep
 * The Research Council of Norway usually assigns a 6-digit project number which is registered in {% tool "prosjektbanken" %}
 * The Norwegian Health Regions assign grant numbers through {% tool "ihelse-research-projects" %}
 * EU projects are registered in the {% tool "cordis" %} database
-* {% tool "dimensions" %} is a commerical service collecting data from research project databases and CRIS systems, providing it e.g. to ORCID
+* {% tool "dimensions" %} is a commercial service collecting data from research project databases and CRIS systems, providing it e.g. to ORCID
 
 #### Which research data management requirements does the funder set?
 
