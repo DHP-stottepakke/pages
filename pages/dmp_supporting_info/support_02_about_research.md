@@ -60,7 +60,7 @@ Examples of common funders as registered in ROR:
 * Norwegian foundations
     * Norwegian Cancer Society (id: [01925vb10](https://ror.org/01925vb10))
     * Trond Mohn Foundation (id: [018zj6955](https://ror.org/018zj6955))
-    * Kristian Gerhard Jebsen Foundation (ide: [021g6tq38](https://ror.org/021g6tq38))
+    * Kristian Gerhard Jebsen Foundation (id: [021g6tq38](https://ror.org/021g6tq38))
     * Stiftelsen Dam (id: [02esmmc86](https://ror.org/02esmmc86))
 * European Commission (id: [00k4n6c32](https://ror.org/00k4n6c32))
     * European Research Council (id: [0472cxd90](https://ror.org/0472cxd90))
