@@ -47,16 +47,16 @@ This chapter will guide you through the planning steps for making the data avail
 
 No matter whether the data may be published openly or not, the goal is always to make it as FAIR as possible. The {% tool "fair-principles" %} have gained a lot of traction since their establishment, and have been applied to other research results such as [software](/pages/support_08_preserve_publish#if-applicable-list-research-softwarecomputational-modelssimulations-you-will-be-publishing). FAIR data implies that the following criteria should be fulfilled:
 
-* [ ] Archived datasets have persistent identifiers
-* [ ] Archived datasets are indexed and findable in search engines
-* [ ] Rich metadata is available for the archived datasets
-* [ ] Metadata remains available even if data should be deleted
-* [ ] Conditions for accessing the archived datasets are clearly specified (particularly if access is restricted)
-* [ ] The file formats used in archived datasets support interoperability
-* [ ] Controlled vocabularies/ontologies are used to describe data and datasets
-* [ ] Datasets link to related information where relevant
-* [ ] Datasets are assigned a license that define conditions for reuse
-* [ ] The archive will guarantee future availability and reuse of the datasets
+* Archived datasets have persistent identifiers
+* Archived datasets are indexed and findable in search engines
+* Rich metadata is available for the archived datasets
+* Metadata remains available even if data should be deleted
+* Conditions for accessing the archived datasets are clearly specified (particularly if access is restricted)
+* The file formats used in archived datasets support interoperability
+* Controlled vocabularies/ontologies are used to describe data and datasets
+* Datasets link to related information where relevant
+* Datasets are assigned a license that define conditions for reuse
+* The archive will guarantee future availability and reuse of the datasets
 
 There are also online tools available to check wether a dataset is FAIR: {% tool "fair-aware" %}
 
