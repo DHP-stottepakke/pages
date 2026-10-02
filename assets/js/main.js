@@ -194,12 +194,23 @@ $(function () {
     const bs = window.bootstrap;
     // Initialize all popovers (click to open; HTML allowed; render in body)
     $('[data-bs-toggle="popover"]').each(function () {
+        // Triggers are <a> without href: expose them as focusable buttons
+        this.setAttribute('role', 'button');
+        if (!this.hasAttribute('tabindex')) this.setAttribute('tabindex', '0');
         new bs.Popover(this, {
             html: true,
             sanitize: false,   // allow dropdown markup inside
             container: 'body',
             trigger: 'click'
         });
+    });
+
+    // Keyboard activation (Enter/Space) for click-only triggers
+    $(document).on('keydown', '[data-bs-toggle="popover"]', function (e) {
+        if (e.key !== 'Enter' && e.key !== ' ') return;
+        e.preventDefault();
+        const inst = bs.Popover.getInstance(this);
+        if (inst) inst.toggle();
     });
 
     // When a popover is shown, initialize any dropdowns inside it

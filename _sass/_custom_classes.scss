@@ -173,6 +173,37 @@ section#search-section {
     }
 }
 
+/*-----Navigation links: underline on hover only-----*/
+
+// Menu and card links have no underline until hovered (content links keep $link-decoration).
+// The underline is always there but transparent, so it can fade in like the title links.
+#sidebar a,
+header .navbar .nav-link,
+header .navbar .dropdown-item,
+.landingpage .card a,
+.navigation-tiles .card a,
+.navigation-tiles .section-title {
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    transition: $transition-base;
+}
+
+#sidebar a:hover,
+#sidebar a:focus-visible,
+header .navbar .nav-link:hover,
+header .navbar .nav-link:focus-visible,
+header .navbar .dropdown-item:hover,
+header .navbar .dropdown-item:focus-visible,
+.landingpage .card a:hover,
+.landingpage .card a:focus-visible,
+.navigation-tiles .card a:hover,
+.navigation-tiles .card:hover a.section-title,
+.navigation-tiles .card:focus-within a.section-title,
+.navigation-tiles .section-title:hover,
+.navigation-tiles .section-title:focus-visible {
+    text-decoration-color: currentColor;
+}
+
 /*-----Accordion styles-----*/
 
 // Remove border hover effect.
@@ -271,10 +302,11 @@ i.fa-solid.fa-magnifying-glass {
     }
 }
 
-// Tool snippet
-
+// Tool snippet: mini version of the favicon, drawn in the link colour
 i.fa-solid.fa-wrench {
-    background: url("../img/section-icons/tools.svg") center no-repeat;
+    background-color: currentColor;
+    -webkit-mask: url("../img/tool-icon.svg") center / contain no-repeat;
+    mask: url("../img/tool-icon.svg") center / contain no-repeat;
     &:before {
         content: "";
     }

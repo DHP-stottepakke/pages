@@ -1,0 +1,24 @@
+// markdownlint configuration for the Jekyll pages (also picked up by the
+// VS Code markdownlint extension). Rules not listed use their defaults.
+{
+  "default": true,
+
+  // Prose paragraphs are written one per line; hard-wrapping them only adds diff noise.
+  "MD013": false,
+
+  // Nested lists are indented with tabs expanded to 4 spaces (kramdown's tab width).
+  "MD010": { "spaces_per_tab": 4 },
+  "MD007": { "indent": 4 },
+
+  // Pages repeat the same section headings (e.g. "Tips for best practices") under different parents.
+  "MD024": { "siblings_only": true },
+
+  // HTML used on purpose: <code> for the grey note lines, <i> for icons, <iframe> for embedded forms.
+  "MD033": { "allowed_elements": ["code", "i", "iframe"] },
+
+  // Consecutive Science Europe guidance quotes ("> 1b.2", "> 1b.3") are separate boxes on purpose.
+  "MD028": false,
+
+  // Bold labels inside callout boxes and before question text are not meant to be headings.
+  "MD036": false
+}
