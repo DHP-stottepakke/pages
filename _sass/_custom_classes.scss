@@ -218,21 +218,29 @@ a.info-collapse:hover h3 {
     color: rgba($link-color, 0.8) !important;
 }
 
-/*-----More information tiles-----*/
+/*-----Callouts-----*/
 
-// Logo tile tints for the site-specific sections in _includes/more-information-tiles.html
-.info-card {
-    .info-logo-cessda {
-        background-color: rgba(#9f0074, .08);
+// Tighter line spacing and margins so callout boxes look less bulky.
+.callout,
+blockquote:is(.note, .tip, .warning, .important, .note-title, .tip-title, .warning-title, .important-title) {
+    line-height: 1.35;
+    padding-top: $spacer * 0.75;
+    padding-bottom: $spacer * 0.75;
+
+    &::after {
+        top: $spacer * 0.45;
     }
 
-    .info-logo-turing {
-        background-color: rgba(#03a19f, .08);
+    p,
+    ul,
+    ol {
+        margin-bottom: $spacer * 0.4;
     }
+}
 
-    .info-logo-other {
-        background-color: rgba($primary, .08);
-    }
+// Overrides the theme's `#main ul li` spacing, hence the ID selector.
+#main :is(.callout, blockquote:is(.note, .tip, .warning, .important, .note-title, .tip-title, .warning-title, .important-title)) li {
+    margin: $spacer * 0.15 0;
 }
 
 /*-----Better tools-----*/
