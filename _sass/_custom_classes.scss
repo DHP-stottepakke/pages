@@ -175,14 +175,17 @@ section#search-section {
 
 /*-----Navigation links: underline on hover only-----*/
 
-// Menu and card links have no underline until hovered (content links keep $link-decoration)
+// Menu and card links have no underline until hovered (content links keep $link-decoration).
+// The underline is always there but transparent, so it can fade in like the title links.
 #sidebar a,
 header .navbar .nav-link,
 header .navbar .dropdown-item,
 .landingpage .card a,
 .navigation-tiles .card a,
 .navigation-tiles .section-title {
-    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    transition: $transition-base;
 }
 
 #sidebar a:hover,
@@ -198,7 +201,7 @@ header .navbar .dropdown-item:focus-visible,
 .navigation-tiles .card:focus-within a.section-title,
 .navigation-tiles .section-title:hover,
 .navigation-tiles .section-title:focus-visible {
-    text-decoration: underline;
+    text-decoration-color: currentColor;
 }
 
 /*-----Accordion styles-----*/
