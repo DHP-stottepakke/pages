@@ -1,3 +1,8 @@
+{%- comment -%}
+  Site override of ELIXIR Toolkit Theme's _includes/more-information-tiles.html.
+  Keeps the card layout used up to ETT 5/6 instead of ETT 7's collapsible
+  sections, and adds the cessda/turing/other resources.
+{%- endcomment -%}
 {%- if page.training %}
 {%- assign actual_training = nil %}
 {%- for training in page.training %}
@@ -11,14 +16,6 @@
 {%- for recipe in page.faircookbook %}
 {%- if recipe.name %}
 {%- assign actual_faircookbook = 1 %}
-{%- endif %}
-{%- endfor %}
-{%- endif %}
-{%- if page.fairsharing %}
-{%- assign actual_fairsharing = nil %}
-{%- for standard in page.fairsharing %}
-{%- if standard.name %}
-{%- assign actual_fairsharing = 1 %}
 {%- endif %}
 {%- endfor %}
 {%- endif %}
@@ -38,6 +35,14 @@
 {%- endif %}
 {%- endfor %}
 {%- endif %}
+{%- if page.training %}
+{%- assign actual_training = nil %}
+{%- for training in page.training %}
+{%- if training.name %}
+{%- assign actual_training = 1 %}
+{%- endif %}
+{%- endfor %}
+{%- endif %}
 {%- if page.cessda %}
 {%- assign actual_cessda = nil %}
 {%- for rdmdoc in page.cessda %}
@@ -46,7 +51,7 @@
 {%- endif %}
 {%- endfor %}
 {%- endif %}
-{%- if page.turing  %}
+{%- if page.turing %}
 {%- assign actual_turing = nil %}
 {%- for rdmdoc in page.turing %}
 {%- if rdmdoc.name %}
@@ -54,7 +59,7 @@
 {%- endif %}
 {%- endfor %}
 {%- endif %}
-{%- if page.other  %}
+{%- if page.other %}
 {%- assign actual_other = nil %}
 {%- for rdmdoc in page.other %}
 {%- if rdmdoc.name %}
@@ -62,9 +67,27 @@
 {%- endif %}
 {%- endfor %}
 {%- endif %}
-{%- if actual_training or actual_faircookbook or actual_fairsharing or actual_dsw or actual_rdmkit or actual_cessda or actual_turing or actual_other %}
-<!-- More information -->
-<h2>{{site.theme_variables.headings.more-information-tiles | default: 'Further resources' }}</h2>
+{%- if page.page_id and site.theme_variables.headings.resource-table-all-collapse%}
+{%- assign tools = site.data.tool_and_resource_list | where:"related_pages", page.page_id %}
+{%- unless tools.size == 0 %}
+{%- assign actual_tools = 1 %}
+{%- endunless %}
+{%- assign country_pages = site.pages | where_exp: "item", "item.search_exclude != true" | where_exp:"item","item.national_resources != nil" %}
+{%- unless country_pages.size == 0 %}
+{%- assign tool_matches_total = 0 %}
+{%- assign query = "related_pages." | append: page.type %}
+{%- for country_page in country_pages %}
+{%- assign tool_matches = country_page.national_resources | where_exp:"resource","resource.related_pages != nil" | where: query, page.page_id %}
+{%- assign tool_matches_total = tool_matches_total | plus: tool_matches.size %}
+{%- endfor %}
+{%- endunless %}
+{%- unless tool_matches_total == 0 %}
+{%- assign actual_nat_tools = 1 %}
+{%- endunless %}
+{%- endif %}
+{%- if actual_fairsharing or actual_faircookbook or actual_dsw or actual_rdmkit or actual_dsw or actual_training or actual_cessda or actual_turing or actual_other or actual_tools or actual_nat_tools %}
+<h2 class="mb-4">{{site.theme_variables.headings.more-information-tiles | default: 'More information' }}</h2>
+{%- endif %}
 
 <div class="row row-cols-1 row-cols-md-2 g-4 mt-2">
     {%- if actual_training %}
@@ -78,16 +101,8 @@
                     <a class="btn bg-white hover-primary text-start d-block" href="{{ training.url }}">
                         <div class="row g-1">
                             <div class="col-2 d-flex align-items-center justify-content-center">
-                                {%- assign registry = training.registry |  downcase %}
-                                {%- if registry  == "tess" %}
-                                <img alt="TeSS logo" class="img-fluid" src="{{ 'assets/img/tess_logo.svg' | relative_url }}">
-                                {%- elsif registry == "zenodo" %}
-                                <img alt="Zenodo logo" class="img-fluid" src="{{ 'assets/img/zenodo_logo.svg' | relative_url }}">
-                                {%- elsif registry == "youtube" %}
-                                <img alt="YouTube logo" class="img-fluid" src="{{ 'assets/img/youtube_logo.svg' | relative_url }}">
-                                {%- elsif registry == "carpentries" %}
-                                <img alt="Carpentries" class="img-fluid" src="{{ 'assets/img/carpentries_logo.svg' | relative_url }}">
-                                {%- elsif registry == "github" %}
+                                {%- assign registry = training.registry | downcase %}
+                                {%- if registry == "github" %}
                                 <i class="fa-brands fa-github text-dark fa-2xl my-3"></i>
                                 {%- else %}
                                 <i class="fa-solid fa-external-link-alt text-primary fa-lg my-3"></i>
@@ -102,9 +117,16 @@
                 </div>
             </div>
         </div>
+        <ul class="mb-0 mt-3">
+            {%- for standard in page.fairsharing %}
+            <li>
+                <a href="{{ standard.url }}">{{standard.name}}</a>
+            </li>
+            {%- endfor %}
+        </ul>
     </div>
     {%- endif %}
-    {%- if actual_faircookbook or actual_fairsharing or actual_dsw or actual_rdmkit %}
+    {%- if actual_faircookbook or actual_fairsharing or actual_dsw or actual_rdmkit or actual_cessda or actual_turing or actual_other %}
     <!-- FAIR Cookbook and FAIRsharing -->
     <div class="col">
         <div class="card h-100 info-card">
@@ -116,7 +138,7 @@
                     <a class="btn bg-white hover-primary text-start d-block" data-bs-toggle="tooltip" data-bs-placement="right" title="FAIRCookbook" href="{{ recipe.url }}">
                         <div class="row g-1">
                             <div class="col-2 d-flex align-items-center justify-content-center">
-                                <img alt="FAIRCookbook logo" class="img-fluid" src="{{ 'assets/img/fairplus_compact_logo.svg' | relative_url }}">
+                                <img alt="FAIRCookbook logo" class="img-fluid" src="{{ 'assets/img/faircookbook_compact_logo.svg' | relative_url }}">
                             </div>
                             <div class="col-10 d-flex align-items-center">
                                 <span class="text-start">Step-by-step process for: {{recipe.name}}</span>
@@ -212,7 +234,13 @@
                 </div>
             </div>
         </div>
+        <ul class="mb-0 mt-3">
+            {%- for rdmdoc in page.other %}
+            <li>
+                <a href="{{ rdmdoc.url }}">{{rdmdoc.name}}</a>
+            </li>
+            {%- endfor %}
+        </ul>
     </div>
-    {%- endif %}
 </div>
 {%- endif %}

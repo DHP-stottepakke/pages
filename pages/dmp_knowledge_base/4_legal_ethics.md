@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Live Kvale, Jenny Ostrop, Korbinian Bösl]
 page_id: 4_legal_ethics
 description: Legal requirements, ethical requirements, codes of conduct
-affiliations: 
+supported_by: 
 sidebar: background_knowledge
 toc: true
 ---
@@ -89,19 +89,22 @@ If the data should be available for future research contact the archive you wish
 - Describes the procedure to manage access to only authorised users.
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* REK ID, ID SIKT personverntjenester\\
-* Ontology terms reflecting data protection (e.g. [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico), [Data Use Ontology](https://github.com/EBISPOT/DUO), [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/)\\
-\\
-**Interested stakeholder**\\
-* Level 1: Host institution/data owner (information security, risk reduction)\\
-* Level 2: REK, SIKT personverntjenester, DPO or legal experts\\
-\\
-**Relevant project phase**\\
-* pre-award: outline\\
-* planning post-award, active phase\\
+**Mappings**
+
+**Relevant PID**
+
+* REK ID, ID SIKT personverntjenester
+* Ontology terms reflecting data protection (e.g. [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico), [Data Use Ontology](https://github.com/EBISPOT/DUO), [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/)
+
+**Interested stakeholder**
+
+* Level 1: Host institution/data owner (information security, risk reduction)
+* Level 2: REK, SIKT personverntjenester, DPO or legal experts
+
+**Relevant project phase**
+
+* pre-award: outline
+* planning post-award, active phase
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -323,18 +326,21 @@ Clearly explains, if applicable:
 - Indicates, if applicable, whether there are any restrictions on the re-use of thirdparty data.
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* country codes, laws, document ids of contracts/collaborative agreements, licenses of re-used data\\
-\\
-**Interested stakeholder**\\
-* Level 1: Host institution/data owner (risk reduction)\\
-* Level 2: Possibly ITA, DPO or legal experts, REK\\
-\\
-**Relevant project phase**\\
-* pre-award: outline\\
-* planning post-award, active phase\\
+**Mappings**
+
+**Relevant PID**
+
+* country codes, laws, document ids of contracts/collaborative agreements, licenses of re-used data
+
+**Interested stakeholder**
+
+* Level 1: Host institution/data owner (risk reduction)
+* Level 2: Possibly ITA, DPO or legal experts, REK
+
+**Relevant project phase**
+
+* pre-award: outline
+* planning post-award, active phase
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -491,19 +497,22 @@ Also reflect on and consulting communities and general Responsible Research and 
 - Refers to relevant ethical guidelines and/or codes of conduct or alternatively provides a clear statement that explains why ethical issues have not been considered.
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* Country codes, laws, document ids of contracts/collaborative agreements, licenses of re-used data\\
-\\
-**Interested stakeholder**\\
-* Level 1: Host institution (compliance with research ethics)\\
-* Level 2: Possibly core facility (animal facility, sequencing facility)\\
-* Level 3: Affected communities\\
-\\
-**Relevant project phase**\\
-* pre-award: outline\\
-* planning post-award, active phase\\
+**Mappings**
+
+**Relevant PID**
+
+* Country codes, laws, document ids of contracts/collaborative agreements, licenses of re-used data
+
+**Interested stakeholder**
+
+* Level 1: Host institution (compliance with research ethics)
+* Level 2: Possibly core facility (animal facility, sequencing facility)
+* Level 3: Affected communities
+
+**Relevant project phase**
+
+* pre-award: outline
+* planning post-award, active phase
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)

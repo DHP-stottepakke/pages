@@ -16,9 +16,10 @@ rdmkit:
 ---
 
 {% include callout.html type="note" content="
-**On this page**\\
->> What is a data management plan?\\
->> What is in for you?\\
+**On this page**
+
+* What is a data management plan?
+* What is in for you?
 " %}
 
 ## What is a Data Management Plan (DMP) and why should you write one?

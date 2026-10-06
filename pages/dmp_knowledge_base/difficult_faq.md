@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Illimar Rekand, Jenny Ostrop]
 page_id: difficult_faq
 description: Frequently asked difficult questions
-affiliations: 
+supported_by: 
 sidebar: background_knowledge
 toc: true
 ---

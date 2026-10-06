@@ -6,14 +6,15 @@ search_exclude: false
 contributors: [Jenny Ostrop, Korbinian Bösl, Ida Juhasz, Live Kvale, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]
 page_id: support_00_rdm_terms
 description:
-affiliations:
+supported_by:
 sidebar: dmp_supporting_information
 ---
 
 {% include callout.html type="note" content="
-**On this page**\\
->> Navigate research data management terms with ease\\
->> Overview about term definitions we try to follow\\
+**On this page**
+
+* Navigate research data management terms with ease
+* Overview about term definitions we try to follow
 " %}
 
 Some of the terms used in the context of data management plans and research data management might need explanation. We try to adhere to the following definitions.

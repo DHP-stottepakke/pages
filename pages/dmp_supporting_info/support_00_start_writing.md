@@ -16,9 +16,10 @@ other:
 ---
 
 {% include callout.html type="note" content="
-**On this page**\\
->> Short user guidance to DMP questionnaire\\
->> Supporting information for filling out the DMP (by DMP chapter)\\
+**On this page**
+
+* Short user guidance to DMP questionnaire
+* Supporting information for filling out the DMP (by DMP chapter)
 " %}
 
 ## Write your Data Management Plan in Data Stewardship Wizard/ FAIR Wizard

@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Svein Høier, Lisbeth Jahren, Leif Longva]
 page_id: 2_documentation_quality
 description: Data documentation, metadata, data quality
-affiliations: 
+supported_by: 
 sidebar: background_knowledge
 toc: true
 ---
@@ -54,16 +54,19 @@ For more advanced use, use of workflow systems, reproducible deployment and buil
 - Indicates how the data will be organised during the project (for example naming conventions, version control strategy and folder structures).
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* Metadata standard (DOI / URI)\\
-\\
-**Interested stakeholder**\\
-* Level 2: Possibly core facility, library staff\\
-\\
-**Relevant project phase**\\
-* planning post-award, active phase, archiving/publishing phase\\
+**Mappings**
+
+**Relevant PID**
+
+* Metadata standard (DOI / URI)
+
+**Interested stakeholder**
+
+* Level 2: Possibly core facility, library staff
+
+**Relevant project phase**
+
+* planning post-award, active phase, archiving/publishing phase
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
@@ -200,17 +203,20 @@ At a conceptual level, data quality approaches and standards are described in th
 - Clearly describes the approach taken to ensure and document quality control in the collection of data during the lifetime of the project.
 
 {% include callout.html type="note" content="
-**Mappings**\\
-\\
-**Relevant PID**\\
-* not pid, but defined practices for quality control relevant? (GLP, GMP, established practices like calibration, signing by colleague, peer review etc.)\\
-\\
-**Interested stakeholder**\\
-* Level 3: Research community - caring about the trustworthyness of the research\\
-* Level 3: Publishing venue\\
-\\
-**Relevant project phase**\\
-*  planning post-award, active phase\\
+**Mappings**
+
+**Relevant PID**
+
+* not pid, but defined practices for quality control relevant? (GLP, GMP, established practices like calibration, signing by colleague, peer review etc.)
+
+**Interested stakeholder**
+
+* Level 3: Research community - caring about the trustworthyness of the research
+* Level 3: Publishing venue
+
+**Relevant project phase**
+
+* planning post-award, active phase
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)

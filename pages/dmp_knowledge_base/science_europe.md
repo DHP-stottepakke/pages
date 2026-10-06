@@ -6,7 +6,7 @@ search_exclude: false
 contributors: [Jenny Ostrop, Korbinian Bösl, Illimar Rekand, Ida Juhasz, Live Kvale, Leif Longva, Svein Høier, Lisbeth Jahren, Ingrid Heggland]
 page_id: science_europe
 description: annotated guidance, Science Europe
-affiliations: 
+supported_by: 
 sidebar: background_knowledge
 toc: true
 ---

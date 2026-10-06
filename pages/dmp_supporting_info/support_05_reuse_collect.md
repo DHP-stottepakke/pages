@@ -30,10 +30,11 @@ turing:
 ---
 
 {% include callout.html type="tip" content="
-**Why is this topic important**\\
->> Defining what data will be included and analysed within your project is an important core element when designing your research project. And identifying reusable data will often be a very effective way of starting the planning of a project, and thus you should always check whether existing data can be of relevance to your project.\\
->> Defining how project data will be collected will also help when defining data management roles and delegate data management in the project\\
->> Defining how data will be created, possibly reused, and flow both in and out of your project, will contribute to Open Data and Open Science practices.\\
+**Why is this topic important**
+
+* Defining what data will be included and analysed within your project is an important core element when designing your research project. And identifying reusable data will often be a very effective way of starting the planning of a project, and thus you should always check whether existing data can be of relevance to your project.
+* Defining how project data will be collected will also help when defining data management roles and delegate data management in the project
+* Defining how data will be created, possibly reused, and flow both in and out of your project, will contribute to Open Data and Open Science practices.
 " %}
 
 ## About this chapter

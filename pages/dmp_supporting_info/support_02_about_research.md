@@ -14,10 +14,10 @@ dsw:
 
 
 {% include callout.html type="tip" content="
-**Why is this topic important**\\
+**Why is this topic important**
 
->> Administrative information about the project will be of interest both for project members as well as parties external to the project.\\
->> Contextual information about the research project puts the DMP in context and is thus useful information for anyone reading or evaluating the DMP.\\
+* Administrative information about the project will be of interest both for project members as well as parties external to the project.
+* Contextual information about the research project puts the DMP in context and is thus useful information for anyone reading or evaluating the DMP.
 " %}
 
 ## About this chapter
