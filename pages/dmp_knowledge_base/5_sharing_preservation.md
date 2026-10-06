@@ -47,52 +47,52 @@ It is crucial to be aware of necessity of access restriction and possibilities t
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 
-- Clearly describes how the data and/or metadata will be made discoverable and shared.
-- Specifies when data will be shared and under which licence.
-- Includes the name of the repository, data catalogue, or registry where data will or could be shared.
-- Includes information on how long the data will be retained and gives precision on its timely release.
-- Clearly explains, if applicable, why data sharing is limited or not possible, and who can access the data under which conditions (for example, only members of certain communities or via a sharing agreement).
-- Explains, where possible, what actions will be taken to overcome or to minimise data sharing restrictions.
+* Clearly describes how the data and/or metadata will be made discoverable and shared.
+* Specifies when data will be shared and under which licence.
+* Includes the name of the repository, data catalogue, or registry where data will or could be shared.
+* Includes information on how long the data will be retained and gives precision on its timely release.
+* Clearly explains, if applicable, why data sharing is limited or not possible, and who can access the data under which conditions (for example, only members of certain communities or via a sharing agreement).
+* Explains, where possible, what actions will be taken to overcome or to minimise data sharing restrictions.
 
 {% include callout.html type="note" content="
 **Mappings**
 
 **Relevant PID**
 
-- PID of archived datasets?
+* PID of archived datasets?
 
 **Interested stakeholder**
 
-- Level 2: Core facility, data archive, research administration (statistics)
+* Level 2: Core facility, data archive, research administration (statistics)
 
 **Relevant project phase**
 
-- pre-award:outline
-- planning post-award, active phase, final reporting
+* pre-award:outline
+* planning post-award, active phase, final reporting
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 [Properties in dmp]
 
-- [#dataset_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_table): nested, see below
+* [#dataset_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_table): nested, see below
 
 [Properties in dataset]
 
-- [#dataset_id_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_id_tree): identifier, type
-- [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): Nested, see below e.g. access_url, available_until, byte_size, data_access, description, download_url, format, host, license, title
-- [#dataset_preservation](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_preservation): preservation statement [string, free text]
-- [#dataset_sensitive_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_sensitive_data_tree): yes/no/unknown
+* [#dataset_id_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_id_tree): identifier, type
+* [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): Nested, see below e.g. access_url, available_until, byte_size, data_access, description, download_url, format, host, license, title
+* [#dataset_preservation](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_preservation): preservation statement [string, free text]
+* [#dataset_sensitive_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_sensitive_data_tree): yes/no/unknown
 
 [Properties in distribution]
 
-- [#distribution_access_url](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_access_url): A URL of the resource that gives access to a distribution of the dataset. e.g. landing page.
-- [#license_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#license_table): license_ref [uri], start_date
+* [#distribution_access_url](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_access_url): A URL of the resource that gives access to a distribution of the dataset. e.g. landing page.
+* [#license_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#license_table): license_ref [uri], start_date
 
 Missing:
 
-- Measures to overcome sharing restrictions
-- Detailed information on restricted access
+* Measures to overcome sharing restrictions
+* Detailed information on restricted access
 
 ---
 <!--additional guidance from funders-->
@@ -102,51 +102,51 @@ Missing:
 
 [Data sharing and reuse]
 
-- How should the data be findable and how should it be shared? Examples may be that they are made available in a certified data repository, are indexed in a catalogue, that you use a secure data service, direct handling of data requests, etc.
-- When should the data be shared? If, for example, an exclusive right of control granted by legal law is made that affects the time of sharing and, why and for how long? Examples may be that you wait until a scientific publication is available or that you want to protect intellectual property rights, such as patent law, until you have applied for a patent.
+* How should the data be findable and how should it be shared? Examples may be that they are made available in a certified data repository, are indexed in a catalogue, that you use a secure data service, direct handling of data requests, etc.
+* When should the data be shared? If, for example, an exclusive right of control granted by legal law is made that affects the time of sharing and, why and for how long? Examples may be that you wait until a scientific publication is available or that you want to protect intellectual property rights, such as patent law, until you have applied for a patent.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
 
 [2.2 Making data accssible - Repository]
 
-- Have you explored appropriate arrangements with the identified repository where your data will be deposited
+* Have you explored appropriate arrangements with the identified repository where your data will be deposited
 [2.2 Making data accssible - Data]
-- Will all data be made openly available? If certain datasets cannot be shared (or need to be shared under restricted access conditions), explain why, clearly separating legal and contractual reasons from intentional restrictions. Note that in multi-beneficiary projects it is also possible for specific beneficiaries to keep their data closed if opening their data goes against their legitimate interests or other constraints as per the Grant Agreement.
-- If an embargo is applied to give time to publish or seek protection of the intellectual property (e.g. patents), specify why and how long this will apply, bearing in mind that research data should be made available as soon as possible.
-- Will the data be accessible through a free and standardized access protocol?
-- If there are restrictions on use, how will access be provided to the data, both during and after the end of the project?
+* Will all data be made openly available? If certain datasets cannot be shared (or need to be shared under restricted access conditions), explain why, clearly separating legal and contractual reasons from intentional restrictions. Note that in multi-beneficiary projects it is also possible for specific beneficiaries to keep their data closed if opening their data goes against their legitimate interests or other constraints as per the Grant Agreement.
+* If an embargo is applied to give time to publish or seek protection of the intellectual property (e.g. patents), specify why and how long this will apply, bearing in mind that research data should be made available as soon as possible.
+* Will the data be accessible through a free and standardized access protocol?
+* If there are restrictions on use, how will access be provided to the data, both during and after the end of the project?
 [2.4 Increase data re-use]
-- Will your data be made freely available in the public domain to permit the widest re-use possible? Will your data be licensed using standard reuse licenses, in line with the obligations set out in the Grant Agreement?
-- Will the data produced in the project be useable by third parties, in particular after the end of the project?
-- Will the provenance of the data be thoroughly documented using the appropriate standards?
+* Will your data be made freely available in the public domain to permit the widest re-use possible? Will your data be licensed using standard reuse licenses, in line with the obligations set out in the Grant Agreement?
+* Will the data produced in the project be useable by third parties, in particular after the end of the project?
+* Will the provenance of the data be thoroughly documented using the appropriate standards?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-- With respect to licensing: Clearly and explicitly license your data, no matter which access level the data has. Find a suitable license (either standard such as CreativeCommons, or bespoke) and find a repository that supports it on Re3data. Preferably use a standard, machine-readable licence. Include the license information in the metadata.
-- With respect to access: Consider and define the access levels of your data early on (public, restricted, embargo, closed, or a combination). Include this information in your metadata, including possible related conditions for reuse.
-- With respect to discoverability and preservation planning: Deposit your data in a trustworthy data repository.
-- For guidance on trustworthy repositories, see 6a.
+* With respect to licensing: Clearly and explicitly license your data, no matter which access level the data has. Find a suitable license (either standard such as CreativeCommons, or bespoke) and find a repository that supports it on Re3data. Preferably use a standard, machine-readable licence. Include the license information in the metadata.
+* With respect to access: Consider and define the access levels of your data early on (public, restricted, embargo, closed, or a combination). Include this information in your metadata, including possible related conditions for reuse.
+* With respect to discoverability and preservation planning: Deposit your data in a trustworthy data repository.
+* For guidance on trustworthy repositories, see 6a.
 
 ---
 <!--additional explanations-->
 ### Knowledge for support staff
 
-- Embargo policies and funder guidelines
-- Controlled access repositories
-- Ways of limiting data reuse: reuse tags, licenses
-- Trustworthy repositories
-- Certification schemes: CoreTrustSeal, DIN31644, ISO163638
+* Embargo policies and funder guidelines
+* Controlled access repositories
+* Ways of limiting data reuse: reuse tags, licenses
+* Trustworthy repositories
+* Certification schemes: CoreTrustSeal, DIN31644, ISO163638
 
 ---
 <!--additional explanations - only keywords-->
 ### Knowledge for users
 
-- sharing as in archiving != sharing with collaborators in the active phase (storage = section 3, consortia agreements in section 4)
-- Embargo policies and funder guidelines
-- Valid and invalid reasons of access restritions and how to do this in practice
-- Identifying repositories, re3data, FairSharing
-- Trusted repositories
-- Licensing
+* sharing as in archiving != sharing with collaborators in the active phase (storage = section 3, consortia agreements in section 4)
+* Embargo policies and funder guidelines
+* Valid and invalid reasons of access restritions and how to do this in practice
+* Identifying repositories, re3data, FairSharing
+* Trusted repositories
+* Licensing
 
 ---
 <!--recycling possible?-->
@@ -196,12 +196,12 @@ The openness of research data promotes its reuse.
 
 **Tips for best practices**
 
-- You can publish a description (i.e., the metadata) of your data without making the data itself openly available, which enables you to restrict access to the data.
+* You can publish a description (i.e., the metadata) of your data without making the data itself openly available, which enables you to restrict access to the data.
 Publish your data in a data repository or a data journal.
-- Check re3data.org (<https://www.re3data.org/>) to find a repository for your data.
-- Prefer repositories or publishers, which provide persistent identifiers (PID) to enable access and citation to the data via a persistent link (e.g. DOI, URN).
-- Remember to check the funder, institutional, disciplinary or national recommendations for data repositories.
-- It is recommended to make all of the research data, code and software created within a research project available for reuse, for example, under a Creative Commons (<https://creativecommons.org/choose/>), GNU (<https://www.gnu.org/licenses/gpl-3.0.en.html>) or MIT license (<https://opensource.org/licenses/MIT>), or under another relevant license.
+* Check re3data.org (<https://www.re3data.org/>) to find a repository for your data.
+* Prefer repositories or publishers, which provide persistent identifiers (PID) to enable access and citation to the data via a persistent link (e.g. DOI, URN).
+* Remember to check the funder, institutional, disciplinary or national recommendations for data repositories.
+* It is recommended to make all of the research data, code and software created within a research project available for reuse, for example, under a Creative Commons (<https://creativecommons.org/choose/>), GNU (<https://www.gnu.org/licenses/gpl-3.0.en.html>) or MIT license (<https://opensource.org/licenses/MIT>), or under another relevant license.
 
 ---
 ---
@@ -234,57 +234,57 @@ If there is unpublished data remaining at the end of the project, a preservation
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 
-- Provides details of what data collected or created in the project will be preserved in the long term and clearly indicates for how long. This should be in alignment with funder, institutional, or national policies and/or legislation, or community standards.
-- Provides details of which (versions of) data and accompanying documentation will be retained or destroyed, and explains the rationale (for example contractual, legal requirements, or regulatory purposes).
-- Provides details of how the selection is made, and what possible interest there would be for re-use (or not).
-- Provides details on how the data, accompanying documentation, and any other required technology such as copies of software in specific versions will be archived in the long term.
-- Explains how data will be managed in a sustainable way beyond the lifetime of the grant.
-- Provides the name of the archive or trustworthy repository – or the way to curate and preserve data – that will be used to make data available for re-use.
+* Provides details of what data collected or created in the project will be preserved in the long term and clearly indicates for how long. This should be in alignment with funder, institutional, or national policies and/or legislation, or community standards.
+* Provides details of which (versions of) data and accompanying documentation will be retained or destroyed, and explains the rationale (for example contractual, legal requirements, or regulatory purposes).
+* Provides details of how the selection is made, and what possible interest there would be for re-use (or not).
+* Provides details on how the data, accompanying documentation, and any other required technology such as copies of software in specific versions will be archived in the long term.
+* Explains how data will be managed in a sustainable way beyond the lifetime of the grant.
+* Provides the name of the archive or trustworthy repository – or the way to curate and preserve data – that will be used to make data available for re-use.
 
 {% include callout.html type="note" content="
 **Mappings**
 
 **Relevant PID**
 
-- none?
+* none?
 
 **Interested stakeholder**
 
-- Level 2: Core facility, data archive, research administration (statistics), CRIStin/NVA
+* Level 2: Core facility, data archive, research administration (statistics), CRIStin/NVA
 
 **Relevant project phase**
 
-- active phase, final reporting
+* active phase, final reporting
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 [Properties in dmp]
 
-- [#dataset_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_table): nested, see below
+* [#dataset_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_table): nested, see below
 
 [Properties in dataset]
 
-- [#dataset_id_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_data_access_tree): open/shared/closed
-- [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): nested, see below e.g. access_url, available_until, byte_size, data_access, description, download_url, format, host, license, title
-- [#dataset_preservation](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_preservation): preservation statement [string, free text]
-- [#dataset_sensitive_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_sensitive_data_tree): yes/no/unknown
+* [#dataset_id_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_data_access_tree): open/shared/closed
+* [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): nested, see below e.g. access_url, available_until, byte_size, data_access, description, download_url, format, host, license, title
+* [#dataset_preservation](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_preservation): preservation statement [string, free text]
+* [#dataset_sensitive_data_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_sensitive_data_tree): yes/no/unknown
 
 [Properties in distribution]
 
-- [#license_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#license_table): license_ref [uri], start_date
-- [#host_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_tree): nested, see below e.g. availability, backup_frequency, backup_type, certified_with, description, geo_location, pid_system, storage_type, support_versioning, title, url
+* [#license_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#license_table): license_ref [uri], start_date
+* [#host_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_tree): nested, see below e.g. availability, backup_frequency, backup_type, certified_with, description, geo_location, pid_system, storage_type, support_versioning, title, url
 
 [Properties in host]
 
-- [#host_certified_with_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_certified_with_tree): din31644, dini-zertifikat, dsa, iso16363, iso16919, trac, wds, coretrustseal [controlled]
+* [#host_certified_with_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_certified_with_tree): din31644, dini-zertifikat, dsa, iso16363, iso16919, trac, wds, coretrustseal [controlled]
 
 Missing:
 
-- Preservation considerations
-- Deleted data
-- Controlled access specifications (e.g. need for data access committee)
-- Dataset logic only partially suited for unpublished datasets
+* Preservation considerations
+* Deleted data
+* Controlled access specifications (e.g. need for data access committee)
+* Dataset logic only partially suited for unpublished datasets
 
 ---
 <!--additional guidance from funders-->
@@ -294,48 +294,48 @@ Missing:
 
 [Data sharing and reuse]
 
-- How should the data be findable and how should it be shared? Examples may be that they are made available in a certified data repository, are indexed in a catalogue, that you use a secure data service, direct handling of data requests, etc.
-- When should the data be shared? If, for example, an exclusive right of control granted by legal law is made that affects the time of sharing and, why and for how long? Examples may be that you wait until a scientific publication is available or that you want to protect intellectual property rights, such as patent law, until you have applied for a patent.
+* How should the data be findable and how should it be shared? Examples may be that they are made available in a certified data repository, are indexed in a catalogue, that you use a secure data service, direct handling of data requests, etc.
+* When should the data be shared? If, for example, an exclusive right of control granted by legal law is made that affects the time of sharing and, why and for how long? Examples may be that you wait until a scientific publication is available or that you want to protect intellectual property rights, such as patent law, until you have applied for a patent.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
 
 [2.2 Making data accssible - Repository]
 
-- Will the data be deposited in a trusted repository?
+* Will the data be deposited in a trusted repository?
 
 [2.2 Making data accssible - Metadata]
 
-- How long will the data remain available and findable? Will metadata be guaranteed to remain available after data is no longer available?
+* How long will the data remain available and findable? Will metadata be guaranteed to remain available after data is no longer available?
 
 [4. Allocation of resources]
 
-- How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)? (see also section 6_responsibilities_resources)
+* How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)? (see also section 6_responsibilities_resources)
 
 [5. Data security]
 
-- Will the data be safely stored in trusted repositories for long term preservation and curation? (see also section 3_storage_backup)
+* Will the data be safely stored in trusted repositories for long term preservation and curation? (see also section 3_storage_backup)
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-- With respect to data destruction: Figure out early on by conferring with research data management and ethics specialists if (parts of) your data need to be destroyed (e.g., after a certain amount of time). If this is the case, include general statements about data destruction in the consent forms you use during your study. Make sure that the repository you deposit your data in can handle such destruction and will continue to maintain your metadata afterwards.
-- For guidance on trustworthy repositories, see [6a - Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?](6_responsibilities_resources)
+* With respect to data destruction: Figure out early on by conferring with research data management and ethics specialists if (parts of) your data need to be destroyed (e.g., after a certain amount of time). If this is the case, include general statements about data destruction in the consent forms you use during your study. Make sure that the repository you deposit your data in can handle such destruction and will continue to maintain your metadata afterwards.
+* For guidance on trustworthy repositories, see [6a - Who (for example role, position, and institution) will be responsible for data management (i.e. the data steward)?](6_responsibilities_resources)
 
 ---
 <!--additional explanations-->
 ### Knowledge for support staff
 
-- Preservation selection best practice.
-- Legal requirements, e.g. health data.
-- Selecting repositories, archive catalogues, definition trusted repositories
+* Preservation selection best practice.
+* Legal requirements, e.g. health data.
+* Selecting repositories, archive catalogues, definition trusted repositories
 
 ---
 <!--additional explanations - only keywords-->
 ### Knowledge for users
 
-- Preservation selection best practice.
-- Consider when preservation decisions will be taken. Might be too early to concretize at planning stage but institutional guidance and requirements should be taken into account.
-- Selecting a trusted repository.
-- Why is it important that metadata are preserved even if data is deleted
+* Preservation selection best practice.
+* Consider when preservation decisions will be taken. Might be too early to concretize at planning stage but institutional guidance and requirements should be taken into account.
+* Selecting a trusted repository.
+* Why is it important that metadata are preserved even if data is deleted
 
 ---
 <!--recycling possible?-->
@@ -381,8 +381,8 @@ You will need to decide which of your research data to preserve and dispose of. 
 
 **Tips for best practices**
 
-- Decisions about preserving data should begin during the data management planning stage, and should take into account e.g. institutional guidance and requirements.
-- Use data repositories with a commitment to long-term curation, e.g. Fairdata Digital Preservation Service is dedicated for research datasets that have significant value to the organization or on a national level currently and especially also in the future. Contact your home organisation for further information.
+* Decisions about preserving data should begin during the data management planning stage, and should take into account e.g. institutional guidance and requirements.
+* Use data repositories with a commitment to long-term curation, e.g. Fairdata Digital Preservation Service is dedicated for research datasets that have significant value to the organization or on a national level currently and especially also in the future. Contact your home organisation for further information.
 
 ---
 ---
@@ -407,43 +407,43 @@ There is few reasons to share data outside of data repositories after completion
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 
-- Clearly indicates which specific tools or software (for example specific scripts, codes, or algorithms developed during the project, version of the software) potential users may need to access, interpret, and (re-)use the data.
-- Provides information, if relevant, on any protocol to access the data (for example if authentication is needed or if there is a data access request procedure).
+* Clearly indicates which specific tools or software (for example specific scripts, codes, or algorithms developed during the project, version of the software) potential users may need to access, interpret, and (re-)use the data.
+* Provides information, if relevant, on any protocol to access the data (for example if authentication is needed or if there is a data access request procedure).
 
 {% include callout.html type="note" content="
 **Mappings**
 
 **Relevant PID**
 
-- none?
+* none?
 
 **Interested stakeholder**
 
-- Level 3: Research community (+Standard bodies?)
+* Level 3: Research community (+Standard bodies?)
 
 **Relevant project phase**
 
-- active phase, final reporting
+* active phase, final reporting
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 [Properties in dmp]
 
-- [#dataset_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_table): nested, see below
+* [#dataset_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_table): nested, see below
 
 [Properties in dataset]
 
-- [#technical_resource_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#technical_resource_tree): description ambiguous?
-- [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): nested, see below e.g. access_url, available_until, byte_size, data_access, description, download_url, format, host, license, title
+* [#technical_resource_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#technical_resource_tree): description ambiguous?
+* [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): nested, see below e.g. access_url, available_until, byte_size, data_access, description, download_url, format, host, license, title
 
 [Properties in distribution]
 
-- [#host_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_tree): nested, e.g. availability, backup_frequency, backup_type, certified_with, description, geo_location, pid_system, storage_type, support_versioning, title, url
+* [#host_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_tree): nested, e.g. availability, backup_frequency, backup_type, certified_with, description, geo_location, pid_system, storage_type, support_versioning, title, url
 
 Missing:
 
-- specification of e.g. software needed to access data
+* specification of e.g. software needed to access data
 
 ---
 <!--additional guidance from funders-->
@@ -453,30 +453,30 @@ Missing:
 
 [Data sharing and reuse]
 
-- Do potential users need specific tools, such as software, to access and (re)use the data? The sustainability of the software for future access to the data should be considered.
+* Do potential users need specific tools, such as software, to access and (re)use the data? The sustainability of the software for future access to the data should be considered.
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-- Include the tools and/or code needed to reuse your data in the metadata of your dataset, as well as meaningful and explicit links to other kinds of research output (e.g., previous versions, other relevant datasets, related publications, data sources, data creators, data collectors, funding organizations, host institutions) to increase potential for reuse.
-- For guidance on access, see 5a.
+* Include the tools and/or code needed to reuse your data in the metadata of your dataset, as well as meaningful and explicit links to other kinds of research output (e.g., previous versions, other relevant datasets, related publications, data sources, data creators, data collectors, funding organizations, host institutions) to increase potential for reuse.
+* For guidance on access, see 5a.
 
 ---
 <!--additional explanations-->
 ### Knowledge for support staff
 
-- Data provenance
-- Persistent file formats
-- Dependencies for software code.
-- Controlled access systems, some technical understanding of authentification methods.
+* Data provenance
+* Persistent file formats
+* Dependencies for software code.
+* Controlled access systems, some technical understanding of authentification methods.
 
 ---
 <!--additional explanations - only keywords-->
 ### Knowledge for users
 
-- Data provenance
-- Persistent file formats
-- Dependencies for software code
-- Controlled access archives
+* Data provenance
+* Persistent file formats
+* Dependencies for software code
+* Controlled access archives
 
 ---
 <!--recycling possible?-->
@@ -518,47 +518,47 @@ At what granularity are PIDs provided? (collection, dataset, each item in a data
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 
-- Specifies how the data can be re-used in other contexts.
-- Clearly indicates if and which PIDs are provided for all datasets, individual datasets, data collections, or subsets. If PIDs will not be used, it explains why.
-- Clearly presents the approach, and the choice of identifiers is justified and refers to international standards.
+* Specifies how the data can be re-used in other contexts.
+* Clearly indicates if and which PIDs are provided for all datasets, individual datasets, data collections, or subsets. If PIDs will not be used, it explains why.
+* Clearly presents the approach, and the choice of identifiers is justified and refers to international standards.
 
 {% include callout.html type="note" content="
 **Mappings**
 
 **Relevant PID**
 
-- PID of all datasets produced
+* PID of all datasets produced
 
 **Interested stakeholder**
 
-- Level 2: Research administration (statistics), CRIStin/NVA
+* Level 2: Research administration (statistics), CRIStin/NVA
 
 **Relevant project phase**
 
-- active phase, final reporting
+* active phase, final reporting
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 [Properties in dmp]
 
-- [#dataset_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_table): nested, see below
+* [#dataset_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dataset_table): nested, see below
 
 [Properties in dataset]
 
-- [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): nested, see below e.g. access_url, available_until, byte_size, data_access, description, download_url, format, host, license, title
+* [#distribution_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_tree): nested, see below e.g. access_url, available_until, byte_size, data_access, description, download_url, format, host, license, title
 
 [Properties in distribution]
 
-- [#host_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_tree): nested, e.g. availability, backup_frequency, backup_type, certified_with, description, geo_location, pid_system, storage_type, support_versioning, title, url
+* [#host_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_tree): nested, e.g. availability, backup_frequency, backup_type, certified_with, description, geo_location, pid_system, storage_type, support_versioning, title, url
 
 [Properties in host]
 
-- [#host_pid_system_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_pid_system_tree): ark, arxiv, bibcode, doi, ean13, eissn, handle, igsn, isbn, issn, istc, lissn, lsid, pmid, purl, upc, url, urn, other [controlled]
+* [#host_pid_system_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_pid_system_tree): ark, arxiv, bibcode, doi, ean13, eissn, handle, igsn, isbn, issn, istc, lissn, lsid, pmid, purl, upc, url, urn, other [controlled]
 
 Missing:
 
-- possibility to specify other PID?
+* possibility to specify other PID?
 
 ---
 <!--additional guidance from funders-->
@@ -568,30 +568,30 @@ Missing:
 
 [Data sharing and reuse]
 
-- Will a persistent identifier (DOI) for the datasets be used? Persistent identifiers should be applied to metadata and datasets so that they can be findable and referenced in a reliable and efficient manner. Using DOI also ensures that citations and reuse can be tracked. A certified data repository will often provide this to (meta)data deposited there.
+* Will a persistent identifier (DOI) for the datasets be used? Persistent identifiers should be applied to metadata and datasets so that they can be findable and referenced in a reliable and efficient manner. Using DOI also ensures that citations and reuse can be tracked. A certified data repository will often provide this to (meta)data deposited there.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
 
 [2.2 Making data accessible - Repository]
 
-- Does the repository ensure that the data is assigned an identifier? Will the repository resolve the identifier to a digital object
+* Does the repository ensure that the data is assigned an identifier? Will the repository resolve the identifier to a digital object
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-- Choose a data repository to deposit your data in that assigns your desired persistent identifiers (e.g., a DOI, Handle, or ARK for the data, or an ORCID for the researchers). Use Re3data or FAIRsharing to find a suitable repository.
+* Choose a data repository to deposit your data in that assigns your desired persistent identifiers (e.g., a DOI, Handle, or ARK for the data, or an ORCID for the researchers). Use Re3data or FAIRsharing to find a suitable repository.
 
 ---
 <!--additional explanations-->
 ### Knowledge for support staff
 
-- Types of PIDs
-- Research catalogues
+* Types of PIDs
+* Research catalogues
 
 ---
 <!--additional explanations - only keywords-->
 ### Knowledge for users
 
-- The archives decides for you, types of PIDs
+* The archives decides for you, types of PIDs
 
 ---
 <!--recycling possible?-->

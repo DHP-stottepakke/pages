@@ -7,6 +7,9 @@
   // (e.g. github.md starts at H3). Don't treat the title as H1; still flag skipped levels within a page.
   "MD001": { "front_matter_title": "" },
 
+  // One bullet marker for all pages; the default "consistent" only enforces it per file.
+  "MD004": { "style": "asterisk" },
+
   // Prose paragraphs are written one per line; hard-wrapping them only adds diff noise.
   "MD013": false,
 

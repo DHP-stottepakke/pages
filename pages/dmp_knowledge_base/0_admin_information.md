@@ -32,43 +32,43 @@ More specific descriptions of roles and responsibilities can be added in [6 - Da
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 
-- Contains the minimal information required to identify the applicant and the references of the project.
+* Contains the minimal information required to identify the applicant and the references of the project.
 
 {% include callout.html type="note" content="
 **Mappings**
 
 **Relevant PID**
 
-- Persons: ORCID, CRIStin ID/NVA ID, role description DataCite/CredIT
-- Institutions: ROR
-- Funder: ID Open Funder Registry, ID CrossRef Funder Registry
-- Funding: Grant ID
+* Persons: ORCID, CRIStin ID/NVA ID, role description DataCite/CredIT
+* Institutions: ROR
+* Funder: ID Open Funder Registry, ID CrossRef Funder Registry
+* Funding: Grant ID
 
 **Interested stakeholder**
 
-- Level 1: Funder
-- Level 2: Research Administration, CRIStin/NVA
+* Level 1: Funder
+* Level 2: Research Administration, CRIStin/NVA
 
 **Relevant project phase**
 
-- planning post-award, final reporting
+* planning post-award, final reporting
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 [Properties in dmp]
 
-- [#dmp_contact_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contact_table): contact_id (identifier, type), mbox, name
-- [#dmp_contributor_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contributor_table): contributor_id (identifier, type), mbox, name, role [string, not controlled])
-- [#project_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#project_table): start, end, title, description [string, free text], funding (funder_id [CrossRef funder registry recommended], funding_status, grant_id)
+* [#dmp_contact_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contact_table): contact_id (identifier, type), mbox, name
+* [#dmp_contributor_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contributor_table): contributor_id (identifier, type), mbox, name, role [string, not controlled])
+* [#project_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#project_table): start, end, title, description [string, free text], funding (funder_id [CrossRef funder registry recommended], funding_status, grant_id)
 
 Missing:
 
-- institution(s) with ROR
-- ID in institutional project management tool (if relevant)
-- coupling of contact and contributors with CRIS
-- controlled values for roles
-- relations between contributors (example: contributor A - PhD candidate supervised by contributor B - PI)
+* institution(s) with ROR
+* ID in institutional project management tool (if relevant)
+* coupling of contact and contributors with CRIS
+* controlled values for roles
+* relations between contributors (example: contributor A - PhD candidate supervised by contributor B - PI)
 
 ---
 <!--additional guidance from funders-->
@@ -78,30 +78,30 @@ Missing:
 
 [Administrative information]
 
-- The data management plan should include information about the Project Owner's institution, project manager, project number, project title, funder and version.
+* The data management plan should include information about the Project Owner's institution, project manager, project number, project title, funder and version.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
 
 [1. Data Summary]
 
-- Do you, or will you, make use of other national/funder/sectorial/departmental procedures for data management? If yes, which ones (please list and briefly describe them)?
+* Do you, or will you, make use of other national/funder/sectorial/departmental procedures for data management? If yes, which ones (please list and briefly describe them)?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-- not covered
+* not covered
 
 ---
 <!--additional explanations-->
 ### Knowledge for support staff
 
-- Advantages/disadvantages of different PID systems. Which information is needed at institution/funder.
-- Being aware how contracts and collaborative agreements are handled at institution (e.g. ePhorte)
+* Advantages/disadvantages of different PID systems. Which information is needed at institution/funder.
+* Being aware how contracts and collaborative agreements are handled at institution (e.g. ePhorte)
 
 ---
 <!--additional explanations - only keywords-->
 ### Knowledge for users
 
-- How to find the right PIDs (wishful thinking: pre-filled information based on Feide login)
+* How to find the right PIDs (wishful thinking: pre-filled information based on Feide login)
 
 ---
 <!--recycling possible?-->

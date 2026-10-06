@@ -46,34 +46,34 @@ The DMP should be used as an active project management tool, and the value of a 
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 
-- Clearly outlines the roles and responsibilities for data management/stewardship (for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing), naming responsible individual(s) where possible.
-- Clearly indicates who is responsible for day-to-day implementation and adjustments to the DMP.
-- Explains, for collaborative projects, the co-ordination of data management responsibilities across partners.
+* Clearly outlines the roles and responsibilities for data management/stewardship (for example data capture, metadata production, data quality, storage and backup, data archiving, and data sharing), naming responsible individual(s) where possible.
+* Clearly indicates who is responsible for day-to-day implementation and adjustments to the DMP.
+* Explains, for collaborative projects, the co-ordination of data management responsibilities across partners.
 
 {% include callout.html type="note" content="
 **Mappings**
 
 **Relevant PID**
 
-- ORCID to identify individuals
-- CRediT for contributors roles
-- ROR for institution (? - for responsible institution. And to map individual ORCIDs with institution?)
+* ORCID to identify individuals
+* CRediT for contributors roles
+* ROR for institution (? - for responsible institution. And to map individual ORCIDs with institution?)
 
 **Interested stakeholder**
 
-- Level 2: Possibly core facility, research administration, research archive
-- Level 3: Research community (when assessing the project)
+* Level 2: Possibly core facility, research administration, research archive
+* Level 3: Research community (when assessing the project)
 
 **Relevant project phase**
 
-- planning post-award, active phase, final reporting
+* planning post-award, active phase, final reporting
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 [Properties in dmp]
 
-- [#dmp_contributor_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contributor_table): contributor_id (identifier, type), mbox, name, role [string, not controlled])
+* [#dmp_contributor_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#dmp_contributor_table): contributor_id (identifier, type), mbox, name, role [string, not controlled])
 
 ---
 <!--additional guidance from funders-->
@@ -83,34 +83,34 @@ The DMP should be used as an active project management tool, and the value of a 
 
 [Data management - reponsibilities and resources]
 
-- Which roles are assigned which responsibility for data management activities in the project? Examples of activities are data capture, metadata production, data quality, storage and backup, long-term preservation and data sharing. Responsible individuals should be disclosed, if possible.
-- For collaborative projects; How is responsibility for data management between partners coordinated?
-- Who is responsible for implementing the data management plan and for ensuring that the plan is reviewed and regularly updated? In our guidelines, it is the responsible institution that must approve the plan.
+* Which roles are assigned which responsibility for data management activities in the project? Examples of activities are data capture, metadata production, data quality, storage and backup, long-term preservation and data sharing. Responsible individuals should be disclosed, if possible.
+* For collaborative projects; How is responsibility for data management between partners coordinated?
+* Who is responsible for implementing the data management plan and for ensuring that the plan is reviewed and regularly updated? In our guidelines, it is the responsible institution that must approve the plan.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
 
 [4. Allocation of resources]
 
-- Who will be responsible for data management in your project?
+* Who will be responsible for data management in your project?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-- Determine the role of the data repository in your data management and stewardship. Choose an adequate repository to archive and share your data in that can meet or surpass your desires. Trustworthy Digital Repositories (TDRs) are repositories that provide support and take responsibility for data curation and digital preservation. TDRs can be officially certified (e.g., by the CoreTrustSeal, DIN31644/NESTOR, or ISO163638 standard). Use Re3data to find certified TDRs to deposit your data in.
+* Determine the role of the data repository in your data management and stewardship. Choose an adequate repository to archive and share your data in that can meet or surpass your desires. Trustworthy Digital Repositories (TDRs) are repositories that provide support and take responsibility for data curation and digital preservation. TDRs can be officially certified (e.g., by the CoreTrustSeal, DIN31644/NESTOR, or ISO163638 standard). Use Re3data to find certified TDRs to deposit your data in.
 
 ---
 <!--additional explanations-->
 ### Knowledge for support staff
 
-- Assigning roles (e.g. CRediT)
-- Understanding responsibilities (e.g. GDPR & institution)
-- Stress the importance of clear distribution of roles and responsibilities, and the importance of communicating the roles and responsibilities among project members.
+* Assigning roles (e.g. CRediT)
+* Understanding responsibilities (e.g. GDPR & institution)
+* Stress the importance of clear distribution of roles and responsibilities, and the importance of communicating the roles and responsibilities among project members.
 
 ---
 <!--additional explanations - only keywords-->
 ### Knowledge for users
 
-- Examples of responsibility distribution
-- Motivation: The importance of clear roles and responsibility distribution
+* Examples of responsibility distribution
+* Motivation: The importance of clear roles and responsibility distribution
 
 ---
 <!--recycling possible?-->
@@ -142,7 +142,7 @@ Summarise here all the roles and responsibilities described in the previous answ
 
 **Tips for best practices**
 
-- Outline the roles and responsibilities for data management/stewardship activities, for example, data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. Name the responsible individual(s) where possible.
+* Outline the roles and responsibilities for data management/stewardship activities, for example, data capture, metadata production, data quality, storage and backup, data archiving, and data sharing. Name the responsible individual(s) where possible.
 
 **Who will be responsible for controlling access to your data, and how will secured access be controlled? (4.2)**
 
@@ -150,10 +150,10 @@ It is essential to consider data security issues, especially if your data includ
 
 **Tips for best practices**
 
-- Access controls should always be in line with the level of confidentiality involved
-- For collaborative projects, explain the co-ordination of data management responsibilities across partners.
-- Indicate who is responsible for implementing the DMP and for ensuring that it is reviewed and, if necessary, revised.
-- Consider scheduling regular updates of the DMP.
+* Access controls should always be in line with the level of confidentiality involved
+* For collaborative projects, explain the co-ordination of data management responsibilities across partners.
+* Indicate who is responsible for implementing the DMP and for ensuring that it is reviewed and, if necessary, revised.
+* Consider scheduling regular updates of the DMP.
 
 ---
 ---
@@ -175,31 +175,31 @@ Include monetary costs in your project budget, preferrably broken down on activi
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 
-- Provides clear estimates of the resources and costs (for example storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges) that will be dedicated to data management and ensuring that data will be FAIR and describes how these costs will be covered. Alternatively, there is a statement that no additional resources are needed.
+* Provides clear estimates of the resources and costs (for example storage costs, hardware, staff time, costs of preparing data for deposit, and repository charges) that will be dedicated to data management and ensuring that data will be FAIR and describes how these costs will be covered. Alternatively, there is a statement that no additional resources are needed.
 
 {% include callout.html type="note" content="
 **Mappings**
 
 **Relevant PID**
 
-- none?
+* none?
 
 **Interested stakeholder**
 
-- Level 1: Funder
-- Level 2: Research Administration
+* Level 1: Funder
+* Level 2: Research Administration
 
 **Relevant project phase**
 
-- planning pre-award
-- planning post-award
+* planning pre-award
+* planning post-award
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 [Properties in dmp]
 
-- [#cost_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#cost_table): currency_code, description, title, value
+* [#cost_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard#cost_table): currency_code, description, title, value
 
 ---
 <!--additional guidance from funders-->
@@ -209,33 +209,33 @@ Include monetary costs in your project budget, preferrably broken down on activi
 
 [Storage and data security during the project]
 
-- How are the necessary resources budgeted and covered in the project to prepare data for sharing and long-term preservation (curating)? These can be costs related to storage, hardware, staff time, costs associated with preparing data for disposal and costs related to preservation at a data repository.
+* How are the necessary resources budgeted and covered in the project to prepare data for sharing and long-term preservation (curating)? These can be costs related to storage, hardware, staff time, costs associated with preparing data for disposal and costs related to preservation at a data repository.
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
 
 [4. Allocation of resources]
 
-- What will the costs be for making data or other research outputs FAIR in your project (e.g. direct and indirect costs related to storage, archiving, re-use, security, etc.)
-- How will these be covered? Note that costs related to research data/output management are eligible as part of the Horizon Europe grant (if compliant with the Grant Agreement conditions)
-- How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)?
+* What will the costs be for making data or other research outputs FAIR in your project (e.g. direct and indirect costs related to storage, archiving, re-use, security, etc.)
+* How will these be covered? Note that costs related to research data/output management are eligible as part of the Horizon Europe grant (if compliant with the Grant Agreement conditions)
+* How will long term preservation be ensured? Discuss the necessary resources to accomplish this (costs and potential value, who decides and how, what data will be kept and for how long)?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-- Determine any costs that your chosen repository charges for depositing the data. Data repositories, especially TDRs (‘trustworthy digital repositories’) will perform (some) data curation and digital preservation. This is an active and ongoing process of data management to ensure discovery, reuse, and long-term FAIR durability. Contact the repository of your choice to learn about these costs and make them explicit in your DMP.
+* Determine any costs that your chosen repository charges for depositing the data. Data repositories, especially TDRs (‘trustworthy digital repositories’) will perform (some) data curation and digital preservation. This is an active and ongoing process of data management to ensure discovery, reuse, and long-term FAIR durability. Contact the repository of your choice to learn about these costs and make them explicit in your DMP.
 
 ---
 <!--additional explanations-->
 ### Knowledge for support staff
 
-- Costing RDM, funder guidelines on what costs are eligible
-- Resources e.g. [OpenAire section costs of RDM](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm), [OpenAire RDM cost estimation](https://www.openaire.eu/estimating-costs-rdm-tool)
+* Costing RDM, funder guidelines on what costs are eligible
+* Resources e.g. [OpenAire section costs of RDM](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm), [OpenAire RDM cost estimation](https://www.openaire.eu/estimating-costs-rdm-tool)
 
 ---
 <!--additional explanations - only keywords-->
 ### Knowledge for users
 
-- Costing RDM
-- Resources e.g. [OpenAire section costs of RDM](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm), [OpenAire RDM cost estimation](https://www.openaire.eu/estimating-costs-rdm-tool)
+* Costing RDM
+* Resources e.g. [OpenAire section costs of RDM](https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm), [OpenAire RDM cost estimation](https://www.openaire.eu/estimating-costs-rdm-tool)
 
 <!--recycling possible?-->
 ### Existing sources that can be reused
@@ -246,12 +246,12 @@ The FAIR acronym points to overarching principles for data management that will 
 
 In short, you increase the FAIRness of data by
 
-- Depositing your data/metadata in a searchable resource
-- Providing all information required for users (computer or human) to read and interpret the data.
-- Using available community standards for data and metadata.
-- Using open formats and assigning persistent identifiers.
-- Providing your data with an appropriate license
-- In some cases, there will be additional costs involved in managing data in a way that promotes reuse. Examples could be costs for storage and processing of large amounts of data, or costs related to making particular data types available through repositories. For some projects, there might also be a need for a dedicated data manager or data steward. Although it might be difficult to pinpoint the exact costs, OpenAIRE has developed a data costing tool that lists elements that could be useful to consider when attempting to estimate.
+* Depositing your data/metadata in a searchable resource
+* Providing all information required for users (computer or human) to read and interpret the data.
+* Using available community standards for data and metadata.
+* Using open formats and assigning persistent identifiers.
+* Providing your data with an appropriate license
+* In some cases, there will be additional costs involved in managing data in a way that promotes reuse. Examples could be costs for storage and processing of large amounts of data, or costs related to making particular data types available through repositories. For some projects, there might also be a need for a dedicated data manager or data steward. Although it might be difficult to pinpoint the exact costs, OpenAIRE has developed a data costing tool that lists elements that could be useful to consider when attempting to estimate.
 
 #### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -277,6 +277,6 @@ Estimate the resources, such as time and financial costs, needed to manage, shar
 
 **Tips for best practices**
 
-- Consider, if there will be additional costs from computational facilities or resources that need to be accessed.
-- Account for resources, time and money, needed to prepare the data for sharing it and preservation (data curation).
-- Remember to specify your data management costs in the budget, according to funder requirements.
+* Consider, if there will be additional costs from computational facilities or resources that need to be accessed.
+* Account for resources, time and money, needed to prepare the data for sharing it and preservation (data curation).
+* Remember to specify your data management costs in the budget, according to funder requirements.

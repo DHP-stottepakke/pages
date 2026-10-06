@@ -33,47 +33,47 @@ In cases where institutionally managed storage cannot be used (e.g. field trips)
 
 Clearly (even if briefly) describes:
 
-- The location where the data and backups will be stored during the research activities.
-- How often backups will be performed.
-- The use of robust, managed storage with automatic backup (for example storage provided by the home institution).
+* The location where the data and backups will be stored during the research activities.
+* How often backups will be performed.
+* The use of robust, managed storage with automatic backup (for example storage provided by the home institution).
 or
-- Explains why institutional storage will not be used (and for what part of the data) and describes the (additional) locations, storage media, and procedures that will be used for storing and backing up data during the project.
+* Explains why institutional storage will not be used (and for what part of the data) and describes the (additional) locations, storage media, and procedures that will be used for storing and backing up data during the project.
 
 {% include callout.html type="note" content="
 **Mappings**
 
 **Relevant PID**
 
-- none?
+* none?
 
 **Interested stakeholder**
 
-- Level 2: ITA, Sigma2 if big data
+* Level 2: ITA, Sigma2 if big data
 
 **Relevant project phase**
 
-- pre-award: outline (if budget-relevant)
-- planning post-award, active phase
+* pre-award: outline (if budget-relevant)
+* planning post-award, active phase
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 [Properties in distribution]
 
-- [#host_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_table): nested, see below
+* [#host_table](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_table): nested, see below
 
 [Properties in host] may also be used to describe unpublished datasets?
 
-- [#host_geo_location_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_geo_location_tree) [country code, controlled vocabulary]
-- [#host_storage_type_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_storage_type_tree) [string, free text]
-- [#host_backup_frequency](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_backup_frequency) [string, free text]
-- [#host_backup_type_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_backup_type_tree) [string, free text]
-- [#host_certified_with_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_certified_with_tree) [controlled vocabulary]
-- [#host_supports_versioning_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_supports_versioning_tree): yes/no/unknown
+* [#host_geo_location_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_geo_location_tree) [country code, controlled vocabulary]
+* [#host_storage_type_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_storage_type_tree) [string, free text]
+* [#host_backup_frequency](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_backup_frequency) [string, free text]
+* [#host_backup_type_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_backup_type_tree) [string, free text]
+* [#host_certified_with_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_certified_with_tree) [controlled vocabulary]
+* [#host_supports_versioning_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#host_supports_versioning_tree): yes/no/unknown
 
 Missing:
 
-- Most suited to published data
+* Most suited to published data
 
 ---
 <!--additional guidance from funders-->
@@ -83,27 +83,27 @@ Missing:
 
 [Storage and data security during the project]
 
-- Where will (meta)data be stored and backed up throughout the project, and how often will this be performed? Storing data on laptops, typical external hard drives, USB-sticks or similar is not recommended due to less protection and greater risk of data being lost.
-- How should data be recovered in the event of an accident?
+* Where will (meta)data be stored and backed up throughout the project, and how often will this be performed? Storing data on laptops, typical external hard drives, USB-sticks or similar is not recommended due to less protection and greater risk of data being lost.
+* How should data be recovered in the event of an accident?
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-- not covered
+* not covered
 
 ---
 <!--additional explanations-->
 ### Knowledge for support staff
 
-- Where to find information about local & national computing infrastructure. When to use what.
-- Technical knowledge of backup approaches
+* Where to find information about local & national computing infrastructure. When to use what.
+* Technical knowledge of backup approaches
 
 ---
 <!--additional explanations - only keywords-->
 ### Knowledge for users
 
-- Where to find information at own institution
-- Use of institutionally managed storage, pricing policy (see question 6b)
-- Backup in case institutional storage cannot be used.
+* Where to find information at own institution
+* Use of institutionally managed storage, pricing policy (see question 6b)
+* Backup in case institutional storage cannot be used.
 
 ---
 <!--recycling possible?-->
@@ -111,18 +111,18 @@ Missing:
 
 #### [NTNU - DMP guidance](https://i.ntnu.no/wiki/-/wiki/English/DMP+guidance)
 
-- Describe where your data will be stored during the project period. We recommend using NTNU’s standard storage solutions (see NTNU storage guide). For specific information about procedures for back-up for the solution you choose for your project, contact the IT support at NTNU.
-- Storing data on laptops, external hard drives, or external storage devices such as USB sticks is not recommended. Be sure to consider information security as well as data integrity and accessibility.
+* Describe where your data will be stored during the project period. We recommend using NTNU’s standard storage solutions (see NTNU storage guide). For specific information about procedures for back-up for the solution you choose for your project, contact the IT support at NTNU.
+* Storing data on laptops, external hard drives, or external storage devices such as USB sticks is not recommended. Be sure to consider information security as well as data integrity and accessibility.
 
 #### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 
-- What are the procedures for storage and backup, and where will this be done?
-- Who is responsible for backup and restoring the data?
+* What are the procedures for storage and backup, and where will this be done?
+* Who is responsible for backup and restoring the data?
 (For projects run exclusively at UiT, this will be the UiT IT Department for, provided that UiT facilities are used for storage.)
-- Do you have sufficient storage facilities, or do you need extra services?
+* Do you have sufficient storage facilities, or do you need extra services?
 If collecting data in the field (out of office), how will the data be safely transferred from the field to the main storage unit?
-- What kind of folder structure and filename conventions will be used?
-- If collecting data in the field (out of office), how will the data be safely transferred from the field to the main storage unit?
+* What kind of folder structure and filename conventions will be used?
+* If collecting data in the field (out of office), how will the data be safely transferred from the field to the main storage unit?
 
 #### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -160,9 +160,9 @@ Where will your data be stored, and how will the data be backed up? Describe whe
 
 **Tips for best practices**
 
-- The use of a safe and secure storage provided and maintained by your organisation’s IT support or other reliable IT provider such as CSC is preferable.
-- Do NOT USE external hard drives as the main storing option.
-- Follow your institution's data security requirements
+* The use of a safe and secure storage provided and maintained by your organisation’s IT support or other reliable IT provider such as CSC is preferable.
+* Do NOT USE external hard drives as the main storing option.
+* Follow your institution's data security requirements
 
 ---
 ---
@@ -192,53 +192,53 @@ Explain which institutional data protection policies are in place.
 
 Consult institutional information security policies and storage guides:
 
-- [NTNU Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide  "2024-03-05")
-- [UiB Storage guide](https://www.uib.no/en/foremployees/153608/storage-guide "2024-03-05")
-- [UiO Data storage guide](https://www.uio.no/english/services/it/security/lsis/storage-guide.html "2024-03-05")
-- [UiT Processing and storage](https://en.uit.no/research/research-dataportal/art?p_document_id=729174 "2024-03-05")
+* [NTNU Data storage guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide  "2024-03-05")
+* [UiB Storage guide](https://www.uib.no/en/foremployees/153608/storage-guide "2024-03-05")
+* [UiO Data storage guide](https://www.uio.no/english/services/it/security/lsis/storage-guide.html "2024-03-05")
+* [UiT Processing and storage](https://en.uit.no/research/research-dataportal/art?p_document_id=729174 "2024-03-05")
 
 #### Science Europe DMP Evaluation Rubric: sufficiently addressed
 
 Clearly explains:
 
-- How the data will be recovered in the event of an incident.
-- Which institutional and/or national data protection policies are in place and provides a link to where they can be accessed.
-- Who will have access to the data during the research.
-- Clearly describes the additional security measures (in terms of physical security, network security, and security of computer systems and files) that will be taken to ensure that stored and transferred data are safe, when sensitive data are involved (for example personal data, politically sensitive information, or trade secrets).
+* How the data will be recovered in the event of an incident.
+* Which institutional and/or national data protection policies are in place and provides a link to where they can be accessed.
+* Who will have access to the data during the research.
+* Clearly describes the additional security measures (in terms of physical security, network security, and security of computer systems and files) that will be taken to ensure that stored and transferred data are safe, when sensitive data are involved (for example personal data, politically sensitive information, or trade secrets).
 
 {% include callout.html type="note" content="
 **Mappings**
 
 **Relevant PID**
 
-- none?
+* none?
 
 **Interested stakeholder**
 
-- Level 1: Institution (information security)
-- Level 2: DPO, REK, Sikt personverntjenester
+* Level 1: Institution (information security)
+* Level 2: DPO, REK, Sikt personverntjenester
 
 **Relevant project phase**
 
-- pre-award: outline
-- planning post-award, active phase
+* pre-award: outline
+* planning post-award, active phase
 " %}
 
 #### Coverage in [RDA Common Standard for maDMP](http://doi.org/10.15497/rda00039) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 [Properties in security and privacy]
 
-- [#properties-in-security_and_privacy](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-security_and_privacy): description [string, free text], name [string, free text]
+* [#properties-in-security_and_privacy](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#properties-in-security_and_privacy): description [string, free text], name [string, free text]
 
 [Properties in distribution]
 
-- [#distribution_data_access_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_data_access_tree): open/shared/closed
+* [#distribution_data_access_tree](https://github.com/RDA-DMP-Common/RDA-DMP-Common-Standard?tab=readme-ov-file#distribution_data_access_tree): open/shared/closed
 
 Missing:
 
-- Data recovery
-- Institutional/national data protection policies
-- Differential access rights, particularly in the active phase
+* Data recovery
+* Institutional/national data protection policies
+* Differential access rights, particularly in the active phase
 
 ---
 <!--additional guidance from funders-->
@@ -248,40 +248,40 @@ Missing:
 
 [Storage and data security during the project]
 
-- Who will have access to the data during the project and how is access controlled? This is particularly important where the project is a collaboration with several research communities/institutions.
-- If applicable, how should data security and risk management be handled in relation to sensitive data, such as personal data and data that underlies trade secrets?
-- What institutional data protection policies apply?
+* Who will have access to the data during the project and how is access controlled? This is particularly important where the project is a collaboration with several research communities/institutions.
+* If applicable, how should data security and risk management be handled in relation to sensitive data, such as personal data and data that underlies trade secrets?
+* What institutional data protection policies apply?
 
 #### [Horizon Europe DMP Template](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/reference-documents?selectedProgrammePeriod=2021-2027&selectedProgramme=HORIZON)
 
 [5. Data Security]
 
-- What provisions are or will be in place for data security (including data recovery as well as secure storage/archiving and transfer of sensitive data)?
-- Will the data be safely stored in trusted repositories for long term preservation and curation? (see also 5_sharing_preservation)
+* What provisions are or will be in place for data security (including data recovery as well as secure storage/archiving and transfer of sensitive data)?
+* Will the data be safely stored in trusted repositories for long term preservation and curation? (see also 5_sharing_preservation)
 
 #### [FAIRsFAIR FAIR-Aware Additional Guidance](https://doi.org/10.5281/zenodo.6088215) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-- not covered
+* not covered
 
 ---
 <!--additional explanations-->
 ### Knowledge for support staff
 
-- National policies
-- Classification of information: Institutional policies and storage guides
-    - [Klassifisering av infomasjon: Sektorstandard for universiteter, høgskoler og forskningsinstitutter](https://cms.sikt.no/sites/default/files/2024-10/Veileder%20i%20ledelsessystem%20for%20informasjonssikkerhet.pdf "2025-09-19")
-    - Dual use research: Report [Et helhetlig forskningssystem for åpen, skjermet og gradert forskning (NFR, 2024)](https://www.forskningsradet.no/siteassets/publikasjoner/2024/sluttrapport_helhetlig-forskningssystem.pdf "2026-07-31")
-    - Export control: Guidelines for [International research and innovation cooperation](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation "2024-10-03")
-- Routines for data recovery
-- Understanding data security measures
+* National policies
+* Classification of information: Institutional policies and storage guides
+    * [Klassifisering av infomasjon: Sektorstandard for universiteter, høgskoler og forskningsinstitutter](https://cms.sikt.no/sites/default/files/2024-10/Veileder%20i%20ledelsessystem%20for%20informasjonssikkerhet.pdf "2025-09-19")
+    * Dual use research: Report [Et helhetlig forskningssystem for åpen, skjermet og gradert forskning (NFR, 2024)](https://www.forskningsradet.no/siteassets/publikasjoner/2024/sluttrapport_helhetlig-forskningssystem.pdf "2026-07-31")
+    * Export control: Guidelines for [International research and innovation cooperation](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation "2024-10-03")
+* Routines for data recovery
+* Understanding data security measures
 
 ---
 <!--additional explanations - only keywords-->
 ### Knowledge for users
 
-- Data recovery
-- National and institutional policies
-- Information security levels
+* Data recovery
+* National and institutional policies
+* Information security levels
 
 ---
 <!--recycling possible?-->
@@ -293,8 +293,8 @@ Note that all data should be classified in order to choose the correct level of 
 
 **Relevant documents:**
 
-- [NTNU Policy for information security](https://i.ntnu.no/wiki/-/wiki/English/Policy+for+information+security)
-- [NTNU Storage Guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
+* [NTNU Policy for information security](https://i.ntnu.no/wiki/-/wiki/English/Policy+for+information+security)
+* [NTNU Storage Guide](https://i.ntnu.no/wiki/-/wiki/English/Data+storage+guide)
 
 #### [UiT - DMP guidance](https://en.uit.no/research/research-dataportal/art?p_document_id=726373)
 
@@ -325,7 +325,7 @@ All types of research data involve questions of rights and legal and ethical iss
 
 **Tips for best practices**
 
-- Check your institutional ethical guidelines, data privacy guidelines and data security policy, and prepare to follow the instructions that are given in these guidelines.
-- If your research is to be reviewed by an ethical committee, outline in your DMP how you will comply with the protocol (e.g., how you will remove personal or sensitive information from your data before sharing data to ensure privacy protection).
-- Will you process personal data? If you intend to do so, please detail what type of personal data you will collect.
-- All data related to an identified or identifiable person is personal data. Information such as names, telephone numbers, location data and information on the congenital diseases of the individual's grandparents is personal data.
+* Check your institutional ethical guidelines, data privacy guidelines and data security policy, and prepare to follow the instructions that are given in these guidelines.
+* If your research is to be reviewed by an ethical committee, outline in your DMP how you will comply with the protocol (e.g., how you will remove personal or sensitive information from your data before sharing data to ensure privacy protection).
+* Will you process personal data? If you intend to do so, please detail what type of personal data you will collect.
+* All data related to an identified or identifiable person is personal data. Information such as names, telephone numbers, location data and information on the congenital diseases of the individual's grandparents is personal data.
