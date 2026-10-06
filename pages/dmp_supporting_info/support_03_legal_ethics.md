@@ -41,43 +41,51 @@ turing:
 " %}
 
 ## About this chapter
+
 National legislation, institutional guidelines and international norms have implications for the handling of research data. Often there is a need to balance availability and openness with confidentially. Both researchers and research institutions are legally responsible for complying with legal and ethical requirements.
 
 ### The research-performing institution(s)
+
 The research institution has an overarching responsibility for following the applicable legislation and ensuring that research ethical norms are followed. In all research collaborations, it is important to define roles and responsibilities and document them in agreements or contracts.
 
 Research institution commonly have policies or guidelines for data management, sometimes as part of Open Science guidelines. There may also be specific routines or processes to be followed. Identifying such policies, guidelines, or processes will help you recognize research data management requirements and routines to be aware of.
 
-According to the [Act relating to the processing of personal data (The Personal Data Act, Norwegian: Personvernloven)](https://lovdata.no/dokument/NLE/lov/2018-06-15-38) the host institution usually is the data controller. If responsibility is to be shared between institution, this must be contractually specified. 
+According to the [Act relating to the processing of personal data (The Personal Data Act, Norwegian: Personvernloven)](https://lovdata.no/dokument/NLE/lov/2018-06-15-38) the host institution usually is the data controller. If responsibility is to be shared between institution, this must be contractually specified.
 
 In projects that are regulated by [the Health Research Act (Norwegian: Helseforskningsloven)](https://lovdata.no/dokument/NL/lov/2008-06-20-44), the host institution acts as [research-responsible entity (Norwegian: Forskningsansvarlig)](https://www.forskningsetikk.no/ressurser/fbib/lover-retningslinjer/forskningsansvarlig-ihht-helseforskningsloven/ "2024-07-17").
 
 ### Research Ethical Guidelines and Codes of conduct
+
 Ethical considerations may affect how data will be handled and shared, therefore knowledge of generic and subject-specific research ethical guidelines and codes of conduct is important. The [Act on Ethics and Integrity in Research (Norwegian: Forskningsetikkloven)](https://lovdata.no/dokument/NL/lov/2017-04-28-23) defines responsibilities of both research institutions and individual researchers. Furthermore, it defines an advisory role of National Research Ethics Committees that provide research area-specific guidance. Health research is handled by the Regional Ethics Committees (REK).
 
 [The National Research Ethics Committees (FEK)](https://www.forskningsetikk.no/en/):
+
 * [National Committee for Medical and Health Research Ethics (NEM)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nem/)
 * [National Committee for Research Ethics in the Social Sciences and the Humanities (NESH)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/)
 * [National Committee for Research Ethics in Science and Technology (NENT)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nent/)
 * [National Commission for the Investigation of Research Misconduct (GRU)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/granskingsutvalget/)
 * [National Committee for Research Ethics on Human Remains, interdisciplinary (SKJ)](https://www.forskningsetikk.no/en/guidelines/human-remains/)
 
-All applicants to the Research Council of Norway must address the ethical issues in their project and describe how they will be managed. [This is included in the project description and application assessment](https://www.forskningsradet.no/en/research-policy-strategy/ethical-standards/) to assure the evaluating panel that there is a plan for handling the key ethical dilemmas in the project. The Research Council of Norway refers to [their self-evaluation list](https://www.forskningsradet.no/contentassets/ac9f24c210ab4451a9b25fb406350117/research-ethics-self-evaluation-16.12.2024.pdf) as a starting point. 
+All applicants to the Research Council of Norway must address the ethical issues in their project and describe how they will be managed. [This is included in the project description and application assessment](https://www.forskningsradet.no/en/research-policy-strategy/ethical-standards/) to assure the evaluating panel that there is a plan for handling the key ethical dilemmas in the project. The Research Council of Norway refers to [their self-evaluation list](https://www.forskningsradet.no/contentassets/ac9f24c210ab4451a9b25fb406350117/research-ethics-self-evaluation-16.12.2024.pdf) as a starting point.
 
 In addition, subject-specific ethical guidelines and codes of conduct commonly apply.
 
 Further information:
+
 * [Ethical aspects (RDMkit): Which aspects of RDM might raise ethical issues?](https://rdmkit.elixir-europe.org/ethics#which-aspects-of-rdm-might-raise-ethical-issues)
 * [Protect (CESSDA DMEG): Ethics and data protection](https://dmeg.cessda.eu/Data-Management-Expert-Guide/5.-Protect/Ethics-and-data-protection "2024-07-17")
 
 ### Ethical approvals
+
 For certain projects, an ethical pre-approval is needed to execute the project. The approval case numbers should be referred to in the DMP. It is the responsibility of the Researcher to make sure that the project and associated data is managed in agreement with current legislation and research ethical norms.
 
 Research projects conducting medical and health research on human beings, human biological material or personal health data must be pre-approved by the Regional committees for medical and health research ethics (REK):
+
 * [Regional Committees for Medical and Health Research Ethics](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/rek/)
 * [REK-portalen](https://rekportalen.no/#hjem/home "2024-07-17")
 
 Research projects conducting animal experiments must seek pre-approval from the Norwegian Food Safety Authority (Norwegian: Mattilsynet), which is handled through the FOTS application portal:
+
 * [Mattilsynet on experimental animals *Norwegian only*](https://www.mattilsynet.no/dyr/forsoksdyr "2024-07-17"){:lang="no"}
 * [FOTS (Forsøksdyrforvaltningens tilsyns- og søknadssystem) application portal](https://asp.gitek.no/fdu/pmws.dll/Login "2024-07-17")
 * [Animal use for scientific purposes *Norwegian only*](https://www.forsoksdyrkomiteen.no/ressurser/){:lang="no"}
@@ -87,9 +95,10 @@ While institutional ethical committees are common in many countries, in Norway t
 Contact research advisors or [research support staff](/pages/support_00_local_disc) about local routines.
 
 ### Personal data and data privacy
+
 As processing of personal data entails data management requirements, being specific about personal data is part of the DMP. It is the responsibility of the researcher to make sure that data processing is in agreement with the national legislation and institutional policies and routines. If personal data is to be FAIR, and available for future research or shared openly, considerations on how this can be done must be made prior to data collection.
 
-Personal data is any information that can be linked to an identifiable person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: [Personopplysningsloven](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. Any processing of personal data requires a lawful basis. 
+Personal data is any information that can be linked to an identifiable person. This includes indirect identification. If data can identify a person directly or indirectly at any stage in the research process, the processing of personal data must be in accordance with The Personal Data Act (Norwegian: [Personopplysningsloven](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)), which incorporates the EU General Data Protection Regulation (GDPR) in Norway. Any processing of personal data requires a lawful basis.
 
 Extra care must be taken when processing special categories of personal data (often called sensitive personal data). Special categories include information about: Race or ethnic background; Political, philosophical, or religious beliefs; Health information and health related conditions; Sexual orientation or behaviour; Membership in trade unions; Genetic and biometric information intended to identify a physical person.
 
@@ -105,32 +114,36 @@ If data is completely anonymous, it is not considered personal data. This means 
 It is a common misunderstanding that research ethics and privacy protection is the same thing. It is important to remember that complying with privacy legislation and conducting research ethical considerations are independent, although related, processes. Read more about the distinction between data protection and privacy by [National Research Ethics Committees: The Personal Data Act - Research ethics - far more than privacy](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/legal-statutes-and-guidelines/the-personal-data-act/ "2024-07-17")
 
 ### Sensitive data
+
 Sensitive data is data that must be protected against unwanted disclosure. Personal data is one of many reasons to take precautions when processing and storing data. The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary".
 
 Reasons for sensitivity (non-exhaustive):
+
 * National security
-	* National Security Act ([Norwegian: Lov om nasjonal sikkerhet (sikkerhetsloven)](https://lovdata.no/dokument/NL/lov/2018-06-01-24){:lang="no"})
+    * National Security Act ([Norwegian: Lov om nasjonal sikkerhet (sikkerhetsloven)](https://lovdata.no/dokument/NL/lov/2018-06-01-24){:lang="no"})
 * Export control regulations
-	* Export Control Act ([Norwegian: Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. (eksportkontrolloven)](https://lovdata.no/dokument/NL/lov/1987-12-18-93){:lang="no"})
-	* Ministry of Foreign Affairs: Guidelines for technology export (2025) ([Norwegian: Veileder for eksport av teknologi](https://www.regjeringen.no/no/dokumenter/veileder-for-eksport-av-teknologi/id3116449/){:lang="no"})
+    * Export Control Act ([Norwegian: Lov om kontroll med eksport av strategiske varer, tjenester og teknologi m.v. (eksportkontrolloven)](https://lovdata.no/dokument/NL/lov/1987-12-18-93){:lang="no"})
+    * Ministry of Foreign Affairs: Guidelines for technology export (2025) ([Norwegian: Veileder for eksport av teknologi](https://www.regjeringen.no/no/dokumenter/veileder-for-eksport-av-teknologi/id3116449/){:lang="no"})
 * Intellectual Property Rights (IPR), commercial issues, trade secrets or confidentiality issues
-	* Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40){:lang="no"})
-	* Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9){:lang="no"})
-	* Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126){:lang="no"})
-	* Act on Universities and Colleges Act ([Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven)](https://lovdata.no/dokument/NL/lov/2024-03-08-9){:lang="no"})
+    * Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40){:lang="no"})
+    * Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9){:lang="no"})
+    * Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126){:lang="no"})
+    * Act on Universities and Colleges Act ([Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven)](https://lovdata.no/dokument/NL/lov/2024-03-08-9){:lang="no"})
 * Research on endangered species
-	* Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100){:lang="no"})
+    * Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100){:lang="no"})
 * Research on protected cultural heritage
-	* Cultural Heritage Act ([Norwegian: Lov om kulturminner (kulturminneloven)](https://lovdata.no/dokument/NL/lov/1978-06-09-50){:lang="no"})
+    * Cultural Heritage Act ([Norwegian: Lov om kulturminner (kulturminneloven)](https://lovdata.no/dokument/NL/lov/1978-06-09-50){:lang="no"})
 * Indigenous Data Governance
-	* United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter](https://fn.no/avtaler/urfolk/fns-erklaering-om-urfolks-rettigheter))
+    * United Nations Declaration on the Rights of Indigenous Peoples ([Norwegian: FNs erklæring om urfolks rettigheter](https://fn.no/avtaler/urfolk/fns-erklaering-om-urfolks-rettigheter))
 
 Further information:
+
 * [Report How should we share research data? (2021)](https://www.forskningsradet.no/siteassets/publikasjoner/2021/how-should-we-share-research-data.v2.pdf)
 
 ## Question-specific guidance
 
 ### Involved institution(s)/partner(s)
+
 Specifying the host institution and possible collaboration partners is important as this defines legal responsibilities and implies which guidelines are to be followed.\
 Read more about [The research-performing institution(s).](/pages/support_03_legal_ethics#the-research-performing-institution)
 
@@ -142,24 +155,29 @@ Formalising collaboration in an agreement/contract is recommended. It can includ
 We assume that the localization of the host institution (in multi-partner projects: coordinating institution) defines the applicable legislation. If this should not apply, make sure to indicate this as a relevant agreement related to the collaboration partner.
 
 For help with contract-related questions contact legal advisors at your institution:
+
 * [NTNU: Kontraksmaler og signeringsfullmakt *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Kontraktsmaler+og+signeringsfullmakt "2024-09-04"){:lang="no"}
 * [UiB: Contracts and legal counselling *Norwegian only*](https://www.uib.no/boa/17236/kontrakter-og-juridisk-r%C3%A5dgivning "2024-09-04"){:lang="no"}
 * [UiO: Collaboration agreements](https://www.uio.no/english/for-employees/unitpages/sv/psi/research-support/research-procedures/collaboration-agreements/ "2024-09-04")
 * [UiT: Agreements for research](https://en.uit.no/om/internasjonalisering/portal?p_document_id=481109 "2024-09-04")
 
 Further information:
+
 * [The Research Council of Norway: Collaboration agreements](https://www.forskningsradet.no/en/financing/received-funding/collaboration-agreements/)
 
 ### Indicate applicable general research ethical guidelines
+
 All researches are to follow general research ethical guidelines and ethical considerations may affect how data will be handled and shared.
 
-Institutional resources on research ethics: 
+Institutional resources on research ethics:
+
 * [Ethics at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Ethics+at+NTNU "2024-07-17")
 * [UiB Research Ethics](https://www.uib.no/en/researchethics "2024-07-17")
 * [Research ethics at UiO](https://www.uio.no/english/for-employees/support/research/research-ethics/ "2024-07-17")
 * [UiT Research Ethics](https://en.uit.no/research/ethics)
 
 You can select from the following list of general research ethical guidelines, based on resources provided by the National Research Ethics Committees:
+
 * [a. The European Code of Conduct for Research Integrity](https://allea.org/code-of-conduct/ "2024-07-17")
 * [b. National Research Ethics Committees (FEK) - General guidelines](https://www.forskningsetikk.no/en/guidelines/general-guidelines/ "2024-07-17")
 * [c. Guidelines for Research Ethics in the Social Sciences and the Humanities by the National Committee for Research Ethics in the Social Sciences and the Humanities (NESH)](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/guidelines-nesh/guidelines-for-research-ethics-in-the-social-sciences-and-the-humanities/ "2024-12-06")
@@ -173,9 +191,11 @@ You can select from the following list of general research ethical guidelines, b
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
 
 ### Are additional ethical guidelines or codes of conduct relevant?
+
 Ethical considerations may affect how data will be handled and shared. Investigating if there is subject-specific research ethical guidelines and codes of conduct is therefore important.
 
 Please indicate any additional ethical guidelines or codes of conducts relevant for the project. Examples (non-exhaustive):
+
 * [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/careprinciples "2026-07-31")
 * [The TRUST Code – Global Code of Conduct for Equitable Research Partnerships](https://www.globalcodeofconduct.org/ "2024-04-22")
 * [Ethical advice on international collaboration in research](https://www.forskningsetikk.no/en/resources/ethical-advice-on-international-collaboration-in-research/ "2026-07-30")
@@ -188,12 +208,14 @@ Please indicate any additional ethical guidelines or codes of conducts relevant 
 * [Ethical guidelines for clinical trial of drugs *Norwegian only*](https://www.forskningsetikk.no/ressurser/publikasjoner/kliniske-utprovinger-av-legemidler/){:lang="no"}
 
 Further information:
+
 * [Ethical aspects (RDMkit): How can I identify regulations, guidelines and laws connected to ethics in my research context?](https://rdmkit.elixir-europe.org/ethics#how-can-i-identify-regulations-guidelines-and-laws-connected-to-ethics-in-my-research-context)
 * [RDM resources in Norway (RDMkit): Relevant ethical guidelines](https://rdmkit.elixir-europe.org/no_resources#relevant-ethical-guidelines)
 
 Read more about [Research Ethical Guidelines and Codes of conduct.](/pages/support_03_legal_ethics#research-ethical-guidelines-and-codes-of-conduct)
 
 ### Does the project require ethical pre-approval?
+
 ![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 If the project involves health research, use of human biological material, testing on animals or similar, a pre-approval is likely needed to execute the project. The approval case numbers should be referred to in the DMP.
 
@@ -201,8 +223,8 @@ NB! Registrations of the legal basis of processing personal data are not the sam
 
 Read more about [Ethical approvals.](/pages//support_03_legal_ethics#ethical-approvals)
 
-
 ### Will any personal data be collected/processed?
+
 ![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 <code> If personal data are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
@@ -211,37 +233,41 @@ Personal data is any information that can be linked to living person. This inclu
 Read more about [Personal data and data privacy.](/pages/support_03_legal_ethics#personal-data-and-data-privacy)
 
 Institutional privacy policies:
+
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy)
 * [University of Bergen (UiB)](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen)
 * [University of Oslo (UiO)](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html)
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_742141)
 
 #### Which institutional privacy routines apply?
+
 Privacy routines at research institutions may differ from each other, it is therefore important to make yourself familiar with the applicable policies and guidelines at your institution.
 
 Please use the 'Add' button for adding any new policy/ guideline. Selecting your institution will provide links to recommended guidelines. You can also paste a url in the search box to add further references. In collaboration projects, consider [which institution will be responsible](/pages/support_03_legal_ethics#the-research-performing-institutions).
 
 Institutional privacy routines:
+
 * Norwegian University of Science and Technology (NTNU)
-	* [Collection of personal data for research projects at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2024-07-16")
-	* [Handling data from health research](https://i.ntnu.no/wiki/-/wiki/English/Handling+data+from+health+research "2025-07-18")
-	* [Collection of personal data for research projects (student projects)](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2025-07-18")
-	* [NTNU privacy policy](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy "2024-07-16")
+    * [Collection of personal data for research projects at NTNU](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2024-07-16")
+    * [Handling data from health research](https://i.ntnu.no/wiki/-/wiki/English/Handling+data+from+health+research "2025-07-18")
+    * [Collection of personal data for research projects (student projects)](https://i.ntnu.no/wiki/-/wiki/English/Collection+of+personal+data+for+research+projects "2025-07-18")
+    * [NTNU privacy policy](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy "2024-07-16")
 * University of Bergen (UiB)
-	* [Procedures for research that processes personal data at UiB](https://www4.uib.no/en/research/research-ethics/procedures-for-research-that-processes-personal-data-at-uib "2025-07-18")
-	* [Ethics and data protection in medical and health research](https://www4.uib.no/en/research/research-ethics/ethics-and-data-protection-in-medical-and-health-research "2025-07-18")
-	* [Ethics and data protection in student assignments](https://www4.uib.no/en/research/research-ethics/ethics-and-data-protection-in-student-assignments "2025-07-18")
-	* [Privacy policy for UiB](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen "2024-07-16")
+    * [Procedures for research that processes personal data at UiB](https://www4.uib.no/en/research/research-ethics/procedures-for-research-that-processes-personal-data-at-uib "2025-07-18")
+    * [Ethics and data protection in medical and health research](https://www4.uib.no/en/research/research-ethics/ethics-and-data-protection-in-medical-and-health-research "2025-07-18")
+    * [Ethics and data protection in student assignments](https://www4.uib.no/en/research/research-ethics/ethics-and-data-protection-in-student-assignments "2025-07-18")
+    * [Privacy policy for UiB](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen "2024-07-16")
 * University of Oslo (UiO)
-	* [Processing of personal data in research projects at UiO](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html/ "2024-10-30")
-	* [UiO Quality assurance system for health and medical research](https://www.uio.no/english/for-employees/support/research/quality-system-for-health-research/index.html "2024-10-30")
-	* [Privacy protection and research papers (student projects)](https://www.uio.no/english/studies/examinations/privacy-protection/ "2025-07-18")
-	* [Privacy declarations for UiO](https://www.uio.no/english/about/regulations/privacy-declarations/ "2024-10-30")
+    * [Processing of personal data in research projects at UiO](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html/ "2024-10-30")
+    * [UiO Quality assurance system for health and medical research](https://www.uio.no/english/for-employees/support/research/quality-system-for-health-research/index.html "2024-10-30")
+    * [Privacy protection and research papers (student projects)](https://www.uio.no/english/studies/examinations/privacy-protection/ "2025-07-18")
+    * [Privacy declarations for UiO](https://www.uio.no/english/about/regulations/privacy-declarations/ "2024-10-30")
 * UiT The Arctic University of Norway (UiT)
-	* [Processing of personal data in research projects](https://en.uit.no/research/ethics/art?p_document_id=754184 "2024-07-16")
-	* [Data protection/ Privacy at UiT](https://en.uit.no/om/informationsecurity#kapittel_705927 "2024-07-16")
+    * [Processing of personal data in research projects](https://en.uit.no/research/ethics/art?p_document_id=754184 "2024-07-16")
+    * [Data protection/ Privacy at UiT](https://en.uit.no/om/informationsecurity#kapittel_705927 "2024-07-16")
 
 #### Privacy considerations
+
 The routines regarding processing of personal data differ between institutions. It is the researchers responsibility to make oneself familiar with the requirements at their institution.
 
 Processing of personal data affect choice of storage, and how open data can be archived or made available to others, these considerations are part of data management planning. If the data are to be used for future research this must be taken into account when legal basis for data processing is selected. Explicit information about archiving and future use should also be included in the information to study participants.
@@ -249,47 +275,55 @@ Processing of personal data affect choice of storage, and how open data can be a
 In this question you refer to the privacy assessment(s) conducted by selecting "Processing of personal data is registered in other system" and adding a reference number to the assessment. If you are not required by your institution to describe the compliance with personal data act in a separate system, you may choose "Privacy considerations step-by-step".
 
 ##### Processing of personal data is registered in other system
+
 If you already described the processing of personal data in detail in other systems including local registration of personal data processing, the Sikt notification form for personal data, or executing and registering a Data Protection Impact assessment (DPIA), you can refer to these registration(s). Specify the system where the respective registration system and identifier of the project registration. Questions regarding lawful processing of personal data and routines at your institution should be directed to the respective Data Protection Officer (DPO, Norwegian: Personvernombud).
 
 * Institutional routines for privacy assessment:
-	* [RETTE at UiB](https://rette.app.uib.no/)
-	* [NTNU guidance for Data Protection Impact Assessment (DPIA)](https://i.ntnu.no/wiki/-/wiki/English/Data+protection+impact+assessment "2024-10-30")
-	* [UiO Quality assurance system for health and medical research](https://www.uio.no/english/for-employees/support/research/quality-system-for-health-research/index.html "2024-10-30")
+    * [RETTE at UiB](https://rette.app.uib.no/)
+    * [NTNU guidance for Data Protection Impact Assessment (DPIA)](https://i.ntnu.no/wiki/-/wiki/English/Data+protection+impact+assessment "2024-10-30")
+    * [UiO Quality assurance system for health and medical research](https://www.uio.no/english/for-employees/support/research/quality-system-for-health-research/index.html "2024-10-30")
 * [Sikt notification form for personal data ('Sikt Meldeskjema')](https://sikt.no/en/notification-form-personal-data)
 * For agreements on data processing you can find inspiration in the [Data Agreement Wizard](https://dawid.elixir-luxembourg.org/) - - make sure to clarify the agreement(s) with your institutional legal person as well.
 
 ##### Privacy considerations step-by-step
+
 <code> Be aware that you might have to register processing of personal data in additional systems as required by your institution and there is currently no information exchange between systems. </code>
 
 These questions will guide you through relevant considerations concerning collecting/processing personal data in accordance with privacy legislation.
 
 #### How will you document participants information and/or consent?
-Documenting permissions form study participants to share data is crucial to making research data available, and often difficult or impossible to obtain in retrospect. It is therefore essential to include information about planned data sharing in the participant information letter and/or consent forms. 
+
+Documenting permissions form study participants to share data is crucial to making research data available, and often difficult or impossible to obtain in retrospect. It is therefore essential to include information about planned data sharing in the participant information letter and/or consent forms.
 
 Ideally, the permission should be requested in a granular way, with distinct permission to making data available. Unfortunately, guidance on this topic and examples of consent forms that are adapted to European legislation is not easily found, and the lines of what and when is possible is still being drawn up. Consult your [institutional research data management support services](/pages/support_00_local_disc#institutional-rdm-support-alphabetical-order) if you are uncertain about formulations or need examples of how sharing and reuse of data including information about people can be possible.
 
 Remember that the ethical requirement to obtain permission to data sharing from study participants is independent of the legal basis (Norwegian: behandlingsgrunnlag) for processing of personal data as required by GDPR. This difference will however not be evident for research participants and the term 'consent' (Norwegian: samtykke) is often used for both processes. However, the requirements for the two types of consent differ.
 
 ##### Research regulated by the Health Research Act
+
 For medical and health research projects, the requirement for obtaining informed consent from subjects is described in chapter 4 of the Health Research Act [Norwegian: Lov om medisinsk og helsefaglig forskning (helseforskningsloven)](https://lovdata.no/dokument/LTI/lov/2008-06-20-44).
 
 Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://www.edpb.europa.eu/documents/legislative-opinion/opinion-32019-concerning-the-questions-and-answers-on-the-interplay_en) of the European data protection board.
 
 ##### Research project using 'public interest' as legal basis
+
 Scientific projects at public research institutions will often rely on publich interest as legal basis legal basis for the processing of personal data. For compliance with ethical guidelines, participant permission to archive the data for the purpose of future research, and possibly also educational purposes, should be collected and documented.
 
 ##### Research project using 'consent' as legal basis
+
 Consent is a possible legal basis for processing of personal data under GDPR. For processing of certain types of personal data, strict requirements apply and processing needs to be based on a condition in addition to the legal basis. Explicit consent is one such possible condition, which must be freely given, specific, informed and unambiguous (GDPR article 9, article 7, and recital 32).
 
 If consent is used as legal basis for processing of personal data consider asking for permission to archive the data for the purpose of future research, and possibly also educational purposes, as part of both the informed and specific consent. Consult the links below, to see if you can use standard consent clauses, which can be reflected with machine readable metadata.
 
 Institutional resources on participant information and consent:
+
 * [NTNU - Samtykke for behandling av personopplysninger *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Samtykke+for+behandling+av+personopplysninger "2024-07-19"){:lang="no"}
 * [NTNU - Samtykke fra forskningsdeltakere i helseforskning *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Samtykke+fra+forskningsdeltakere+i+helseforskning "2024-07-19"){:lang="no"}
 * [UiB - Rutiner ved oppstart av forskningsprosjekter: informasjonsplikt og samtykke *Norwegian only*](https://www.uib.no/forskningsetikk/123944/forskningsrutiner?step=2#2-3-informasjonsplikt-og-samtykke-nbsp- "2024-07-19"){:lang="no"}
 * [UiO - Open sharing: Research data and personal information](https://www.uio.no/english/for-employees/support/research/research-data-management/topics/as-open-as-possible.html)
 
 Resources on participant information and consent forms:
+
 * [GA4GH consent toolkit](https://www.ga4gh.org/product/consent-toolkit/) with examples of granular consent and machine readable metadata (for human genetic data)
 * [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico)
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/)
@@ -297,28 +331,31 @@ Resources on participant information and consent forms:
 * [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 
 Further information:
+
 * [National Research Ethics Committees: Consent](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
 * sikresiden.no e-learning course [Protection of privacy (GDPR) and ethics in research](https://www.sikresiden.no/en/preventive/safetyandsecuretraining "2025-10-06")
-* [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research) 
-
+* [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research)
 
 ### Will sensitive information (apart from special category personal data) be collected/processed?
+
 ![Static Badge](https://img.shields.io/badge/Wizard-ELSI-%231abc9cff) *Specific to projects with ethical/legal considerations*\
 <code> If sensitive data (apart from special category personal data) are collected/processed, make sure to classify information security and choose storage and backup solutions accordingly.</code>
 
 The guiding principle in research data management and making data accessible is "as open as possible, as closed as necessary". There can be many reasons why data must be protected. Read more about [Sensitive data and legal backgrounds for handling data as sensitive.](/pages/support_03_legal_ethics#sensitive-data)
 
 Reasons for sensitivity (non-exhaustive) and relevant resources:
+
 * National security
 * Export control regulations
-	* Investigate routines at your department in addition to institutional guidelines
+    * Investigate routines at your department in addition to institutional guidelines
 * Intellectual Property Rights (IPR), commercial issues, or confidentiality issues
-	* If you have questions, consult with technology transfer offices or legal advisors at your institution 
+    * If you have questions, consult with technology transfer offices or legal advisors at your institution
 * Research on endangered species
 * Research on protected cultural heritage
 * Indigenous Data Governance
 
 Resources on export control:
+
 * sikresiden.no e-learning course [Research security in international cooperation](https://www.sikresiden.no/en/preventive/safetyandsecuretraining "2025-10-06")
 * [Norwegian Agency for Export Control and Sanctions (DEKSA)](https://deksa.no/en/ "2025-03-04")
 * [Norwegian Directorate for Higher Education and Skills: Export control of knowledge transfer and international sanctions](https://hkdir.no/en/guidelines-and-tools-for-responsible-international-knowledge-cooperation/international-research-and-innovation-cooperation/export-control-of-technology-transfer-and-international-sanctions "2026-08-20")
@@ -330,17 +367,20 @@ Resources on export control:
 * [UiT: Internasjonalt samarbeid og eksportkontroll *Norwegian only*](https://uit.no/om/informasjonssikkerhet#v-pills-879214 "2025-10-30"){:lang="no"}
 
 Institutional IPR policies:
+
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
 * [University of Bergen (UiB)](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-07-19")
 * [University of Oslo (UiO)](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-07-19")
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-07-19"){:lang="no"}
 
 Technology transfer and innovation contact points:
+
 * [NTNU Technology Transfer as](https://www.ntnutto.no/)
 * [UiB: Innovation](https://www.uib.no/en/innovation)
 * [UiO: Inven2 as](https://www.inven2.com/innovation/researchers/?lang=en)
 * [UiT: Norinnova](https://norinnova.no/tto/)
 
 Resources on Indigenous Data Governance:
+
 * [National Research Ethics Committees - Topic: Indigenous Peoples and National Minorities](https://www.forskningsetikk.no/en/resources/topic-indigenous-peoples-and-national-minorities/ "2025-10-06")
 * [GIDA-Sápmi - Sámi Research Data Governance](https://uit.no/research/sshf-no/project?pid=788403 "2024-07-19")
