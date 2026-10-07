@@ -183,6 +183,13 @@ Here the explanation from [NFDI4Chem](https://www.nfdi4chem.de/3-2-1-rule/) [![L
 >
 > The 3-2-1 rule does not include a backup routine. However, this is just as important because the best backup is useless if it is outdated. Automations (e.g., a cron job) on your servers are best suited for this, copying your data to the secondary storage every night. Or use central services, they already have backup plans.
 
+Some storage and backup challenges to be aware of:
+
+* If snapshots are created at a given frequency (e.g. daily), data generated after the last snapshot may not be possible to recover
+* Retainment policies for common solutions such as SharePoint/OneDrive may be different between institutions. Make sure you know what happens to data storage at your institution when employees leave or shared storage areas remain inactive for an extended time period. If in doubt, check with your IT department.
+* Some research units have a practice of relying on local network attached storage to store data-intensive instrument output or other storage-intensive applications. There have been several occasions where failure of such local network attached storage without external backup led to cost-intensive data recovery operations or data loss.
+
+
 #### Is the storage solution associated with costs?
 
 In case your project requires storage beyond a basic level supplied by your institution, there might be associated costs. It is often best practise to familiarize yourself with storage costs at the outset, so that they can be factored into your budget. In many cases the costs will vary depending on the needs and nature of your project and perhaps by requirements from your funding source. If you are using commercial cloud storage, also consider that traffic in and out of the system might be charged.

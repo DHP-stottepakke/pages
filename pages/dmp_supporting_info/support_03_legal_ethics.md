@@ -88,7 +88,6 @@ Research projects conducting animal experiments must seek pre-approval from the 
 
 * [Mattilsynet on experimental animals *Norwegian only*](https://www.mattilsynet.no/dyr/forsoksdyr "2024-07-17"){:lang="no"}
 * [FOTS (Forsøksdyrforvaltningens tilsyns- og søknadssystem) application portal](https://asp.gitek.no/fdu/pmws.dll/Login "2024-07-17")
-* [Animal use for scientific purposes *Norwegian only*](https://www.forsoksdyrkomiteen.no/ressurser/){:lang="no"}
 
 While institutional ethical committees are common in many countries, in Norway these have only have been established at selected institution and faculties. For most domains the researchers themselves will make an ethical assessment of the research project with reference to relevant guidelines and regulations. As part of this assessment, it is necessary to consider the potential harm and risk that may arise from the research. Here consequences of sharing research data should be considered according to the principle of "as open as possible, as closed as necessary". For international projects it is advisable to consider research ethics issues before entering collaborations as perceptions and legislation may differ between countries.
 
@@ -106,12 +105,18 @@ The principle of data minimization entails limiting the amount of personal data 
 
 * The Personal Data Act ([Norwegian: Lov om behandling av personopplysninger (personopplysningsloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-38/KAPITTEL_gdpr#KAPITTEL_gdpr)
 * [Forskrift om behandling av personopplysninger](https://lovdata.no/dokument/SF/forskrift/2018-06-15-876)
-* [The Norwegian Data Protection Authority (Datatilsynet) on the Personal Data Act *Norwegian only*](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/om-personopplysningsloven-og-nar-den-gjelder/ "2024-07-17"){:lang="no"}
-* [National Research Ethics Committees: Q&A: New legislation on personal data - what does it mean for research? *Norwegian only*](https://www.forskningsetikk.no/ressurser/gdpr/){:lang="no"}
+* [The Norwegian Data Protection Authority (Datatilsynet) on the Personal Data Act *in Norwegian*](https://www.datatilsynet.no/regelverk-og-verktoy/lover-og-regler/om-personopplysningsloven-og-nar-den-gjelder/ "2024-07-17"){:lang="no"}
+* [National Research Ethics Committees: Q&A: New legislation on personal data - what does it mean for research? *in Norwegian*](https://www.forskningsetikk.no/ressurser/gdpr/){:lang="no"}
 
 If data is completely anonymous, it is not considered personal data. This means that data has been collected anonymously and not linked to a directly or indirectly person at any stage of the research process. As long as a link exists or can be re-created the data is only de-identified or pseudonymised and considered personal data. If data is anonymized during the course of the research project, the project is processing  personal data.
 
-It is a common misunderstanding that research ethics and privacy protection is the same thing. It is important to remember that complying with privacy legislation and conducting research ethical considerations are independent, although related, processes. Read more about the distinction between data protection and privacy by [National Research Ethics Committees: The Personal Data Act - Research ethics - far more than privacy](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/legal-statutes-and-guidelines/the-personal-data-act/ "2024-07-17")
+It is a common misunderstanding that research ethics and privacy protection is the same thing. It is important to remember that complying with privacy legislation and conducting research ethical considerations are independent, although related, processes. Read more about the distinction between data protection and privacy by [National Research Ethics Committees: The Personal Data Act - Research ethics - far more than privacy](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/legal-statutes-and-guidelines/the-personal-data-act/ "2024-07-17").
+
+Further information:
+
+* [Research Data Alliance Norway (NO-RDA): Guidance for sharing research data containing personal data *in Norwegian*](https://doi.org/10.18711/j7pc-7883){:lang="no"}
+* sikresiden.no e-learning course [Protection of privacy (GDPR) and ethics in research](https://www.sikresiden.no/en/preventive/safetyandsecuretraining "2025-10-06")
+
 
 ### Sensitive data
 
@@ -197,6 +202,7 @@ Ethical considerations may affect how data will be handled and shared. Investiga
 Please indicate any additional ethical guidelines or codes of conducts relevant for the project. Examples (non-exhaustive):
 
 * [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/careprinciples "2026-07-31")
+* [Guidance for Indigenous Collections and Indigenous Data: Recommendations from Creative Commons and Local Contexts](https://doi.org/10.5281/zenodo.21071543)
 * [The TRUST Code – Global Code of Conduct for Equitable Research Partnerships](https://www.globalcodeofconduct.org/ "2024-04-22")
 * [Ethical advice on international collaboration in research](https://www.forskningsetikk.no/en/resources/ethical-advice-on-international-collaboration-in-research/ "2026-07-30")
 * [Guidelines for Internet Research Ethics](https://www.forskningsetikk.no/en/about-us/our-committees-and-commission/nesh/guidelines-nesh/a-guide-to-internet-research-ethics/ "2024-10-30")
@@ -232,12 +238,19 @@ Personal data is any information that can be linked to living person. This inclu
 
 Read more about [Personal data and data privacy.](/pages/support_03_legal_ethics#personal-data-and-data-privacy)
 
+Further information:
+
+* [Research Data Alliance Norway (NO-RDA): Guidance for sharing research data containing personal data *in Norwegian*](https://doi.org/10.18711/j7pc-7883){:lang="no"}
+* sikresiden.no e-learning course [Protection of privacy (GDPR) and ethics in research](https://www.sikresiden.no/en/preventive/safetyandsecuretraining "2025-10-06")
+* [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research)
+
 Institutional privacy policies:
 
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy)
 * [University of Bergen (UiB)](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen)
 * [University of Oslo (UiO)](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html)
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_742141)
+
 
 #### Which institutional privacy routines apply?
 
@@ -301,13 +314,13 @@ Remember that the ethical requirement to obtain permission to data sharing from 
 
 ##### Research regulated by the Health Research Act
 
-For medical and health research projects, the requirement for obtaining informed consent from subjects is described in chapter 4 of the Health Research Act [Norwegian: Lov om medisinsk og helsefaglig forskning (helseforskningsloven)](https://lovdata.no/dokument/LTI/lov/2008-06-20-44).
+For medical and health research projects, the requirement for obtaining informed consent from subjects is described in chapter 4 of the Health Research Act [Norwegian: Lov om medisinsk og helsefaglig forskning (helseforskningsloven)](https://lovdata.no/dokument/LTI/lov/2008-06-20-44){:lang="no"}.
 
 Please note that the specific 'consent' under GDPR as a legal basis is not equivalent with 'informed consent' in the context of health research. For more information please consult the [Opinion 3/2019 concerning the Questions and Answers on the interplay between the Clinical Trials Regulation (CTR) and the General Data Protection regulation (GDPR)](https://www.edpb.europa.eu/documents/legislative-opinion/opinion-32019-concerning-the-questions-and-answers-on-the-interplay_en) of the European data protection board.
 
 ##### Research project using 'public interest' as legal basis
 
-Scientific projects at public research institutions will often rely on publich interest as legal basis legal basis for the processing of personal data. For compliance with ethical guidelines, participant permission to archive the data for the purpose of future research, and possibly also educational purposes, should be collected and documented.
+Scientific projects at public research institutions will often rely on public interest as legal basis legal basis for the processing of personal data. For compliance with ethical guidelines, participant permission to archive the data for the purpose of future research, and possibly also educational purposes, should be collected and documented.
 
 ##### Research project using 'consent' as legal basis
 
@@ -328,13 +341,9 @@ Resources on participant information and consent forms:
 * [Informed Consent Ontology (ICO)](https://www.ebi.ac.uk/ols4/ontologies/ico)
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/)
 * For Arts and humanities you can get inspiration for consent forms from the [DARIAH ELDAH Consent Form Wizard (CFW)](https://consent.dariah.eu/) - make sure to clarify the form with your insitutional legal person as well
+* [National Research Ethics Committees: Consent](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
 * [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
 
-Further information:
-
-* [National Research Ethics Committees: Consent](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
-* sikresiden.no e-learning course [Protection of privacy (GDPR) and ethics in research](https://www.sikresiden.no/en/preventive/safetyandsecuretraining "2025-10-06")
-* [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research)
 
 ### Will sensitive information (apart from special category personal data) be collected/processed?
 
@@ -384,3 +393,5 @@ Resources on Indigenous Data Governance:
 
 * [National Research Ethics Committees - Topic: Indigenous Peoples and National Minorities](https://www.forskningsetikk.no/en/resources/topic-indigenous-peoples-and-national-minorities/ "2025-10-06")
 * [GIDA-Sápmi - Sámi Research Data Governance](https://uit.no/research/sshf-no/project?pid=788403 "2024-07-19")
+* [CARE Principles for Indigenous Data Governance](https://www.gida-global.org/careprinciples "2026-07-31")
+* [Guidance for Indigenous Collections and Indigenous Data: Recommendations from Creative Commons and Local Contexts](https://doi.org/10.5281/zenodo.21071543)
