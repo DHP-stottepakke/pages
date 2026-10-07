@@ -95,6 +95,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 #### Specific RCN funding schemes
 
 * [FRIPRO *In Norwegian*](https://www.forskningsradet.no/portefoljer/banebrytende-forskning/fripro/){:lang="no"}
+
 > Krav til oppdatering av innvilgede søknader:
 > * For alle prosjekter som håndterer data, skal prosjektansvarlig utarbeide en datahåndteringsplan i forbindelse med revidert søknad
 
