@@ -84,7 +84,7 @@ Highly relevant examples of aspects that may need consideration:
 * Research on endangered species
 * Indigenous data governance
 * Responsible use of artificial intelligence
-* Consortium agreements or collaboration agreements in multi-partner projects
+* Research collaboration contracts or consortium agreements in multi-partner projects
     * Data Ownership and responsibilities should be formalized
     * In international projects, the applicable legislation needs to be specified (usually by localization of the coordinating institution)
     * For contract-related questions contact local research advisors or legal advisors at your institution
@@ -135,7 +135,7 @@ If the project plans to recruit or train dedicated staff, related costs should b
 
 #### Will there be costs related to research data management?
 
-Will research data management (RDM) in the project require additional resources? Consider costs for data storage, data processing, data archiving, expert support.
+Will research data management (RDM) in the project require additional resources? Consider costs for data acquisition, data storage, data processing, data archiving and expert support.
 
 Many research funders consider list research data management as eligible costs in applications. Have costs for RDM been included in the project budget?
 
