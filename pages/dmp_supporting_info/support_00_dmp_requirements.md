@@ -97,6 +97,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 * [FRIPRO *In Norwegian*](https://www.forskningsradet.no/portefoljer/banebrytende-forskning/fripro/){:lang="no"}
 
 > Krav til oppdatering av innvilgede søknader:
+>
 > * For alle prosjekter som håndterer data, skal prosjektansvarlig utarbeide en datahåndteringsplan i forbindelse med revidert søknad
 
 * [Researcher Project for Experienced Scientists (FRIPRO), 2025 call](https://www.forskningsradet.no/en/call-for-proposals/2025/researcher-project-experienced-scientists-fripro/ "accessed: 2026-10-06") and [Researcher Project for Early Career Scientists (FRIPRO), 2025 call](https://www.forskningsradet.no/en/call-for-proposals/2025/researcher-project-early-career-scientists-fripro/ "accessed: 2026-10-06")
