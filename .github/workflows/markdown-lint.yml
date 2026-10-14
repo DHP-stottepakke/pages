@@ -1,0 +1,69 @@
+name: Markdown Lint
+
+on:
+  push:
+    paths:
+      - "pages/**/*.md"
+      - ".markdownlint.jsonc"
+      - ".github/workflows/markdown-lint.yml"
+  pull_request:
+    branches: ["main"]
+    paths:
+      - "pages/**/*.md"
+      - ".markdownlint.jsonc"
+      - ".github/workflows/markdown-lint.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: write # reviewdog posts fix suggestions as PR review comments
+
+env:
+  MARKDOWNLINT_CLI2: markdownlint-cli2@0.23.3
+  # Rules are configured in .markdownlint.jsonc (also used by the VS Code markdownlint extension).
+  GLOB: "pages/**/*.md"
+
+jobs:
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: lts/*
+
+      - name: Setup reviewdog
+        uses: reviewdog/action-setup@v1
+        with:
+          reviewdog_version: v0.21.2
+
+      # Annotates every finding in the changed files and fails the job if there are any.
+      - name: Report findings
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          npx --yes "$MARKDOWNLINT_CLI2" "$GLOB" 2>&1 | reviewdog \
+            -efm="%f:%l:%c %trror %m" -efm="%f:%l %trror %m" \
+            -efm="%f:%l:%c %tarning %m" -efm="%f:%l %tarning %m" \
+            -name=markdownlint \
+            -reporter=${{ github.event_name == 'pull_request' && 'github-pr-annotations' || 'github-annotations' }} \
+            -filter-mode=${{ github.event_name == 'pull_request' && 'file' || 'nofilter' }} \
+            -fail-level=any
+
+      # Runs the auto-fixer and posts the resulting changes as review suggestions
+      # that can be applied with "Commit suggestion". Runs even when findings failed the step above.
+      - name: Apply auto-fixes
+        if: ${{ !cancelled() && github.event_name == 'pull_request' }}
+        run: npx --yes "$MARKDOWNLINT_CLI2" --fix "$GLOB" || true
+
+      - name: Suggest fixes
+        if: ${{ !cancelled() && github.event_name == 'pull_request' }}
+        uses: reviewdog/action-suggester@v1
+        with:
+          tool_name: markdownlint --fix
+          level: warning
+          filter_mode: diff_context
+          fail_level: none

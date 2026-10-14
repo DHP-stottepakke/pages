@@ -6,12 +6,8 @@ $font-family-theme: 'Open Sans', sans-serif;
 $topnav-bg: #474747;
 $topnav-brand-height: 65px;
 $topnav-searchbar: $white;
-
-/*-----More information tiles-----*/
-$info-card-bg: $light;
-$info-card-color: $dark;
-$info-card-bg-hover: $primary;
-$info-card-color-hover: $white;
+$topnav-link-color: $navbar-dark-color;
+$topnav-link-color-active: $white;
 
 /*-----Sidebar-----*/
 $sidebar-title-bg: $light;
@@ -30,7 +26,7 @@ $footer-link-color-hover: $light-x;
 $footer-copyright-bg: #00000033;
 
 /*-----Events & news-----*/
-$news-border-color: $dark;
+$news-timeline-color: $dark;
 
 
 /*-----Metadata-----*/

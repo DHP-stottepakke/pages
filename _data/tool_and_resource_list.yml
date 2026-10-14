@@ -1,0 +1,4 @@
+# Tools and resources shown in the "Tools and resources on this page" table.
+# Keep as an empty list ([]) until entries are added: an empty file loads as
+# false and makes the theme render an empty table on every page.
+[]

@@ -17,7 +17,7 @@ topnav_title: ''
 description: "Data Management Planning Support Package for Norwegian Higher Education Libraries"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@6.0.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@7.0.0
 
 dsw_deep_link_prefix: https://norway.fair-wizard.com/wizard/
 
@@ -31,6 +31,8 @@ theme_variables:
   git_host: GitHub
   back_to_top: true
   theme_color: ba0c2f
+  headings:
+    more-information-tiles: Further resources
   fonts:
     - https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap
   github_buttons:
