@@ -25,10 +25,10 @@ jobs:
     permissions:
       issues: write
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1.204.0
+        uses: ruby/setup-ruby@v1.332.0
         with:
           ruby-version: '3.3'
           bundler-cache: true
