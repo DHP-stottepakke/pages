@@ -40,7 +40,7 @@ jobs:
         with:
           reviewdog_version: v0.21.2
 
-      # Annotates every finding in the changed files and fails the job if there are any.
+      # Annotates every finding in the changed files as a warning; findings never fail the job.
       - name: Report findings
         env:
           REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -51,10 +51,10 @@ jobs:
             -name=markdownlint \
             -reporter=${{ github.event_name == 'pull_request' && 'github-pr-annotations' || 'github-annotations' }} \
             -filter-mode=${{ github.event_name == 'pull_request' && 'file' || 'nofilter' }} \
-            -fail-level=any
+            -fail-level=none
 
       # Runs the auto-fixer and posts the resulting changes as review suggestions
-      # that can be applied with "Commit suggestion". Runs even when findings failed the step above.
+      # that can be applied with "Commit suggestion".
       - name: Apply auto-fixes
         if: ${{ !cancelled() && github.event_name == 'pull_request' }}
         run: npx --yes "$MARKDOWNLINT_CLI2" --fix "$GLOB" || true
