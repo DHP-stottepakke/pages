@@ -116,21 +116,21 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   > * The criteria for evaluating research proposals under Horizon Europe will take into account the quality and appropriateness of the open science practices in the submitted proposals.
 
 * [European Commission. (Version 5.1, September 2025). Horizon Europe Programme Guide: Open Science](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf "accessed: 2026-10-23")
-  > Chapter 17. Open Science - excerpts from the Programme Guide (p.42ff):
+  > Chapter 17. Open Science - excerpts from the Programme Guide (p. 42ff):
   > * In Horizon Europe, open science practices are considered in the evaluation of proposals, under ‘Excellence’ and under the ‘Quality and efficiency of implementation’ [This does not apply to the ERC programme that does not include open science in the evaluation. It also does not include EIC transition calls where open science practices are exceptionally evaluated under ‘impact’.]
   > * There are mandatory open science practices, which are required for all projects through the Model Grant Agreement and/or through the work programme or call conditions, and recommended practices (all open science practices that are not mandatory).
   >
-  > Mandatory open science practices - excerpts from the Programme Guide (p.43):
-  > 	* responsible management of research data in line with the FAIR principles of ‘Findability’, ‘Accessibility’, ‘Interoperability’ and ‘Reusability’, notably through the generalised use of data management plans, and open access to research data under the principle ‘as open as possible, as closed as necessary’, under the conditions required by the grant agreement
-  > 	* information about the research outputs/tools/instruments needed to validate the conclusions of scientific publications or to validate/re-use research data
+  > Mandatory open science practices - excerpts from the Programme Guide (p. 43):
+  > * responsible management of research data in line with the FAIR principles of ‘Findability’, ‘Accessibility’, ‘Interoperability’ and ‘Reusability’, notably through the generalised use of data management plans, and open access to research data under the principle ‘as open as possible, as closed as necessary’, under the conditions required by the grant agreement
+  > * information about the research outputs/tools/instruments needed to validate the conclusions of scientific publications or to validate/re-use research data
   >
-  > How should you address open science practices in your proposal? - excerpts from the Programme Guide (p.44ff):
+  > How should you address open science practices in your proposal? - excerpts from the Programme Guide (p. 44ff):
   > * Research data management (RDM): RDM is mandatory in Horizon Europe for projects generating or reusing data. If you expect to generate or reuse data and/or other research outputs (except for publications), you should address in a summary how you will manage your data along the FAIR principles.
   > * A data management plan (DMP) is not required at the proposal submission stage.
   > * By exception, in cases of a public emergency and if the work programme requires so, you should submit a full DMP already with the submission of the proposal or at the latest by the signature of the grant agreement.
   > * A template for a DMP is provided under the reporting templates in the Funding & Tenders Portal Reference Documents page. Its use is recommended but not mandatory.
   >
-  > Research data management and management of other research outputs - excerpts from the Programme Guide (p.47ff):
+  > Research data management and management of other research outputs - excerpts from the Programme Guide (p. 47ff):
   > * Research data management (RDM) is the process within the research lifecycle that includes the data collection or acquisition, organisation, curation, storage, (long-term) preservation, security, quality assurance, allocation of persistent identifiers (PIDs), provision of metadata in line with disciplinary requirements, licencing, and rules and procedures for sharing of data. RDM is an essential element in any project that generates, collects or re-uses data.
   > * RDM, in line with the FAIR principles is a requirement that should be carried out regardless of whether the data generated and re-used in the project is intended to be openly accessible, or if access restrictions are foreseen.
   > * RDM and the FAIR principles can be applied to research outputs other than data (i.e. workflows, protocols, software, samples, etc).
@@ -140,12 +140,12 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   > * A good practice regarding DMPs is to register them as a non-restricted public deliverables to make them openly accessible, unless legitimate reasons exist to keep them confidential.
 
  * [European Commission (Version 2.0, April 2025). Horizon Europe Annotated Grant Agreement](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf "accessed: 2026-10-23")
-  > Open science: Research data management - excerpts from the AGA (page 389ff):
+  > Open science: Research data management - excerpts from the AGA (p. 389ff):
   > * Beneficiaries must manage responsibly the digital research data generated in the action (‘data’) in line with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. They should also ensure open access to research data via a trusted repository under the principle ‘as open as possible, as closed as necessary’.
   > * Generated data also includes re-used data that have been processed or modified in a systematic or methodical way.
   > * The requirements for research data management apply only to data that are generated in the course of the action. Beneficiaries should also consider re-used data when developing their data management plans (DMPs), if they form part of their research and to the extent possible.
   >
-  > How to meet the research data management and open access requirements - excerpts from the AGA (page 390ff):
+  > How to meet the research data management and open access requirements - excerpts from the AGA (p. 390ff):
   > * Beneficiaries must do the following to meet the requirements: 1. establish a data management plan (DMP), addressing important aspects of research data management AND 2. deposit the data in a trusted repository and ensure open access through the repository, as soon as possible and within the deadlines set out in the DMP
   > * Beneficiaries must submit a DMP as a mandatory project deliverable (normally within 6 months after grant signature). An updated DMP deliverable must then be produced mid-project (for projects longer than twelve months) and at the end of the project (where relevant).
   > * Writing a DMP is an activity directly linked to the methodology of the research, i.e. good data management will make the work more efficient/save time, contribute to safeguarding information and to increasing the impact and the value of the data among the beneficiaries and others, during and after the research.
@@ -157,13 +157,13 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   > * Research data in open access must be licensed under the latest available version of a Creative Commons Attribution International Public Licence (CC BY) requiring attribution of authorship, or a licence providing equivalent rights, or under a Creative Commons Public Domain Dedication (CC0) or equivalent (which waives any rights to the data).
 
 * [European Commission. (Version 3.0, November 2025). Horizon Europe Programme Standard Application Form (HE RIA and IA)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf "accessed: 2026-10-23")
-  > Methodology - excerpts from the Standard Application Form(p.34ff):
+  > Methodology - excerpts from the Standard Application Form (p. 34ff):
   > * Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives [e.g. 1 page]. If you believe that none of these practices are appropriate for your project, please provide a justification here.
   > * Proposals selected for funding under Horizon Europe will need to develop a detailed data management plan (DMP) for making their data/research outputs findable, accessible, interoperable and reusable (FAIR) as a deliverable by month 6 and revised towards the end of a project’s lifetime.
   >
-  > Work plan and resources - excerpts from the Standard Application Form(p.40ff):
+  > Work plan and resources - excerpts from the Standard Application Form (p. 40ff):
   > * list of deliverables: (...) You are advised to include a distinct work package on ‘project management’, and to give due visibility in the work plan to ‘data management’ ‘dissemination and exploitation’ and ‘communication activities’, either with distinct tasks or distinct work packages.
-  > List of deliverables - footnote(p.44):
+  > List of deliverables - footnote (p. 44):
   > * You must include a data management plan (DMP) and a ‘plan for dissemination and exploitation including communication activities as distinct deliverables within the first 6 months of the project. The DMP will evolve during the lifetime of the project in order to present the status of the project's reflections on data management.
 
 * [European Commission. (Version 1.1, April 2022). Template: EU grants - Data management plan (HE) (MS Word document)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan_he_en.docx "accessed: 2026-10-23")
@@ -173,21 +173,21 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 #### ERC Work Programme
 
 * [ERC Work Programme 2026](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026/wp_horizon-erc-2026_en.pdf "accessed: 2026-10-23")
-  > Objectives and Principles of ERC Funding - excerpts from the work programme (p.8):
+  > Objectives and Principles of ERC Funding - excerpts from the work programme (p. 8):
   > * commitment to open science, including open access to the published output of research, as well as access to research data and related products.
   >
-  > 1.7.3 Open Science  - excerpts from the work programme (p.35ff):
+  > 1.7.3 Open Science  - excerpts from the work programme (p. 35ff):
   > * Beneficiaries of ERC grants funded under this Work Programme will be covered by the provisions on research data management as set out in the Model Grant Agreement used for ERC actions. In particular, whenever a project generates research data, beneficiaries are required to manage it in line with the principles of findability, accessibility, interoperability, and reusability as described by the ‘FAIR principles’ initiative, and establish a data management plan within the first six months of project implementation.
   > * Open access to research data should be ensured under the principle “as open as possible, as closed as necessary”.
   
 * [ERC Frontier Research Grants: Informations for Applicants to the Advanced Grant Call (2025)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/information-for-applicants_he-erc-adg_en.pdf)
-  > Open Science - excerpts (p.7):
+  > Open Science - excerpts (p. 7):
   > * In addition, beneficiaries of ERC frontier research grants funded under the ERC Work Programme 2025 will be covered by the provisions on research data management as set out in the Annex 5 of the applicable Model Grant Agreement used for ERC actions. In particular, whenever a project generates research data, beneficiaries are required to manage it in line with the principles of findability, accessibility, interoperability, and reusability as described by the FAIR principles initiative, and establish a data management plan within the first six months of project implementation. Open access to research data should be ensured under the principle ‘as open as possible, as closed as necessary’. These provisions are designed to facilitate access, re-use and preservation of the research data generated during the ERC funded research work.
 
 #### MSCA Postdoctoral fellowships
 
 * [MSCA Postdoctoral Fellowships Handbook - Call 2025](https://horizoneuropencpportal.eu/sites/default/files/2026-07/radiance_handbook_pf_2026.pdf "accessed: 2026-10-23")
-  > Open Science practices - excerpts from the Handbook (p.19ff):
+  > Open Science practices - excerpts from the Handbook (p. 19ff):
   > * Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation is adapted to the nature of your work in a way that will increase the chances of the project delivering on its objectives. If you believe that none of these practices are appropriate for your project, please provide a justification here.
   > * Proposals selected for funding under Horizon Europe will need to develop a detailed data management plan (DMP) for making their data/research outputs findable, accessible, interoperable and reusable (FAIR) as a deliverable by month 6 and revised towards the end of a project’s lifetime. The DMP should describe how research outputs (especially research data) generated and/or collected during the project will be managed so as to ensure that they are findable, accessible, interoperable and reusable
   > * For guidance on open science practices and research data management, please refer to the relevant section of the HE Programme Guide on the Funding & Tenders Portal.
