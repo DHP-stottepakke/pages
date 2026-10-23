@@ -29,6 +29,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # full history, to diff against the PR base / previous push
+
+      # Lints only the Markdown pages added or modified by the PR (or push). A manual run, or a change
+      # to the lint config or this workflow, lints all pages, since it can affect every file.
+      - name: Find changed files
+        id: changed
+        env:
+          EVENT: ${{ github.event_name }}
+          BASE: ${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          if [ "$EVENT" = workflow_dispatch ] || ! git cat-file -e "$BASE^{commit}" 2>/dev/null; then
+            files="$GLOB"
+          elif git diff --quiet "$BASE...HEAD" -- .markdownlint.jsonc .github/workflows/markdown-lint.yml; then
+            files=$(git diff --name-only --diff-filter=ACMR "$BASE...HEAD" -- ':(glob)pages/**/*.md' | tr '\n' ' ')
+          else
+            files="$GLOB"
+          fi
+          echo "Linting: ${files:-nothing}"
+          echo "files=$files" >> "$GITHUB_OUTPUT"
 
       - name: Setup Node
         uses: actions/setup-node@v5
@@ -40,27 +60,34 @@ jobs:
         with:
           reviewdog_version: v0.21.2
 
-      # Annotates every finding in the changed files as a warning; findings never fail the job.
+      # Annotates every finding as a warning; findings never fail the job.
       - name: Report findings
+        if: ${{ steps.changed.outputs.files != '' }}
         env:
           REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          FILES: ${{ steps.changed.outputs.files }}
         run: |
-          npx --yes "$MARKDOWNLINT_CLI2" "$GLOB" 2>&1 | reviewdog \
+          set -f # pass the glob to markdownlint unexpanded
+          npx --yes "$MARKDOWNLINT_CLI2" $FILES 2>&1 | reviewdog \
             -efm="%f:%l:%c %trror %m" -efm="%f:%l %trror %m" \
             -efm="%f:%l:%c %tarning %m" -efm="%f:%l %tarning %m" \
             -name=markdownlint \
             -reporter=${{ github.event_name == 'pull_request' && 'github-pr-annotations' || 'github-annotations' }} \
-            -filter-mode=${{ github.event_name == 'pull_request' && 'file' || 'nofilter' }} \
+            -filter-mode=nofilter \
             -fail-level=none
 
       # Runs the auto-fixer and posts the resulting changes as review suggestions
       # that can be applied with "Commit suggestion".
       - name: Apply auto-fixes
-        if: ${{ !cancelled() && github.event_name == 'pull_request' }}
-        run: npx --yes "$MARKDOWNLINT_CLI2" --fix "$GLOB" || true
+        if: ${{ !cancelled() && github.event_name == 'pull_request' && steps.changed.outputs.files != '' }}
+        env:
+          FILES: ${{ steps.changed.outputs.files }}
+        run: |
+          set -f
+          npx --yes "$MARKDOWNLINT_CLI2" --fix $FILES || true
 
       - name: Suggest fixes
-        if: ${{ !cancelled() && github.event_name == 'pull_request' }}
+        if: ${{ !cancelled() && github.event_name == 'pull_request' && steps.changed.outputs.files != '' }}
         uses: reviewdog/action-suggester@v1
         with:
           tool_name: markdownlint --fix
