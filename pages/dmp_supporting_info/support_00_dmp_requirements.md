@@ -116,7 +116,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   > * The criteria for evaluating research proposals under Horizon Europe will take into account the quality and appropriateness of the open science practices in the submitted proposals.
 
 * [European Commission. (Version 5.1, September 2025). Horizon Europe Programme Guide: Open Science](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/programme-guide_horizon_en.pdf "accessed: 2026-10-23")
-  > Chapter 17. Open Science - excerpts from the Programme Guide (p. 42ff):
+  > Part 17. Open Science - excerpts from the Programme Guide (p. 42ff):
   > * In Horizon Europe, open science practices are considered in the evaluation of proposals, under ‘Excellence’ and under the ‘Quality and efficiency of implementation’ [This does not apply to the ERC programme that does not include open science in the evaluation. It also does not include EIC transition calls where open science practices are exceptionally evaluated under ‘impact’.]
   > * There are mandatory open science practices, which are required for all projects through the Model Grant Agreement and/or through the work programme or call conditions, and recommended practices (all open science practices that are not mandatory).
   >
