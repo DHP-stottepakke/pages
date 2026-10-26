@@ -186,7 +186,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 
 #### MSCA Postdoctoral fellowships
 
-* [MSCA Postdoctoral Fellowships Handbook - Call 2025](https://horizoneuropencpportal.eu/sites/default/files/2026-07/radiance_handbook_pf_2026.pdf "accessed: 2026-10-23")
+* [MSCA Postdoctoral Fellowships Handbook - Call 2026](https://horizoneuropencpportal.eu/sites/default/files/2026-07/radiance_handbook_pf_2026.pdf "accessed: 2026-10-23")
   > Open Science practices - excerpts from the Handbook (p. 19ff):
   > * Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation is adapted to the nature of your work in a way that will increase the chances of the project delivering on its objectives. If you believe that none of these practices are appropriate for your project, please provide a justification here.
   > * Proposals selected for funding under Horizon Europe will need to develop a detailed data management plan (DMP) for making their data/research outputs findable, accessible, interoperable and reusable (FAIR) as a deliverable by month 6 and revised towards the end of a project’s lifetime. The DMP should describe how research outputs (especially research data) generated and/or collected during the project will be managed so as to ensure that they are findable, accessible, interoperable and reusable
