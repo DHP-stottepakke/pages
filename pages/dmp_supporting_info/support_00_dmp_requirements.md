@@ -161,7 +161,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   > * Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives [e.g. 1 page]. If you believe that none of these practices are appropriate for your project, please provide a justification here.
   > * Proposals selected for funding under Horizon Europe will need to develop a detailed data management plan (DMP) for making their data/research outputs findable, accessible, interoperable and reusable (FAIR) as a deliverable by month 6 and revised towards the end of a project’s lifetime.
   >
-  > Work plan and resources - excerpts from the Standard Application Form (p. 40ff):
+  > Work plan and resources - excerpts from the Standard Application Form (Part B, p. 9):
   > * list of deliverables: (...) You are advised to include a distinct work package on ‘project management’, and to give due visibility in the work plan to ‘data management’ ‘dissemination and exploitation’ and ‘communication activities’, either with distinct tasks or distinct work packages.
   > List of deliverables - footnote Part B, p. 18):
   > * You must include a data management plan (DMP) and a ‘plan for dissemination and exploitation including communication activities as distinct deliverables within the first 6 months of the project. The DMP will evolve during the lifetime of the project in order to present the status of the project's reflections on data management.
