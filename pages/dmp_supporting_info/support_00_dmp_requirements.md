@@ -109,7 +109,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 
 #### Horizon Europe
 
-<code> NB! Although the questionnaire we provide for DMPs covers the requirements from Horizon Europe, exporting documents according to the recommended template for Horizon Europe projects (see below) is in an experimental stage. We, thus, do not advise using our questionnaire for these projects, although its guidance is still relevant, including the pre-award considerations. If unsure, contact your local support staff.</code>
+<code> NB! Although the questionnaire we provide for DMPs covers the requirements from Horizon Europe, exporting documents according to the recommended template for Horizon Europe projects (see below) is in an experimental stage. Using it for these projects is therefore advised with reservations. If you wish to test the Horizon Europe export, please contact your local support staff. The guidance is still relevant, including the pre-award considerations.</code>
 
 * [Directorate-General for Research and Innovation (European Commission). (2021). Horizon Europe Open Science Fact Sheet.](https://doi.org/10.2777/18252)
   > * Horizon Europe will require immediate open access to all scientific publications and responsible research data management so that data are Findable, Accessible, Interoperable and Re-usable (FAIR). Data will be made ‘as open as possible, but will be allowed to stay as closed as necessary’, safeguarding legitimate interests or constraints.
