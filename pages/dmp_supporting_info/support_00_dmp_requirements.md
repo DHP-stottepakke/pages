@@ -139,7 +139,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   > * A DMP should be a living document, which is delivered by month 6, and then updated and enriched as the project evolves.
   > * A good practice regarding DMPs is to register them as a non-restricted public deliverables to make them openly accessible, unless legitimate reasons exist to keep them confidential.
 
- * [European Commission (Version 2.0, April 2025). Horizon Europe Annotated Grant Agreement](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf "accessed: 2026-10-23")
+* [European Commission (Version 2.0, April 2025). Horizon Europe Annotated Grant Agreement](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/aga_en.pdf "accessed: 2026-10-23")
   > Open science: Research data management - excerpts from the AGA (p. 389ff):
   > * Beneficiaries must manage responsibly the digital research data generated in the action (‘data’) in line with the FAIR (Findable, Accessible, Interoperable, Reusable) principles. They should also ensure open access to research data via a trusted repository under the principle ‘as open as possible, as closed as necessary’.
   > * Generated data also includes re-used data that have been processed or modified in a systematic or methodical way.
