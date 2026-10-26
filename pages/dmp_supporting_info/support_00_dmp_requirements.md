@@ -157,7 +157,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   > * Research data in open access must be licensed under the latest available version of a Creative Commons Attribution International Public Licence (CC BY) requiring attribution of authorship, or a licence providing equivalent rights, or under a Creative Commons Public Domain Dedication (CC0) or equivalent (which waives any rights to the data).
 
 * [European Commission. (Version 3.0, November 2025). Horizon Europe Programme Standard Application Form (HE RIA and IA)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf "accessed: 2026-10-23")
-  > Methodology - excerpts from the Standard Application Form (p. 34ff):
+  > Methodology - excerpts from the Standard Application Form (Part B p. 9ff):
   > * Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives [e.g. 1 page]. If you believe that none of these practices are appropriate for your project, please provide a justification here.
   > * Proposals selected for funding under Horizon Europe will need to develop a detailed data management plan (DMP) for making their data/research outputs findable, accessible, interoperable and reusable (FAIR) as a deliverable by month 6 and revised towards the end of a project’s lifetime.
   >
