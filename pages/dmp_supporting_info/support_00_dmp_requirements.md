@@ -163,7 +163,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   >
   > Work plan and resources - excerpts from the Standard Application Form (p. 40ff):
   > * list of deliverables: (...) You are advised to include a distinct work package on ‘project management’, and to give due visibility in the work plan to ‘data management’ ‘dissemination and exploitation’ and ‘communication activities’, either with distinct tasks or distinct work packages.
-  > List of deliverables - footnote (p. 44):
+  > List of deliverables - footnote Part B, p. 18):
   > * You must include a data management plan (DMP) and a ‘plan for dissemination and exploitation including communication activities as distinct deliverables within the first 6 months of the project. The DMP will evolve during the lifetime of the project in order to present the status of the project's reflections on data management.
 
 * [European Commission. (Version 1.1, April 2022). Template: EU grants - Data management plan (HE) (MS Word document)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/report/data-management-plan_he_en.docx "accessed: 2026-10-23")
