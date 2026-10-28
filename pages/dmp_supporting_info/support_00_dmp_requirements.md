@@ -63,7 +63,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   > * Based on the data management plans received, the Research Council will accept any costs for managing data as part of the operating costs of the projects we support.
 
 * [The Research Council of Norway. (2017). Policy for Open Access to Research Data](https://www.forskningsradet.no/contentassets/e4cd6d2c23cf49d4989bb10c5eea087a/the-research-council-of-norways-policy-for-open-access-to-research-data.pdf "accessed: 2024-09-09")
-  > The Research Council’s guidelines in seven headlines (page 6f):
+  > The Research Council’s guidelines in seven headlines (p. 6f):
   > * Research data must be stored/archived in a safe and secure manner
   > * Research data must be made accessible for reuse
   > * Research data should be made accessible at an early stage
@@ -73,7 +73,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   > * The management of research data must be described in a data management plan
 
 * [The Research Council of Norway. (2020). Policy for Open Science](https://www.forskningsradet.no/siteassets/forskningspolitisk-radgivning/apen-forskning/nfr-policy-open-science-eng.pdf "accessed: 2024-10-30")
-  > The Research Council will (page 10):
+  > The Research Council will (p. 10):
   > * encourage adherence to the FAIR principles for data and metadata resulting from Research Council-funded projects.
   > * require that datasets are made accessible along with their accompanying protocols, methods, models, algorithms, software and source code.
   > * take steps to ensure that direct expenses associated with making data openly accessible according to the FAIR principles are clearly identified in grant applications.
@@ -156,7 +156,7 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   > * Open access is required as the default for research data under the principle ‘as open as possible, as closed as necessary’. [Examples provided for legitimate reasons to keep data closed]
   > * Research data in open access must be licensed under the latest available version of a Creative Commons Attribution International Public Licence (CC BY) requiring attribution of authorship, or a licence providing equivalent rights, or under a Creative Commons Public Domain Dedication (CC0) or equivalent (which waives any rights to the data).
 
-* [European Commission. (Version 5.1, 22 January 2026). Horizon Europe Programme Standard Application Form (HE RIA and IA) Part B](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf "accessed: 2026-10-23")
+* [European Commission. (Version 5.1, January 2026). Horizon Europe Programme Standard Application Form (HE RIA and IA) Part B](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/temp-form/af/af_he-ria-ia_en.pdf "accessed: 2026-10-23")
   > Methodology - excerpts from the Standard Application Form (Part B p. 9ff):
   > * Describe how appropriate open science practices are implemented as an integral part of the proposed methodology. Show how the choice of practices and their implementation are adapted to the nature of your work, in a way that will increase the chances of the project delivering on its objectives [e.g. 1 page]. If you believe that none of these practices are appropriate for your project, please provide a justification here.
   > * Proposals selected for funding under Horizon Europe will need to develop a detailed data management plan (DMP) for making their data/research outputs findable, accessible, interoperable and reusable (FAIR) as a deliverable by month 6 and revised towards the end of a project’s lifetime.
@@ -196,10 +196,11 @@ according to the ERC DMP template (see below). We, thus, do not advise using our
 * [Horizon Europe EURATOM: General Model Grant Agreement (v1.2, June 2026)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf "accessed: 2026-10-28")
   > Open Science: research data management - excerpts (p. 105f):
   > * The beneficiaries must manage the digital research data generated in the action (‘data’) responsibly, in line with the FAIR principles and by taking all of the following actions:
+  >
   >		* establish a data management plan (‘DMP’) (and regularly update it)
   > 	* as soon as possible and within the deadlines set out in the DMP, deposit the data in a trusted repository; if required in the call conditions, this repository must be federated in the EOSC in compliance with EOSC requirements
   > 	* as soon as possible and within the deadlines set out in the DMP, ensure open access — via the repository — to the deposited data, under the latest available version of the Creative Commons Attribution International Public License (CC BY) or Creative Commons Public Domain Dedication (CC 0) or a licence/dedication with equivalent rights, following the principle ‘as open as possible as closed as necessary’, unless providing open access would in particular: be against the beneficiary’s legitimate interests, including regarding commercial exploitation, or be contrary to any other constraints, in particular the EU competitive interests or the beneficiary’s obligations under this Agreement; if open access is not provided (to some or all data), this must be justified in the DMP
-  >		* provide information via the repository about any research output or any other tools and instruments needed to re-use or validate the data.
+  > 	* provide information via the repository about any research output or any other tools and instruments needed to re-use or validate the data.
   > * Metadata of deposited data must be open under a Creative Common Public Domain Dedication (CC 0) or equivalent (to the extent legitimate interests or constraints are safeguarded), in line with the FAIR principles (in particular machine-actionable) and provide information at least about the following: datasets (description, date of deposit, author(s) and embargo); Horizon Europe or Euratom funding; grant project name, acronym and number, licensing terms, persistent identifiers for the dataset, the authors involved in the action, and, if possible, for their organisations and the grant. Where applicable, the metadata must include persistent identifiers for related publications and other research outputs.
 
 * [European Research Council (ERC): ERC Data Management Template (MS Word document)](https://erc.europa.eu/sites/default/files/document/file/ERC-Data-Management-Plan.docx "accessed: 2026-10-28")
