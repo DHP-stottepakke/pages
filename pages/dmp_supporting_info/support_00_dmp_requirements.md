@@ -172,6 +172,9 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
 
 #### ERC Work Programme
 
+<code> NB! Although the our DMP questionnaire and guidance will be helpful for data management planning in ERC projects, the tool does not currently support exporting the DMP
+according to the ERC DMP template (see below). We, thus, do not advise using our questionnaire for these projects. If unsure, contact your local support staff. </code>
+
 * [ERC Work Programme 2026](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/wp-call/2026/wp_horizon-erc-2026_en.pdf "accessed: 2026-10-23")
   > Objectives and Principles of ERC Funding - excerpts from the work programme (p. 8):
   > * commitment to open science, including open access to the published output of research, as well as access to research data and related products.
@@ -179,11 +182,28 @@ DMP requirements, or calls for the use of DMPs, are commonly part of Open Scienc
   > 1.7.3 Open Science  - excerpts from the work programme (p. 35ff):
   > * Beneficiaries of ERC grants funded under this Work Programme will be covered by the provisions on research data management as set out in the Model Grant Agreement used for ERC actions. In particular, whenever a project generates research data, beneficiaries are required to manage it in line with the principles of findability, accessibility, interoperability, and reusability as described by the ‘FAIR principles’ initiative, and establish a data management plan within the first six months of project implementation.
   > * Open access to research data should be ensured under the principle “as open as possible, as closed as necessary”.
-  
-* [ERC Frontier Research Grants: Informations for Applicants to the Advanced Grant Call (v6.0, 20 May 2026)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/information-for-applicants_he-erc-adg_en.pdf "accessed: 2026-10-23")
+ 
+* [ERC Frontier Research Grants: Information for Applicants to the Starting and Consolidator Grant Calls (v10.0, September 2025)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/information-for-applicants_he-erc-stg-cog_v1.10_en.pdf "accessed: 2026-10-28")
   > Open Science - excerpts (p. 7):
-  > * The provisions on research data management of the MGA Annex 5 (for ERC actions) will apply to beneficiaries funded under the ERC Work Programme 2026. In particular, whenever a project generates research data, beneficiaries are required to manage it in line with the principles of findability, accessibility, interoperability, and reusability as described by the FAIR principles’ initiative, and establish a data management plan within the first six months of project implementation. Open access to research data should be ensured under the principle ‘as open as possible, as closed as necessary’. These provisions are designed to facilitate access, re-use and preservation of the research data generated during the ERC funded research work.
+  > * In addition, beneficiaries of ERC frontier research grants funded under the ERC Work Programme 2026 will be covered by the provisions on research data management as set out in the Annex 5 of the applicable Model Grant Agreement used for ERC actions. In particular, whenever a project generates research data, beneficiaries are required to manage it in line with the principles of findability, accessibility, interoperability, and reusability as described by the FAIR principles’ initiative, and establish a data management plan within the first six months of project implementation.
+  > * Open access to research data should be ensured under the principle ‘as open as possible, as closed as necessary’. These provisions are designed to facilitate access, re-use and preservation of the research data generated during the ERC funded research work.
+ 
+* [ERC Frontier Research Grants: Information for Applicants to the Advanced Grant Call (v6.0, May 2026)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/horizon/guidance/information-for-applicants_he-erc-adg_en.pdf "accessed: 2026-10-23")
+  > Open Science - excerpts (p. 7):
+  > * The provisions on research data management of the MGA Annex 5 (for ERC actions) will apply to beneficiaries funded under the ERC Work Programme 2026. In particular, whenever a project generates research data, beneficiaries are required to manage it in line with the principles of findability, accessibility, interoperability, and reusability as described by the FAIR principles’ initiative, and establish a data management plan within the first six months of project implementation.
+  > * Open access to research data should be ensured under the principle ‘as open as possible, as closed as necessary’. These provisions are designed to facilitate access, re-use and preservation of the research data generated during the ERC funded research work.
+  
+* [Horizon Europe EURATOM: General Model Grant Agreement (v1.2, June 2026)](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/agr-contr/general-mga_horizon-euratom_en.pdf "accessed: 2026-10-28")
+  > Open Science: research data management - excerpts (p. 105f):
+  > * The beneficiaries must manage the digital research data generated in the action (‘data’) responsibly, in line with the FAIR principles and by taking all of the following actions:
+  >		* establish a data management plan (‘DMP’) (and regularly update it)
+  > 	* as soon as possible and within the deadlines set out in the DMP, deposit the data in a trusted repository; if required in the call conditions, this repository must be federated in the EOSC in compliance with EOSC requirements
+  > 	* as soon as possible and within the deadlines set out in the DMP, ensure open access — via the repository — to the deposited data, under the latest available version of the Creative Commons Attribution International Public License (CC BY) or Creative Commons Public Domain Dedication (CC 0) or a licence/dedication with equivalent rights, following the principle ‘as open as possible as closed as necessary’, unless providing open access would in particular: be against the beneficiary’s legitimate interests, including regarding commercial exploitation, or be contrary to any other constraints, in particular the EU competitive interests or the beneficiary’s obligations under this Agreement; if open access is not provided (to some or all data), this must be justified in the DMP
+  >		* provide information via the repository about any research output or any other tools and instruments needed to re-use or validate the data.
+  > * Metadata of deposited data must be open under a Creative Common Public Domain Dedication (CC 0) or equivalent (to the extent legitimate interests or constraints are safeguarded), in line with the FAIR principles (in particular machine-actionable) and provide information at least about the following: datasets (description, date of deposit, author(s) and embargo); Horizon Europe or Euratom funding; grant project name, acronym and number, licensing terms, persistent identifiers for the dataset, the authors involved in the action, and, if possible, for their organisations and the grant. Where applicable, the metadata must include persistent identifiers for related publications and other research outputs.
 
+* [European Research Council (ERC): ERC Data Management Template (MS Word document)](https://erc.europa.eu/sites/default/files/document/file/ERC-Data-Management-Plan.docx "accessed: 2026-10-28")
+  > * A template for a DMP is provided in the [ERC Document Library](https://erc.europa.eu/support/document-library). The research data management requirements do not comment on what DMP template should be used.
 
 #### MSCA Postdoctoral fellowships
 
