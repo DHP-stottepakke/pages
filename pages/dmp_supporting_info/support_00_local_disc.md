@@ -189,13 +189,31 @@ Report: Recognising Digital Scholarly Outputs in the Humanities – ALLEA Report
 
 Report: Sustainable and FAIR Data Sharing in the Humanities: Recommendations of the ALLEA Working Group E-Humanities - Digital Repository of Ireland. (2020). [doi: 10.7486/DRI.tq582c863](https://doi.org/10.7486/DRI.tq582c863)
 
+Report: Thorpe, D. E., van den Berk, M., Flohr, P., Grootveld, M., Hesam, A., Van Der Meer, L., & Kalamkar, M. (2026). Guidebook: Hard-to-Share Data in the Social Sciences and Humanities. [doi: 10.5281/zenodo.17588794](https://doi.org/10.5281/zenodo.17588794)
+
+#### Anthropology
+
+Article: Norsted, K. S. (2024). Åpen forskning og antropologiens status som FAIR. Norsk Antropologisk Tidsskrift, 35(1), 3–19. [doi: 10.18261/nat.35.1.2](https://doi.org/10.18261/nat.35.1.2)
+
+Article: de Koning, M., Meyer, B., Moors, A., & Pels, P. (2019). Guidelines for anthropological research: Data management, ethics, and integrity. Ethnography, 20(2), 170–174. [doi: 10.1177/1466138119843312](https://doi.org/10.1177/1466138119843312)
+
+Report: Flohr, P., Roodhof, A., van den Berk, M., & DeLacey, H. (2026). Guidebook: Sharing field notes. [doi: /10.5281/zenodo.17588822](https://doi.org/10.5281/zenodo.17588822)
+
 #### Archeology
 
 Article: Nicholson, C., Kansa, S., Gupta, N., & Fernandez, R. (2023). Will It Ever Be FAIR?: Making Archaeological Data Findable, Accessible, Interoperable, and Reusable. Advances in Archaeological Practice, 11(1), 63–75. [doi: 10.1017/aap.2022.40](https://doi.org/10.1017/aap.2022.40)
 
+#### Ethnography
+
+Article: Dilger, H., Pels, P., & Sleeboom-Faulkner, M. (2019). Guidelines for data management and scientific integrity in ethnography. Ethnography, 20(1), 3–7. https://doi.org/10.1177/1466138118819018
+
 #### Language Sciences
 
 Book: The Open Handbook of Linguistic Data Management. (2022). [doi: 10.7551/mitpress/12200.001.0001](https://doi.org/10.7551/mitpress/12200.001.0001)
+
+### Ecology
+
+Knowledge resource: [A hands-on guide to FAIR and structured ecological data](https://lter-life.github.io/FDFDT-Manual/index.html "2026-10-28")
 
 ### Life Sciences
 
@@ -215,4 +233,22 @@ Knowledge resource: [CESSDA Data Management Expert Guide](https://dmeg.cessda.eu
 
 Book: Weidmann, Nils B. (2023). Data Management for Social Scientists From Files to Databases. Cambridge University Press. [https://doi.org/10.1017/9781108990424](https://doi.org/10.1017/9781108990424)
 
-Report: Making Qualitative Data Reusable - A Short Guidebook For Researchers And Data Stewards Working With Qualitative Data - DANS Guidebook. (2023). [doi: 10.5281/zenodo.7777519](https://doi.org/10.5281/zenodo.7777519)
+Report: Making Qualitative Data Reusable - A Short Guidebook For Researchers And Data Stewards Working With Qualitative Data - DANS Guidebook. (2023). [doi: 10.5281/zenodo.7777518](https://doi.org/10.5281/zenodo.7777518)
+
+Report: Thorpe, D. E., van den Berk, M., Flohr, P., Grootveld, M., Hesam, A., Van Der Meer, L., & Kalamkar, M. (2026). Guidebook: Hard-to-Share Data in the Social Sciences and Humanities. [doi: 10.5281/zenodo.17588794](https://doi.org/10.5281/zenodo.17588794)
+
+---
+
+## Thematic approaches to research data management
+
+### Working with personal data
+
+* [Research Data Alliance Norway (NO-RDA): Guidance for sharing research data containing personal data *in Norwegian*](https://doi.org/10.18711/j7pc-7883){:lang="no"}
+
+### Working with qualitative data
+
+* [QualiFAIR hub at UiO](https://www.uv.uio.no/ils/english/about/organization/tlvlab/qualifair/) focuses on how to increase sharing and reuse of qualitative and context-sensitive data, making them more FAIR
+
+* Making Qualitative Data Reusable - A Short Guidebook For Researchers And Data Stewards Working With Qualitative Data - DANS Guidebook. (2023). [doi: 10.5281/zenodo.7777518](https://doi.org/10.5281/zenodo.7777518)
+
+* Flohr, P., Roodhof, A., van den Berk, M., & DeLacey, H. (2026). Guidebook: Sharing field notes. [doi: /10.5281/zenodo.17588822](https://doi.org/10.5281/zenodo.17588822)
