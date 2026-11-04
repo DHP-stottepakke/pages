@@ -42,6 +42,8 @@ Metadata is data about data, providing the necessary context that allows  unders
 
 Often there will be multiple ways in which data and metadata can be linked within a project. Basic descriptive techniques will be relevant to many projects: these include structured and consistent naming of files and folders, using a  README-file to provide information, using embedded metadata in files, or using a separate metadata-file (a sidecar file for each file in the dataset). More advanced techniques that may be relevant include using a database system for linking metadata and data, or establishing a data/variable dictionary for the data in the project.
 
+Paradata is a terms used to describe information about how data is collected, used, reused, adapted, and shared. Unlike metadata, which describes a resource, paradata captures user activity and therefore serves as a separate layer of information.
+
 Please consult the chapters in e.g. the [RDMkit for life sciences, the CESSDA Data Management Guide, or The Turing Way handbook for more information, e.g. on what to write in a README-file](/pages/support_06_document#further-resources).
 
 _Supplementary info: Almost all computer systems will provide some system metadata embedded in files, and provide info on creation date and who has editor or read-only access to the file, for example. Most systems will also provide users with possibilities of adding user metadata that can be embedded in files, such as descriptive tags._
