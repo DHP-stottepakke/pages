@@ -27,3 +27,5 @@ Describing research data management with the right terms can be tricky - some us
 
 * [CoData Research Data Management Terminology (2023 version)](https://doi.org/10.5281/zenodo.10626170 "2024-09-09")
 * [Datatilsynet Vocabulary english-norwegian](https://www.datatilsynet.no/en/regulations-and-tools/vocabulary/)
+
+Paradata is ["data on proceses"](https://doi.org/10.1007/978-3-031-53946-6_1) a terms used to describe information about how data is collected, used, reused, adapted, and shared. Unlike metadata, which describes a resource, paradata captures user activity and therefore serves as a separate layer of information.
