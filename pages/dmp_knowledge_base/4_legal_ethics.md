@@ -36,13 +36,13 @@ If conducting health research, consult the [Health Research Act](https://lovdata
 
 In this context also the following laws and regulations might be relevant:
 
-* [Regulations on the organisation of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
+* [Regulations on the organisation of medical and health research](https://lovdata.no/dokument/SF/forskrift/2009-07-01-955)
 * [Comments to health research legislative work by the Norwegian Directorate for Health](https://www.helsedirektoratet.no/lov-og-forskrift/helseforskningsloven)
 * [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
-* [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
-* [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
-* [Medicines Act](http://www.lovdata.no/all/nl-19921204-132.html)
-* [Regulations on clinical trials of medical products for human use](http://www.lovdata.no/for/sf/ho/ho-20091030-1321.html)
+* [Health Personnel Act](https://lovdata.no/dokument/NL/lov/1999-07-02-64)
+* [Patient and User Rights Act](https://lovdata.no/dokument/NL/lov/1999-07-02-63)
+* [Medicines Act](https://lovdata.no/dokument/NL/lov/1992-12-04-132)
+* [Regulations on clinical trials of medical products for human use](https://lovdata.no/dokument/SF/forskrift/2009-10-30-1321)
 * [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
 * [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
 
@@ -51,8 +51,8 @@ In this context also the following laws and regulations might be relevant:
 
 According to GDPR there are two options for legal bases for processing of personal data in research, consent and p interest in research purposes, if the later is used consent is collected for compliance with ethical guidelines.
 
-* [Consult SIKTs guidance for Legal bases for personal data processing in research.](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research)
-* [Consult SIKTs guidance for information and consent.](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
+* [Consult SIKTs guidance for Legal bases for personal data processing in research.](https://www.sikt.no/en/data-management-plan)
+* [Consult SIKTs guidance for information and consent.](https://www.sikt.no/en/studere-eller-forske/notification-form-personal-data "2024-01-23")
 * Consult your institutions requirements for notification forms for personal data, Data Protection Impact Assessments (DPIAs), risk and compliance system or similar.
 
 > 4a.2
@@ -179,7 +179,7 @@ Missing:
 
 #### Institutional privacy policies
 
-* [University of Bergen (UiB)](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen), also available [in Norwegian](https://www.uib.no/personvern)
+* [University of Bergen (UiB)](https://www4.uib.no/en/about-uib/privacy-policy-for-the-university-of-bergen), also available [in Norwegian](https://www.uib.no/personvern)
 * [University of Oslo (UiO)](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html)
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy)
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_742141)
@@ -198,20 +198,20 @@ Missing:
 ##### Health research data
 
 * [Health Research Act](https://lovdata.no/dokument/LTI/lov/2008-06-20-44)
-* [Regulations on the organization of medical and health research](http://www.lovdata.no/for/sf/ho/ho-20090701-0955.html)
+* [Regulations on the organization of medical and health research](https://lovdata.no/dokument/SF/forskrift/2009-07-01-955)
 * [Comments to health research legislative work by the Norwegian Directorate for Health](https://www.helsedirektoratet.no/lov-og-forskrift/helseforskningsloven)
 * [Health Register Act](https://lovdata.no/dokument/NL/lov/2014-06-20-43)
 * [Regulations on population-based health surveys](https://lovdata.no/dokument/SF/forskrift/2018-04-27-645)
-* [Health Personnel Act](http://www.lovdata.no/all/nl-19990702-064.html)
-* [Patient and User Rights Act](http://www.lovdata.no/all/nl-19990702-063.html)
-* [Medicines Act](http://www.lovdata.no/all/nl-19921204-132.html)
-* [Regulations on clinical trials of medical products for human use](http://www.lovdata.no/for/sf/ho/ho-20091030-1321.html)
+* [Health Personnel Act](https://lovdata.no/dokument/NL/lov/1999-07-02-64)
+* [Patient and User Rights Act](https://lovdata.no/dokument/NL/lov/1999-07-02-63)
+* [Medicines Act](https://lovdata.no/dokument/NL/lov/1992-12-04-132)
+* [Regulations on clinical trials of medical products for human use](https://lovdata.no/dokument/SF/forskrift/2009-10-30-1321)
 * [Biotechnology Act (on the medical use of biotechnology)](https://lovdata.no/dokument/NL/lov/2003-12-05-100)
 * [e-helse Direktoratet: “Normen”: Norms for health research data](https://www.ehelse.no/normen/normen-dokumenter/Veileder-i-personvern-og-informasjonssikkerhet-i-forskningsprosjekter)
 
 ##### Other laws of potential relevance
 
-* [Archive Act](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
+* [Archive Act](https://lovdata.no/dokument/NL/lov/2025-06-20-96)
 * [Research Ethics Act](https://lovdata.no/dokument/NL/lov/2017-04-28-23)
 * [Act on Universities and Colleges Act](https://lovdata.no/dokument/NL/lov/2024-03-08-9)
 
@@ -223,7 +223,7 @@ Missing:
 #### Data Anonymization
 
 * [Datatilsynet: A guide to the anonymisation of personal data (2015)](https://www.datatilsynet.no/link/2e642d84d9214490866a297a71a44c78.aspx/download)
-* [Sikt: Carrying out a project without processing personal data](https://sikt.no/en/personvernhandbok-forskning/carrying-out-project-without-processing-personal-data "2024-07-18")
+* [Sikt: Carrying out a project without processing personal data](https://www.sikt.no/en/carrying-out-project-without-processing-personal-data "2024-07-18")
 * Sikt archive accepts anonymized and directly/indirectly identifiable quantitative data. Sikt does not accept anonymized qualitative data. [Types of data to be archived with Sikt](https://sikt.no/en/tjenester/arkivere-data/what-kind-data-can-be-archived-sikt "2024-07-18")
 * [Amnesia Anonymization Tool (OpenAire)](https://amnesia.openaire.eu/)
 
@@ -264,7 +264,7 @@ Will the data be made openly available? If only a selection of the data will be 
 Does the material contain confidential information (e.g. personal data and data with security classification) that requires special treatment and/or limits the access to the material during/after the project?]
  Why is this important? If the material contains confidential information, you must guarantee that it’s protected from unauthorised access. Contact your organization’s IT security office to make sure that data are handled correctly for their information classification level (see the paragraph above).
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Each research institution must ensure that research at their institution is in accordance with recognised research ethical norms. It is therefore important that researchers are familiar with, and comply with, relevant and recognised research ethical guidelines. Note that in interdisciplinary projects it may be relevant to refer to guidelines for several subject areas. For more information about the ethical responsibilities of research and research institutions, see the Research Ethics Act.
 
@@ -436,7 +436,7 @@ Missing:
 * Intellectual Property Rights (IPR) or confidentiality issues
     * Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40)
     * Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9)
-    * Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126)
+    * Archive Act ([Norwegian: Lov om dokumentasjon og arkiv (arkivlova)](https://lovdata.no/dokument/NL/lov/2025-06-20-96)
     * Act on Universities and Colleges Act [Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven))](https://lovdata.no/dokument/NL/lov/2024-03-08-9)
 * Research on endagered species
     * Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100)
@@ -447,7 +447,7 @@ Missing:
 
 #### Institutional IPR policies
 
-* [University of Bergen (UiB)](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-07-19")
+* [University of Bergen (UiB)](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-for-immaterelle-rettigheter-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-07-19")
 * [University of Oslo (UiO)](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-07-19")
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-07-19"))
@@ -481,7 +481,7 @@ Who has ownership of the data? (Normally UiT, unless ownership has been agreed o
 
 How will the data be licensed for reuse? (According to section 4.5 in the UiT guidelines, research data shall be equipped with licenses for access, reuse, and dissemination. These licenses should be internationally recognised and set as few limitations on the data as possible. The researcher must ensure that licenses and applicable conditions for the use or sharing of third party data are complied with.)
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Generally, the rights to project results should be transferred from the researchers (and possibly others who have helped create such results) to the institution(s) where the researchers are employed. This is in accordance with the Employees’ Inventions Act, and in accordance with the objectives of the Act relating to universities and university colleges (see in particular §1-5, Academic freedom and responsibility). See also the Norwegian Research Council’s Policy on Intellectual Property Rights.
 
@@ -647,7 +647,7 @@ Is an ethical review (for example by an ethics committee/REK or approval of use 
 
 Are you going to collect informed consent to store and share the data? If so, how? How are you going to secure confidentiality and identity protection?
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Add any comments on issues related to for example: research on human embryos and fetuses, and/or human cells and tissues; collection of personal data and obtaining consent; animal research; research in non-EU countries; unintended effects on the environment, health and safety; and the potential misuse of research results. See also [EU/H2020's guidelines on How to complete your ethics self-assessment.](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/common/guidance/how-to-complete-your-ethics-self-assessment_en.pdf)
 

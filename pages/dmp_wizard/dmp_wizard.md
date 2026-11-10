@@ -17,7 +17,7 @@ If you wish your instance to be listed on this page, please [take contact](/page
 
 * ELIXIR-NO Data Stewardship Wizard (DSW) instance: [*norway.dsw.elixir-europe.org/wizard/*](https://norway.dsw.elixir-europe.org/wizard/)
     * [About the service](https://elixir.no/services/dsw/)
-    * Follow the [Advanced questionnaire setup](/support_00_start_writing#advanced-questionnaire-setup) described in the [User Guide](/support_00_start_writing)
+    * Follow the [Advanced questionnaire setup](/pages/support_00_start_writing#advanced-questionnaire-setup) described in the [User Guide](/pages/support_00_start_writing)
 * FAIR Wizard instance matching your affiliation (see below)
 
 ## Users from Norwegian Hospitals
@@ -30,7 +30,7 @@ If you wish your instance to be listed on this page, please [take contact](/page
 
 * Shared FAIR Wizard instance: [*norway.fair-wizard.com*](https://norway.fair-wizard.com/)
     * This instance is part of the [Sikt National FAIR Wizard pilot](https://sikt.no/tiltak/nasjonal-pilot-utproving-av-nytt-verktoy-datahandteringsplanlegging-fairwizard "2025-12-05")
-    * Follow the [Default setup](/support_00_start_writing#start-with-a-new-dmp) described in the [User Guide](/support_00_start_writing)
+    * Follow the [Default setup](/pages/support_00_start_writing#start-with-a-new-dmp) described in the [User Guide](/pages/support_00_start_writing)
     * <code> NB! All direct links on this page are linking to this instance.
 
 ## Users from UiA, UiS, OsloMet, INN, Nord

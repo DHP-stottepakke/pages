@@ -62,7 +62,7 @@ To enter information about "Minimal Information Standards" that will be applied,
 Some examples of metadata standards:
 
 * [DataverseNO](https://dataverse.no/) institutional archives
-    * The metadata standard in DataverseNO combines generic and discipline-specific elements. The [user guide](https://site.uit.no/dataverseno/deposit/deposit-your-data/#enter-metadata) provides detailed guidance.
+    * The metadata standard in DataverseNO combines generic and discipline-specific elements. The [user guide](https://info.dataverse.no/deposit/deposit-your-data/#describe-your-dataset-using-metadata) provides detailed guidance.
 * Life sciences
     * [The European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/) requires that all samples must conform to a defined checklist of expected metadata values, and provides [checklists](https://www.ebi.ac.uk/ena/browser/checklists) for different types of samples. The [ELIXIR Norway helpdesk](/pages/support_00_local_disc#elixir-norway---life-sciences) may assist with data archiving.
 * Language sciences

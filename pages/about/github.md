@@ -28,7 +28,7 @@ Prerequisites:
 
 Before starting editing on GitHub:
 
-1. Make sure you are following our [style guide](/pages/style_guide).
+1. Make sure you are following our [style guide](/pages/styleguide).
 2. Follow the structure of the provided template for the page you wish to create or update.
 3. We use markdown. To learn how to create paragraphs, headings, format text, add links and images and much more, follow the [markdown cheat sheet](https://kramdown.gettalong.org/quickref.html).
 4. Our pages contain metadata, in doubt ask an editor to help you.
