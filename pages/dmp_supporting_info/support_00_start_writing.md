@@ -28,7 +28,7 @@ The DMP questionnaire is implemented in the DMP tool **Data Stewardship Wizard (
 
 * Researchers at NTNU, UiB, UiO og UiT can use the pilot instance [FAIR Wizard Norway](https://norway.fair-wizard.com/). The direct links on this web resource are linking to this instance. For support, contact your [local research data support](/pages/support_00_local_disc).
 * Life Science Researchers at all Norwegian institutions can use the [DSW instance provided by ELIXIR Norway](https://norway.dsw.elixir-europe.org/). To use the template, follow the advanced setup instructions. For support, contact the [ELIXIR Norway helpdesk](https://elixir.no/research-support/).
-* [Other FAIR Wizard and Data Stewardship Wizard instances in Norway](/dmp_wizard/)
+* [Other FAIR Wizard and Data Stewardship Wizard instances in Norway](/pages/dmp_wizard/)
 
 ## Start with a new DMP
 

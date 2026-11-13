@@ -129,7 +129,7 @@ Who is responsible for follow-up and revision of this data management plan? (Nor
 
 Who is responsible for each activity? (May vary for collection, documentation, archiving etc.)
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Describe the research questions, issues and hypotheses that are addressed in the project and state how the data collection / generation can shed light on these issues.
 
