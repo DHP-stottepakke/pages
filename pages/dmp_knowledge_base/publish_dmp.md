@@ -18,7 +18,7 @@ toc: true
 >
 > not covered
 
-Best practice is to publish the DMP with a PID. This can be referred to (and from) when publishing papers, data sets and other outputs from the research project. Ideally, all versions of the DMP could be published, but at minimum the final version should be made available (i.e. when reporting the project). The research repository [Zenodo](https://zenodo.org/) is often used to publish DMPs, together with other research results. In Norway, The National Research Archive (Nasjonalt vitenarkiv, NVA) is [under development](https://sikt.no/tjenester/nasjonalt-vitenarkiv-nva), and this might also be a possible repository for DMP archiving and/or publication.
+Best practice is to publish the DMP with a PID. This can be referred to (and from) when publishing papers, data sets and other outputs from the research project. Ideally, all versions of the DMP could be published, but at minimum the final version should be made available (i.e. when reporting the project). The research repository [Zenodo](https://zenodo.org/) is often used to publish DMPs, together with other research results. In Norway, The National Research Archive (Nasjonalt vitenarkiv, NVA) is [under development](https://www.sikt.no/en/tjenester/the-norwegian-research-information-repository), and this might also be a possible repository for DMP archiving and/or publication.
 
 {% include callout.html type="note" content="
 **Mappings**

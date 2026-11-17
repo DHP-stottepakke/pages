@@ -173,7 +173,7 @@ What standards and methods will be used for data collection/generating?
 
 What is the expected file size for the data?
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Metadata is data about data, i.e. information that describes other information through a set of attributes. Note that using a standard structures information in machine-readable form, which increases the visibility and retrievability of your data in the future. The RDA (Research Data Alliance) has an overview of both general and subject-specific metadata standards that can be applied to research data
 
@@ -306,7 +306,7 @@ When will the data be collected/generated?
 Is there need for extra hardware or software?
 Is there need for special expertise for collecting/generating data?
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Examples of measures to control and ensure data quality may be the use of standardized methods and protocols to capture observations; checking precision and calibration of instruments; quality-check equipment to be used for audio or video recording; make multiple measurements, observations or samples; use standardized interview protocols and/or computer-assisted software when conducting interviews; and using standardized and consistent procedures when digitizing or transcribing data.
 

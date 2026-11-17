@@ -99,6 +99,6 @@ This page collects selected information about RDM and DMP requirements and polic
   > * 5 Reward and recognise improvements of FAIR practice
   > * 6 Develop and monitor adequate policies for FAIR data and research objects
 
-* [EOSC declaration (2017)](https://eosc-portal.eu/sites/default/files/eosc_declaration.pdf)
+* [EOSC declaration (2017)](https://www.ouvrirlascience.fr/wp-content/uploads/2018/11/eosc_declaration.pdf)
   > Data culture and FAIR data (s.1f)
   > * [Data Management Plans] A key element of good data management is a Data Management Plan (DMP); the use of DMPs should become obligatory in all research projects generating or collecting publicly funded research data, based on online tools conforming to common methodologies. Funder and institutional requirements must be aligned and minimum conditions for DMPs must be defined. Researchers' host institutions have a responsibility to oversee and complete the DMPs and hand them over to data repositories.

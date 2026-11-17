@@ -132,7 +132,7 @@ Reasons for sensitivity (non-exhaustive):
 * Intellectual Property Rights (IPR), commercial issues, trade secrets or confidentiality issues
     * Copyright Act ([Norwegian: Lov om opphavsrett til åndsverk mv. (åndsverkloven)](https://lovdata.no/dokument/NL/lov/2018-06-15-40){:lang="no"})
     * Patent Act ([Norwegian: Lov om patenter (patentloven)](https://lovdata.no/dokument/NL/lov/1967-12-15-9){:lang="no"})
-    * Archive Act ([Norwegian: Lov om arkiv (arkivloven)](https://lovdata.no/dokument/NL/lov/1992-12-04-126){:lang="no"})
+    * Archive Act ([Norwegian: Lov om dokumentasjon og arkiv (arkivlova)](https://lovdata.no/dokument/NL/lov/2025-06-20-96){:lang="no"})
     * Act on Universities and Colleges Act ([Norwegian: Lov om universiteter og høyskoler (universitets- og høyskoleloven)](https://lovdata.no/dokument/NL/lov/2024-03-08-9){:lang="no"})
 * Research on endangered species
     * Biodiversity Act ([Norwegian: Lov om forvaltning av naturens mangfold (naturmangfoldloven)](https://lovdata.no/dokument/NL/lov/2009-06-19-100){:lang="no"})
@@ -163,7 +163,7 @@ For help with contract-related questions contact legal advisors at your institut
 
 * [NTNU: Kontraksmaler og signeringsfullmakt *Norwegian only*](https://i.ntnu.no/wiki/-/wiki/Norsk/Kontraktsmaler+og+signeringsfullmakt "2024-09-04"){:lang="no"}
 * [UiB: Contracts and legal counselling *Norwegian only*](https://www.uib.no/boa/17236/kontrakter-og-juridisk-r%C3%A5dgivning "2024-09-04"){:lang="no"}
-* [UiO: Collaboration agreements](https://www.uio.no/english/for-employees/unitpages/sv/psi/research-support/research-procedures/collaboration-agreements/ "2024-09-04")
+* [UiO: Contracts](https://www.rutiner.uio.no/english/procedures-guidelines/research/contracts/ "2024-09-04")
 * [UiT: Agreements for research](https://en.uit.no/om/internasjonalisering/portal?p_document_id=481109 "2024-09-04")
 
 Further information:
@@ -242,12 +242,12 @@ Further information:
 
 * [Research Data Alliance Norway (NO-RDA): Guidance for sharing research data containing personal data *in Norwegian*](https://doi.org/10.18711/j7pc-7883){:lang="no"}
 * sikresiden.no e-learning course [Protection of privacy (GDPR) and ethics in research](https://www.sikresiden.no/en/preventive/safetyandsecuretraining "2025-10-06")
-* [Sikt guidance for Legal bases for personal data processing in research](https://sikt.no/en/tjenester/personverntjenester-forskning/personvernhandbok-forskning/legal-bases-personal-data-processing-research)
+* [Sikt guidance for Legal bases for personal data processing in research](https://www.sikt.no/en/data-management-plan)
 
 Institutional privacy policies:
 
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/NTNU+-+privacy+policy)
-* [University of Bergen (UiB)](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen)
+* [University of Bergen (UiB)](https://www4.uib.no/en/about-uib/privacy-policy-for-the-university-of-bergen)
 * [University of Oslo (UiO)](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html)
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_742141)
 
@@ -269,7 +269,7 @@ Institutional privacy routines:
     * [Procedures for research that processes personal data at UiB](https://www4.uib.no/en/research/research-ethics/procedures-for-research-that-processes-personal-data-at-uib "2025-07-18")
     * [Ethics and data protection in medical and health research](https://www4.uib.no/en/research/research-ethics/ethics-and-data-protection-in-medical-and-health-research "2025-07-18")
     * [Ethics and data protection in student assignments](https://www4.uib.no/en/research/research-ethics/ethics-and-data-protection-in-student-assignments "2025-07-18")
-    * [Privacy policy for UiB](https://www.uib.no/en/personaldata/130126/privacy-policy-university-bergen "2024-07-16")
+    * [Privacy policy for UiB](https://www4.uib.no/en/about-uib/privacy-policy-for-the-university-of-bergen "2024-07-16")
 * University of Oslo (UiO)
     * [Processing of personal data in research projects at UiO](https://www.uio.no/english/for-employees/support/privacy-dataprotection/personal-data-in-research.html/ "2024-10-30")
     * [UiO Quality assurance system for health and medical research](https://www.uio.no/english/for-employees/support/research/quality-system-for-health-research/index.html "2024-10-30")
@@ -342,7 +342,7 @@ Resources on participant information and consent forms:
 * [W3 Data Privacy Vocabulary (DPV)](https://w3c.github.io/dpv/)
 * For Arts and humanities you can get inspiration for consent forms from the [DARIAH ELDAH Consent Form Wizard (CFW)](https://consent.dariah.eu/) - make sure to clarify the form with your insitutional legal person as well
 * [National Research Ethics Committees: Consent](https://www.forskningsetikk.no/en/resources/the-research-ethics-library/data-protection-and-responsibility-concerning-the-individual/consent/)
-* [Sikt guidance on participant information in research projects](https://sikt.no/en/fylle-ut-meldeskjema-personopplysninger/information-participants-research-projects "2024-01-23")
+* [Sikt guidance on participant information in research projects](https://www.sikt.no/en/studere-eller-forske/notification-form-personal-data "2024-01-23")
 
 
 ### Will sensitive information (apart from special category personal data) be collected/processed?
@@ -378,7 +378,7 @@ Resources on export control:
 Institutional IPR policies:
 
 * [Norwegian University of Science and Technology (NTNU)](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-07-19")
-* [University of Bergen (UiB)](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-07-19")
+* [University of Bergen (UiB)](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-for-immaterelle-rettigheter-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-07-19")
 * [University of Oslo (UiO)](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-07-19")
 * [UiT The Arctic University of Norway (UiT)](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-07-19"){:lang="no"}
 

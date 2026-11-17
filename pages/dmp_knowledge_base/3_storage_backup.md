@@ -124,7 +124,7 @@ If collecting data in the field (out of office), how will the data be safely tra
 * What kind of folder structure and filename conventions will be used?
 * If collecting data in the field (out of office), how will the data be safely transferred from the field to the main storage unit?
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Security classification is a classification of data collections into classes based on the need for protection. Based on the security classification of each data package, you will get suggestions for secure data collection, storage and file transfer. There are four classes of security and confidentiality. These classes also apply to the processing and storage of research data.
 
@@ -302,7 +302,7 @@ Does your data include sensitive data? (If yes, also answer the questions below.
 Are you going to collect informed consent to store and share the data? If so, how?
 How are you going to secure confidentiality and identity protection?
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 State whether your project contains research on human subjects. As a main rule, you are obligated to inform the person(s) whose personal data you are going to collect. Read more about information and consent at Data Protection Services.
 
