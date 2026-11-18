@@ -41,8 +41,6 @@ Do you know who you can approach with questions related to research data managem
 
 Answering the following guiding questions during project planning can help you identify research data management aspects that are useful to investigate ahead of embarking on the project. Answering the questions in project planning phase can be seen as preparation for writing a more comprehensive data management plan (DMP) in the startup phase.
 
-The guiding questions are also available as [questionnaire in Data Stewardship Wizard](support_00_planning_considerations#further-resources).
-
 ### Awareness of data management requirements
 
 #### Which data sharing requirements and conventions apply?
