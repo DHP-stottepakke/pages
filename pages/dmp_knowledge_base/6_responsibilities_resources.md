@@ -253,7 +253,7 @@ In short, you increase the FAIRness of data by
 * Providing your data with an appropriate license
 * In some cases, there will be additional costs involved in managing data in a way that promotes reuse. Examples could be costs for storage and processing of large amounts of data, or costs related to making particular data types available through repositories. For some projects, there might also be a need for a dedicated data manager or data steward. Although it might be difficult to pinpoint the exact costs, OpenAIRE has developed a data costing tool that lists elements that could be useful to consider when attempting to estimate.
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Note that costs associated with open access to research data may be a qualified part of the research grant. This applies, for example, for Horizon 2020 projects (if otherwise in accordance with the terms of the grant agreement).
 

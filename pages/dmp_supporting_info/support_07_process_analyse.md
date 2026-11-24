@@ -86,7 +86,7 @@ Ideally a format should be simple, text only, completely described, not restrict
 Resources on file formats and conversions:
 
 * [CESSDA DMEG: File formats and data conversions](https://dmeg.cessda.eu/Data-Management-Expert-Guide/3.-Process/File-formats-and-data-conversion)
-* [DataverseNO: Prepare your data - Preferred file formats](https://site.uit.no/dataverseno/deposit/prepare/#preferred-file-formats)
+* [DataverseNO: Preferred file formats](https://info.dataverse.no/deposit/file-formats/)
 
 ### Will data processing or analysis alter metadata or produce additional metadata?
 

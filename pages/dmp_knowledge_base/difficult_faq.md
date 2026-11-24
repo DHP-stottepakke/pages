@@ -26,7 +26,7 @@ Science Europe, an organisation of European funders has created a [rubric for re
 In the Horizon Europe funding scheme, a brief outline of data management (1-page DMP) is required at proposal stage and included the scientific proposal evaluation.
 
 * [Horizon Europe - briefing slides for evaluators](https://ec.europa.eu/info/funding-tenders/opportunities/docs/2021-2027/experts/standard-briefing-slides-for-experts_he_en.pdf)
-* [Horizon Europe - video on evaluation of Open Science practices](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/videos), [YouTube-link](https://youtu.be/v7rHdOn-JtU)
+* [Horizon Europe - video on evaluation of Open Science practices](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/support/videos), [YouTube-link](https://www.youtube.com/watch?v=EiJ8RaD3WBw)
 
 ### Where can I find an example of how a DMP should look like?
 
@@ -117,7 +117,7 @@ IPR policies may vary between institutions. One way to ensure that data and othe
 Institutional resources on IPR:
 
 * [NTNU: Intellectual property rights - IPR](https://i.ntnu.no/wiki/-/wiki/English/Intellectual+property+rights+-+IPR "2024-11-20")
-* [UiB: Regulation on handling employees’ rights to the results of work and research at the University of Bergen](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-om-haandtering-av-ansattes-rettigheter-til-forsknings-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-11-20")
+* [UiB: Regulations on Intellectual Property Rights and Work Results at the University of Bergen](https://regler.app.uib.no/regler/Del-2-Forskning-utdanning-og-formidling/2.1-Forskning/2.1.5-Formidling-og-forvaltning-av-forskningsresultater/Reglement-for-immaterelle-rettigheter-og-arbeidsresultater-ved-Universitetet-i-Bergen/Regulation-on-handling-employees-rights-to-the-results-of-work-and-research-at-the-University-of-Bergen/ "2024-11-20")
 * [UiO: Policy for intellectual property rights at the University of Oslo](https://www.uio.no/english/about/regulations/research/intellectual-property/ "2024-11-20")
 * [UiT: Regulations for securing and management of work results at UiT](https://uit.no/regelverk/sentraleregler#innhold_694602 "2024-11-20")
 
