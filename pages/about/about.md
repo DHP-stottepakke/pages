@@ -10,7 +10,7 @@ sidebar: about
 
 **plan.research-data.no** is a knowledge resource for research data management and data management planning in Norway. It is maintained by a collaboration of Norwegian higher education libraries and research infrastructures through an open contribution and maintenance process. We also wish to translate the user-directed resources to Norwegian in the future.
 
-The resources originate in the 1-year project [Data Management Plans: Support package for Norwegian higher education libraries](/pages/project) led by the University of Bergen (UiB).
+The resources originate in the project [Data Management Plans: Support package for Norwegian higher education libraries](https://bibliotekutvikling.no/prosjektbank/prosjekt/datahandteringsplaner-stottepakke-for-norske-uh-bibliotek/) led by the University of Bergen (UiB).
 
 ## How to cite it
 
