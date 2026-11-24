@@ -9,7 +9,7 @@ sidebar: about
 
 **plan.research-data.no** is a knowledge resource to support Data Management planning at Norwegian research institutions. The editorial teams consists of members from the University of Bergen, The Norwegian University of Science and Technology, the University of Oslo, UiT The Arctic University of Norway, PhD-On-Track and ELIXIR Norway. Please see the [Contributors page](/pages/contributors) for an overview of all current and past members. We welcome contributions from the community - please follow the [Contributor guide](/pages/contribute).
 
-The resource originates from the 1-year project [Data management plans: support package for Norwegian higher education libraries](https://www.uib.no/en/ub/166135/data-management-plans-support-package-norwegian-higher-education-libraries) (2023-2024), which followed up on the recommendations from a collaborative DMP project by the University libraries in Bergen, Oslo, Trondheim and Tromsø (Report published in December 2022: [UB-BOTT-samarbeid om datahåndteringsplaner: kartlegging og anbefalinger](https://doi.org/10.5281/zenodo.7428542)). The developed **DMP Support Package** consists of a modular DMP questionnaire and accompanying information pages for researchers, complemented by resources for support personnel. All resources were co-created through an open contribution approach.
+The resource originates from the project [Data management plans: support package for Norwegian higher education libraries](https://bibliotekutvikling.no/prosjektbank/prosjekt/datahandteringsplaner-stottepakke-for-norske-uh-bibliotek/), which followed up on the recommendations from a collaborative DMP project by the University libraries in Bergen, Oslo, Trondheim and Tromsø (Report published in December 2022: [UB-BOTT-samarbeid om datahåndteringsplaner: kartlegging og anbefalinger](https://doi.org/10.5281/zenodo.7428542)). The developed **DMP Support Package** consists of a modular DMP questionnaire and accompanying information pages for researchers, complemented by resources for support personnel. All resources were co-created through an open contribution approach.
 
 ## Project outputs
 
@@ -21,7 +21,7 @@ Working papers:
 * Datahåndteringsplaner: Støttepakke for norske UH-bibliotek - Oppsummering Innspillsverksted 29.05.2024. Working paper. [https://doi.org/10.5281/zenodo.11518316](https://doi.org/10.5281/zenodo.11518316)
 
 ### Project presentations
-
+* National updates on data management practices and services in Norway. Nordic Data Stewardship Network (NDSN) Online meeting on best practice examples 20.10.2026. Presentation. [https://doi.org/10.5281/zenodo.23763882](https://doi.org/10.5281/zenodo.23763882)
 * Collaboration as catalyst: Experiences with plan.research-data.no and the FAIR Wizard Norway pilot. Danish RDM Network Virtual Lunch Meeting 07.10.2025. Presentation. [https://doi.org/10.5281/zenodo.17285330](https://doi.org/10.5281/zenodo.17285330)
 * Skriv en datahåndteringsplan: demo av plan.research-data.no. VIRAK 2025. Presentasjon. [https://doi.org/10.5281/zenodo.15535361](https://doi.org/10.5281/zenodo.15535361)
 * Støtte til planlegging av datahåndtering i forskningsbibliotek. 9. seminar for Bibliotekenes nettverk for ph.d.-støtte. Presentasjon.[https://doi.org/10.5281/zenodo.15350121](https://doi.org/10.5281/zenodo.15350121)

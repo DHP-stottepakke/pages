@@ -20,12 +20,6 @@ If you wish your instance to be listed on this page, please [take contact](/page
     * Follow the [Advanced questionnaire setup](/pages/support_00_start_writing#advanced-questionnaire-setup) described in the [User Guide](/pages/support_00_start_writing)
 * FAIR Wizard instance matching your affiliation (see below)
 
-## Users from Norwegian Hospitals
-
-* Users at Norwegian Hospitals are welcome to pilot instances accessible through other affiliations (see below), but we are interested in learning about your experiences. See contact information at [*https://siktnorway-rhf.fair-wizard.com/*](https://siktnorway-rhf.fair-wizard.com/).
-* Shared FAIR Wizard instance: [*https://siktnorway-rhf.fair-wizard.com/*](https://siktnorway-rhf.fair-wizard.com/)
-    * This instance is part of the [Sikt National FAIR Wizard pilot](https://sikt.no/tiltak/nasjonal-pilot-utproving-av-nytt-verktoy-datahandteringsplanlegging-fairwizard "2025-12-05")
-
 ## Users from NTNU, UiB, UiO, UiT
 
 * Shared FAIR Wizard instance: [*norway.fair-wizard.com*](https://norway.fair-wizard.com/)
@@ -33,16 +27,10 @@ If you wish your instance to be listed on this page, please [take contact](/page
     * Follow the [Default setup](/pages/support_00_start_writing#start-with-a-new-dmp) described in the [User Guide](/pages/support_00_start_writing)
     * <code> NB! All direct links on this page are linking to this instance.
 
-## Users from UiA, UiS, OsloMet, INN, Nord
-
-* Shared FAIR Wizard instance: [*siktnorway-uh.fair-wizard.com/*](https://siktnorway-uh.fair-wizard.com/)
-    * This instance is part of the [Sikt National FAIR Wizard pilot](https://sikt.no/tiltak/nasjonal-pilot-utproving-av-nytt-verktoy-datahandteringsplanlegging-fairwizard "2025-12-05")
-
-## Users from NORCE, NGI, NIBIO
-
-* Shared FAIR Wizard instance: [*siktnorway-ri.fair-wizard.com/*](https://siktnorway-ri.fair-wizard.com/)
-    * This instance is part of the [Sikt National FAIR Wizard pilot](https://sikt.no/tiltak/nasjonal-pilot-utproving-av-nytt-verktoy-datahandteringsplanlegging-fairwizard "2025-12-05")
-
 ## Users from SINTEF
 
 * FAIR Wizard instance: [*sintef.fair-wizard.com*](https://sintef.fair-wizard.com/)
+
+## The Sikt National FAIR Wizard pilot
+
+[The Sikt National FAIR Wizard pilot](https://sikt.no/tiltak/nasjonal-pilot-utproving-av-nytt-verktoy-datahandteringsplanlegging-fairwizard "2025-12-05") (September 2025 - October 2026, [Report](https://doi.org/10.18711/r6f2-qf16)) for testing the DMP tool has now ended, and the instances linked to the Norwegian Hospitals, UiA, UiS, OsloMet, INN, Nord, NORCE, NGI and NIBIO are no longer available. Sikt is working on establishing a new service for DMP-Tool based on FAIRWizard. More information will follow.
