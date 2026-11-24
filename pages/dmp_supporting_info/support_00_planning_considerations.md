@@ -8,9 +8,6 @@ page_id: support_00_planning_considerations
 description: Supporting DMP Information, planning considerations, pre-start, pre-award, before you start
 supported_by:
 sidebar: dmp_supporting_information
-dsw:
-- name: Guiding questionnaire for pre-considerations
-  uuid: knowledge-models/d85c6b88-c504-4799-84ed-030c87d90001/preview
 other:
 - name: "OpenAIRE Guides for Researchers: How to comply with Horizon Europe mandate for research data management"
   url: https://www.openaire.eu/how-to-comply-with-horizon-europe-mandate-for-rdm
@@ -40,8 +37,6 @@ Do you know who you can approach with questions related to research data managem
 ## Data management considerations before starting on a project/ pre-award
 
 Answering the following guiding questions during project planning can help you identify research data management aspects that are useful to investigate ahead of embarking on the project. Answering the questions in project planning phase can be seen as preparation for writing a more comprehensive data management plan (DMP) in the startup phase.
-
-The guiding questions are also available as [questionnaire in Data Stewardship Wizard](support_00_planning_considerations#further-resources).
 
 ### Awareness of data management requirements
 

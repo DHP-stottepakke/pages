@@ -97,10 +97,9 @@ Researchers impression of a DMP tool will always reflect a composite of the user
 Aiming to give guidance to researchers on which DMP tool to use, a working group between the Universities of Bergen, Oslo, Trondheim og Tromsø (BOTT) evaluated different DMP tools based on a list of defined criteria. In addition the recommending DMP tools, their [report published in December 2022 (DOI: 10.5281/zenodo.7428542)](https://doi.org/10.5281/zenodo.7428542) also points out the potential on collaborating on DMP guidance, which was followed up in this project. As the DMP field is moving fast, an [update of the work was published in April 2024 (DOI: 10.5281/zenodo.10977711)](https://doi.org/10.5281/zenodo.10977711).\
 Subsequently, the Norwegian Agency for Shared Services in Education and Research (Sikt) invited a working group on a common national solution for DMP tools with representation of the higher education and research institute sector as well as e-infrastructure provider Sigma2 and the Norwegian Research Council, which started in February 2024 and delivered its [report in September 2024 (DOI: 10.18711/dcde-9537)](https://doi.org/10.18711/dcde-9537). The choice in the project of using the DMP tool Data Stewardship Wizard to implement the DMP questionnaire is in line with the reports' recommendations.
 
-Coordinated by Sikt, a [national pilot of the DMP tool FAIR Wizard started in September 2025](https://sikt.no/tiltak/nasjonal-pilot-utproving-av-nytt-verktoy-datahandteringsplanlegging-fairwizard).
+Sikt coordinated a [national pilot of the DMP tool FAIR Wizard](https://sikt.no/tiltak/nasjonal-pilot-utproving-av-nytt-verktoy-datahandteringsplanlegging-fairwizard) running from September 2025 to October 2026 ([Report](https://doi.org/10.18711/r6f2-qf16)). Sikt is now working on establishing a new DMP service based on FAIRWizard, starting in 2027.
 
 ---
-
 ## Inspiring DMP project elsewhere
 
 While working on the project, we came across inspiring DMP projects in other countries working on national or local DMP guidance and strengthening DMPs as useful tools in the research process.
@@ -113,9 +112,10 @@ While working on the project, we came across inspiring DMP projects in other cou
 
 ### maDMP extensions (non-exhaustive)
 
-* OSTrails Application Profile for maDMPs: [https://docs.ostrails.eu/en/latest/commons/dmp/application-profile.html](https://docs.ostrails.eu/en/latest/commons/dmp/application-profile.html "2026-02-23")
-* Extension of the RDA maDMP standard for governments and other large organizations: [https://fairerdata.github.io/maDMP-Standard/](https://fairerdata.github.io/maDMP-Standard/ "2026-02-23")
-* maSMP for Software Management Plans by ZB MED: [https://zbmed-semtec.github.io/maSMPs/](https://zbmed-semtec.github.io/maSMPs/ "2026-02-23")
+* [OSTrails Application Profile for maDMPs](https://docs.ostrails.eu/en/latest/commons/dmp/application-profile.html "2026-02-23")
+* [Extension of the RDA maDMP standard for governments and other large organizations](https://fairerdata.github.io/maDMP-Standard/ "2026-02-23")
+* [maSMP for Software Management Plans by ZB MED](https://zbmed-semtec.github.io/maSMPs/ "2026-02-23")
+* [Finnish national reference model for maDMPs](https://wiki.eduuni.fi/spaces/csckorkeakoulut/pages/669740249/National+reference+data+model+for+maDMP "2026-11-24")
 
 ### Relevant working groups
 

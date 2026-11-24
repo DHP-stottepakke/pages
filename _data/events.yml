@@ -1,3 +1,18 @@
+- name: "'Essential DMP' community workshop"
+  startDate: 2026-08-24
+  endDate: 2026-08-25
+  description: "Community workshop to discuss DMP needs, preparing DSW Knowledge Model revision."
+  location: Oslo, Norway
+- name: "Nordic Data Stewardship Network’s Hybrid Seminar"
+  startDate: 2026-05-06
+  endDate: 2026-05-06
+  description: "Project presentation as part of Nordic DMP Forum workshop"
+  location: Espoo, Finland
+- name: Editorial team meeting
+  startDate: 2025-06-26
+  endDate: 2025-06-27
+  description: "Revision of plan.research-data.no resources: DSW Knowledge Model and supporting information."
+  location: Bergen, Norway
 - name: VIRAK 2025
   startDate: 2025-06-04
   endDate: 2025-06-05

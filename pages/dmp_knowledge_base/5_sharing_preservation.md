@@ -166,7 +166,7 @@ When will the data be made available, and how long will they be stored? (Accordi
 
 Are there other conditions, restrictions or embargo on the use of the data?
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 According to the National strategy on access to and sharing of research data and the Research Council's Policy for Open Access to Research Data, all research data must be made available to all relevant users under equal conditions, so long as there are no legal, ethical or security reasons not to do so. Research data can be made available in secure archives for research data, either centrally at your own institution, in national archives, or in subject-specific archives.
 
@@ -214,7 +214,7 @@ Publish your data in a data repository or a data journal.
 > 5b.1\
 Indicate what data must be retained or destroyed for contractual, legal, or regulatory purposes.
 
-See also [4 - Legal and ethical requirements](/4_legal_ethics).
+See also [4 - Legal and ethical requirements](/pages/4_legal_ethics).
 Health data would be a typical example where legal obligations for retaining/destroying data exist.
 
 Institutions and funders may set requirements to retain data for a given period. For example, the Research Council of Norway 'has stipulated as a requirement that research data must be stored in a safe and secure manner for a minimum of 10 years' ([Policy for Open Science, 2020](https://www.forskningsradet.no/siteassets/forskningspolitisk-radgivning/apen-forskning/nfr-policy-open-science-eng.pdf)).
@@ -355,7 +355,7 @@ Will (a selection of) the data be long-term preserved, and how is this decided? 
 
 Where will data, metadata, documentation and code associated with the data be archived? (UiT’s archive for open research data, UiT Open Research Data, provides researchers with a safe service for archiving, sharing and publishing open research data.)
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Data that forms the basis of scientific articles should be deposited at a relevant archive and made available as early as possible, and usually never later than at the time of publication. Other data that may be of interest to other researchers should also be made available within a reasonable time, and usually never later than three years after the completion of a project, cf. the Research Council's Policy on Open Access to Research Data (PDF in Norwegian).
 
@@ -397,7 +397,7 @@ Indicate whether potential users need specific tools to access and (re-)use the 
 
 Access protocols for controlled access should be described ([see FAIR principles A1.2](https://www.go-fair.org/fair-principles/a1-2-protocol-allows-authentication-authorisation-required/)).
 
-Preferance to open formats should be specified in [1b - What data (for example the kind, formats, and volumes) will be collected or produced?](/1_data_description#1b---what-data-for-example-the-kind-formats-and-volumes-will-be-collected-or-produced).\
+Preferance to open formats should be specified in [1b - What data (for example the kind, formats, and volumes) will be collected or produced?](/pages/1_data_description#1b---what-data-for-example-the-kind-formats-and-volumes-will-be-collected-or-produced).\
 Software/computer code generated in the project should be managed as research output.
 
 > 5c.2\
@@ -601,7 +601,7 @@ Missing:
 
 Persistent identifiers like DOIs are usually issued by data repositories (e.g., Zenodo, NTNU Open Research Data etc.). In most cases, your choice of repository will therefore determine the use of persistent identifiers.
 
-#### [SIKT DMP](https://sikt.no/en/study-or-research/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+#### [SIKT DMP](https://www.sikt.no/en/data-management-plan) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Research data that are going to be shared and published should be equipped with international standard licenses that have as few restrictions as possible on access and reuse purpose.
 
