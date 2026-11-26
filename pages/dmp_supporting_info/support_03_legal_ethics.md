@@ -297,6 +297,7 @@ If you already described the processing of personal data in detail in other syst
     * [UiO Quality assurance system for health and medical research](https://www.uio.no/english/for-employees/support/research/quality-system-for-health-research/index.html "2024-10-30")
 * [Sikt notification form for personal data ('Sikt Meldeskjema')](https://sikt.no/en/notification-form-personal-data)
 * For agreements on data processing you can find inspiration in the [Data Agreement Wizard](https://dawid.elixir-luxembourg.org/) - - make sure to clarify the agreement(s) with your institutional legal person as well.
+* [Open Guidance for DPIA practices from EU-funded projects from the EOSC-TITAN project](https://doi.org/10.5281/zenodo.15829451 "2025-11-25")
 
 ##### Privacy considerations step-by-step
 
